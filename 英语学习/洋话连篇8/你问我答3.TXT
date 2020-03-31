@@ -1,0 +1,149 @@
+请帮我一下,我一直以来对句子的组成不太了解。
+
+主谓宾结构：
+
+主语：可以作主语的成分有名词（如boy），主格代词（如you），动词不定式，动名词等。主语一般在句首。注意名词单数形式常和冠词不分家！
+谓语：谓语由动词构成，是英语时态、语态变化的主角，一般在主语之后。不及物动词（vi.）没有宾语，形成主谓结构，如：We come.
+宾语：宾语位于及物动词之后，一般同主语构成一样，不同的是构成宾语的代词必须是‘代词宾格’，如：me，him，them等
+例：The boy needs a pen.主语the boy，谓语needs(need的第三人称单数形式)，宾语a pen.
+
+主系表结构：
+
+主语：同‘主谓宾’结构。
+联系动词（Link verb)：be动词（am,is,are,was,were,have been)；其他联系动词如：become成为，turn变成,go变。其特点是联系动词与其后的表语没有动宾关系，表语多为形容词或副词，既，不可能是宾语。
+表语：说明主语的状态、性质等。可为形容词、副词、名词、代词、不定式、分词。当联系动词不是be，而其后是名词和代词时，多表达‘转变为’之意，注意与动宾关系的区别。
+感官动词多可用作联系动词：look well/面色好,sound nice/听起来不错,feel good/感觉好，smell bad/难闻
+例：Tom is a boy.(Tom是个男孩）/主语为Tom,系词为be动词的第三人称单数is，表语为a boy
+
+There be 结构：
+
+There be 表示‘存在有’。这里的there没有实际意义，不可与副词‘there那里’混淆。
+此结构后跟名词，表示‘（存在）有某事物’
+试比较：There is a boy there.（那儿有一个男孩。）/前一个there无实意，后一个there为副词‘那里’。
+
+二、定语：定语是对名词或代词起修饰、限定作用的词、短语或句子，汉语中常用‘……的’表示。
+
+定语通常位于被修饰的成分前。若修饰some,any,every,no构成的复合不定代词时，(如：something、nothing）；或不定式、分词短语作定语、从句作定语时，则定语通常置后。副词用作定语时须放在名词之后。
+形容词作定语：
+The little boy needs a blue pen.(little修饰名词boy；blue修饰名词pen.）/小男孩需要一支兰色的钢笔。
+Tom is a handsome boy./Tom是个英俊的男孩。
+There is a good boy./有个乖男孩。
+数词作定语相当于形容词：
+Two boys need two pens./两个男孩需要两支钢笔。
+The two boys are students./这两个男孩是学生。
+There are two boys in the room./房间里有两个男孩。
+代词或名词所有格作定语：
+His boy needs Tom's pen./他的男孩需要Tom的钢笔。
+His name is Tom./他的名字是汤姆。
+There are two boys of Toms there./那儿有Tom家的两个男孩。
+介词短语作定语：
+The boy in the classroom needs a pen of yours./教室里的男孩需要你的一支钢笔。
+The boy in blue is Tom./穿兰色衣服的孩子是汤姆。
+There are two boys of 9,and three of 10./有两个9岁的，三个10岁的男孩。
+
+名词作定语：
+The boy needs a ball pen./男孩需要一支圆珠笔。
+It is a ball pen./这是一支圆珠笔。
+There is only one ball pen in the pencil box./这铅笔盒里只有一支圆珠笔。
+副词作定语：
+The boy there needs a pen./那儿的男孩需要一支钢笔。
+The best boy here is Tom./这里最棒的男孩是Tom。
+不定式作定语：
+The boy to write this letter needs a pen./写这封信的男孩需要一支钢笔。
+The boy to write this letter is Tom./将要写这封信的男孩是汤姆。
+There is nothing to do today./今天无事要做。
+
+分词（短语）作定语：
+The smiling boy needs a pen bought by his mother./那个微笑的男孩需要一支他妈妈买的钢笔。
+The pen bought by her is made in China./她买的笔是中国产的。
+There are five boys left./有五个留下的男孩。
+定语从句：
+The boy who is reading needs the pen which you bought yesterday./那个在阅读的男孩需要你昨天买的钢笔。
+The boy you will know is Tom./你将认识的男孩叫汤姆。
+There are five boys who will play the game./参加游戏的男孩有五个。
+
+三、状语：状语修饰动词、形容词、副词或全句，说明方式、因果、条件、时间、地点、让步、方向、程度、目的等。
+
+状语在句子中的位置很灵活，常见情况为：通常在句子基本结构之后，强调时放在句首；修饰形容词或副词时，通常位于被修饰的词之前；表示时间、地点、目的的状语一般位于句子两头，强调时放在句首，地点状语一般须在时间状语之前；一些表示不确定时间（如：often）或程度（如：almost）的副词状语通常位于be动词、助动词、情态动词之后，动词之前。
+有时状语在句中的某个位置会引起歧义，应注意，如：The boy calls the girl in the classroom.一般理解成‘男孩喊教室里的女孩’(此时in the classroom为girl的定语），也可以理解为‘男孩在教室里喊女孩’(此时in the classroom为地点状语），最好写作‘In the classroom,the boy calls the girl.'
+副词（短语）作状语：
+The boy needs a pen very much./男孩非常需要一支钢笔。（程度状语）
+The boy needs very much the pen bought by his mother./男孩非常需要他母亲买的那支钢笔。（宾语较长则状语前置）
+The boy really needs a pen./男孩真的需要一支钢笔。（程度状语）
+The boy needs a pen now./Now,the boy needs a pen./The boy,now,needs a pen./男孩现在需要一支钢笔。（时间状语）
+介词短语作状语：
+In the classroom,the boy needs a pen./在教室里，男孩需要一支钢笔。（地点状语）
+Before his mother,Tom is always a boy./在母亲面前,汤姆总是一个男孩子.(条件状语)
+On Sundays,there is no student in the classroom./星期天,教室里没有学生.(时间状语)
+分词（短语）作状语：
+He sits there,asking for a pen./他坐在那儿要一支笔。（表示伴随状态）
+Having to finish his homework,the boy needs a pen./因为不得不完成作业，男孩需要一支笔。（原因状语）
+Frightened,he sits there soundlessly./（因为）受了惊吓，他无声地坐在那儿。（原因状语）
+不定式作状语：
+The boy needs a pen to do his homework./男孩需要一支笔写家庭作业。（目的状语）
+To make his dream come true,Tom becomes very interested in business./为实现梦想,汤姆变得对商业很有兴趣.
+名词作状语：
+Come this way!/走这条路！（方向状语）
+状语从句：
+时间状语从句
+地点状语从句
+原因状语从句
+结果状语从句
+目的状语从句
+比较状语从句
+让步状语从句
+条件状语从句
+
+四、直接宾语和间接宾语：
+
+特殊的同源宾语现象: fight a fight , dream a dream , etc.
+有些及物动词可以有两个宾语，如：give给，pass递，bring带，show显示。这两个宾语通常一个指人，为间接宾语；一个指物，为直接宾语。间接宾语一般位于直接宾语之前。
+
+一般的顺序为：动词 + 间接宾语 + 直接宾语。如：Give me a cup of tea,please.
+强调间接宾语顺序为：动词 + 直接宾语 + to + 间接宾语。如：Show this house to Mr.Smith.
+若直接宾语为人称代词：动词+ 代词直接宾语 + to + 间接宾语。如：Bring it to me,please.
+
+五、宾语补足语：位于宾语之后对宾语作出说明的成分。宾语与其补足语有逻辑上的主谓关系，它们一起构成复合宾语。
+
+名词/代词宾格 + 名词
+The war made him a soldier./战争使他成为一名战士.
+名词/代词宾格 + 形容词
+New methods make the job easy./新方法使这项工作变得轻松.
+名词/代词宾格 + 介词短语
+I often find him at work./我经常发现他在工作.
+名词/代词宾格 + 动词不定式
+The teacher ask the students to close the windows./老师让学生们关上窗户.
+名词/代词宾格 + 分词
+I saw a cat running across the road./我看见一只猫跑过了马路.
+
+六、同位语：
+
+同位语是在名词或代词之后并列名词或代词对前者加以说明的成分，近乎于后置定语。如：
+We students should study hard. / (students是we的同位语，都是指同一批‘学生’）
+We all are students. / (all是we的同位语，都指同样的‘我们’）
+
+七、独立成分：有时句子中会有一些与句子没有语法联系的成分，称为句子独立成分(注意：区别于分词独立结构)。
+
+感叹词：oh,hello,aha,ah,等。
+肯定词yes
+否定词no
+称呼语：称呼人的用语。
+插入语：一些句中插入的 I think,I believe,等。
+如: The story,I think,has never come to the end./我相信,这个故事还远没结束.
+情态词,表示说话人的语气（多作为修饰全句的状语）:perhaps也许,maybe大概,acturely实际上,certainly当然等。
+
+八、分词独立结构：分词作状语时其逻辑主语与句子的主语一致! 否则应有自己的逻辑主语，构成分词独立结构。
+例：
+错句：Studying hard,your score will go up.
+正确：(1) Studying hard,you can make your score go up. 或 (2)If you study hard,your score will go up.
+解析：错句中分词studying没有自带逻辑主语，则其逻辑主语就是句子的主语，既your score. 显然做study的应是人，不应是your score（分数）. 正确句(1)更正了句子的主语,使其与分词逻辑主语一致( 同为you );正确句(2)则使用条件分句带出study的主语,(不过已经不是分词结构了).
+
+分词独立结构常省略being,having been.不过‘There being...’的场合不能省略.
+如：
+Game (being) over,he went home.
+He stands there,book (being) in hand.
+
+独立结构还可用with、without引导，作状语或定语。这种结构不但可以用分词，还可以用不定式、形容词、介词短语、副词或名词等。
+如：
+With nothing to do,he fell asleep soon./无事可做，他很快就睡着了。
+The teacher came in,with glasses on his nose./老师进来了，戴着一付眼镜。（注意，此句on his nose不可省略！）

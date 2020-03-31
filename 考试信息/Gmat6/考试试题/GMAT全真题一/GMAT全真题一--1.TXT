@@ -1,0 +1,301 @@
+GMAT全真题一--1
+ANALYSIS OF AN ARGUMENT
+Time-30 minutes
+Directions: In this section, you will be asked to write a critique of the argument presented below. note that you are not being asked to present your own views on the subject. Instead, you may need to consider what questionable assumptions underlie the thinking, what alternative explanations or counterexamples might weaken the conclusion, or what sort of evidence could help strengthen or refute the argument.
+  Read the argument and the instructions that follow it, and then make any notes in your test booklet that will help you plan your response. Begin writing your response on the separate answer document. Make sure that you use the answer document that goes with this writing task.
+  The following appeared in a memorandum from the directors of a security and safety consulting service.
+  "Our research indicates that over the past six years no incidents of employee theft have been reported within ten of the comparnies that have been our clients. In analyzing the security practices of these ten companies, we have further learned that each of them requires its employees to wear photo identification badges while at work. In the future, therefore, we should recommend the use of such identification badges to all of our clients."
+  Discuss how well reasoned you find this argument. In your discussion, be sure to analyze the line of reasoning and the use of evidence in the argument. You can also discuss what, if anything, would make the argument more sound and persuasive or would help you to better evaluate its conclusion.
+ANALYSIS OF AN ISSUE
+Time-30 minutes
+Directions: In this section, you will need to analyze the issue presented below and explain your views on it. The question has no "correct" answer. Instead, you should consider various perspectives as you develop your own position on the issue.
+  Read the statement and the instructions that follow it, and then make any notes in your test booklet that will help you plan your response. Begin writing your response on the separate answer document. Make sure that you use the answer docurmtne that goes with this writing task.
+  "There are essentially two forces that motivate people: self-interest and fear."
+  Discuss the extent to which you agree or disagree with the opinion stated above. Support your position with reasons and/or examples from your own experience observations, or reading.
+SECTION 1
+Time-25 minutes
+18 Questions
+  Traditionally, the first firm to commercialize a new technology has benefited from the unique opportunity to shape product definitions, forcing followers to adapt to a standard or invest in an unproven alternative. Today, however.
+(5) the largest payoffs may go to companies that lead in ceveioping integrated approaches for successful mass groduction and distrioution.
+  Producers of the Beta format for videocassentte recorders (VCR's) for example, were first to develop the VCR com
+(10) nearcially in 1975, but producers of the rival VHS (Video Home System) format proved to be more successful at forming strategic alliances with other producers and distributors to manufacture and market their VCR format. Seeking to maintain exclusive control over VCR distri
+(15) bution. Beta producers were reluctant to form such alliances and eventually lost ground to VHS in the competition for the global VCR market.
+  Despite Beta's Substantial technological head start and the fact that VHS was neither technically better nor cheaper
+(20) than Beta, deveiopers of VHS quickly turned a slight early lead in sales into a dominant position. Strategic alignments with producers of prerecorded tapes reinforced the VHS advantage. The perception among consumers that prerecorded tapes were more available in VHS format further
+(25) expanded VHS's share of the market. By the end of the 1980's. Beta was no longer in production.
+1.The passage is primarily concerned with which of the following?
+  (A) Evaluating two competing technologies
+  (B) Tracing the impact of a new technology by narrating a sequence of events
+  (C) Reinterpreting an event from contemporary business history
+  (D) illustrating a business strategy by means of a case history
+  (E) Proposing an innovative approach to business planning
+2. According to the passage, today's successful firms, unlike successful firms in the past, may earn the greatest profits by
+  (A) investing in research to produce cheaper versions of existing technology
+  (B) being the first to market a competing technology
+  (C)adapting rapidly to a technological standard previously set by a competing frim
+  (D) establishing technological leadership in order to shape product definitions in advance of competing firms
+  (E) emphasizing the development of methods for the mass production and distribution of a new technology
+3. According to the passage, consumers began to develop a preference for VCR's in the VHS format because they believed which of the following?
+  (A) VCR's in the VHS format were technically better than competing-format VCR's.
+  (B) VCR's in the VHS format were less expensive than competing-format VCR's
+  (C) VHS was the first standard format for VCR's
+  (D) VHS prerecorded videotapes were more available than Beta-format tapes.
+  (E) VCR's in the Beta format would soon cease to be produced.
+4. The author implies that one way that VHS producers won control over the VCR market was by
+  (A) carefully restricting access to VCR technology
+  (B) giving up a slight early lead in VCR sales in order to improve long-term prospects
+  (C) retaining a strict monopoly on the production of prerecorded videotapes
+  (D) sharing control of the marketing of VHS-format VCR's
+  (E) sacrificing technological superionrity over Betaformat VCR's in order to remain competitive in price.
+5. The alignment of producers of VHS-format VCR's with producers of prerecorded videotapes is most similar to which of the following?
+  (A) The alignment of an automobile manufacturer with another automobile manufacturer to adopt a standard design for automobile engines
+  (B) The alignment of an automobile manuracturer with an automotive glass company whereby the manufacturer agrees to purchase automobile windshieids only from that one glass company
+  (C) The alignment of an automobile manufacturer with a petroleum company to ensure the widespread availability of the fuel required by a new type of engine developed by the manufacturer
+  (D) The alignment of an automobile manufacturer with its dealers to adopt a plan to improve automobile design
+  (E) The alignment of an automobile dealer with an automobile rental chain to adopt a strategy for an advertising campaingn to promote a new type of automobile.
+6. Which of the following best describes the relation of the first paragraph to the passage as a whole?
+  (A) It makes a general observation to be exemplified.
+  (B) It outlines a process to be analyzed.
+  (C) It poses a question to be answered.
+  (D) It advances an argument to be disputed.
+  (E) It introduces conflicting arguments to be reconciled.
+  Australian researchers have discovered electroreceptors (sensory organs designed to respond to electrical fields) clustered at the tip of the spiny anteater's snout. The researchers made this discovery by exposing small areas of
+(5) the snout to extremely weak electrical fields and recording the transmission of resulting nervous activity to the brain. While it is true that tactile receptors, another kind of sensory organ on the anteater's snout, can also respond to electrical stimuli, such receptors do so only in response to
+(10) electrical field strengths about 1,000 times greater than those known to excite electroreceptors.
+  Having discovered the electroreceptors, researchers are cow investigating how anteaters untilize such a sophisticated sensory system. In one behavioral experiment, researchers
+(15) successfully trained an anteater to distinguish between two troughts of water, one with a weak electrical field and the other with none. Such evidence is consistent with researchers electrical signals given off by prey; however,
+(20) researchers as yet have been unable to detect electrical agnals emanating from termite mounds, where the favorite food of anteaters live. Still, researchers have observed anteaters breaking into a nest of ants at an oblique angle and quickly locating nesting chambers. This ability quickly
+(25) to locate unseen prey suggests according to the researchers, that the anteaters were using their electroreceptors to locate the nesting chambers.
+7. Accoraing to the passage, which of the following is a characteristic that distinguishes electroreceptors from tactile receptors?
+  (A) The manner in which electroreceptors respond to electrical stimuli
+  (B) The tendency of electroreceptors to be found in clusters
+  (C) The unusual locations in which electroreceptors are found in most species
+  (D) The amount of electrical stinulation required to excite electroreceptors
+  (E) The amount of nervous activity transmitted to the brain by electroreceptors when they are extited
+8. Which of the following can be inferred about the experiment described in the first paragraph?
+　  (A) Researchers had difficulty verifying the existence of electroreceptors in the anteater because electroreceptors respond to such a narrow range of electrical field strengths.
+  (B) Researchers found that the level of nervous activity in the anteater's brain increased dramatically as the strength of the electrical stimulus was increased.
+  (C) Researchers found that some areas of the anteater's snout were not sensitive to a weak electrical stimulus.
+  (D) Researchers found that the anteater's tactile receptors were more easily exeited by a strong electrical stimulus than were the electroreceptors.
+  (E) Researchers tested small areas of the anteater's snout in order to ensure that only electroreceptors were responding to the stimulus.
+9. The author of the passage most probably discusses the function of tactile receptors (lines 7-11) in order to
+  (A) eliminate an alternative explanation of anteaters' response to electrical stimuli
+  (B) highlight a type of sensory organ that has a function identical to that of electroreceptors
+  (C) point out a serious complication in the research on electroreceptors in anteaters
+  (D) suggest that tactile receptors assist electroreceptors in the detection of electrical signals
+  (E) introduce a factor that was not addressed in the research on electroreceptors in anteaters
+10. Which of the following can be inferred about anteaters from the behavioral experiment mentioned in the second paragraph?
+  (A) They unable to distinguish between stimuli detected by their electroreceptors and stimuli detected by their tactile receptors.
+  (B) They unable to distinguish between the electrical signals emanating from termite mounds and those emanating from ant nests.
+  (C) They can be trained to recognize consistently the presence of a particular stimulus.
+  (D) They react more readily to strong than to weak stimuli.
+  (E) They are more efficient at detecting stimuli in a controlled environment than in a natural environment.
+11. The passage suggests that the researchers mentioned in the second paragraph who observed anteaters break into a nest of ants would most likely agree with which of the following statements?
+  (A) The event they observed provides conclusive evidence that anteaters use their electroreceptors to locate unseen prey.
+  (B) The event they observed was atypical and may not reflect the usual hunting practices of anteaters.
+  (C) It is likely that the anteaters located the ants' nesting chamoers without the assistance of electroreceptors.
+  (D) Anteaters possess a very simple sensory system for use in locating prey.
+  (E) The speed with which the anteaters located their prey is greater than what might be expected on the basis of chance alone.
+12. Which of the following, if true, would most strengthen the hypothesis meationed in lines 17-19?
+  (A) Researchers are able to train anteaters to break into an underground chamber that is emitting a strong electrical signal.
+  (B) Researchers are able to detect a weak electrical signal emanating from the nesting chamber of an ant colony.
+  (C) Anteaters are observed taking increasingly longer amounts of time to locate the nesting chambers of ants.
+  (D) Anteaters are observed using avrious angles to break into nests of ants.
+  (E) Anteaters are observed using the same angle used with nests of ants to break into the nests of other types of prey.
+  When A. Philip Randolph assumed the leadership of the Brotherhood of a Sleeping Car Porters, he began a ten-year battle to win recognition from the Pullman Company the largest private employer of Black people in the United
+  (5) States and the company that controlled the railroad industry's sleeping car and parlor service. In 1935 the Brotherhood became the first Black union recognized by a major corporation. Randolph's efforts in the battle helped transform the attitude of Black workers toward unions and
+  (10) toward themselves as an identifiable group: eventually, Randolph helped to weaken organized labor's antagonism toward Black workers.
+  In the Pullman contest Randolph faced formidable obstacles. The fist was Black workers understandable
+  (15) skepticism toward unions, which had historically barred Black workers from membership. An additional obstacle was the union that Pullman itself had formed, which weakened support among Black workers for an independent eatity.
+  (20) The Brotherhood possessed a number of advantages, however, including Randolph's own tactical abilities. In 1928 he took the bold step of threatening a strike against Pullman. Such a threat, on a national scale, under Black leadership, helped replace the stereotype of the Black.
+  (25) worker as servant with the image of the Black worker as wage earner. In addition, the porters' very isolation aided the Brotherhood. Porters were scattered throughout the country, sleeping in dormitories in Black communities; their segregated life protected the union's internal
+  (30) communications from interception. That the porters were a homogeneous group working for a single employer with a single labor policy, thus sharing the same grievances from city to city, also strengthened the Brotherhood and encouraged racial identity and solidarity as well. But it was only
+  (35) in the early 1930's that federal legislation prohibiting a company from maintaining its own unions with company money eventually allowed the Brotherhood to become recognized as the porters' representative.
+  Not content with this triumph, Randolph brought the
+  (40) Brotherhood into the American Federation of Labor, where it became the equal of the Federation's 10.5 other unions. He reasoned that as a member union, the Brotherhood would be in a better position to exert pressure on member unions that practiced race restrictions. Such restrictions were eventually found unconstitutional in 1944.
+13. According to the passage, by 1935 the skepticism of Black workers toward unions was
+  (A) unchanged except among Black employees of railroad-related industries
+  (B) reinforced by the actions of the Pullman Company's union
+  (C) mitigated by the efforts of Randolph
+  (D) weakened by the opening up of many unions to Black workers
+  (E) largely alleviated because of the policies of the American Federation of Labor
+14. In using the word "understandable" (line 14).the author most clearly conveys
+  (A) sympathy with attempts by the Brotherhood between 1925 and 1935 to establish an independent union
+  (B) concern that the obstacles faced by Randoiph beetween 1925 and 1935 were indeed formidable
+  (C) ambivalence about the significance of unions to most Black workers in the 1920's
+  (D) appreciation of the attitude of many Black workers in the 1920's toward unions
+  (E) regret at the historical attitude of unions toward Black workers
+15. The passage suggests which of the following about the response of porters to the Puilman Company's own union?
+  (A) Few porters ever joined this union.
+  (B) Some porters supported this union before 1935.
+  (C) Porters, more than other Pullman employees, enthusiastically supported this union.
+  (D) The porters' response was most positive after 1935.
+  (E) The porters' response was unaffected by the general skepticism of Blank workers concerning unions.
+16. The passage suggests that if the grievances of porters in one part of the United States had been different from those of porters in another part of the country, which of the following would have been the case?
+  (A) It would have been more difficult for the Pullman Company to have had a single labor policy.
+  (B) It would have been more difficult for the Brotherhood to control its channels of communication.
+  (C) It would have been more difficult for the Brotherhood to build its membership.
+  (D) It would have been easier for the Pullman Company's union to attract membership.
+  (E) It would have been easier for the Brotherhood to threaten strikers.
+17. The passage suggests that in the 1920's a company in the United States was able to
+  (A) use its own funds to set up a union
+  (B) require its employees to join the company's own union
+  (C) develop a single labor policy for all its employees with little employee dissent
+  (D) pressure its employees to contribute money to maintain the company's own union
+  (E) use its resources to prevent the passage of federal legislation that would have facilitated the formation of independent unions.
+18. The passage suppiles information concerning which of the following matters related to Randolph?
+  (A) The steps he took to initiate the founding of the Brotherhood
+  (B) His motivation for bringing the Brotherhood into the American Federation of Labor
+  (C) The influence he had on the passage of legislation overturning race restrictions in 1944.
+  (D) The influence he had on the passage of legislation unions
+  (E) The success he and the Brotherhood had in influencing the policies of the other unions in the American Federation of Labor
+SECTION 2
+Time-25 minutes
+20 Questions
+   A Statement (1) ALONE is sufficient, but statement (2) alone is not sufficient.
+   B Statement (2) ALONE is sufficient, but statement (1) alone is not sufficient.
+   C BOTH statements TOGETHER are sufficient, but NETTHER statement ALONE is sufficient.
+   D EACH statement ALONE is sufficient.
+   E Statements (1) and (2) TOGETHER are NOT sufficient.
+1. Is x greater than 75 percent of y?
+  (1) x=40
+  (2) y=50
+2. The integer x is how much greaterh than 3?
+  (1) 102=100,000
+  (2)
+3. A citrus fruit grower receives $15 for each creat of oranges shippoed and $18 for each crate of grapefruit shipped. How many crates of oranges did the grower ship last week?
+  (1) Last week the number of crates of crates of oranges that the grower shipped was 20 more than twice the number of creates of grapefruit shipped.
+  (2) Last week the grower received a total of $38,700 from the crates of oranges and grapefruit shipped.
+4. In the figure above, what is the length of AC?
+  (1) x+y=13
+  (2) xy=36
+5. The charge for a telephone call between City R and City S is $0.42 for each of the first 3 minutes and $0.18 for each additional minute. Acertain call between these two cities lasted for x minutes, where x is an integer. How many minutes long was the call?
+  (1) The charge for the first 3 minutes of the call was $0.36 less than the charge for the remainder of the cail.
+  (2) The total charge for the call was $2.88
+6. Is the integer p odd?
+  (1) The sum of p、p + 4、and p + 11 is even.
+  (2) The sum of p - 3、p、and p + 11 is odd.
+7. If a certain grove consists of 36 pecan trees, what was the yield per tree last year?
+  (1) The yield per tree for the 18 trees in the northern half of the grove was 60 kilograms last year.
+  (2) The yield per tree for the 18 trees in the eastern half of the grove was 55 kilograms last year.
+8. What was the percent increase in the value of a certain antique from January 1, 1981, to December 31, 1981?
+  (1) The value of the artique on January 1, 1981, was $3,000
+  (2) The value of the antique on December 31, 1981, was double the value of the antique on January 1, 1981.
+9. In the xy-plane, is point (2, -3) on line ?
+  (1) Point (-2, 3) is on .
+  (2) is not perpendicular to the x-axis.
+10. If r is represented by the decimal 0.t5, what is the digit t?
+  (1) r<
+  (2) r<
+11. Is 7<<8?
+  (1) n>50
+  (2) n<60
+12. If a total of 84 students are enrolled in two sections of a calculus course, how many of the 84 students are female?
+  (1) of the students in Section 1 are female.
+  (2) of the students in Section 2 are male.
+13. What is the value of the greater of two numbers if one of the numbers is twice the other number?
+  (1) One number is 5.
+  (2) The sum of the two numbers is 15.
+14. If r>0 and s>0, is <?
+  (1)
+  (2) s=r+4
+15. Company R's annual profit has increased by a constant amount each calendar year since 1985. What was Company R's annual profit in 1991?
+  (1) In 1985 Company R's annual profit was $212,000; in 1989 Company R's annual profit was $242,000.
+  (2) Company R's annual profit has increased by $7,500 each year since 1985.
+16. If x is an integer, is an integer?
+  (1)
+  (2) x is a multiple of 3.
+17. The figure above shows the shape of a flower bed. If arc QR is a semicircle and PQRS is a rectangle with QR>RS. what is the perimeter of the flower bed?
+  (1) The perimeter of rectangle PQRS is 28 feet.
+  (2) Each diagonal of rectangle PQRS is 10 feet long.
+18. If 4x=5y=10z, what is the value of x+y+z?
+  (1) x-y+6
+  (2) y+z=36
+19. Committee X and Committee Y, which have no common members, will combine to form Committee Z. Does Committee X have more members than Committee Y?
+  (1) The average (arithmetic mean) age of the members of Committee X is 25.7 years and the average age of the members of Committee Y is 29.3 years.
+  (2) The average (arithmetic mean) age of the members of Committee Z will be 26.6 years.
+20. What is the value of y?
+  (1) y2-7y+12=0
+  (2) y>0
+SECTION 3
+Time-25 minutes
+16 Questions
+1. A company is considering changing its policy concerning daily working hours. Currentyl, this company requires all employees to arrvive at work at 8 a.m. The proposed policy would permit each employee to decide when to arrive-from as early as 6 a.m. to as late as 11 a.m.
+  The adoption of this policy would be most likely to decrease employees' productivity if the employees' job functions required them to
+  (A) work without interruption from other employees
+  (B) consult at least once a day with employees from other companies
+  (C) submit their work for a supervisor's eventual approval
+  (D) interact frequently with each other throughout the entire workday
+  (E) undertake projects that take several days to complete
+2. The amount of time it takes for most of a worker's occupational knowledge and skills to become obsolete has been declining because of the introduction of advanced manufacturing technology (AMT). Given the rate at which AMT is currently being introduced in manufacturing, the average worker's old skills become obsolete and new skills are required within as little as five years.
+  Which of the following plans, if feasible, would allow a company to prepare most effectively for the rapid obsolescence of skills described above?
+  (A) The company will develop a program to offer selected employees the opportunity to receive training six years afrter they were originally hired.
+  (B) The company will increase its investment in AMT every year for a period of at least five years.
+  (C) The company will periodically survey its employees to determine how the introduction of AMT has affected them.
+  (D) Before the introduction of AMT, the company will institute an educational program to inform its empioyees of the probable consequences of the introduction of AMT.
+  (E) The company will ensure that it can offer its employees any training necessary for meeting their job requirements.
+3. Installing scrubbers in smokestacks and switching to cleaner-burning fuel are the two methods available to Northern Power for reducing harmful emissions from its plants. Scrubbers will reduce harmful emissions more than cleaner-burning fuels will. Therefore, by installing scrubbers. Northern Power will be doing the most that can be done to reduce harmful emissions from its plants.
+  Which of the following is an assumption on which the argument depends?
+  (A) Switching to cleaner-burning fuel will not be more expensive than installing scrubbers.
+  (B) Northern Power can choose from among various kinds of scrubbers, some of which are more effective than others.
+  (C) Northern Power is not necessarily committed to reducing harmful emissions from its plants.
+  (D) Harmful emissions from Northern Power's plants cannot be reduced more by using both methods together than by the installation of scrubbers alone.
+  (E) Aside from harmful emissions from the smokestacks of its plants, the activities of Northern Power do not cause significant air pollution.
+4. Some anthropogists study modern-day societies of foragers in an effort to learn about our ancient ancestors who were also foragers. A flaw in this strategy is that forager socicties are extremely varied. Indeed any forager society with which anthropologists are familiar has had considerable contact with modern nonforager societies.
+  Which of the following if true, would most weaken the criticism made above of the anthropologists strategy?
+  (A) All forager societies throughout history have had a number of important features in common that are absent from other types of societies.
+  (B) Most ancient forager societies either dissolved or made a transition to another way of life.
+  (C) All anthropologists study one kind or another of modern-day society.
+  (D) Many anthropologists who study modern-day forager societies do not draw inferences about ancient societies on the basis of their studies.
+  (E) Even those modern-day forager societies that have not had significant contact with modern societies are importantly different from ancient forager societies.
+5. Mayor: In each of the past five years, the city has cut school funding and each time school officials complained that the cuts would force them to reduce expenditures for essential services. But each time, only expenditures for nonessential services were actually reduced. So school officials can implement further cuts without reducing any expenditures for essential services.
+  Which of the following, if true, most strongly supports the mayor's conclusion?
+  (A) The city's schools have always provided essential services as efficiently as they have provided nonessential services.
+  (B) Sufficient funds are currently available to allow the city's schools to provide some nonessenual services.
+  (C) Price estimates quoted to the city's schools for the provision of nonessential services have not increased substantially since the most recent school funding cut.
+  (D) Few influential city administrators support the funding of costly nonessential services in the city's schools.
+  (E) The city's school officials rarely exaggerate the potential impact of threatened funding cuts.
+6. Advertisement:
+  For sinus pain, three out of four hospitals give their patients Novex. So when you want the most effective painkiller for sinus pain, Novex is the one to choose.
+  Which of the following, if true, most seriously undermines the advertisement's argument?
+  (A) Some competing brands of painkillers are intended to reduce other kinds of pain in addition to sinus pain.
+  (B) Many hospitals that do not usually use Novex will do so for those patients who cannot tolerate the drug the hospitals usually use.
+  (C) Many drug manufacturers increase sales of their products to hospitals by selling these products to the hospitals at the lowest price the manufacturers can afford.
+  (D) Unlike some competing brands of painkillers, Novex is available from pharmacies without a doctor's prescription.
+  (E) In clinical trials Novex has been found more effective than competing brands of painkillers that have been on the market longer than Novex.
+7. A report that many apples contain a cancer-causing preservative called Alar apparently had little effect on consumers. Few consumers planned to change their apple-buying habits as a result of the report. Nonetheless, sales of apples in grocery stores fell sharply in March, a month after the report was issued.
+  Which of the following if true, best explains the reason for the apparent discrepancy described above?
+  (A) In March, many grocers removed apples from their shelves in order to demonstrate concern about their coustomers' health.
+  (B) Because of a growing number of food-safety warnings consumers in March were indifferent to such warnings.
+  (C) The report was delivered on television and also appeared in newspapers.
+  (D) The report did not mention that any other fruit contains Alat, although the preservative is used on other fruit.
+  (E) Public health officials did not believe that apples posed a health threat because only minute traces of Alar were present in affected apples.
+8. A new law gives ownership of patents-documents providing exclusive right to make and sell an invention-to universities, not the government, when those patents result from government-sponsored-university research. Administrators at Logos University plan to sell any patents they acquire to corporations in order to fund programs to improve undergraduate teaching.
+  Which of the following, if true, would cast most doubt on the viability of the college administrators' plan described above?
+  (A) Profit-making corporations interested in developing products based on patents held by universities are likely to try to serve as exclusive sponsors of ongoing university research projects.
+  (B) Corporate sponsors of research in university facilities are entitled to tax credits under new federal tax-code guidelines.
+  (C) Research scientists at Logos University have few or no teaching responsibilities and participate little if at all in the undergraduate programs in their field.
+  (D) Government-sponsored research conducted at Logos University for the most part duplicates research already completed by several profitmaking corporations.
+  (E) Logos University is unlikely to attract corporate sponsorship of its scientific research.
+9. Contrary to earlier predictions, demand for sugarcane has not increased in recent years. Yet, even though prices and production amounts have also been stable during the last three years, sugarcane growers last year increased their profits by more than ten percent over the previous year's level.
+  Any of the following statements, if true about last year, helps to explain the rise in profits EXCEPT:
+  (A) Many countries that are large consumers of sugarcane increased their production of sugarcane-based ethanol yet their overall consumption of sugarcane decreased.
+  (B) Sugarcane growers have saved money on wages by switching from paying laborers an hourly wage to paying them by the amount harvested.
+  (C) The price of oil, the major energy source used by sugarcane growers in harvesting their crops, dropped by over twenty percent.
+  (D) Many small sugarcane growers joined together to form an assoctation of sugarcane producers and began to buy supplies at low group rates.
+  (E) Rainfall in sugarcane-growing regions was higher than it had been during the previous year, allowing the growers to save money on expensive artificial irrigation.
+10. If the county continues to collect residential trash at current levels, landfills will soon be overflowing and parkland will need to be used in order to create more space. Charging each household a fee for each pound of trash it puts out for collection will induce residents to reduce the amount of trasn they create; this charge will therefore protect the remaining county parkland.
+  Which of the following is an assumption made in drawing the conclusion above?
+  (A) Residents will reduce the amount of trash they put out for collection by reducing the number of products they buy.
+  (B) The collection fee will not significantly affect the purchasing power of most residents, even if their households do not reduce the amount of trash they put out.
+  (C) The collection fee will not induce residents to dump their trash in the parklands illegally.
+  (D) The beauty of county parkland is an important issue for most of the county's residents.
+  (E) Landfills outside the county's borders could be used as dumping sites for the county's trash.
+Question 11-12 are based on the following.
+  Environmentalist: The commissioner of the Fish and Game Authority would have the number of marine fish caught demonstrate that this resource is no longer endangered. This is a specious argument as unsound as it would be to assert that the ever-increasing rate at which rain forests are being cut down demonstrates a lack of danger to that resource. The real cause of the increased fishcatch is a greater efficiency in using technologies that deplete resources.
+11. Which of the following strategies is used in the presentation of the environmentalist's position?
+  (A) Questioning the motives of an opponent.
+  (B) Showing that an opposing position is selfcontradictory
+  (C) Attacking an argument through the use of an analogy
+  (D) Demonstrating the inaccuracy of certain data
+  (E) Pointing out adverse consequences of a proposal

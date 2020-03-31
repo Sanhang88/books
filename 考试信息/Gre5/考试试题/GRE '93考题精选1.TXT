@@ -1,0 +1,661 @@
+GRE '93考题精选（一）
+A plant grower pollinates female holly plants with pollen from male holly plants. The grower has exactly six strains of holly plants-S, T, W, X, Y, and Z--available for use in pollination. Male and female specimens of ach strain are available. A pollination grouping consists of at least two holly plants,one Male and one female. For any pollination grouping,the grower can use a male of any of the six strains to pollinate a female of any of the six strains, as long as the following restrictions are not violated: 
+　An S female plant can be pollinated only by an S male plant. 
+　A T female plant can be pollinated only by a Z male plant. 
+　An X female plant can be pollinated by neither a T male plant nor an X male plant. 
+　In any single pollination grouping containing a Z female plant that is pollinated by a T male plant, there must also be an X female plant that is pollinated by a Z male plant. 
+Which of the following lists two pairs of acceptable pollinations in a single complete grouping 
+　　　First Pair 　Second Pair 
+　　Female　　Male 　　Female　　Male 
+S S W S 
+S W W W 
+T Y Z Z 
+X X Z X 
+X Y Z T 
+答案：(A) 
+读题：一个花匠从雄性植物中选择给雌性植物授粉，有6种植物S、T、W、X、Y、Z，雄性和雌性都有，一个授粉组包含2个植物，一个雄性，一个雌性 
+写条件： 
+1、S-S （S雌性只能由S雄性授粉） 
+2、T-Z （T雌性只能由Z雄性授粉） 
+3、X-～TX （X雌性不能由T或X的雄性授粉） 
+4、Z-T→X-Z （任何Z雌性由T雄性授粉的组中，必然有X雌性被Z雄性授粉） 
+注：连线-前面字母为雌性植物，后面字母为雄性植物。 
+The grower can use a Z male plant to pollinate a female plant of any of the following strains EXCEPT 
+S 
+T 
+W 
+Y 
+Z 
+答案：(A) 
+读题：一个花匠从雄性植物中选择给雌性植物授粉，有6种植物S、T、W、X、Y、Z，雄性和雌性都有，一个授粉组包含2个植物，一个雄性，一个雌性 
+写条件： 
+1、S-S （S雌性只能由S雄性授粉） 
+2、T-Z （T雌性只能由Z雄性授粉） 
+3、X-～TX （X雌性不能由T或X的雄性授粉） 
+4、Z-T→X-Z （任何Z雌性由T雄性授粉的组中，必然有X雌性被Z雄性授粉） 
+注：连线-前面字母为雌性植物，后面字母为雄性植物。 
+花匠可用Z雄性授粉下面哪个雌性植物，EXCEPT？ 
+找需要由某类雄性授粉的条件，由条件1知，S female 只能由S male授粉，故A对。 
+The grower can choose to pollinate an X female plant from a total of how many different strains of male plants? 
+One 
+Two 
+Three 
+Four 
+Five 
+答案：(D) 
+读题：一个花匠从雄性植物中选择给雌性植物授粉，有6种植物S、T、W、X、Y、Z，雄性和雌性都有，一个授粉组包含2个植物，一个雄性，一个雌性 
+写条件： 
+1、S-S （S雌性只能由S雄性授粉） 
+2、T-Z （T雌性只能由Z雄性授粉） 
+3、X-～TX （X雌性不能由T或X的雄性授粉） 
+4、Z-T→X-Z （任何Z雌性由T雄性授粉的组中，必然有X雌性被Z雄性授粉） 
+注：连线-前面字母为雌性植物，后面字母为雄性植物。 
+Which of the following is a complete and accurate list of the strains whose female plants can be selected by the grower for pollination by a W male plant? 
+T, W, X, Y, Z 
+W, X, Y. Z 
+W, Y, Z 
+Y, Z 
+Z 
+答案：(B) 
+读题：一个花匠从雄性植物中选择给雌性植物授粉，有6种植物S、T、W、X、Y、Z，雄性和雌性都有，一个授粉组包含2个植物，一个雄性，一个雌性 
+写条件： 
+1、S-S （S雌性只能由S雄性授粉） 
+2、T-Z （T雌性只能由Z雄性授粉） 
+3、X-～TX （X雌性不能由T或X的雄性授粉） 
+4、Z-T→X-Z （任何Z雌性由T雄性授粉的组中，必然有X雌性被Z雄性授粉） 
+注：连线-前面字母为雌性植物，后面字母为雄性植物。 
+下面哪个是完全而准确的序列，雌性植物由W male授粉？ 
+找需要由某种male授粉的条件， 
+由条件1、2知，S,T female均不能由 W male 授粉，其余均可，选择B。 
+If the grower decides not to use Z male plants, which of the following is a possible pollination pairing? 
+Female male 
+S W 
+T Y 
+X T 
+Z T 
+Z Y 
+答案：(E) 
+读题：一个花匠从雄性植物中选择给雌性植物授粉，有6种植物S、T、W、X、Y、Z，雄性和雌性都有，一个授粉组包含2个植物，一个雄性，一个雌性 
+写条件： 
+1、S-S （S雌性只能由S雄性授粉） 
+2、T-Z （T雌性只能由Z雄性授粉） 
+3、X-～TX （X雌性不能由T或X的雄性授粉） 
+4、Z-T→X-Z （任何Z雌性由T雄性授粉的组中，必然有X雌性被Z雄性授粉） 
+注：连线-前面字母为雌性植物，后面字母为雄性植物。 
+如果花匠决定不用Z male，下面哪个是可能的授粉对？ 
+解题步骤: 
+1、找涉及Z male的授粉条件， 
+条件2：T-Z，故T female无法授粉，B错。 
+条件4：Z-T→X-Z，故不可能是Z-T授粉对，D错 
+2、由S-S得，A错。 
+由条件3，Z-～TX得，C错 
+所以选择E 
+If the grower decides to use neither the male nor the female plants of the S and Z strains,which of the following is true concerning the remaining plants available to the grower？ 
+The T males cannot be used for pollination of any of the remaining females. 
+The W males cannot be used for pollination of any of the remaining females. 
+The T females cannot be selected for pollination by any of the remaining males. 
+The W females cannot be selected for pollination by any of the remaining males. 
+The Y females cannot be selected for pollination by any of the remaining males. 
+答案：(C) 
+读题：一个花匠从雄性植物中选择给雌性植物授粉，有6种植物S、T、W、X、Y、Z，雄性和雌性都有，一个授粉组包含2个植物，一个雄性，一个雌性 
+写条件： 
+1、S-S （S雌性只能由S雄性授粉） 
+2、T-Z （T雌性只能由Z雄性授粉） 
+3、X-～TX （X雌性不能由T或X的雄性授粉） 
+4、Z-T→X-Z （任何Z雌性由T雄性授粉的组中，必然有X雌性被Z雄性授粉） 
+注：连线-前面字母为雌性植物，后面字母为雄性植物。 
+Middletown's police currently remove an apparently abandoned car from the streets about two months after it is reported.The police have been unfairly criticized for allowing such cars to be vandalized during this period. Because it is illegal for car owners to abandon cars on the treet, police need not be concerned about protecting such cars. 
+Which of the following, if true, most seriously weakens the argument bove? 
+In the past, vehicles abandoned in Middletown were removed from the streets an average of four months after initial reports to police. 
+In one recent year, more than 150 abandoned vehicles were vandalized in Middletown, but police made no arrests for those actions. 
+Some cars initially classified by Middletown's police as abandoned were later reclassified as stolen vehicles. 
+Middletown's understaffed police force must give the disposition of abandoned cars low priority because of the number of violent crimes now committed there. 
+In the most recent year for which data are available,there were 28 percent fewer reports of abandoned vehicles than the yearly average for the previous ten years. 
+答案：(C) 
+A homeowner with a leaky roof has two repair options; each can prevent leaking for up to 10 years, For $2,000, the homeowner can purchase a new roof. For only $1,000, a total of 10 hot coatings can be applied to the xisting roof, one each year for the next 10 years. 
+Which of the following, if true, provides the best reason for the homeowner to choose the new-roof option? 
+A new roof can take up to two days to install properly if the job is done by two workers, as is customary. 
+A hot coating can be applied in 20 minutes, while the homeowner performs other duties. 
+The hot coating procedure can be paid for over the course of 10 years, whereas the new roof must be paid for all at once. 
+A leaky roof can cause damage within the house, damage that is very expensive to repair. 
+Hot coatings are very heavy, and more than 5 applications on a roof can cause the roof to collapse. 
+答案：(E) 
+Springtown's fire department wants the town council to buy it another ladder truck. These trucks are useful in fighting fires in high-rise buildings. The town council argues, however, that Springtown has only two high-rise buildings, and it already owns enough ladder trucks to fight any fires there. So, they say, Springtown does not need another ladder truck. 
+The town council's argument assumes that Springtown cannot afford to buy another ladder truck Springtown's high-rise buildings all meet or exceed current fire safety standards the number of high-rise buildings in Springtown is likely to grow at least one of Springtown's ladder trucks is not due to be permanently removed from service in the immediate future 
+it is possible to fight fires successfully in high-rise buildings without using ladder trucks. 
+答案：(D) 
+问题：town council的论述基于下面哪一个假设？ 
+读题：Springtown的防火部门希望镇委员会购买另外一辆云梯卡车. 这些卡车用于高层建筑的灭火.然而，镇委员会说：Springtown仅仅有两座高层建筑，并且已经拥有足够量的云梯卡车去破灭那里的任何火灾。因此，他们说Springtown不需要另外一辆云梯卡车。 
+分析：倒数第三行so引导结论，而论据由第四行town council argues引导，有两个原因，1、Springtown仅仅有两座高层建筑 2、已经有足够的云梯卡车 
+b. Springtown 的建筑都满足或超过防火标准.(可以作为support，的确不需要另外一辆云梯卡车) 
+c. Springtown 高层建筑的数目将可能增加.(论据是Springtown仅仅有两座高层建筑，c反对论据，作为反对) 
+d. 至少有一辆云梯卡车在不久的将来不会永久地移出服务(d说明尽管已经有足够量的云梯卡车，但是必须至少有一辆能够用；加入not判断,没有一辆不被移出，那么就意味着都不能用了，因此还需要新的云梯卡车，加入not反对了结论，因此d为Assumption) 
+e. 不使用云梯卡车也可能成功地破灭火灾.(support) 
+通过本题体会Assumption必要条件的特色, support和assumption的区别 
+Six backpackers- H, L, P, S, T, and W-have each reserved a campsite in a campground that has six adjacent campsites consecutively numbered 1 through 6. Water comes from a faucet located between campsite 2 and campsite 3. In assigning each of the six backpackers to exactly one campsite, the camp manager is to meet the following conditions: 
+　H must have campsite 1 or campsite 6. 
+　If H has campsite 1, L must have campsite 6, and if H has campsite 6, L must have campsite 1. 
+　P must have a campsite next to the water faucet. 
+　T must have a campsite immediately adjacent to L's campsite. 
+　Neither H nor L can have a campsite immediately adjacent to S's campsite. 
+Which of the following is an acceptable assignment of backpackers to the campsites? 
+　1 　2 　3 　4 　5 　6 
+H P W S T L 
+H S P W T L 
+H W S P T L 
+L P W S T H 
+L T P S H W 
+答案：(A) 
+读题：6个backpackers，H、L、P、S、T、W各有一块宿营地，共有6块营地从1到6，水从位于营地2、3之间的水笼头流出。 
+写条件： 
+1、H=1/6 （表示H必须在1或者6） 
+2、1,6=H/L （表示H=1，则L=6；H=6，则L=1） 
+3、P=2/3 （表示P必须有一营地位于水笼头旁边） 
+4、（TL） （表示TL相邻） 
+5、～（H/L S）(表示H或L不和S相邻) 
+条件总结： 
+1、条件1、2、5 都涉及H、L 
+由于H,L=1/6，且～(H/L S)，则S≠2,5，在加上1,6=H/L,一共六个位置，所以S=3/4 
+Which of the following must be true? 
+If H has campsite 1, W has campsite 3. 
+If L has campsite 6, P has campsite 2. 
+If L has campsite 6, W has campsite 3. 
+If P has campsite 2, S has campsite 4. 
+If P has campsite 3, S has campsite 4. 
+答案：(E) 
+读题：6个backpackers，H、L、P、S、T、W各有一块宿营地，共有6块营地从1到6，水从位于营地2、3之间的水笼头流出。 
+写条件： 
+1、H=1/6 （表示H必须在1或者6） 
+2、1,6=H/L （表示H=1，则L=6；H=6，则L=1） 
+3、P=2/3 （表示P必须有一营地位于水笼头旁边） 
+4、（TL） （表示TL相邻） 
+5、～（H/L S）(表示H或L不和S相邻) 
+条件总结： 
+1、条件1、2、5 都涉及H、L 
+由于H,L=1/6，且～(H/L S)，则S≠2,5，在加上1,6=H/L,一共六个位置，所以S=3/4 
+If S has campsite 3, which of the following is a pair of backpackers who must each have a campsite immediately adjacent to W's campsite? 
+H and P 
+H and S 
+P and S 
+P and T 
+S and T 
+答案：(E) 
+读题：6个backpackers，H、L、P、S、T、W各有一块宿营地，共有6块营地从1到6，水从位于营地2、3之间的水笼头流出。 
+写条件： 
+1、H=1/6 （表示H必须在1或者6） 
+2、1,6=H/L （表示H=1，则L=6；H=6，则L=1） 
+3、P=2/3 （表示P必须有一营地位于水笼头旁边） 
+4、（TL） （表示TL相邻） 
+5、～（H/L S）(表示H或L不和S相邻) 
+条件总结： 
+1、条件1、2、5 都涉及H、L 
+由于H,L=1/6，且～(H/L S)，则S≠2,5，在加上1,6=H/L,一共六个位置，所以S=3/4 
+如果S在3，下面哪一对一定是和W相邻的元素？ 
+1、S=3，由P=2/3得，P=2 
+1 2 3 4 5 6 
+H P S W T L 
+2、由于（TL）相邻，要相邻的话只能在4,5,6，而H/L=1/6，故L=6，T=5，W=4，所以 
+S、T和W相邻。 
+If L has campsite 1, which of the following must be true? 
+P has campsite 2. 
+S has campsite 3. 
+T has campsite 5. 
+W has campsite 4. 
+W has campsite 5. 
+答案：(E) 
+读题：6个backpackers，H、L、P、S、T、W各有一块宿营地，共有6块营地从1到6，水从位于营地2、3之间的水笼头流出。 
+写条件： 
+1、H=1/6 （表示H必须在1或者6） 
+2、1,6=H/L （表示H=1，则L=6；H=6，则L=1） 
+3、P=2/3 （表示P必须有一营地位于水笼头旁边） 
+4、（TL） （表示TL相邻） 
+5、～（H/L S）(表示H或L不和S相邻) 
+条件总结： 
+1、条件1、2、5 都涉及H、L 
+由于H,L=1/6，且～(H/L S)，则S≠2,5，在加上1,6=H/L,一共六个位置，所以S=3/4 
+If S and W each have a campsite that is immediately adjacent to P's campsite, which of the following campsites must T have? 
+5 
+4 
+3 
+2 
+1 
+答案：(A) 
+读题：6个backpackers，H、L、P、S、T、W各有一块宿营地，共有6块营地从1到6，水从位于营地2、3之间的水笼头流出。 
+写条件： 
+1、H=1/6 （表示H必须在1或者6） 
+2、1,6=H/L （表示H=1，则L=6；H=6，则L=1） 
+3、P=2/3 （表示P必须有一营地位于水笼头旁边） 
+4、（TL） （表示TL相邻） 
+5、～（H/L S）(表示H或L不和S相邻) 
+条件总结： 
+1、条件1、2、5 都涉及H、L 
+由于H,L=1/6，且～(H/L S)，则S≠2,5，在加上1,6=H/L,一共六个位置，所以S=3/4 
+如果S、W和P相邻，T在哪儿？ 
+1、（SPW）相邻，P=2/3，则（SPW）在123或者234,而1=H/L，故（SPW）在234, 
+T=5 
+If the first assignment made is of H to campsite 1,which of the following lists all those backpackers aside from H, and only those, whose campsite assignment is thereby fully datermined? 
+L 
+L, T 
+L, P, T 
+L, P, S, T 
+L, P, S, T, W 
+答案：(B) 
+读题：6个backpackers，H、L、P、S、T、W各有一块宿营地，共有6块营地从1到6，水从位于营地2、3之间的水笼头流出。 
+写条件： 
+1、H=1/6 （表示H必须在1或者6） 
+2、1,6=H/L （表示H=1，则L=6；H=6，则L=1） 
+3、P=2/3 （表示P必须有一营地位于水笼头旁边） 
+4、（TL） （表示TL相邻） 
+5、～（H/L S）(表示H或L不和S相邻) 
+条件总结： 
+1、条件1、2、5 都涉及H、L 
+由于H,L=1/6，且～(H/L S)，则S≠2,5，在加上1,6=H/L,一共六个位置，所以S=3/4 
+The following four speakers are each invited to give one speech at a conference that will be conducted in four languages: Han (speaking in Korean), Lu (speaking in Mandarin), Ngo (speaking in Vietnamese), and Tanaka (speaking in Japanese). The speeches, to be delivered on four successive nights, must each be simultaneously translated into the three other languages and only into these languages. Four interpreters are assigned to the conference. Each will translate into only one language from the three other languages. The following additional scheduling requirements will be strictly observed: 
+　The interpreter translating into Mandarin cannot work three successive nights. 
+　Han cannot be scheduled to give her address on the night that immediately follows or immediately precedes the night on which Neo gives his address. 
+　Ngo's address must be scheduled for a later night than Tanaka's. 
+Which of the following is an acceptable order for the speakers' address? 
+　First 　Second Third　Fourth 
+Han Tanaka Ngo Lu 
+Han Tanaka Lu Ngo 
+Lu Han Tanaka Ngo 
+Ngo Lu Tanaka Han 
+Tanaka Lu Han Ngo 
+答案：(B) 
+读题：4个演讲者被邀请在会议上作演讲，会议以四种语言进行，H（k）、L（m）、N（v）、 
+T（j），演讲在连续的4个晚上，必须被同时翻译为其它3种语言，有4个翻译。 
+写条件： 
+1、～(iii)m (翻译为m语言的翻译不能连续工作3天) 
+2、～(HN) (H、N的演讲不能紧密相邻) 
+3、T< P> 
+条件总结： 
+*条件1有～(iii)m，也就是说不能连续3天没有L作演讲，而一共只有4天， 
+所以L≠1,4, L=2/3，我们由此得到了一个相对固定的条件，到此，题目也变简单了。 
+（善于把一些条件与题目中的数字或具体确定的条件联系起来一直是我们强调的） 
+Which of the following is a complete and accurate list of the speakers any one of whom could give the last address? 
+Han, Ngo 
+Han, Tanaka 
+Lu, Ngo 
+Ngo, Tanaka 
+Lu, Ngo, Tanaka 
+答案：(A) 
+读题：4个演讲者被邀请在会议上作演讲，会议以四种语言进行，H（k）、L（m）、N（v）、 
+T（j），演讲在连续的4个晚上，必须被同时翻译为其它3种语言，有4个翻译。 
+写条件： 
+1、～(iii)m (翻译为m语言的翻译不能连续工作3天) 
+2、～(HN) (H、N的演讲不能紧密相邻) 
+3、T< P> 
+条件总结： 
+*条件1有～(iii)m，也就是说不能连续3天没有L作演讲，而一共只有4天， 
+所以L≠1,4, L=2/3，我们由此得到了一个相对固定的条件，到此，题目也变简单了。 
+（善于把一些条件与题目中的数字或具体确定的条件联系起来一直是我们强调的） 
+下面哪一个是完全而准确的不能在最后一天的元素序列？ 
+1、由条件总结知 L≠4 
+2、再看一下有没有表示元素前后关系的条件，有，条件３：T
+其它两个元素N、H均可 
+If the interpreter translating into Vietnamese is not scheduled to work during the fourth session, which of the following is a possible order of speakers for the conference? 
+　　　　First　　Second　Third　　Fourth 
+Han Tanaka Lu Ngo 
+Lu Han Tanaka Ngo 
+Ngo Tanaka Han Lu 
+Tanaka Lu Han Ngo 
+Tanaka Neo Lu Han 
+答案：(A) 
+读题：4个演讲者被邀请在会议上作演讲，会议以四种语言进行，H（k）、L（m）、N（v）、 
+T（j），演讲在连续的4个晚上，必须被同时翻译为其它3种语言，有4个翻译。 
+写条件： 
+1、～(iii)m (翻译为m语言的翻译不能连续工作3天) 
+2、～(HN) (H、N的演讲不能紧密相邻) 
+3、T< P> 
+条件总结： 
+*条件1有～(iii)m，也就是说不能连续3天没有L作演讲，而一共只有4天， 
+所以L≠1,4, L=2/3，我们由此得到了一个相对固定的条件，到此，题目也变简单了。 
+（善于把一些条件与题目中的数字或具体确定的条件联系起来一直是我们强调的） 
+If Han is scheduled to give the second address, which of the following must be true? 
+Lu is scheduled to give the first address. 
+Ngo is scheduled to give the first address. 
+Ngo is scheduled to give the third address. 
+Tanaka is scheduled to give the first address. 
+Tanaka is scheduled to give the third address 
+答案：(D) 
+读题：4个演讲者被邀请在会议上作演讲，会议以四种语言进行，H（k）、L（m）、N（v）、 
+T（j），演讲在连续的4个晚上，必须被同时翻译为其它3种语言，有4个翻译。 
+写条件： 
+1、～(iii)m (翻译为m语言的翻译不能连续工作3天) 
+2、～(HN) (H、N的演讲不能紧密相邻) 
+3、T< P> 
+条件总结： 
+*条件1有～(iii)m，也就是说不能连续3天没有L作演讲，而一共只有4天， 
+所以L≠1,4, L=2/3，我们由此得到了一个相对固定的条件，到此，题目也变简单了。 
+（善于把一些条件与题目中的数字或具体确定的条件联系起来一直是我们强调的） 
+如果H=2，下面哪一个一定正确？ 
+1、由于L=2/3，H=2 所以 L=3 
+2、由条件4，T
+所以D对 
+其它20-22都是如此解，利用L=2/3 
+If Tanaka is scheduled to give the second address, which of the following must be true? 
+Han is scheduled to give the third address. 
+Lu is scheduled to give the first address. 
+Lu is scheduled to give the third address. 
+Ngo is scheduled to give the first address. 
+Ngo is scheduled to give the third address. 
+答案：(C) 
+读题：4个演讲者被邀请在会议上作演讲，会议以四种语言进行，H（k）、L（m）、N（v）、 
+T（j），演讲在连续的4个晚上，必须被同时翻译为其它3种语言，有4个翻译。 
+写条件： 
+1、～(iii)m (翻译为m语言的翻译不能连续工作3天) 
+2、～(HN) (H、N的演讲不能紧密相邻) 
+3、T< P> 
+条件总结： 
+*条件1有～(iii)m，也就是说不能连续3天没有L作演讲，而一共只有4天， 
+所以L≠1,4, L=2/3，我们由此得到了一个相对固定的条件，到此，题目也变简单了。 
+（善于把一些条件与题目中的数字或具体确定的条件联系起来一直是我们强调的） 
+If Tanaka is scheduled to give the third address, which of the following must be true? 
+Han is scheduled to give the first address. 
+Han is scheduled to give the fourth address. 
+Ngo is scheduled to give the second address. 
+Lu is not scheduled to give the second address. 
+Ngo is not scheduled to give the fourth address. 
+答案：(A) 
+读题：4个演讲者被邀请在会议上作演讲，会议以四种语言进行，H（k）、L（m）、N（v）、 
+T（j），演讲在连续的4个晚上，必须被同时翻译为其它3种语言，有4个翻译。 
+写条件： 
+1、～(iii)m (翻译为m语言的翻译不能连续工作3天) 
+2、～(HN) (H、N的演讲不能紧密相邻) 
+3、T< P> 
+条件总结： 
+*条件1有～(iii)m，也就是说不能连续3天没有L作演讲，而一共只有4天， 
+所以L≠1,4, L=2/3，我们由此得到了一个相对固定的条件，到此，题目也变简单了。 
+（善于把一些条件与题目中的数字或具体确定的条件联系起来一直是我们强调的） 
+If Lu is scheduled to give the second address, which of the following must be true? 
+The interpreter translating into Japanese works during the second session. 
+The interpreter translating into Japanese works during the third session. 
+The interpreter translating into Korean works during the first session. 
+The interpreter translating into Mandarin works during the second session. 
+The interpreter translating into Vietnamese works during the fourth session. 
+答案：(A) 
+读题：4个演讲者被邀请在会议上作演讲，会议以四种语言进行，H（k）、L（m）、N（v）、 
+T（j），演讲在连续的4个晚上，必须被同时翻译为其它3种语言，有4个翻译。 
+写条件： 
+1、～(iii)m (翻译为m语言的翻译不能连续工作3天) 
+2、～(HN) (H、N的演讲不能紧密相邻) 
+3、T< P> 
+条件总结： 
+*条件1有～(iii)m，也就是说不能连续3天没有L作演讲，而一共只有4天， 
+所以L≠1,4, L=2/3，我们由此得到了一个相对固定的条件，到此，题目也变简单了。 
+（善于把一些条件与题目中的数字或具体确定的条件联系起来一直是我们强调的） 
+Healthful exercise causes the body to lose electrolytes,such as sodium and potassium, in sweat. To restore the electrolyte balance in body fluids. drink our specially formulated sports drink containing sodium and potassium when you pause during a competition. 
+The rationale given in the advertisement above is potentially misleading if which of the following is true? 
+Cooling off quickly by taking too large a drink during a sports competition can cause an athlete's concentration to lapse. 
+During exercise the body loses proportionally more water than electrolytes, so the concentration of electrolytes in the body increases. 
+Like many soft drinks, the specially formulated sports drink advertised contains a larger amount of sugar by weight than of substances composed of sodium or potassium. 
+For peak functioning of muscle tissue, a proper concent ration of electrolytes in body fluids is necessary. 
+Some athletes choose to wait until the end of a competition to restore the balance of electrolytes in their bodies. 
+答案：(B) 
+Stone Age potters crafted complicated and often delicate ceramic pots, tools, and jewel. They also crafted crude pottery figurines. Many of the delicate ceramic pots,tools, and jewelry have been found intact or nearly so,whereas the figurines, crafted at roughly the same time as the ceramics, have largely been found in tiny fragments. 
+Which of the following, if true, best explains why few of the pottery figurines, but many of the delicate ceramics, have been found intact? 
+When a pottery piece from any batch was broken during finishing, Stone Age people sometimes deliberately smashed the rest of that batch, perhaps to avert bad luck. 
+The composition of clay, which affects the durability of any pottery made from it, varies greatly from one area of the world to another. 
+Pottery was invented in the Stone Age, and techniques for making pottery were mastered well before those required for delicate ceramic work. 
+Stone Age potters crafted pottery figurines as frequently as they did ceramic pieces. 
+Many Stone Age rituals involved the destruction of a pottery figurine, perhaps as a sacrifice to the gods. 
+答案：(E) 
+问题：下面哪一个，if true，最能够解释为什么如此少的小雕像，而如此多的精致的瓷器被发现是原封不动的？ 
+读题：石器时代的陶工制造复杂并且经常是非常精致的瓷器的陶罐、工具和珠宝。他们也制造一些粗躁的陶瓷的小雕像。尽管许多精致的瓷器的陶罐、工具和珠宝被发现几乎原封不动，然而与陶瓷同时制造的小雕像，几乎都变成了碎片。 
+分析：同时制造，但是一个被打碎，一个原封不动，为什么，当然要找出它们之间的区别 
+a. 当一批中一个陶瓷被打碎了，为了避免坏的运气，人们总是故意打碎那批中剩余的陶瓷Pottery既包括瓷做的陶罐、工具和珠宝,也包括小雕像，无法说明它们之间的区别点) 
+e. 许多石器时代的祭祀包括了小雕像的破坏，也许是对神的一种供奉。 
+　（说明小雕像就是用来摔的）　 
+John:　It is permissible and even advisable to execute 　　criminals convicted of brutal murders. After all, a publicized execution can serve to deter heinous crimes and thus minimize suffering in the long run. Capital punishment is a kind of societal self-defense. 
+Mary:　You are ignoring the prior issue of whether a state or society has the right to take anyone's life. 
+If there is no such right. then, the issue of whether capital punishment deters crime is irrelevant. 
+If it were determined that capital punishment does not serve to deter crime. John's and Mary's positions would be affected in which of the following ways? 
+Neither John's nor Mary's position would be affected. 
+Both John's and Mary's positions would be weakened. 
+Mary's position would be strengthened but John's position would not be affected. 
+John's position would be weakened but Mary's position would not be affected, 
+John's position would be weakened and Mary's position would be strengthened. 
+答案：(D) 
+问题：如果已经确定，死刑惩罚并没有恐吓犯罪，John和Mary的观点将被下面哪一种方式所影响？ 
+读题：John:对被控告为残忍的杀人犯执行死刑是允许的甚至是明智的。毕竟，公开地执 行死刑可以恐吓凶恶的犯罪，并因此在将来使遭受的犯罪减少到最小。死刑的惩罚是一种社会的自我保护。 
+　　　Mary:你忽视了一个前提，一个国家和社会是否有权利剥夺一个人生命的前提。 如果没有这样的权利，那么死刑惩罚是否恐吓犯罪的问题就变得无关了。 
+分析：John认为因为公开地执行死刑可以恐吓犯罪，所以应该执行死刑。已经知道死刑惩罚并没有恐吓犯罪，那么反对了原因，就反对了结论。 
+　　　Mary认为没有剥夺一个人生命的权利，死刑惩罚就变得与犯罪无关。因此Mary的观点不受影响 
+f. John的观点将被削弱，但是Mary的观点将不受影响。 
+＊如果问题这样问： Mary的推理和John的推理之间有什么关系？ 
+答案可以这么说： Mary的推理指出了John的推理的一个前提条件或忽视的一个条件 
+The corporation expects only ------- increases in sales next year despite a yearlong effort to revive its retailing business. 
+unquestionable 
+sequential 
+modest 
+exaggerated 
+groundless 
+答案：(C) 
+revive: v.1.苏醒，复苏 2.复原，恢复生机 3.复兴，重新流行 
+retailing: n.零售业 
+unquestionable: a.无可置疑的，无可争议的 
+sequential: a.1.相继连续的，按顺序的 2.作为结果而产生的，随之而来的 
+modest: a.不太大（或多）的，不过分的，适度的 
+exaggerated: a.夸张的，言过其实的 
+groundless: a.无根据的，无理由的，无基础的 
+尽管这个公司一年多以来致力于振兴其零售业务，但它只期望在来年中有一个适度的销售增长。 
+No computer system is immune to a virus, a particularly malicious program that is designed to ------- and electronically -------- the disks on which data are stored. 
+prepare.. improve 
+restore.. disable 
+infect.. damage 
+preserve.. secure 
+invade.. repair 
+答案：(C) 
+be immune to: v.1.免除的，豁免的 2.可防止的，不受影响的 3.对…有免疫力的 
+virus: n.病毒 
+malicious: a.恶毒的，蓄意谋害的 
+disable: v.使丧失能力，使伤残 
+infect: v.侵染，感染，腐蚀 
+没有任何计算机系统能免受病毒的影响；所谓病毒，指的是一种用心极为歹毒的程序，旨在侵染并通过电子的手段给储存有数据的磁盘带来损害。 
+Recent research indicates that a system of particles which has apparently decayed to randomness from ------- state can be returned to that state; thus the system exhibits a kind of memory of its ------- condition. 
+an equilibrium.. lesser 
+an ordered.. earlier 
+an unusual.. settled 
+a chaotic.. last 
+a higher.. present 
+答案：(B) 
+decay: v.（放射性物质等）衰减，衰变 
+randomness: n.胡乱，任意，无定规，随机性 
+exhibit: v.展现，显示 
+equilibrium: n.1.平衡，均衡 2.（心情的）平静 
+lesser: a.较小的，更少的，次要的 
+ordered: a.1.有条理的，整齐的 2.〔数〕有次序的 
+chaotic: a.紊（杂）乱的，混沌的 
+最近的研究表明，某一系统的粒子，当它明显地自一种井然有序的状态衰变为无序状态之后，依然能被恢复至那种状态；这样，该系统便展示出一种对其早期状况的记忆。 
+A number of writers who once greatly ------- the literary critic have recently recanted, substituting ------- for their former criticism. 
+lauded.. censure 
+influenced.. analysis 
+simulated.. ambivalence 
+disparaged.. approbation 
+honored.. adulation 
+答案：(D) 
+recant: v.（正式并公开地）撤销，放弃，认错 
+laud: v.赞美，称赞 
+censure: n.指谪，责备，公开谴责 
+simulate: v.1.假装，冒充 2.模仿，模拟 
+ambivalence: n.1.矛盾情绪（或态度） 2.摇摆，举棋不定 
+disparage: v.1.贬低，轻视 2.诋毁 
+approbation: n.1.批（核）准，认可 2.赞成，满意 
+adulation: n.过分称赞，诌媚，奉承 
+许多作家过去曾不遗余力地诋毁过某位文学评论家，最近他们已摒弃原先的做法，对先前的批评代诸以褒奖之辞。 
+She writes across generational lines, making the past so ------- that our belief that the present is the true locus of experience is undermined. 
+complex 
+distant 
+vivid 
+mysterious 
+mundane 
+答案：(C) 
+locus: n.地点，所在地，中心 
+undermine: v.1.在…下挖 2.侵蚀…的基础 3.暗中破坏，逐渐损害（或削弱） 
+vivid: a.1.鲜明的，生气勃勃的 2.形象的，逼真的，栩栩如生的 
+mundane: a.1.尘世的，世俗的 2.单调的，平凡的 
+她的创作跨越了代与代之间的界限，将过去描绘得如此形象生动，以致于我们的信念--即现在才是真正的经验之中心--倍遭削弱。 
+Individual freedom of thought should be ------- more absolutely than individual freedom of action, given that the latter, though also desirable, must be ------- the limits imposed by the rights and freedom of others. 
+protected.. subject to 
+assessed.. measured by 
+valued.. superior to 
+exercised.. indifferent to 
+curtailed.. conscious of 
+答案：(A) 
+given that: conj.因为，以…作为前提条件，只要 
+desirable: a.合意的，值得拥有的，可取的 
+be subject to: v.受…支配，倾向于，易于接受 
+exercise: v.1.履行，执行 2.行使，发挥 
+indifferent: a.1.不感兴趣的，冷淡的，淡漠的 2.不偏不倚的，中立的 3.不重要的 
+curtail: v.截短，削减 
+个人的思想自由比诸于个人的行动自由应受到更加绝对的保护，因为尽管后者亦甚为可取，但它必须受制于他人的权利和自由所施加带来的限制。 
+Their ----- was expressed in quotidian behavior: they worshipped regularly, ---- all the regenerative processes of nature respect, and even awe. 
+selflessness.. reserving to 
+moderation.. extending to 
+reverence.. exacting from 
+piety.. according 
+serenity.. refusing 
+答案：(D) 
+quotidian: a.每日（发生）的，日常平凡的，普通的 
+worship: v.1.崇拜，敬重 2.敬奉，信奉 
+regenerative: a.恢复的，新生的，复兴的 
+awe: n.敬畏，畏怯，惊奇，惊叹 
+moderation: n.1.温和，中庸 2.缓和，减轻 3.适度，节制 
+reverence: n.1.尊敬，崇敬，敬畏 2.受尊敬，威望 
+exact from: v.强求，索取 
+piety: n.虔诚，虔敬 
+accord: v.授（赠）予，给予，赋予 
+serenity: n.1.平静，安详，宁静 2.晴朗，清澈 
+他们的虔诚之心表现于他们的日常行为：他们定期举行拜神活动，并赋予自然界所有的再生过程以敬仰甚至敬畏。 
+（句法解释：本题后半部分"according all the regenerative processes of nature respect, and even awe"中，according是现在分词，是一个及物动词，即等于giving,后接两个宾词，"all the regenerative processes of nature"为间接宾词，"respect, and even awe"为直接宾词。按正常的句子成分的排序，这部分应该是"according respect, and even awe to all the regenerative processes of nature."） 
+CHAFF: WHEAT:: 
+spore: seed 
+nucleus : cell 
+sod : flower 
+shell : pecan 
+root : tooth 
+答案：(D) 
+禾壳(不值钱的假货):小麦 
+胚种:种子 
+细胞核:细胞 
+草皮(故乡，本国):花朵 
+壳:美洲山核桃 
+根:牙齿 
+ARRAY : NUMBERS 
+body : skeleton 
+formation : soldiers 
+club: members 
+rank: insignia 
+illustration: graphs 
+答案：(B) 
+排列:数字 
+身体:骨架 
+编队:士兵 
+俱乐部:成员 
+官衔，级别:徽章 
+图解，说明:图表 
+MASK : FACE:: 
+pseudonym: name 
+caricature : likeness 
+forgery: imitation 
+disguise: detective 
+code: agent 
+答案：(A) 
+面具(遮蔽v.):脸 
+假名，笔名:名字 
+讽刺画(滑稽模仿):相似 
+伪造品:模仿 
+伪装(伪装衣；托辞):侦探 
+密码(行为准则):代理人(密探) 
+INCORRIGIBLE : REFORMED:: 
+inscrutable : understood 
+infallible : believed 
+inferior : defeated 
+ingenious: copied 
+infamous : condemned 
+答案：(A) 
+不可改造的:改革了的 
+无法辨认的:理解了的 
+不会犯错误的:相信了的 
+低级的:被击败的 
+机灵的，有独创性的:复制的 
+伤风败俗的，声名狼籍的:被谴责的 
+FILIBUSTER : LEGISLATION:: 
+restriction: zone 
+blockade: commerce 
+suspension : sentence 
+denial : accusation 
+intermission: performance 
+答案：(B) 
+会议妨碍行为:立法 
+限制:地带 
+封锁:商贸 
+中止(悬置):判决(句子) 
+否认:罪状(控告；非难) 
+中断，间歇:表演(表现) 
+FROND : LEAF:: 
+lawn: grass 
+wasteland : water 
+thicket: shrub 
+river: pond 
+boulder: rock 
+答案：(E) 
+羊齿叶子:叶子 
+草坪:草 
+荒地:水 
+灌木丛:灌木丛 
+河流:池塘 
+圆石，巨砾:岩石 
+TINT: SUFFUSE:: 
+ponder: yearn 
+regret: undo 
+damp: quench 
+shroud : screen 
+amble: wander 
+答案：(E) 
+着色，染色(色调；迹象n.):充满，染遍 
+仔细考虑，估量:热望，渴望 
+后悔:破坏(使复旧；解开) 
+抑止(使沮丧，减幅；止振):压制(熄灭) 
+覆盖，掩蔽:遮蔽(筛选v.) 
+轻跑漫步:漫步，流浪 
+MAGAZINE: PERIODICAL:: 
+newspaper: edition 
+mystery : fiction 
+volume: encyclopedia 
+chapter: book 
+article: journal 
+答案：(B) 
+杂志:期刊 
+报纸:版本 
+侦探小说(神秘):小说 
+卷，册(体积；音量):百科全书 
+章:书 
+文章:日报，期刊，杂志 
+FRANK: SECRETIVENESS:: 
+honest: theft 
+transparent : light 
+free: autocracy 
+callow: maturity 
+confident : intrepidness 
+答案：(A) 
+坦率的:遮遮掩掩，不坦率 
+诚实的:窃案，盗窃 
+透明的(坦率的；显而易见的):光 
+自由的:独裁统治 
+无经验的(未生羽毛的):成熟 
+自信的:无畏 
+　　　It is now established that the Milky Way is far more extended and of much greater mass than was hitherto thought.However, all that is visible of the (5) constituents of the Milky Way's corona (outer edge),where much of the galaxy's mass must be located, is a tiny fraction  of the corona's mass. Thus, most of the Milky Way's outlying matter must (10) be dark. Why? Three facts are salient. First,dwarf galaxies and globular clusters,into which most of the stars of the Milky Way's corona arc probably bound,(15) consist mainly of old stars. Second,old stars are not highly luminous.Third, no one has detected in the corona the clouds of gaseous matter such as hydrogen and carbon monoxide that are (20) characteristic of the bright parts of a galaxy. At present, therefore, the best explanation-though still quite tentative--for the darkness of the corona is that the corona is composed (25) mainly of old, burned-out stars. 
+The passage as a whole is primarily 
+concerned with 
+analyzing a current debate 
+criticizing a well-established theory 
+showing how new facts support a 
+previously dismissed hypothesis 
+stating a conclusion and adducing 
+evidence that may justify it 
+contrasting two types of phenomena 
+and showing how they are related 
+答案：(D) 
+　　现在，这已成为一个不争的事实：银河系要比迄今为止所想象的要来得远为浩瀚广阔，并具有远高得多的质量。然而，在银河系的冕（即外缘，该星系的很大一部分质量均位于此处）的各组成部分中，全部可见物质仅仅是冕的微不足道的一小部分。因此，银河系的绝大部分边远物质必定是暗黑无光的。 
+　　为什么？三个事实赫然显著。第一，矮星星系和球状星团--银河系冕的绝大多数星星可能汇集于其中--主要由古老的星星组成。第二，古老的星星不会显得特别的亮。第三，没人在冕中发现诸如氢气和一氧化碳之类的气体物质构成的云团。因此，有关冕的黑暗，目前最好的解释--尽管仍带有相当的推测性，是，冕主要是由古老的、燃料已耗竭了星星构成的。

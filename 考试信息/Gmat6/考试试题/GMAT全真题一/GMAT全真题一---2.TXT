@@ -1,0 +1,318 @@
+GMAT全真题一--2
+12. The environmentalist's statements, if true best support which of the following as a conclusion?
+  (A) The use of technology is the reason for the increasing encroachment of people on nature.
+  (B) It is possible to determine how many fish arey in the sea in some way other than by catching fish.
+  (C) The proportion of marine fish that are caught is as high as the proportion of rain-forest trees that are cut down each year.
+  (D) Modern technologies waste resources by catching inedible fish.
+  (E) Marine fish continue to be an endangered resource.
+13. Biometric access-control systems-those using fingerprints, voiceprints, etc. to regulate admittance to restricted areas-work by degrees of similarity, not by identity. After all, even the same finger will rarely leave exactly identical prints. Such systems can be adjusted to minimize refusals of access to legitimate access-seekers. Such adjustments, however, increase the likelihood of admitting impostors.
+  Which of the following conclusions is most strongly supported by the information above?
+  (A) If a biometric access-control system were made to work by identity, it would not produce any correct admittance decisions.
+  (B) If a biometric access-control system reliably prevents impostors from being admitted, it will sometimes turn away legitimate access-seekers.
+  (C) Biometric access-control systems are appropriate only in situations in which admittance of impostors is less of a problem than is mistaken refusal of access.
+  (D) Nobiometric access-control systems-based, for example, on numerical codes-are less likely than biometric ones to admit impostors.
+  (E) Anyone choosing an access-control system should base the choice solely on the ratio of false refusals to false admittances.
+14. Although computers can enhance people's ability to communicate, computer games are a cause of underdeveloped communication skills in children. After-school hours spent playing computer games are hours not spent talking with people. Therefore, children who spend all their spare time playing these games have less experience in interpersonal communication than other children have.
+  The argument depends on which of the following assumptions?
+  (A) Passive activities such as watching television and listening to music do not hinder the development of communication skills in children.
+  (B) Most children have other opportunities, in addition to after-school hours, in which they can choose whether to play computer games or to interact with other people.
+  (C) Children who do not spend all of their after-school hours playing computer games spend at least some of that time talking with other people.
+  (D) Formal instruction contributes little or nothing to children's acquisition of communication skills.
+  (E) The mental skills developed through playing computer games do not contribute significantly to children's intellectual development.
+15. One variety of partially biodegradable plastic beverage container is manufactured from small bits of plastic bound together by a degradable bonding agent such as cornstarch. Since only the bonding agent degrades, leaving the small bits of plastic, no less plastic refuse per container is produced when such containers are discarded than when comparable nonbiodegradable containers are discarded.
+  Which of the following, if true, most strengthens the argument above?
+  (A) Both parually biodegradable and nonbiodegradable plastic beverage containers can be crushed completely flat by refuse compactors.
+  (B) The partially biodegradable plastic beverage containers are made with more plastic than comparable nonbiodegradable ones in order to compensate for the weakening effect of the bonding agents.
+  (C) Many consumers are ecology-minded and prefer to buy a product sold in the partially biodegradable plastic beverage containers rather than in nonbiodegradable containers, even if the price is higher.
+  (D) The manufacturing process for the partially biodegradable plastic beverage containers results in less plastic waste than the manufacturing process for nonbiodegradable plastic beverage containers.
+  (E) Technological problems with recycling currently prevent the reuse as food or beverage containers of the plastic from either type of plastic beverage container.
+16. Commentator: The theory of trade retaliation states that countries closed out of any of another country's markets should close some of their own markets to the other country in order to pressure the other country to reopen its markets. If every country acted according to this kets. If every country acted according to this theory, no country would trade with any other.
+  The commentator's argument relies on which of the following assumptions?
+  (A) No country actually acts according to the theory of trade retaliation.
+  (B) No country should block any of its markets to foreign trade.
+  (C) Trade disputes should be settled by international tribunal.
+  (D) For any two countries, at least one has some market closed to the other.
+  (E) Countries close their markets to foreigners to protect domestic producers.
+SECTION 4
+Time-25 minutes
+22 Questions
+1. Machines replacing human labor there was wide anticipation that the workweek would continue to become shorter.
+  (A) Machines replacing human labor, there was wide anticipation that
+  (B) When machines replaced human labor, there was wide anticipation.
+  (C) As machines replaced human labor, it was widely anticipated that
+  (D) Insofar as machines replaced human labor, it was widely anticipated
+  (E) Human labor being replaced by machines, there was wide anticipation that
+2. More ancient Egyptian temples were constructed in the reign of Ramses 11 as in any other.
+  (A) as in any other
+  (B) as any other
+  (C) as in others
+  (D) than others
+  (E) than in any other
+3. Because the financial review covered only the last few fiscal years, and therefore the investigators were unable to determine the extent of possible earlier overpayments.
+  (A) and therefore the investigators were unable to determine the extent of possible
+  (B) so therefore the investigators were not capable of determining the possible extent of
+  (C) therefore the investigators were unable to determine the possible extent of
+  (D) the investigators were not capable of determining the possible extent of
+  (E) the investigators were unable to determine the extent of possible
+4. At ground level ozone is a harmful pollutant, but in the stratosphere it shields the Earth from the most biologically harmful radiation emitted by the Sun, radiation in the ultraviolet band of the spectrum.
+  (A) in the stratosphere
+  (B) in the stratosphere, in which
+  (C) it is in the stratosphere in which
+  (D) in the stratosphere where
+  (E) it is in the stratosphere and
+5. Socrates could have fled from Athens after he was sentenced to death, but he refused to do it.
+  (A) Socrates could have fled from Athens after he was sentenced to death, but he refused to do it.
+  (B) After he was sentenced to death, Socrated might have fled from Athens, but he refused to do it.
+  (C) After he was sentenced to death, Socrates could have fled from Athens, but he refused to do so.
+  (D) Refusing to flee from Athens, Socrates could have done so after he was sentenced to death.
+  (E) Socrates could have fled from Athens but refused to after he was sentenced to death.
+6. As sales of cars and light trucks made in North America were decilining 13.6 percent in late February many analysts conclude that evidence of a recovering automotive market remains slight.
+  (A) As sales of cars and light trucks made in North America were declining 13.6 percent in late February many analysts conclude
+  (B) Since sales of cars and light trucks made in North America declined 13.6 percent in late February, and many analysts conclude
+  (C) With sales of cars and light trucks made in North America declining 13.6 percent in late February, with many analysts concluding.
+  (D) Because sales of cars and light trucks made in North America declined 13.6 percent in late February, many analysts concluded
+  (E) Because of sales of cars and light trucks made in North America declining 13.6 percent in late February therefore many analysts concluded.
+7. A prolific architect who worked from the turn of the century until the late 1950's, Julia Morgan designed nearly 800 buildings in California, perhaps most notably William Randolph Hearst's monumental estate at San Simeon.
+  (A) Julia Morgan designed nearly 800 buildings in California, perhaps most notably William Randolph Hearst's monumental estate at San Simeon
+  (B) perhaps the most notable of the nearly 800 buildings in Califormia designed by Julia Morgan was William Randolph Hearst's monumental estate at San Simeon.
+  (C) of the nearly 800 buildings in California designed by Julia Morgan, perhaps the most notalbe was William Randolph Hearst's monumental estate at San Simeon
+  (D) nearly 800 buildings in California were designed by Julia Morgan, of which William Randolph Hearst's monumental estate at San Simeon is perhaps the most notable
+  (E) William Randolph Hearst's monumental estate at San Simeon is perhaps the most notable of the nearly 800 buildings in California designed by Julia Morgan
+8. The new regulations mandate that a company allows their retiring emplovees who would otherwise lose group health care coverage to continue the same insurance at their own expense for a specified period.
+  (A) the a company allows their retiring employees who would otherwise lose group health care coverage to continue
+  (B) companies to allow their retiring employees who would otherwise lose group health care coverage that they can continue
+  (C) that a company allow its retiring employees who would otherwise lose group health care coverage to continue
+  (D) companies allowing a retiring employee whose group health care coverage would otherwise be lose the continuation of
+  (E) companies to allow a retiring employee whose group health care coverage would otherwise be lost the continuation of
+9. Studies show that young people with higher-than-average blood pressure and their families have a history of high blood pressure are more likely than others to develop a severe form of the condition.
+  (A) and their families have a history of high blood pressure
+  (B) whose families have a history of high blood pressure
+  (C) and a history of high blood pressure runs in the family
+  (D) whose families have a history of high blood pressure running in thern
+  (E) with a history of high blood pressure running in their family
+10. During the 1980's approximately $50 billion in private investment capital is estimated to have left Mexico and added to the strain on the country's debt-ridden economy.
+  (A) During the 1980's approximately $50 billion in private investment capital is estimated to have left Mexico and added
+  (B) During the 1980's it is estimated that approximately $50 billion in private investment capital left Mexico and added
+  (C) It is estimated that there was approximately $50 billion in private investment capital that left Mexico during the 1980's and added
+  (D) It is estimated that during the 1980's approximately $50 billion in private investment capital left Mexico, adding.
+  (E) Approximately $50 billion in private investment capital is estimated as having left Mexico during the 1980's, adding.
+11. Like the color-discriminating apparatus of the human eye, insects' eves deoend on recording and comparing light intensities in three regions of the electromagnetic spectrum.
+  (A) insects' eyes depend on
+  (B) an insect eye depends on
+  (C) that of insects depend on the
+  (D) that of an insect's eye depends on
+  (E) that of an insect's is dependent on the
+12. As envisioned by researchers, commercial farming of lobsters will enable fisheries to sell the shellfish year-round, taking advantage of off-season demand standardize its sizes and colors, and to predict saies volume in advance.
+  (A) taking advantage of off-season demand, standardize
+  (B) taking advantage of off-season demand, to standardize
+  (C) taking advantage of off-season demand, standardizing
+  (D) take advantage of off-season demand stanardizing
+  (E) take advantage of off-season demand, to standardize
+13. Frances Wright's book on America contrasted the republicanism of the United States with what she saw as the aristocratic and corrupt institutions of England.
+  (A) with what she saw as
+  (B) with that which she saw to be
+  (C) to that she saw being
+  (D) and that which she saw as
+  (E) and what she saw to be
+14. The complex tax dispute between the Covered Bridge Mall and Harris Township is not likely to be adjudicated for several years, and in the meantime both sides are intent on creating difficulties for the other.
+  (A) both sides are intent on creating difficulties for the other
+  (B) both sides are intent on creating diffeculties for each other
+  (C)each side is intent on creating difficulties for the another
+  (D) each side is intent on creating difficulties for one another
+  (E) the sides are both intent on creating difficulties for each other
+15. The computer software being designed for a project studying Native American assess to higher education will not only meet the needs of that study, but also has the versatility and power of facilitating similar research endeavors.
+  (A) but also has the versatility and power of facilitating
+  (B) but also have the versatility and power to facilitate
+  (C) but it also has the versatility and power to facilitate
+  (D) and also have the versatility and power of facilitating
+  (E) and it also has such versatility and power that it can facilitate
+16. Factory outlet stores operated by manufacturers are usually located miles from downtown and regional shopping centers so as not directly to be competitive against department stores in the same trading area.
+  (A) so as not directly to be competitive against
+  (B) in order for them not to have direct competition with
+  (C) so that they do not compete directly with
+  (D) in order that they are not directly competitive against
+  (E) for the purpose of not competing directly with
+17. According to a study published by Dr.Myma Weissman, only one percent of Americans born before 1905 had suffered major depression by the age of seventy-five of those born since 1955, six percent had become depressed by age twenty-four
+  (A) only one percent of Americans born before 1905 had suffered major depression by the age of seventy-five of those born since 1955, six percent had become depressed by age twenty-four
+  (B) only one percent of Americans born before 1905 suffer major depression by the age of seventy-five if they are born since 1955, six percent become depressed by age twenty-four
+  (C) of Americans born before 1905, only one percent of them have suffered major depression by age seventy-five but six percent of those born since 1955 do by the age of twenty-four
+  (D) major depression is suffered by the age of seveaty-five by only one percent of Americans born before 1905 and by age twenty-four by the six percent born since 1955.
+  (E) Americans born before 1905 suffer major depression by the age of seventy-five only one percent of the time, but six percent of those born since 1955 did so by age twenty-four
+18. The official languages are of India, Hindi and of Pakistan Urdu but neither are spoken by a majority of the population.
+  (A) The official languages are of India, Hindi, and of Pakistan, Urdu, but neither are
+  (B) The official languages are of India, Hindi, and of Pakistan, Urdu, but neither is
+  (C) Officially, the languages are Hindi for India and for Pakistan, Urdu, but neither are
+  (D) The official language of India is Hindi, and that of Pakistan is Urdu, but neither is
+  (E) The official language of India is Hindi, and Urdu in Pakistan, but none is
+19. In contrast to true hibernators such as woodchucks and hedgehogs whose body temperatures dro close to the freezing point during the winter months, the body temperature of bears remains nearly normal throughout their prolonged sleep.
+  (A) the body temperature of bears remains nearly normal
+  (B) a nearly normal body temperature is maintained by bears
+  (C) a bear's body temperature remains nearly nornal
+  (D) a bear maintains a body temperature that is nearly normal
+  (E) bears maintain a nearly normal body temperature
+20. According to the National Pasta Association percapita consumption of pasta in the United States which has already been approaching 19 pounds a year, will achieve 30 pounds a year by the twentyfirst century
+  (A) According to the National Pasta Association, per-capita consumption of pasta in the United States which has already been approaching 19 pounds a year will achieve 30 pounds a year by the twenty-first century.
+  (B) Already approaching 19 pounds a year in the United States, the National Pasta Association predicts that per-capita consumption of pasta will reach 30 pounds a year by the twenty-first century.
+  (C) The National Pasta Association predicts by the twenty-fisrs century that per-capita consumption of pasta in the United States, which is already approaching 19 pounds a year will achieve 30 pounds a year.
+  (D) By the twenty-first century, the National Pasta Association predicts that per-capita consumption of pasta in the United States, having already approached 19 pounds a year, will reach 30 pounds a year.
+  (E) According to the National Pasta Association, per-capita consumption of pasta in the United States is already approaching 19 pounds a year and will ready and will reach 30 pounds a year by the twenty-first century.
+21. Most teen-agers who work for pay hold jobs that require few skills little responsibility and also no hope for career advancement
+  (A) little responsiblity, and also
+  (B) little responsiblity, and with
+  (C) little responsiblity, and offer
+  (D) carry little responsibility and
+  (E) carry little responsibility and offer
+22. Car owners who inflate their tires properly can substantially boost their vehicies fuel efficiency since the increase in car-road friction can waste up to five percent of car fuel by underinflation
+  (A) Car owners who inflate their tires properly can substantially boost their vehicles' fuel efficiency, since the increase in car-road friction can waste up to five percent of car fuel by underinflation
+  (B) Because the underinflation of tires can waste up to five percent of a car's fuel by increasing car-road friction car owners can substantially boost their vehicles' fuel efficiency by properly inflating the tires
+  (C) Their vehicles' fuel efficiency is substantially boosted by car owners through the proper inflation of tires that, when underinflated can waste up to five percent of car fuel by an increase in car-road friction
+  (D) The proper inflation of tires by car owners, due to the fact that underinflation can waste up to five percent of a car's fuel by the increase of car-road friction, can substantially boost their fuel efficiency
+  (E) Because up to five percent of a car's fuel are wasted throught the increases in car-road friction when the tires are underinflated car owners properly inflating tieres can substantially boost their fuel efficiency
+SECTION 5
+Time-25 minutes
+16 Questions
+1. If x is 11 percent greater than 80, then x=
+  (A) 70.9
+  (B) 71.2
+  (C) 88.0
+  (D) 88.8
+  (E) 91.0
+2. A certain car uses 12 gallons of gasoline in traveling 240 miles. In order for the car to travel the same distance using 10 gallons of gasoline, by how many miles per gallon must the car's gas mileage be increased?
+  (A) 2
+  (B) 4
+  (C) 6
+  (D) 8
+  (E) 10
+3.The figure above represents a window, with the shaded regions representing the openings for the glass, If all line segments in the figure are either horizontal or vertical and the openings are all the same size, what are the dimensions, in inches, of each opening? (1 foot= 12 inches)
+  (A) 12.0 by 18.0
+  (B) 10.0 by 16.5
+  (C) 9.0 by 15.0
+  (D) 8.0 by 10.0
+  (E) 7.5 by 13.5
+4. A farmer used 1,034 acres of land for beans, wheat and corn in the ratio of 5:2:4, respectively. How many acres were used for corn?
+  (A) 188
+  (B) 258
+  (C) 376
+  (D) 470
+  (E) 517
+5. If 2x2+4x-5=x2-2x+x2+5 then x2=
+  (A) 0
+  (B) 4
+  (C) 10
+  (D) 25
+  (E) 100
+6.
+  (A) 9
+  (B) 20
+  (C) 41
+  (D)
+  (E)100
+7. A circle graph shows how the budget of a certain company was spent: 63 percent for salaries, 12 percent for research and development, 6 percent for utilities, 5 percent for equipment, 4 percent for supplies, and the remainder for transportation. If the area of each sector of the graph is proportional to the percent of the budget it represents, how many degrees of the circle are used to represent transportation?
+8. What is the area of a square with permeter P?
+  (A) 16P2
+  (B) 4P
+  (C)
+  (D)
+  (E)
+9. A certain ball was dropped from a window 8 meters above a sidewalk. On each bounce it rose straight up exactly one-half the distance of the previous fall. After the third bounce the ball was xaught when it reached a height of exactly 1 meter above the sidewalk. How many meters did the ball travel in all?
+  (A) 21
+  (B) 19
+  (C) 17
+  (D) 15
+  (E) 13
+10. A certain store sells all maps at one price and all books at another price. On Monday the store sold 12 maps and 10 books for a total of $38.00, and on Tuesday the store sold 20 maps and 15 books for a total of $60.00. At this store. how much less does a map sell for than a book?
+  (A) $0.25
+  (B) $0.50
+  (C) $0.75
+  (D) $1.00
+  (E) $1.25
+11. Which of the following procedures is always equivalent to adding 5 given numbers and then dividing the sum by 5?
+I. Multiplying the 5 numbers and then finding the 5th root of the product.
+.Adding the 5 numbers, doubling the sum, and then moving the decimal point one place to the left.
+.Ordering the 5 numbers numerically and then selecting the middle number.
+  (A) None
+  (B) I only
+  (C) only
+  (D) only
+  (E) I and
+12. A certain company has records stords stored with a recordstorage firm in 15-incn by 12-inch by 10-inch boxes. The boxes occupy 1.08 million subic inches of space. If the company pays $0.25 per box per month for record storage, what is the total amount that the company pays each month for record storage?
+  (A) $150
+  (B) $300
+  (C )$600
+  (D) $1.200
+  (E) $2.400
+13. If a 3-digit integer is selected at random from the integers 100 through 199, inclusive, what is the probability that the first digit and the last digit of the integer are each equal to one more than the middle digit?
+  (A)
+  (B)
+  (C)
+  (D)
+  (E)
+14. Mr. Kramer, the losing candidate in a two-candidate election, received 942.586 votes, which was exactly 40 percent of all the votes cast. Approximately what percent of the remaining votes would he need to have received in order to have won at least 50 percent of all the votes cast?
+  (A) 10%
+  (B) 12%
+  (C) 15%
+  (D) 17%
+  (E) 20%
+15. Which of the following inequalities is equivalent to -2<x<4?
+  (A) |X-2|<4
+  (B) |X-1|<3
+  (C) |X+1|<3
+  (D) |X+2|<4
+  (E) None of the above
+16. If the average (arithmetic mean) of 5 positive temperatures is x degrees Fahrenheit, then the sum of the 3 greatest of these temperatures, in degrees Fahrenheit, could be
+  (A) 6x
+  (B) 4x
+  (C)
+  (D)
+  (E)
+SECTION 6
+Time-25 minutes
+16 Questions
+1. The chanterelle, a type of wild mushroom. grows beneath host trees such as the Douglas fir, which provide it with necessary sugars. The underground filaments of chanterelles, which extract the sugars, in turn provide nutrients and water for their hosts. Because of this mutually beneficial relationship, harvesting the chanterelles growing beneath a Douglas fir seriously endangers the tree.
+  Which of the following, if casts the most doubt on the conclusion drawn above?
+  (A) The number of wild mushrooms harvested has increased in recent years.
+  (B) Chanterelles grow not only beneath Douglas firs but also beneath other host trees.
+  (C) Many types of wild mushrooms are found only in forests and cannot easily be grown elsewhere.
+  (D) The harvesting of wild mushrooms stimulates future growth of those mushrooms.
+  (E) Young Douglas fir seedings die without the nutrients and water provided by chanterelle filaments.
+2. The reason much refrigerated food spoils is that it ends up out of sight at the back of the shelf. So why not have round shelves that rotate? Because such rotating shelves would have just the same sort of drawback, since things would fall off the sheives' edges into the rear corners.
+  Which of the following is presupposed in the argument against introducing rotating shelves?
+  (A) Refrigerators would not be made so that their interior space is cylindrical.
+  (B) Refrigerators would not be made to have a window in front for easy viewing of their contents without opening the door.
+  (C) The problem of spoliage of refrigerated food is not amenable to any solution based on design changes.
+  (D) Refrigerators are so well designed that there are bound to be drawbacks to any design change.
+  (E) Rotating shelves would be designed to rotate only while the refrigerator door was open.
+3. It would cost Rosetown one million dollars to repair all of its roads. In the year after completion of those repairs, however, Rosetown would thereby avoid incurring three million dollars worth of damages, since currently Rosetown pays that amount annually in compensation for damage done to cars each year by its unrepaired roads.
+  Which of the following, if true, gives the strongest support to the argument abvoe?
+  (A) Communities bordering on Rosetown also pay compensation for damage done to cars by their unrepaired roads.
+  (B) After any Rosetown road has been repaired, several years will elapse before that road begins to damage cars.
+  (C) Rosetown would need to raise additional taxes if it were to spend one million dollars in one year on road repairs.
+  (D) The degree of damage caused to Rosetown's roads by harsh weather can vary widely from year to year.
+  (E) Trucks cause much of the wear on Rosetown's roads, but owners of cars file almost all of the claims for compensation for damage caused by nurepaired roads.
+4. Two experimental garden plots were each planted with the same number of tomato plants. Magnesium salts were added to the first plot but not to the second. The first plot produced 20 pounds of tomatoes and the second plot produced 10 pounds. Since nothing else but water was added to either plot, the higher yields in the first plot mush have been due to the magnesium salts.
+  Which of the following, if true most seriously weakens the argument above?
+  (A) A small amount of the magnesium salts from the first plot leached into the second plot.
+  (B) Tomato plants in a third experimental plot, to which a high-nitrogen fertilizer was added, but no magnesium salts, produced 15 pounds of tomatoes.
+  (C) Four different types of tomatoes were grown in equal proportions in each of the plots.
+  (D) Some weeds that compete with tomatoes cannot tolerate high amounts of magnesium salts in the soil.
+  (E) The two experimental plots differed from each other with respect to soil texture and exposure to sunlight.
+5. Archaeologists have found wheeled ceramic toys made by the Toltec. twelfth-century inhabitans of what is now Veracruz. Although there is no archaeological evidence that the Toltec used wheels for anything but toys, some anthropologists hypothesize that wheeled utility vehicles were used to carry materials needed for the monumental structures the Toltec produced.
+  Which of the following, if true, would most help the anthropologists explain the lack of evidence noted above?
+  (A) The Toltec sometimes incorporated into their toys representations of utensils or other devices that served some practical purpose.
+  (B) Any wheeled utility vehicies used by the Toltec could have been made entirely of wood, and unlike ceramic, wood decays rapidly in the humid climate of Veracruz.
+  (C) Carvings in monument walls suggest that the Toltec's wheeled ceramic toys sometimes had ritual uses in addition to being used by both children and adults as decorations and playthings.
+  (D) Wheeled utility vehicles were used during the twelfth century in many areas of the world, but during this time wheeled toys were not very common in areas outside Veracruz.
+  (E) Some of the wheeled ceramic toys were found near the remains of monumental structures.
+6. Demographers doing research for an international economics newsletter claim that the average per capita income in the country of Kuptala is substantially lower than that in the country of Bahlton. They also claim, however, that whereas poverty is relatively rare in Kuptala, over half the population of Bahlton lives in extreme poverty. At least one of the demographers' claims must, therefore be wrong.
+  The argument above is most vulnerable to which of the following criticisms?
+  (A) It rejects an empirical claim about the average per capita incomes in the two countries without making any attempt to discredit that claim by offering additional economic evidence.
+  (B) It treats the vague term "poverty" as though it had a precise and universally accepted meaning.
+  (C) It overlooks the possibility that the number of people in the two countries who live in poverty could be the same even though the percentages of the two populations that live in poverty differ markedly.
+  (D) It fails to show that wealth and poverty have the same social significance in Kuptala as in Bahlton.
+  (E) It does not consider the possibility that incomes in Kuptala, unlike those in Bahiton, might all be very close to the country's average per capita income.
+7. Normally, increases in the price of a product decrease its sales except when the price increase accompanies an improvement in the product. Wine is unusual, however. Often increases in the price of a particular producer's wine will result in increased sales, even when the wine itself is unchanged.
+  Which of the following, if true, does most to explain the anomaly described above?
+  (A) The retail wine market is characterized by an extremely wide range of competing products.
+  (B) Many consumers make decisions about which wines to purchase on the basis of reviews of wine published in books and periodicals.
+  (C) Consumers selecting wine in a store often use the price charged as their main guide to the wine's quality.
+  (D) Wine retailers and producers can generally in

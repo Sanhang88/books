@@ -1,0 +1,28 @@
+动词时态要一致
+
+   “To arrange for an appointment with us, please complete the reply slip and sent it back to us.”
+   上面这句话很好，很客气，但是第二分句的动词sent的时态不对，应该改为send，从过去简单时态变成现在简单时态，使两个等立分句中的动词时态一致。
+   在语法上，这叫做时态的一致（sequence of tenses）。下面是几个指导原则：
+Ⅰ 主句（main clause）里的动词是过去时态的话，名词从句（noun clause）或副词从句（adverb clause）里的动词也要以过去式出现，如：
+   Tom said/ that he was busy yesterday.
+   Janet wanted to know/ why she was not given a more important job.
+   Lily failed/ because she did not submit the project report.
+   None could help you/ if you continued being lazy.
+   Although David was unwell,/ he went to office as usual.
+   这原则有两个例外，即：
+   (i)当名词从句表达一种真理或既成事实时，其动词时态是现在式，如：
+   Newton discovered/ that gravitation causes apples to fall.
+   Our elders told us/ that experience is the best teacher.
+   (ii)比较性的副词从句里的动词时态有伸缩性，视情况而定，不一定非过去式不可，如：
+   Susan valued his advice more/ than she values mine.
+   Peter weighed as much/ as I shall weigh after my dinner.
+Ⅱ 主句里的动词时态是现在式时，名词从句或副词从句的时态可以是现在式，也可以是其他适合的时态，如：
+   Jim believes/ that he will get the job.
+   The officer has just told us/that his annual leave was approved weeks ago.
+   Christine is infuriated/ because she was criticised for her sloppy work.
+Ⅲ 形容词从句（adjective clause）中的时态最自由，最不受拘束，如：
+   Tom mooted the idea/which some ignored, which others tend to attack, but which many will eventually accept.
+   这句里的主句动词是过去式，第一个形容词从句的动词虽是过去，第二个里的却是现在式，第三个里的是将来式。
+   最后请看看这句话：
+   “President Clinton stated/ that he will not run in the next presidential election.”
+   按照常理，名词从句里的“will not run”要改为“would not run”才能和主句里的过去式“stated”一致。论者把这种现象视为 “特殊情况”，算是给名人的“特权”吧！一般人还是遁常道而行，避免争议。

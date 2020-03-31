@@ -1,0 +1,88 @@
+平行结构
+   1. 含并列连词and but or的平行结构
+解题要点 当上述并列连词连接两项或多项对等成分时，这些成分必须同词性、同形式。特别注意出现三项以上（含三项）的并列成分，多是考试焦点。
+全真例题分析
+(1) Quartz may be transparency, translucent, or opaque, and it may be colorless or colored (91.5)
+[答案] A 并列连词or连接三项，其中两项为形容词translucent与opaque，故（A）应用形容词transparent与之并列。
+(2) At the age of 94. Composer, conductor. Arranger. And acting Eva Jessye led her choral group in the first production of the opera porgy and Bess, written in 1935. (92.1)
+[答案] A 并列连词and连接四项表示身份职业的名词，故（A）动名词应改为actress。
+(3) Atrophy is a decrease in size of a cell, organ, tissues, or other part of the body such as (91.10)
+[答案] C 并列连词or连接四项名词结构，其中cell 和organ皆为单数形式，故（C）亦应改为单数tissue。
+(4) Direct mail advertising serves to acquaint customers with Products, alert them to new opportunities, and paving the way for other sales activities (93.1)
+[答案] C 并列连词and连接三项动宾结构，前两项均为动词原形，故（C）动名词亦应改为原形动词pave.
+(5) A majority of the reports received from people claiming to have seen the lengendaiy Loch Ness monster have proven to be mistakes, misconceptions, or they were being tricked. (93.10)
+[答案] D 并列连词or连接三项成分。前两项均为名词，故（D）不应出现句子结构，而应改为名词tricks与前面的mistakes和misconceptions平行。
+(6) The tongue is capable of many motions and configurations and plays vital rode in chewing, swallowed and speaking.
+[答案] D 并列连词and连接三个单词。其中两项均为动名词，故（D）亦应改为动名词swallowing。
+空一行
+2. 比较级句型要求对比双方结构对等，比较范围相当。
+全真列题分析
+(1) Probably no man had more effcet on the daily lives of most people in the United States ------- Henry Ford. A pioneer in automobile production.
+(A) as was
+(B) than was
+(C) than did
+(D) as did (92.8)
+[答案] C 比较句型 more…than 要求比较的双方结构相等。前项是实义动词的过去时形式had，故选（C）than did与之平行。
+(2) The state of Maine generally has cooler temperatures than -------
+(A) there are most other states
+(B) most other states which have
+(C) most other states have
+(D) having most other states (93.10)
+[答案] C 这是标准的more…than比较句型。只有（C）的句子结构与相对比的前一项完全一致。
+(3) The annual worth of Utah*s manufacturing is greater than-------
+(A) that of its mining and farming combined
+(B) mining and farming combination
+(C) that mining and farming combined
+(D) of its combination mining and farming (91.8)
+[答案] A 此句比较的是utah的年产值（the annual worth) （A）中that即代替了the annual worth，故前后比较的范围，内容一致。
+(4) The activities of the international marketing researcher are frequently much broader than-------
+(A) the domestic marketer has
+(B) the domestic marketer does
+(C) those of the domestic marketer
+(D) that which has the domestic marketer (91.5)
+[答案] C 此句比较的是国际市场研究者与国内市场研究者的活动（the activities) 为避免同词重复，用（C）those来代替前面的名词the activities ,因而对比双方比较的范围是平行相等的。
+(5) Fructose is a monosaccharide sugar that is much sweeter -------
+(A) than cane sugar does
+(B) does cane sugar
+(C) cane sugar
+(D) than cane sugar (90.5)
+[答案] D 此比较句型前半部分主系表结构，后半部不可出现助动词does（答案A及B），但可省略系词，如（D）。
+空一行
+3. 比较句型 the +比较级…the＋比较级要求前后结构相等。
+全真例题分析
+(1) The flatter a hair appears under a microscope ------- wavier it is.
+(A) although
+(B) which
+(C) and
+(D) the (92.1)
+[答案] D The flatter a hair appears 与（D）the wavier it is 是完全对等的结构。
+比较级 主语 谓语动词 比较级 主语 系动词
+(2) The less the surface of the ground yields to the weight of the body of a runner, ------- to the body.
+(A) the stress it is greater
+(B) greater is the stress
+(C) greater stress is
+(D) the greater the stress (90.1)
+[答案] D The less the surface 与答案（D） the greater the stress 是完全对等的结构。
+4. 语意上的平行结构
+解题要点 有一些词和短语表达比较的概念，尽管不是比较级句型，但同样要求前后对比双方同形式，同性质。
+全真例题分析
+(1) Alexander Graham Bell once told his family that he would rather of the deaf ------- of the telephone.
+(A) than inventing
+(B) than as the inventor
+(C) the invention
+(D) as the inventor (90.8)
+[答案] B 表示比较概念的短语would rather …than应使用平行结构。
+(2) Thomas Jefferson*s achievements as an architect rival his contributions ------- a politician.
+(A) such
+(B) more
+(C) as
+(D) than (90.1)
+[答案] C 动词rival （比得上）要求比较二项结构相等。
+(3) California*s agricultural supremacy dates from 1947. When its farm output first ------- any other state.
+(A) that exceeded
+(B) exceeded that
+(C) exceeded that of
+(D) that exceeded of (92.10)
+[答案] C 动词exceeded （超过）要求比较的内容相当。（C）代词that用以指代比较的内容“farm output”
+(4) It is common lcnowledge that a flash of lightning is seen before a clap of thunder heard . (93.5)
+[答案] D 连词 be fore用以引出先后发生的两个动作。从句意上看。这两个动作是对比关系，故应用平行结构。（D）改为a clap of thunder is heard ,与a flash of lightning is seen相平衡

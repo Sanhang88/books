@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6cb25222-6925-451d-a237-b6aa274b5eaf</dc:identifier>
+        <dc:title>顾家北手把手教你雅思写作(剑9版)</dc:title>
+        <dc:creator opf:file-as="顾家北" opf:role="aut">顾家北</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.46.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-11-28T16:00:00+00:00</dc:date>
+        <dc:publisher>中国人民大学出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">7752a86b-20a3-474a-865e-fc51ef6bbe9d</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;顾家北&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-08-12T01:38:27.491000+00:00" name="calibre:timestamp"/>
+        <meta content="顾家北手把手教你雅思写作(剑9版)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

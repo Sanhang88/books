@@ -1,0 +1,7 @@
+GMAT考试纲要
+    GMAT内容结构从1998年起，GMAT已全部改为计算机化考试， CAT的出题方法和答题技巧，与笔试相比没有任何变化。
+    GMAT考时为3小时30分钟，共分七个sections，三种内容，如下：
+    Analytical Writing分析性写作：60分钟，2篇作文，Analysis of an Issue（事件分析），Analysis of an Argument（论点分析）
+    Analysis of Argument Questions for the GMAT：你若有Adobe Acrobat Reader，点击此处可浏览ETS的作文题库Analysis of Argument Questions for the GMAT
+    Quantitative数学能力：75分钟，37题，Data Sufficiency/ Problem Solving，数据充分性/ 问题解答
+    Verbal语文能力：75分钟，……

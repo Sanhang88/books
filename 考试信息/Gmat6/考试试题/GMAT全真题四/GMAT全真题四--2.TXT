@@ -1,0 +1,381 @@
+GMAT畠寔籾膨---2
+7. The passage mentions each of the following as an apropriate kind of governmental action EXCEPT
+(A) getting firms to offer temporary employment primartly to a certain group of people
+(B) encouraging equitable pay for temporary and permanent employces.
+(C) establishing guidelines on the proportion of temporary workers by labor unions
+(D) establishing guidelines on the proportion of temporary workers that firms should employ
+(E) ensuring that temporary workers obtain benefits from their employers
+　　　Although numbers of animals in a given region may fluctuate from year to year, the fluctuations are often temporary and, over long periods, trivial. Scientists
+Line have advanced three theories of population control to
+(5) account for this relative constancy.
+　　　The first theory attributes a relatively constant population to periodic climatic catastrophes that decimate populations with such frequency as to prevent them from exceeding some particular limit. In the case of
+(10) small organisms with short life cycles, climatic changes need not be catastrophic: normal seasonal changes in photoperiod (daily amount of sunlight), for example, can govern population growth. This theory-the 　density-independent view-asserts that climatic factors
+(15) exert the same regulatory effect on population regardless of the numbeer of individuals in a region.
+　　　A second theory argues that population growth is primarily density-dependent-that is, the rate of growth of a population in a region decreases as the
+(20) number of animals increase. The meclianisms that manage regulation may vary. For example, as numbers increase, the food supply would probably diminish, which would increase mortality. In addition, as Lotka and Volterra have shown, predators can find prey more
+(25) easily in high-density populations. Other regulators include physiological control mechanisms: for example, Christian and Davis have demonstrated how the crowding tha tresults from a rise in numbers may bring about 　hormonal changes in the pituitary and adrenal
+(30) glands that in turn may regulate popultion by lowering sextral activity and inhibiting sexual maturation. There is evidence that these effects may persist for three generations in the absence of the original provocation. One 　challenge for density-dependent theorists is to
+(35) develop models that would allow the precise prediction of the effects of crowding.
+　　　A third theory, proposed by Wynne-Edwards and termed "epideictic" argues that organisms have evolved a "code" in the form of social or cpideictic behavior
+(40) displays, such as winter-roosting aggregations or group vocalizing; such codes provide organisms with information on population size in a region so that they can, if necessary, exercise reproductive restraint. However Wynne-Edwards' theory, linking animal social behavior
+(45) and population control, has been challenged, with some justification, by several studies.
+8. The primary purpose of the passage is to
+(A) argue against those scientists who maintain that animal populations tend to fluctuate
+(B) compare and contrast the density-dependent and epideictie theories of population control
+(C) provide examples of some of the ways in which animals exercise reporoductive restraint to control their own numbers.
+(D) suggest that theories of population control that concentrate on the social behavior of animals are more open to debate than are theories that do not
+(E) summarize a number of scientific theories that attempt to explain why animal populations do not exceed certain limits
+9. It can be inferred from the passage that proponents of the density-dependent theory of populafion control have not yet been able to
+(A) use their theory to explain the population growth of organisms with short life cycles
+(B) reproduce the results of the study of Christian and Davis
+(C) explain adequately why the numbers of a population can increase as the population's rate of growth decreases
+(D) make sufficiently accurate predictions about the effects of crowding
+(E) demonstrate how predator populations are themselves regulated
+10.Which of the following, if true, would best support the density-dependent theory of population control as it is described in the passage?
+(A) As the number of foxes in Minnesota decreases, the growth rate of this population of foxes begins to increase.
+(B) As the number of woodpeckers in Vermont decreases, the growth rate of this population of woodpeckers also begins to decrease.
+(C) As the number of prairie dogs in Oklahoma increases, the growth rate of this population of prairie dogs also begins to increase.
+(D) Afteer the number of beavers in Tennessee decreases, the number of predators of these beavers begins to increase.
+(E) After the number of eagles in Montana decreases, the food supply of this population of eagles also begins to decrease.
+11. According to the Wynne-Edwards theory as it is described in the passage, epideictic behavior displays serve the function of
+(A) determining roosting aggregations
+(B) locating food
+(C) attracting predators
+(D) regulating sexual activity
+(E) triggering hormonal changes
+12. The challenge posed to the Wynne-Edwards theory by several studies is regarded by the author with
+(A) complete indifference
+(B) qualified acceptance
+(C) skeptical amusement
+(D) perplexed astonishment
+(E) agitated dismay
+13. Which of the following statements would provide the most logical continuation of the final paragraph of the passage?
+(A) Thus Wynee-Edwards' theory raises serious questions about the constancy of animal population in a region
+(B) Because Wynee-Edwards' theory is able to explain more kinds of animal behavior than is the density-dependent theory, epideictic explanations of population regulation are now widely accepted.
+(C) The results of one study, for instance, have suggested that group vocalizing is more often used to defend territory than to provide information about population density.
+(D) Some of these studies have, in fact, worked out a systematic and complex code of social behavior that can regulate population size.
+(E) One study, for example, has demonstrated that birds are more likely to use winter-roosting aggregations than group vocalizing in order to provide information on population size.
+　　　In recent years, teachers of introductory courses in Asian American studies have been facing a dilemma nonexistent a few decades ago, when hardly any texts
+Line in that field were available. Today, excellent antho
+(5) logies and other introductory texts exist, and books on individual Asian American nationality groups and on general issues important for Asian Americans are published almost weekly. Even professors who are experts in 　the field find it difficult to decide which of
+(10) these to assign to students; nonexperts who teach in related areas and are looking for writings for any by Asian Americans to include in survey courses are in an even worse position.
+　　　A complicating factor has been the continuing lack
+(15) of specialized one-volume reference works on Asian Americans, such as biographical dictionaries or desktop encyclopedias. Such works would enable students taking Asian American studies courses (and professors in related 　fields) to look up basic information on Asian
+(20) American individuals, institutions history, and culture without having to wade through mountains of primary source material. In addition, given such works, Asian American studies professors might feel more free to include 　more challenging Asian American material in
+(25) their introductory reading lists, since good reference works allow students to acquire on their own the background information necessary to interpret difficult or unfamiliar material.
+14. The author of the passage is primarily concerned with doing which of the following?
+(A) Recommending a methodology
+(B) Describing a course of study
+(C) Discussing a problem
+(D) Evaluating a past course of action
+(E) Responding to a criticism
+15. The "dilemma" mentioned in line 2 can best be characterized as being caused by the mercessity to make a choice when faced with a
+(A) lack of acceptable alternatives.
+(B) lack of strict standards for evaluating alternatives
+(C) preponderance of bad altermatives as compared to good
+(D) multitude of different alternatives
+(E) large number of alternatives that are nearly identical in content
+16. The passage suggests that the factor mentioned in lines 14-17 complicates professors' attempts to construct introductory reading lists for courses in Asian American studies in which of the following ways?
+(A) By making it difficult for professors to identify primary source material and to obtain standard information on Asian American history and culture
+(B) By preventing professors from identifying excellent anthologies and introductory texts in the field that are both recent and understandable to students
+(C) By preventing professors from adequately evaluating the quality of the numerous texts currently being published in the field
+(D) By making it more necessary for professors to select readings for their courses that are not too challenging for students unfamiliar with Asian American history and culture
+(E) By making it more likely that the readings professors assign to students in their courses will be drawn solely from primary sources
+17. The passage implies that whihc of the following was true of introductory courses in Asian American studies a few decades age?
+(A) The range of different texbooks that could be assigned for such courses was extremely limited.
+(B) The texts assigned as readings in such courses were often not very challenging for students.
+(C) Students often complained about the texts assigned to them in such courses.
+(D) Such courses were offered only at schools whose libraries were rich in primary sources.
+(E) Such courses were the only means then available by which people in the United States could acquire knowledge of the field.
+18. According to the passage, the existence of good one-volume reference works about Asian Americans could result in
+(A) increased agreement among professors of Asian Americna studies regarding the quality of the sources available in their field
+(B) an increase in the number of students signing up for introductory courses in Asian Americna studies
+(C) increased accuracy in writings that concern Asian American history and culture
+(D) the use of introductory texts about Asian American history and culture in courses outside the field of Asian American studies
+(E) the inclusion of a wider range of Asian Americna material in introductory reading lists in Asian Americna studies
+SECTION 5
+Time-25 minutes
+20 Questions
+1. How much is 20 percent of a certain number?
+(1) 10 percent of the number is 5.
+(2) 40 percent of twice the number is 40.
+2. Is r greater than 0.27?
+(1) r is greater than
+(2) r is equal to
+3. What percent of a group of people are women with red hair?
+(1) Of the women is the group. 5 percent have red hair.
+(2) Of the men is the group, 10 percent have red hair
+4. If i and j are integers, is i+j an even integer?
+(1) i<10
+(2) i=j
+TOTAL EXPENSES FOR THE
+FIVE DIVISIONS OF COMPANY H
+5. The figure above represents a circle graph of Company H's total expenses broken down by the expenses for each of its five divisions. If O is the center of the circle and if Company H's total expenses are $5.400.000. what are the expenses for dividion R?
+(1) x=94
+(2) The total expenses for dividions S and T are twice as much as the expenses for division
+6. What is the value of ?
+(1) k+r=20
+(2) kr=64
+7. A number of people each wrote down one of the first 30 positive integers. Were any of the integers written down by more than one of the people?
+(1) The number of people who wrote down an integer was greater than 40.
+(2) The number of people who wrote down an integer was less than 70.
+8. If d decimal, is d0.5?
+(1) When d is rounded to the nearest tenth, the result is 0.5.
+(2) When d is rounded to the nearest integer, the result is 1.
+9. How many of the 60 cars sold last month by a certain dealer had neither power windows nor a stereo?
+(1) Of the 60 cars sold 20 had a stereo but not power windows.
+(2) Of the 60 cars sold, 30 had both power windows and a stereo.
+10. In the xy-plane, does the point (4, 12) lie on line k?
+(1) The point (1, 7) lies on line k.
+(2) The point (-2, 2) lies on line k.
+11. What was the total amount of revenue that a theater received from the sale of 400 tickets, some of which were sold at x percent of full price and the rest of which were sold at full price?
+(1) x=50
+(2) Full-price tickets sold for $20 each.
+12. If x, y, and z are nonzero numbers, is xz=12?
+(1) x2yz=12xy
+(2)
+13. When a player in a certain game tossed a coin a aumber of times, 4 more heads than tails resulted. Heads or tails resulted each time the player tossed the coin. How many times did heads result?
+(1) The player tossed the coin 24 times.
+(2) The player received 3 points each time heads resulted and 1 point each time tails resulted. for a total of 52 points
+14. What is the area of triangular region ABC above?
+(1) The product of BD and AC is 20.
+(2) x=45.
+15. What is the value of 36,500(1.05)n?
+(1) n2-5n+6=0
+(2) n-20
+16. The inflation index for the year 1989 relative to the year 1970 was 3.56. indicating that, on the average, for each dollar spent in 1970 for goods, $3.56 had to be spent for the same goods in 1989. If the price of a Model K mixer increased precisely according to the inflation index, what was the price of the mixer in 1970?
+(1) The price of the Model K mixer was $102.40 more in 1989 than in 1970.
+(2) The price of the Model K mixer was $142.40 more in 1989.
+17. Every member of a certain club volunteers to contribute equally to the purchase of a $60 gift certificate. How many member does the club have?
+(1) Each member's contribution is to be $4.
+(2) If 5 club members fail to contribute, the share of each contributing member will increase by $2.
+18. While driving on the expressway, did Robin ever exceed the 55-miles-per-hour speed limit?
+(1) Robin drove 100 miles on the expressway.
+(2) Robin drove for 2 hours on the expressway.
+19. Is n an integer?
+(1) n2 is an integer.
+(2) is an integer.
+20. Is x negative?
+(1) x3(1-x2)<0
+(2) x2-1<0
+SECTION 6
+Time-25 minutes
+22 Questions
+1. Carnivorous mammals can endure what would otherwise be lethal levels of body heat because they have a heat-exchange network which kept the brain from getting too hot.
+(A) which kept
+(B) that keeps
+(C) which has kept
+(D) that has been keeping
+(E) having kept
+2. Rising inventories, when unaccomapnied correspondingly by increases in sales, can lead to production cutbacks that would hamper economic growth.
+(A) when unaccompanied correspondingly by increases in sales, can lead
+(B) when not accompanied by corresponding increases in sales, possibly leads
+(C) when they were unaccompanied by corresponding sales increases, can lead
+(D) if not accompanied by correspondingly increased sales, possibly leads
+(E) if not accompanied by corresponding increases in sales, can lead
+3. That educators have not anticipated the impact of microcomputer technology can hardly be said that it is their fault: Alvin Toffler, one of the most prominent students of the future, did not even mention microcomputers in Future Shock, published in 1970.
+(A) That educators have not amticipated the impact of microcomputer technology can hardly be said that it is their fault
+(B) That educators have not anticipated the impact of microcomputer technology can hardly be said to be at fault
+(C) It can hardly be said that it is the fault of educators who have not anticipated the impact of microcomputer technology
+(D) It can hardly be said that educators are at fault for not anticipating the impact of microcomputer technology
+(E) The fact that educators are at fault for not anticipating the impact of microcomputer technology can hardly be said
+4. Sunspots, vortices of gas associated with strong electromagnetic activity, are visible as dark spots on the surface of the Sun but have never been sighted on the Sun's poles or equator.
+(A) are visible as dark spots on the surface of the Sun but have never been sighted on
+(B) are visible as dark spots that never have been sighted on the surface of the Sun
+(C) appear on the surface of the Sun as dark spots although never sighted at
+(D) appear as dark spots on the surface of the Sun, although never having been sighted at
+(E) appear as dark spots on the Sun's surface, which have never been sighted on
+5. Legend has it that when the Mohawk Joseph Brant was presented to George in 1776, he proudly refused to kiss the King's hand, inasmuch as he regarded himself an ally, not a subject.
+(A) as he regarded himself an ally, not
+(B) that he regarded himself to be an ally rather than
+(C) as he considered himself an ally, not
+(D) that he considered himself to be ally instead of
+(E) as he considered himself as an ally rather than
+6. An artistic pressence of the first order, one frequently ranked with Picasso, Stravinsky, and James Joyce, Martha Graham was acclaimed as a great dancer long before her innovative masterworks made her the most hnored of American choreographers.
+(A) Martha Graham was acclaimed as
+(B) Martha Graham was acclaimed to be
+(C) Martha Graham's acclaim is as
+(D) Martha Graham's acclaim to be
+(E) Martha Graham's acclaim was in being
+7. Research during the past several decades on the nature of language and the processes that produce and make it understandable has revealed great complexitv instead of underlying simplicity.
+(A) that produce and make it understandable has revealed great complexity instead of underlying simplicity
+(B) of producing and understanding it have revealed not underlying simplicity but great complexity
+(C) by which it is produced and understood has revealed not underlying simplicity but great complexity
+(D) by which it is produced and understood have revealed great complexity rather than underlying simplicity
+(E) by which one produces and understands it have revealed great complexity instead of underlying simplicity
+8. The metabolic rate of sharks is low compared with the rates of most other fishes.
+(A) with the rates of most other fishes
+(B) to most other fishes' rate
+(C) to that of rates for most other fishes
+(D) to most other fishes
+(E) with most other fishes
+9. Even as they never forgave the Crusaders who overran their homland, the Syrians have never absolved the French for taking territory from them.
+(A) Even as they never forgave
+(B) While they never forgave
+(C) Just like they never forgave
+(D) Similarly to not forgiving
+(E) In spite of their never forgiving
+10. The data collected by weather airplanes that fly into the heart of a hurricane are useful mainly for gauging the storm's structure and strength, not for the speed and the path of their movement.
+(A) not for the speed and the path of their movement
+(B) not for the speed and path of its movement
+(C) not the speed and path of its movement
+(D) and not the speed and path of their movements
+(E) and not for the speed and the path of its movements
+11. Unlike the United States. Japanese unions appear reluctant to organize lower-paid workers.
+(A) Unlike the United States, Japanese unions appear reluctant to organize
+(B) Unlke those in the United States, Japanese unions appear reluctant to organize
+(C) In Japan, unlike the United States, unions appear reluctant about organizing
+(D) Japanese unions, unlike the United States, appear reluctant to organize
+(E) Japanese unions, unlike those in the United States, appear reluctant about organizing
+12. The Olympic Games helped to keep peace among the pugnacious states of the Greek world in that a sacredtruce was proclaimed during the festival's month
+(A) world in that a sacred truce was proclaimed during the festival's month
+(B) world, proclaiming a sacred truce during the festival's month
+(C) world when they proclaimed a sacred truce for the festival month
+(D) world, for a sacred truce was proclaimed during the month of the festival
+(E) world by proclamation of a sacred truce that was for the month of the festival
+13. The delinquency rates on mortagages for office buildings, hotels, shopping malls, and other commercial properties held by the nation's insurance companies in recent months have increased sharply, leading to predictions that foreclosures on these types of loan could double over the next three years.
+(A) in recent months have increased sharply, leading to predictions that foreclosures on these types of loan could double over the next three years
+(B) have increased sharply in recent months, leading to predictions that foreclosures on these types of loans could double over the next three years.
+(C) have increased sharply in recent months, leading to predictions that doubling of foreclosures on these types of loans could occur over the next three years.
+(D) has increased sharply in recent months and lead to predicitons that over the next three years doubling of foreclosures on this type of loan could occur
+(E) in recent months has increased sharply, and this leads to predictions that foreclosures on that type of loan in the next three years could double
+14. Just as reading Samuel Pepy's diary gives a student a sense of the seventeenth century-of its texture and psyche-so Jane Freed's guileless child narrator takes the operagoer inside turn-of-the-century Vienna.
+(A) so Jane Freed's guileless child narrator takes the operagoer
+(B) so listening to Jane Freed's guileless child narrator takes the operagoer
+(C) so the guileless child narrator of Jane Freed takes the operagoer
+(D) listening to Jane Freed's guileless child narrator takes the operagoer
+(E) Jane Freed's guileless child narrator takes the operagoer to her opera
+15. Warning that computers in the United States are not secure, the National Academy of Sciences has urged the nation to revamp computer security procedures, institute new emergency response teams, creating a special nongovernment organization to take charge of computer security planning.,
+(A) creating a special nongovernment organization to take
+(B) creating a special nongovernment organization that takes.
+(C) creating a special nongovernment organization for taking
+(D) and create a special nongovernment organization for taking
+(E) and create a special nongovernment organization to take
+16. Bihar is India's poorest state, with an annual per capita income of $111, lower than in the most impoverished countries of the world.
+(A) lower than in
+(B) lower than that of
+(C) and lower than that of
+(D) which is lower than in
+(E) which is lower than it is in
+17. Before the Civil War, Harriet Tubman, herself an escaped slave, returned slave, returend again and again to Maryland to guide other slaves along the Underground Railroad to freedom.
+(A) herself an escaped slave, returned again and again to Maryland to guide
+(B) being escaped slave herself, returned again and again to Maryland so as to guide
+(C) an escaped slave herself, returned again and again to Maryland for guiding
+(D) herself as an escaped slave, returned again and again to Maryland so as to be the guide of
+(E) who had been herself as an escaped slave, returned again and again to Maryland for the guiding of
+18. While all states face similar industrial waste problems the predominating industries and the regulatory environment of the states obviously determines the types and amounts of waste produced, as well as the cost of disposal.
+(A) all states face similar industrial waste problems, the predominating industries and the regulatory environment of the states obviously determines
+(B) each state faces a similar industrial waste problem, their predominant industries and regulatory environment obviously determine
+(C) all states face a similar industrial waste problem, their predominating industries and regulatory environ,ent obviously determines
+(D) each state faces similar industrial waste problems, the predominant industries and the regulatory environment of each state obviously determines
+(E) all states face similar industrial waste problems, the predominant industries and the regulatory environment of each state obviously determine
+19. Section 13(d) of the Securities Exchange Act of 1934 requires anyone who buys more than 5 percent of a company's stock make a public disclosure of the purchase.
+(A) make
+(B) will also make
+(C) to make
+(D) must make
+(E) must then make
+20. When Congress reconvenes, some newly elected members from rural states will try and establish tighter restrictions for the amount of grain farmers are to be allowed to grow and to encourage more aggressive sales of United States farm products overseas.
+(A) and establish tighter restrictions for the amount of grain farmers are to be allowed to grow and to encourage,
+(B) and establish tighter restrictions on the amount of grain able to be grown by farmers and encouraging
+(C) establishing tighter restrictions for the amount of grain farmers are allowed to grow and to encourage
+(D) to establish tighter restrictions on the amount of grain capable of being grown by farmers and encouraging
+(E) to establish tighter restrictions on the amount of grain farmers will be allowed to grow and to encourage.
+21. After gradual declension down to about 39 hours in 1970, the workweek in the United States has steadily increased to the point that the average worker now puts in an estimated 164 extra hours of paid labor a year.
+(A) After gradual declension down
+(B) Following a gradual declension down
+(C) After gradual declining down
+(D) After gradually declining
+(E) Following gradually declining
+22. Ei Nifio, the periodic abnormal warming of the sea surface off Reru, a phenomenon in which changes in the ocean and atmosphere combine allowing the warm water that has accumulated in the western Pacific to flow back to the east.
+(A) a phenomenon in which changes in the occean and atmosphere combine allowing the warm water that has accumulated
+(B) a phenomenon where changes in the occan and atmosphere are combining to allow the warm water that is accumulating
+(C) a phenomenon in which ocean and atmosphere changes combine and which allows the warm water that is accumulated
+(D) is a phenomenon in which changes in the ocean and atmosphere combine to allow the warm water that has accumulated
+(E) is a phenomenon where ocean and atmosphere changes are combining and allow the warm water accumulating
+SECTION 7
+Time-25 minutes
+16 Questions
+1. A retail appliance store priced a video recorder at 20 percent above the wholesale cost of $200. If a store employee applied the 10 percent employee discount to the retail price to buy the recorder, how much did the employee pay for the recorder?
+(A) $198
+(B) $216
+(C) $220
+(D) $230
+(E) $240
+2. The ratio 2 to is equal to the rauo
+(A) 6 to 1
+(B) 5 to 1
+(C) 3 to 2
+(D) 2 to 3
+(E) 1 to 6
+3. Which of the following values of x gives the greatest value of y in the equation above?
+(A) 200
+(B) 100
+(C) 0.5
+(D) 0
+(E) -1
+4. A factory has 500 workers, 15 percent of whom are women. If 50 additional workers are to be hired and all of the present workers remain, how many of the additional workers must be women in order to raise the percent of women employees to 20 percent?
+(A) 3
+(B) 10
+(C) 25
+(D) 30
+(E) 35
+5. If then x could be
+(A) 0
+(B) -1
+(C) -2
+(D) -3
+(E) -4
+6. In a small snack shop, the average (arithmetic mean) revnue was $400 per day over a 10-day period. During this period, if the average daily revenue was $360 for the first 6 days, what was the average daily revenue for the last 4 days?
+(A) $420
+(B) $440
+(C) $450
+(D) $460
+(E) 4480
+7. A certain country had a total annual expenditure of $1.21012 last year. If the population of the country was 240 million last year, what was the per capita expenditure?
+(A) $500
+(B) $1.000
+(C) $2.000
+(D) $3.000
+(E) $5.000
+8. A certain rectangular window is twice as long as it is wide. If its perimeter is 10 feet, then its dimensions in feet are
+9. The diagram above shows the various paths along which a mouse can travel from point X, where it is released, to point Y, where it is rewarded with a food pellet. How many different paths from X to Y can the mouse take if it goes directly from X to Y without retracing any point along a path?
+(A) 6
+(B) 7
+(C) 12
+(D) 14
+(E) 17
+10. The rectangular region above contains two circles and a semicircle, each with a radius of 7. If is used as an approximation for , then the area of the shaded region is approximately
+A) 105
+(B) 210
+(C) 380
+(D) 385
+(E) 405
+11. If the operation is defined by x y=for all positive numbers x and y, then (5 45) 60=
+(A) 30
+(B) 60
+(C) 90
+(D) 30
+(E) 60
+12. A bar over a sequence of digits in a decimal indicates that the sequence repeats indefinitely. What is the value of (104-102)(0.0012)?
+(A) 0
+(B) 0.12
+(C) 1.2
+(D) 10
+(E) 12
+13. At a loading dock, each worker on the night crew loaded as many boxes as each worker on the day crew. If the night crew has as many workers as the day crew, what fraction of all the boxes loaded by the two crews did the day crew load?
+15. In a certain game, a large container is filled with red yellow green and blue beads worth, respectively, 7, 5, 3 and 2 points each. A number of beads are then removed from the container. If the product of the point values of the removed beads is 147.000, how many red beads were removed? (A) 5
+(B) 4
+(C) 3
+(D) 2
+(E) 0
+16. Seed mlxture X is 40 percent ryegrass and 60 percent bluegrass by weight; seed mixure Y is 25 percent ryegrass and 75 percent fescue. If a mixture of X and Y contains 30 percent ryegrass, what percent of the weight of this mixture is X?
+
+GMAT 畠寔編籾膨基宛
+Section 1:DEDAB　　 DADAC　　 CEBCB 　　D
+Section 2:DEEDB 　　EACCA 　　ABDED　　 E
+Section 3:CABBA 　　EECAD 　　ECCCE 　　EDCEB
+Section 4:CBEEE 　　AAEDA 　　DBCCD 　　DAE
+Section 5:DBEBA　　 CABEC　　 EDDAC 　　DDEBC
+Section 6:BEDCC 　　AAAAC 　　BCBBE 　　BAECE　　 DD
+Section 7:BAEEC 　　DEBCA 　　AEEBD 　　B

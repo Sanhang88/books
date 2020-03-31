@@ -1,0 +1,100 @@
+几个特殊句型
+英文句型复杂多样，所幸的是TOEFL涉及到的基本是正常句型结构，但有时也会出现一些特殊句型。出现频率较高的有：（1）倒装句（Not unfit…）,(2)代词 it作形式主语或宾语，（3）代词It构成的强调句型。
+倒装句常考题型解题要点
+1. Not until…在句首要求主谓倒装
+解题要点 Not until…倒装句主要集中在Structure(1-15题)中。当句首出现Not until短语，无需读完全句，而应迅速观看四个选择的第一个单词，寻找第一个单词为动词（通常为助动词did或had）或系动词的那个答案，再读完此答案以确认它是正确的倒装句结构，即动词＋主语名词＋其它。全真倒题分析。
+Not until about 20. 000 B.C.……executed.
+(A) were known of the oldest paintings
+(B) the oldest of known paintings were
+(C) the oldest known were paintings
+(D) were the oldest known paintings
+(答案) D 系动词were在主语之前为倒装。
+(2) Not until 1931……the official anthem of the United States.
+(A) “The Star-spangled Banner”did become
+(B) when“The Star-spangled Banner”became
+(C) did“The Star-spangled Banner”become
+(D) became “The Star-spangled Banner” (92.10)
+(答案) C 谓语动词为实义动词（非系动词）时，通常使用助动词（did或had）并提前置主语的前面。故此句选择（C）而非（D） 。
+（3）……was the first fully successful transatlantic cable finally laid.
+(A) Not until 1866
+(B) Until 1866, just
+(C) Until 1866
+(D) In 1866, not until
+(答案) A 如四个选择答案中出现Not until时间，它通常就是此道题的命题焦点。
+（4）……1895 did Cornell University begin to offer a degree in omithology.
+(A) Not until
+(B) Not since
+(C) Until
+(D) In (89.5)
+(答案) A Not until 出现在答案中应当首先考虑。
+2. Only在句首要求主谓倒装
+全真例题分析
+(1) Only outside the Earth's atmosphere ……to attain extremely high velocities.
+(A) to be safe for a space vessel
+(B) is it safe for a space vessel
+(C) for a space vessel to be safe
+(D) a space vessel to be safe
+答案是 B
+(2) ______begun to understand how the air and the oceans interact when they exchange heat and gases.
+(A) In the past decade have only researchers
+(B) Only in the past decade have researchers
+(C) The only researchers in the past decade
+(D) Only in the past decade researchers
+(答案) B Only在句首要求倒装句，Only后面接它所强调的部分，然后为助动词（have）,其后为主语＋其它。从题目中的过去分词begun可以排除（C）主语名词＋谓语，因为分词不能作谓语动词。
+3. 表示“地点”，“位置”的介短语出现在句首要求主谓倒装。
+全真例题分析
+In the eastern part of New Jersey , a major shipping and manufacturing center.
+(A) lies the city of Elizabeth
+(B) the city of Elizabeth lies there
+(C) around the city of Elizabeth lies
+(D) there lies the city of Elizabeth around
+(答案) A 表示地点位置的介词短语In the eastern pant of Now Jersey 出现在句首，主谓倒装。此句的正常词序是这样的：The city of Elizabeth lies in eastern part of New Jersey。
+(2) The glaciers that reached the Pacific Coast were valley glaciers, and between those tongues of ice……that allowed the original forests to survive.
+(A) that many sanctuaries were
+(B) were many sanctuaries
+(C) were there many sanctuaries
+(D) there the many sanctuaries (93.8)
+(答案) B 这是一个并列句，介语短语between those tongues of ice是在第二个句子的句首，所以后面的主语谓语倒装。其正常词序为：many sanctuaries were between those tongues of ice。
+代词It作形式主语或宾语
+解题要点 当一个句子的主语或宾语过于冗长时，通常使用It来作形式上的主语或宾语, 而实际主语或宾语则以that…或不定式to…的形式出现。
+全真例题分析
+（1）……that as both birds and mammals become larger, their metabolic rutes per unit of tissue decrease, and they generally live longer.
+(A) The truth
+(B) If true
+(C) It is true
+(D) To be true
+(答案) C If为形式主语、空格后面that引导的句子为实际主语。
+（2）Sometimes……to place physics and chemistry into separate categories.
+(A) difficult
+(B) is difficult
+(C) it is difficult
+(D) that it is difficult (89.8)
+(答案) C it为形式上的主语，空格后面的不定式短语为实际主语。
+（3）Due to the refraction of light rays, this is impossible for the naked eye to determine the exact location of a star close to the horizon.
+(答案) B 形式主语只能用it，不可以任何其它词来替换。
+（4） Chemists find------to detect and measure the amount of chlorine in any given water supply.
+(A) are casy
+(B) casily
+(C) it easy
+(D) how casily (93.3)
+(答案) C it为形式上的宾语，后面的不定式才是实际上的宾语。
+（5） Using many symbols makes------to put a large amount of information on a single map.
+(A) possible
+(B) it possible
+(C) it is possible
+(D) that possible (92.8)
+(答案) B if为形式宾语，空格后的不定式短语是实际宾语。
+（6） It is not unusual for ballet dancers wear out more than one pair of toe shoes during an evening's performance. (92,1)
+(答案) A 以It作形式主语时，实际主语应是that……或to……形式。比句应改为it is not unusual for ballet dancers to wear……。
+代词It构成的强调句型：It is +强调的部分＋that/who……
+全真例题分析
+（1）------Nat Turner who led a revolt against slavery in Virginia in 1831.
+(A) Where was
+(B) It was
+(C) He was
+(D) It was him
+(答案) B If组成的强调句型，强调的是主语（Nat Turner）。
+（2）------mural art of painter C. Alston that has established his reputation and insured his fame.
+(A) The (B) That the
+(C) It is the (D) Since the
+(答案) C It组成的强调句型，强调的是主语the mural ant of painter C.Alston。

@@ -1,0 +1,21 @@
+GMAT逻辑题型标志词总结
+
+    在面对GMAT逻辑题目的时候，第一步就是看准问题，明确题目类型，从而运用不同的技巧解题。下面我们就对各种题型的关键词做一个总结，希望可以帮助你在考场上从容面对各种问题。
+　　一.归纳题
+　　标志词：conclusion; inferred; implied; supported; if above true, then it is also true。(注：support不仅仅用于归纳法。举例来说，归纳法的表达应为：Which of the following are supported by the argument above?如果换个说法就可以变成加强题型的表述：Which of the following support the argument above?所以在解题的时候要格外小心。)
+　　二.演绎题
+　　1.第一种文章：前提推结论型
+　　A.假设题：
+　　标志词：assume; assumption; presuppose (特指对于前提的假设); additional premise; not true unless; depend on; rely on.
+　　B.加强题：
+　　标志词：support(注意和归纳题目的区分); strengthen, conclusion can be drawn if it were true that.
+　　C.削弱题：
+　　标志词：weaken; cast doubt; argue against; damage; counter; challenge; flaw; refute; jeopardize; criticism; undermine; drawback; reasoning error; weakness. (其中flaw，criticism，reasoning error和weakness属于名词性的削弱)。
+　　D.评价题：
+　　标志词：evaluate，appraisal。(根据加强题做)
+　　2.第二种文章：因果结构
+　　文章内部标志词：A is due to B; A is attribute to B; A is result of B; blame B on/for A; B is responsible for
+　　A; credit A to B.
+　　问题中的标志词：explanation; interpretation; hypothesis。
+　　3.第三种文章：“变态结构”(表面上仍然是前提推出结论的结构，实质为因果结构，即结论是前提的解释)。此类文章没有与众不同的标志词，需要考生在实战时分析判断。
+　　从题型上看，第一类文章的线索显然多于后两类，也就是说解题上较为方便，幸运的是第一类题目一般占去了考题的绝大部分，所以说还是有技巧可寻的。

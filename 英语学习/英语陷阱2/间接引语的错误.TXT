@@ -1,0 +1,36 @@
+间接引语的错误
+
+　　在英语里，我们可以用两种方法转述人的话语。第一种是直接引语（The Direct 　　Speech）；第二种是间接引语（The Indirect Speech），也可叫“The Reported Speech”）。
+　　从直接引语转变为间接引语是一种表达行式的改变，不影响原意。例如：
+　　① a. He said, "I am working now."
+　　　 b. He said that he was working then.
+　　② a. She asked me, "Do you like to sing?"
+　　　 b. She asked me if I liked to sing.
+　　③ a. "Go out!" the man said to the boy.
+　　 b. The man ordered the boy to go out.
+　　①b, ②b, ③b是间接引语，其形式和①a, ②a, ③a不同。
+　　间接引语是种常见的句法，用得很多。正因为用得多，出错的机会也多。下面便是些例子：
+　　④ He said that he would come tomorrow.
+　　这里的副词“tomorrow”要变成“the next day”。理由是：间接引语里的时间副词或短语， 一般上要把其中的时间向前推，如： tomorrow: the next day; today: that day; last night: the night before; now: then; ago: before that time 等。
+　　⑤ I asked what is wrong with him.
+　　 这里的“is”要变成“was”。须知：主句“I asked”和分句 “what is wrong with him”的动词时态必须配合。既然主句的动词 “asked”是过去时态，分句的动词也要过去时态“was”。此外，动词时态一般上也要推前，因此简单过去时态（Simple Past Tense）要变成过去完成时态（Past Perfect Tense），如：went : had gone; left : had left.
+　　⑥ John told her don't do that again.
+　　这里的“don't do”要变成“not to do”才对。理由是：祈使句变成间接引语时的形式是不定式动词：“to + verb / not to + verb”，如：to come / not to come; to do / not to do.
+　　⑦ She asked me where was I going.
+　　这里的“was I”词序不对， 要变成“I was”才是，因为间接疑问句（indirect question）里的词序和叙述句一样，是正常词序，不是倒装法，如：
+　　⑧ He wanted to know who that girl was.
+　　⑨ John asked Helen if she was free.
+　　⑩ She asked me whether I could help her.
+　　如果词序是倒装形式，就错了：
+　　*...who was that girl.
+　　*...if was she free.
+　　*...whether could I help her.
+　　关于间接疑问句，还有一点必须注意的是，直接疑问句里的疑问词要照用， 如例⑧的“who”。如果没有疑问词，就要借重连接词“ if”或“ whether”之助，如例⑨和⑩便是。
+　　在结束本文之前，顺便提一提怎样把表示惊叹或愿望的直接引语转成间接引语。
+　　11. He said, "Alas! I am undone."
+　　12. "Bravo! You have done a good job, Mary," said the teacher.
+　　13. "Good Heaven!' Tom cried, "I'll never lie again."
+　　把11-13，转变为14-16时， 可以用恰当的动词把深层的意思反映出来，甚至加些原文没有的字眼，也无所谓：
+　　14. He exclaimed that he was undone.
+　　15. The teacher praised Mary, saying that she had done a good job.
+　　16. Tom called upon Heaven to witness his determination not to lie again. 　　 

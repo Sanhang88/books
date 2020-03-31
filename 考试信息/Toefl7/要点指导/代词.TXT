@@ -1,0 +1,36 @@
+代词
+有关代词的题目一向是TOEFL考试的命题重点，主要集中在Written Expression（16－40题）中。代词试题范围狭窄，浅显明了，很容易得分，而且有一明显规律可以遵循：A、B、C、D四个选择中如有代词出现，它通常就是此题的答案。代词又称代名词，其作用是指代句中相关的名词，所以代词的题目通常与其所指代的名词有关。
+命题焦点集中在；（1）代词与其所指代的名词单复数是否一致，（2）代词与其所指代名词是否统一，（3）反身代词的用法。
+代词常考题型及解题要点
+1. 代词应与其指代的名词单复数一致
+解题要点 如A、B、C、D四项选择答案中有代词出现，首先要找到它所指代的名词，并确认其单数是否一致。
+全真例题分析
+（1）Silver*s most distinguishing property is their electrical conductivity. (94.1)
+(答案) C 代词their指代的是句首的单数名词silver,故应改为its。
+(2) Countries tend to specialize in the production and export of those goods and services that it can produce relatively cheaply.
+(答案) C代词it指代的是句子主语Counties,所以应用复数形式they。
+（3）A traditional Halloween decoration is a jack-o-lantern, which is a hollowed-out pumpkin with scary face cut into them.
+(答案) D 根据句意，代词there指代的是单数名词Punplcin(jack-o-lantern),故应用单数代词it。
+（4）Since flounders have markings that biend with their surroundings, it can lie camouflaged on the bottom of the ocean.
+(答案) B 代词it指代的是句首复数名词flounders,故应用复数形式的代词the。
+2.代词应与其指代的名词在称谓、性、格等方面完全一致。
+全真例题分析
+（1） Paprika is less biting than red cayenne pepper, and she has a sweeper taste. (94.1)
+(答案) C 人称代词指代的是paprika（红灯笼辣椒，即使不认识此词，亦可从后文的pepper推断出这是一种辣椒），故应改为指物的it。
+（2） Ethel Harveg*s career illustrates some of the challenges encountered by women scientists of her generation as they sought suppont for they work.(93.5)
+(答案) D 代词they 指代的是前文的woman scientists, 根据句意，这里应改用代词的所有格形式their,用来限定后面的wonk。
+（3） Many critics believe that Amy Lowell*s most important work is not her poetry, but his biography, John Keats, published the year of her death. (92.10)
+(答案) C 男性代词his 指代的是作家Amy Lowell。即使你不清楚Amy是女性名字，亦可从句中her poetry 及her death得知此作家为女性。所以这里应用代词her。
+（4）Our urge to classify different life forms and give us names scems to be as old as the human race.
+(答案) B 根据句意，代词as指的应是different life forms,而非动作的施事者“我们”，所以此代词应改为them,表明动作的承受者。
+3. 反身代词－self
+解题要点 反身代词通常有两种语法功能，其一是强调句中某一名词，其二是当主词（动作施事者）与受词（动作承受者）为同一人或物时，受词应用反身代词。TOEFL命题主要考的是第二种功能。一般来讲，A、B、C、D四个选择答案中有反身代词出现，它通常是此题的命题焦点。
+全真例题分析
+（1）When a severe ankle injury forced herself to give up reporting in 1926, Margaret Mitchell began writing her novel Gone with the Wind. (91.8)
+(答案) C 此句主词为ankle injury,其受词则指的是Margaret Mitchell.二者并非同一人/物，故不能使用反身代词，应改为her。
+（2） A motion picture director for over twenty years. Weber stamped her films with herself style and personal conviction.
+(答案) C 反身代词不能作定语修饰说明名词，此句的herself应改为her own。
+（3） In a controversial cating guide entitled Are You hungry? Jane Hirschmann and Lela Zaphiropolous argue that children instinctively know what foods are good for selves. (92.8)
+(答案) D 反身代词通常应有完整的形式，不能单独使用self,或selves形式。此句应改为themselues.
+(4) Researchers at the University of Colorado are investigating a series of indicators that could help themselves to predict earthquakes. (89.8)
+(答案) D 反身代词themselves

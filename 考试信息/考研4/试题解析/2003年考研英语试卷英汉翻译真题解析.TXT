@@ -1,0 +1,85 @@
+2003年考研英语试卷英汉翻译真题解析
+2003年英译汉试题
+　　Directions: Read the following text carefully and then translate the underlined segmentssintosChinese. Your translation should be written clearly on ANSWER SHEET 2. (10 points)
+    Human beings in all times and places think about their world and wonder at their place in it. Humans are thoughtful and creative, possessed of insatiable curiosity. 61) Furthermore, humans have the ability to modify the environment in which they live, thus subjecting all other life forms to their own peculiar ideas and fancies. Therefore, it is important to study humans in all their richness and diversity in a calm and systematic manner, with the hope that the knowledge resulting from such studies can lead humans to a more harmonious way of living with themselves and with all other life forms on this planet Earth.
+　　"Anthropology" derives from the Greek words anthropos "human" and logos "the study of." By its very name, anthropology encompasses the study of all humankind.
+　　Anthropology is one of the social sciences. 62) Social science is that branch of intellectual enquiry which seeks to study humans and their endeavors in the same reasoned, orderly, systematic, and dispassioned manner that natural scientists use for the study of natural phenomena.
+　　Social science disciplines include geography, economics, political science, psychology, and sociology. Each of these social sciences has a subfield or specialization which lies particularly close to anthropology.
+　　All the social sciences focus upon the study of humanity. Anthropology is a field-study oriented discipline which makes extensive use of the comparative method in analysis. 63) The emphasis on data gathered first-hand, combined with a cross-cultural perspective brought to the analysis of cultures past and present, makes this study a unique and distinctly important social science.
+　　Anthropological analyses rest heavily upon the concept of culture. Sir Edward Tylor's formulation of the concept of culture was one of the great intellectual achievements of 19th century science. 64) Tylor defined culture as "... that complex whole which includes belief, art, morals, law, custom, and any other capabilities and habits acquired by man as a member of society." This insight, so profound in its simplicity, opened up an entirely new way of perceiving and understanding human life. Implicit within Tyler's definition is the concept that culture is learned, shared, and patterned behavior.
+65) Thus, the anthropological concept of "culture," like the concept of "set" in mathematics, is an abstract concept which makes possible immense amounts of concrete research and understanding.
+翻译题解：
+61) Furthermore, humans have the ability to modify the environment in which they live, thus subjecting all other life forms to their own peculiar ideas and fancies.
+句子分析：
+第一、句子可以拆分为两段：Furthermore, humans have the ability to modify the environment in which they live, / thus subjecting all other life forms to their own peculiar ideas and fancies.
+第二、句子的结构是：
+1)这是个主句+分词短语表示伴随状态的结构：humans have the ability to modify... thus subjecting ...
+2) the environment in which they live是先行词+定语从句。
+第三、词的处理：
+modify the environment in which they live  改变他们的生存环境
+subjecting all other life forms to  让所有其它形态的生命服从……
+完整的译文：
+61)而且，人类还有能力改变自己的生存环境，从而使所有其它形态的生命服从人类自己独特的想法和想像。
+考点总结：1)不定式短语做定语；2)介词+定语从句；3)分词短语表示伴随状态。
+62) Social science is that branch of intellectual enquiry which seeks to study humans and their endeavors in the same reasoned, orderly, systematic, and dispassioned manner that natural scientists use for the study of natural phenomena.
+句子分析：
+第一、句子可以拆分为四段：Social science is that branch of intellectual enquiry / which seeks to study humans and their endeavors / in the same reasoned, orderly, systematic, and dispassioned manner / that natural scientists use for the study of natural phenomena.
+第二、句子的主干结构是：
+主句+ which引导的定语从句+方式状语(in the same reasoned, orderly, systematic, and dispassioned manner)+定语从句。
+第三、词的处理：
+Social science  社会科学
+intellectual enquiry  知识探究
+humans and their endeavors  人类及其行为
+reasoned  理性的
+orderly  有序的
+systematic  系统的
+dispassioned  冷静的
+natural phenomena  自然现象
+完整的译文：
+62)社会科学是知识探索的一个分支，它力图像自然科学家研究自然现象那样，用理性的、有序的、系统的和冷静的方式研究人类及其行为。
+考点总结：1)定语从句；2)方式状语；3)多重并列定语。
+63) The emphasis on data gathered first-hand, combined with a cross-cultural perspective brought to the analysis of cultures past and present, makes this study a unique and distinctly important social science.
+句子分析：
+第一、句子可以拆分为四段：The emphasis on data gathered first-hand, / combined with a cross cultural perspective / brought to the analysis of cultures past and present, / makes this study a unique and distinctly important social science.
+第二、句子的结构是：
+1)主干结构是一个简单句：The emphasis..., combined with..., makes this study a unique and distinctly important social science.
+2)主语后面带有on data gathered first-hand是主语的定语，combined with相当于and的意思，是对主语内容的补充，perspective可以理解成主语的并列成分，brought to the analysis of cultures past and present是perspective的定语。其中past and present是cultures的定语。
+第三、词的处理：
+The emphasis翻译时词性转换成动词
+data gathered first-hand搜集的第一手资料
+combined with加上，(这个短语不影响主语的数的变化)
+a cross-cultural perspective跨文化视角
+this study这一研究
+完整的译文：
+63)强调搜集第一手资料，加上在分析过去和现在的文化形态时采用跨文化视角，使这一研究成为一门独特并且非常重要的社会科学。
+考点总结：1)带有多重修饰成分的简单句；2)过去分词短语做定语；3)复合宾语结构4)词性转换。
+64) Tylor defined culture as "... that complex whole which includes belief, art, morals, law, custom, and any other capabilities and habits acquired by man as a member of society."
+句子分析：
+第一、句子可以拆分为三段：Tylor defined culture as "... that complex whole / which includes belief, art, morals, law, custom, and any other capabilities and habits / acquired by man as a member of society."
+第二、句子的结构是：
+1)主干结构是：Tylor defined culture as "...that complex whole..."其中whole是“整体”的意思。后面是一个很长的定语从句，翻译时可以和先行词拆开。
+2)which引导的定语从句中有多重并列宾语，acquired by man as a member of society是宾语的定语。
+第三、词的处理：
+Tylor人名，按照音译
+defined culture as  将文化定义为
+that complex whole  一个复合体
+belief  信仰
+morals  道德
+man as a member of society  人作为社会成员
+完整的译文：
+64)泰勒把文化定义为“一个复合体”，它包括人作为社会成员所获得的信仰、艺术、道德、法律、风俗以及其它能力和习惯。
+考点总结：1)定语从句；2)过去分词短语做定语；3)多重并列宾语。
+65) Thus, the anthropological concept of "culture," like the concept of "set" in mathematics, is an abstract concept which makes possible immense amounts of concrete research and understanding.
+句子分析：
+第一、句子可以拆分为四段：Thus, the anthropological concept of "culture," like the concept of "set" in mathematics, / is an abstract concept / which makes possible / immense amounts of concrete research and understanding.
+第二、句子的结构是：
+1)主干结构是：主语+插入语(like the concept of) +系表结构(is an abstract concept) + which引导的定语从句
+2) immense amounts of concrete research and understanding是动词makes的宾语，possible是状语前置。
+第三、词的处理：
+the anthropological concept of "culture,"人类学的“文化”概念
+the concept of "set" in mathematics数学中“集”的概念
+an abstract concept抽象概念
+immense amounts of concrete research大量的具体研究
+完整的译文：
+65)因此，人类学中“文化”的概念就像数学中“集”的概念一样，是一个抽象概念。它使大量的具体研究和认识成为可能。
+考点总结：1)表示比较的插入语；2)定语从句；3)复合宾语；4)状语前置。

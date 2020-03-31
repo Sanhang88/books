@@ -1,0 +1,717 @@
+GRE'94-10考题2
+If Long delivers the third lecture and neither Porter nor Seale is to deliver the first lecture, which of the following can be true? 
+Monroe delivers the first lecture.
+Monroe delivers the fifth lecture.
+Ortiz delivers the first lecture.
+Ortiz delivers the fifth lecture.
+Travis delivers the fifth lecture.
+答案：(C) 
+If Ortiz delivers a lecture at some time before Porter, which of the following can be true? 
+Monroe delivers the first lecture.
+Ortiz delivers the third lecture.
+Porter delivers the third lecture.
+Seale delivers the first lecture.
+Travis delivers the fifth lecture.
+答案：(C) 
+United States automobile manufacturers have been steadily losing United States market share to foreign manufacturers.Now a study has found that advertisements for foreign automobiles hold United States consumers' attention better than advertisements for domestically made automobiles do.Therefore, United States automobile manufacturers will increase market share by giving top priority to revamping their advertising campaigns.　 
+Which of the following, if true, most seriously weakens the argument? 
+People who are considering buying a new automobile pay more attention to advertisements for automobiles than do people who are not planning to buy an automobile in the near future.
+Consumers tend to pay closer attention to advertisements for products they already prefer than to advertisements for other products.
+United States manufacturers of automobiles currently spend about as much on advertising each of their new models as foreign automobile manufacturers do.
+In the United States, even though sales of foreign-made automobiles are increasing, annual sales have been consistently greater for domestically made than for foreign-made new automobiles.
+Some of the advertising for foreign automobiles in the United States is designed and produced by United States advertising agencies.
+答案：(B) 
+问题：下面那一个，if true，最能够削弱上面的论述？ 
+读题：美国汽车制造商正逐渐将美国市场份额让与外国制造商。目前研究表明：外国汽车广告比本土汽车广告更能抓住美国消费者的注意力。因此，只要美国汽车制造商重新优先考虑广告，其市场份额就会增加。 
+分析：很明显最后一句话中By前面是目的，后面是方法
+　　　目的是：增加市场份额 
+　　　方法是：重新考虑广告 
+Weaken当然要反对方法：即使重新做广告，也不能增加市场 
+A.计划买新车的人会比不考虑买车的人更注意汽车广告 
+B.顾客对自己已经中意的商品的广告要比其它产品广告更加留心 
+　　（你现在再做广告也已经没有用了，作为反对） 
+C.目前美国汽车制造商在每个新型号汽车上花费的广告费与外国汽车花的钱一样多。 
+D.在美国，尽管外国制造的汽车的销售额不断上涨，每年国产汽车的销售总额仍大于 
+　　外国制造的汽车的销售总额。 
+E.外国汽车的有些广告是由美国广告代理商策划并制作的。 
+Since the beginning of the current economic recession.Reelcorp's factories have operated with a reduced work force.Now, with the economy improving, the weekly volume of new orders being received by Reelcorp's factories has increased substantially.Reelcorp's inventories of completed goods are currently very low.Therefore, if Reelcorp is to fill its orders without delay, it must begin increasing its work force immediately.　 
+Which of the following, if true, most helps to strengthen the argument above? 
+One of the ways a corporation can increase its work force is to rehire former employees who had been laid off.
+Reelcorp's work force has a greater proportion of highly experienced factory workers today than it had when the recession began.The workers who are, currently employed at Reelcorp's factories are now working the maximum weekly number of hours permitted by the workers' contract.
+Nearly all of the products manufactured at Reelcorp's factories use components that Reelcorp purchases from other manufacturers.
+Formal agreements in force at Reelcorp's factories permit supervisory personnel to fill in for certain assembly-line workers whenever the need arises.
+答案：(C) 
+问题：下面那一个，if true，最帮助加强上面的论述？ 
+读题：从经济萧条一开始，Reelcorp的工厂就压缩劳动力。如今随着经济复苏，每周收到 
+　　　的订货单大大增加，而已完成货物的库存目前非常少。所以，如果Reelcorp打算按 
+　　　时交货，就必须尽快增加人手。 
+分析：原来经济萧条，人少；现在订货单增加，库存少，因此增加人手 
+Strengthen达到效果，的确需要增加人 
+a.　公司增加其劳动力的方法是雇佣他们以前辞退的人 
+　（题目中问的是，为什么要增加，而不是如何增加？） 
+b.　今天Reelcorp的熟练工人要比经济萧条开始时多。 
+c.　目前在Reelcorp工厂中工人的工作时间已达到工人合同中规定的最长工作时间。 
+　（现有工人已经忙不过来了，需要增加人） 
+e.　正式劳动协议规定，一旦需要，主管人员就要加入工人流水线工作。 
+A chemical present in all grapes helps reduce blood cholesterol in humans.The chemical is also present in red wine and grape juice.but not in white wine.Both red wine and grape juice are produced using whole grapes; white wine is produced without using the grape skins.
+The information above, if true.most strongly supports which of the following conclusions? 
+Regular consumption of alcoholic substances such as red or white wine can substantially reduce blood cholesterol.
+Eating whole fruit is more likely to reduce blood cholesterol than is drinking juice made from whole fruit.
+The skins of red grapes but not of other grapes contain the chemical that reduces blood cholesterol.
+The chemical that reduces blood cholesterol is found in the skins but not in other parts of grapes.
+The chemical that reduces blood cholesterol is present only in beverages, rather than solid foods, that are made from grapes.
+答案：(D) 
+　A ring must be formed by placing seven enameled panels in seven positions.The positions are numbered 1 through 7 consecutively around the ring, with position 7 adjacent to position 1.Each panel is of a single color-green, red, or white-and depicts a single shape-triangle, square, or pentagon-in engraved outline.Enough panels of each color and depicting each shape are available for any ring that meets the following required constraints: 　 
+　Each of the three shapes must be depicted on at least two different panels.
+　Not all of the panels that depict the same shape can be of the same color as each other.
+　No green panel can be in a position adjacent to a red panel.
+　The panel in position 1 must be red.
+　Exactly three panels must depict triangles, and one of these must be in position 3.
+Which of the following could be the panels in positions 7 through 3 in an acceptable ring? 
+　　　　　Position 7 Position 1 Position 2 Position 3 
+Color: Green Green White Red 
+Shape: Square Triangle Pentagon Triangle 
+Color: Green Red Red White 
+Shape: Pentagon Square Square Triangle 
+Color: Red Red Red White 
+Shape: Square Pentagon Triangle Triangle 
+Color: Red Red White Green 
+Shape: Triangle Square Pentagon Square 
+Color: White Red White White 
+Shape: Triangle Triangle Triangle Triangle 　 
+答案：(C) 
+题目:一个环上7个panel,7和1相邻,每个panel为3种颜色之一(g,r,w),描绘三种形状 
+(t,s,p)之一。 
+写条件: 
+1、each shape≥2 panel (表示每种形状至少描绘在两个不同的panel上..
+2、each shape≥2 color (表示所有描绘相同形状的panel不能够为同一种颜色) 
+3、～(gr) (表示g和r不相邻) 
+4、1＝r (表示在位置１的panel颜色是red) 
+5、t:3 panel and 3=t (表示shape t占据3个panel,并且位置３为t) 
+条件总结： 
+＊3种形状7个位置,很明显这是一道多重排列。强调的是每种形状占据几个位置,我们要首先得到其数字分配关系，由条件１得，为(3,2,2)分配。并且条件３告诉我们: t占据3个panel,故t为(3,2,2)中的3, S,P各占据2个panel 
+＊结合条件1中所得到的(3,2,2)分配关系,某种形状占据两个panel,必然是2种颜色,占据3个panel,则是≥2种颜色,亦即2或3种颜色.
+下面哪一个是７到３的排列？ 
+用排除法的原则是先用最简单的条件.
+1、条件4,1＝r, A错 
+2、条件3,～(gr), B错 
+3、条件5,3个t,3=t,D、E错 
+Which of the following could be true? 
+The ring includes no green panel.
+The ring includes no red panel.
+The ring includes no white panel.
+The ring includes no panel depicting a square.
+The ring includes no panel depicting a pentagon.
+答案：(A) 
+题目:一个环上7个panel,7和1相邻,每个panel为3种颜色之一(g,r,w),描绘三种形状 
+(t,s,p)之一。 
+写条件: 
+1、each shape≥2 panel (表示每种形状至少描绘在两个不同的panel上..
+2、each shape≥2 color (表示所有描绘相同形状的panel不能够为同一种颜色) 
+3、～(gr) (表示g和r不相邻) 
+4、1＝r (表示在位置１的panel颜色是red) 
+5、t:3 panel and 3=t (表示shape t占据3个panel,并且位置３为t) 
+条件总结： 
+＊3种形状7个位置,很明显这是一道多重排列。强调的是每种形状占据几个位置,我们要首先得到其数字分配关系，由条件１得，为(3,2,2)分配。 
+并且条件３告诉我们: t占据3个panel,故t为(3,2,2)中的3, S,P各占据2个panel 
+＊结合条件1中所得到的(3,2,2)分配关系,某种形状占据两个panel,必然是2种颜色,占据3个panel,则是≥2种颜色,亦即2或3种颜色.
+If the panels in positions 2 and 3 are white, then the ring must include 
+no green panels 
+at least three white panels 
+a red panel at position 4 
+a white panel depicting a pentagon 
+two identically colored panels depicting squares 
+答案：(B) 
+题目:一个环上7个panel,7和1相邻,每个panel为3种颜色之一(g,r,w),描绘三种形状 
+(t,s,p)之一。 
+写条件: 
+1、each shape≥2 panel (表示每种形状至少描绘在两个不同的panel上..
+2、each shape≥2 color (表示所有描绘相同形状的panel不能够为同一种颜色) 
+3、～(gr) (表示g和r不相邻) 
+4、1＝r (表示在位置１的panel颜色是red) 
+5、t:3 panel and 3=t (表示shape t占据3个panel,并且位置３为t) 
+条件总结： 
+＊3种形状7个位置,很明显这是一道多重排列。强调的是每种形状占据几个位置,我们要首先得到其数字分配关系，由条件１得，为(3,2,2)分配。 
+　并且条件３告诉我们: t占据3个panel,故t为(3,2,2)中的3, S,P各占据2个panel 
+＊结合条件1中所得到的(3,2,2)分配关系,某种形状占据两个panel,必然是2种颜色,占据3个panel,则是≥2种颜色,亦即2或3种颜色.
+如果2,3=w, 则环上包括： 
+7 1 2 3 
+r w w 
+从条件无从下手,可以排除,举反例排除 
+A:完全可以取出有g的例子,A错 
+B:如果只有2个W,那么余下的位置只能在(g,r)中选颜色 
+由～(gr),可以得出7为r,依次类推,则4,5,6也都为r,所以其实一共就用了两种颜色，2个w,5个r, 而一共有３种shape, 并且条件2有所有描绘相同形状的panel不能够为同一种颜色, 这样一来至少有一种shape不能够满足条件2, 所以一定不止2个W, B对 
+If the panels in positions 1 and 2 depict squares and the panels in positions 6 and 7 depict pentagons, which of the following must be true? 
+The panel in position 2 is red.
+The panel in position 2 is white.
+The panel in position 7 is green.
+The panel in position 7 is red.
+The panel in position 7 is white.
+答案：(B) 
+题目:一个环上7个panel,7和1相邻,每个panel为3种颜色之一(g,r,w),描绘三种形状 
+(t,s,p)之一。 
+写条件: 
+1、each shape≥2 panel (表示每种形状至少描绘在两个不同的panel上..
+2、each shape≥2 color (表示所有描绘相同形状的panel不能够为同一种颜色) 
+3、～(gr) (表示g和r不相邻) 
+4、1＝r (表示在位置１的panel颜色是red) 
+5、t:3 panel and 3=t (表示shape t占据3个panel,并且位置３为t) 
+条件总结： 
+＊3种形状7个位置,很明显这是一道多重排列。强调的是每种形状占据几个位置,我们要首先得到其数字分配关系，由条件１得，为(3,2,2)分配。 
+　并且条件３告诉我们: t占据3个panel,故t为(3,2,2)中的3, S,P各占据2个panel 
+＊结合条件1中所得到的(3,2,2)分配关系,某种形状占据两个panel,必然是2种颜色,占据3个panel,则是≥2种颜色,亦即2或3种颜色.
+如果1,2=s；6,7=p，下面哪一个一定正确？ 
+6 7 1 2 3 4 
+p p s s t 
+我们从选项中看到：选项中涉及的全部是哪个位置是什么颜色, 
+那么我们的解题方向就应该为颜色的条件 
+1、由r=1，～(gr)得到2=w/r, 
+2、题目已知有1,2=s, 而s一共就占据2个panel, 因此由条件2得，位置1,2的颜色不能相同,所以2=w　 
+If the only panels depicting squares in the ring are one green panel and one white panel, then which of the following could be the positions of these two panels? 
+　　　　　　　　Green　　　　　　White 
+Position 2 Position 5 　 
+Position 2 Position 7 
+Position 4 Position 3 
+Position 4 Position 7 
+Position 7 Position 4 
+答案：(D) 
+题目:一个环上7个panel,7和1相邻,每个panel为3种颜色之一(g,r,w),描绘三种形状 
+(t,s,p)之一。 
+写条件: 
+1、each shape≥2 panel (表示每种形状至少描绘在两个不同的panel上..
+2、each shape≥2 color (表示所有描绘相同形状的panel不能够为同一种颜色) 
+3、～(gr) (表示g和r不相邻) 
+4、1＝r (表示在位置１的panel颜色是red) 
+5、t:3 panel and 3=t (表示shape t占据3个panel,并且位置３为t) 
+条件总结： 
+＊3种形状7个位置,很明显这是一道多重排列。强调的是每种形状占据几个位置,我们要首先得到其数字分配关系，由条件１得，为(3,2,2)分配。 
+　并且条件３告诉我们: t占据3个panel,故t为(3,2,2)中的3, S,P各占据2个panel 
+＊结合条件1中所得到的(3,2,2)分配关系,某种形状占据两个panel,必然是2种颜色,占据3个panel,则是≥2种颜色,亦即2或3种颜色.
+如果描绘s的两个panel颜色分别为g,w, 下面哪一个可能是这2个panel？ 
+1、由r=1,～(gr)得,2,7≠g,　故A,B,E错 
+2、由3=t得,3不能为s,　故D错 
+　A construction company has been hired to build five different buildings- J, M, O, P, and S.The company is free to schedule work on the buildings in any way that satisfies the following contractual terms: 
+　J has priority over M and over O.
+　O and P each have priority over S.
+　If one building has priority over another, the building with priority 　　must be started earlier than the other one.
+Each of the following is a sequence in which the company could begin work on the five buildings EXCEPT 
+J, M, O, P, S 
+J, O, P, M, S 
+J, O, P, S, M 
+P, J, O, M, S 
+P, S, J, O, M 
+答案：(E) 
+Each of the following is a pair of additional contractual terms that are compatible with the original terms EXCEPT: 
+J has priority over S, and P has priority over J.
+M has priority over O, and S has priority over M.
+O has priority over P, and J has priority over S.
+P has priority over M, and M has priority over O.
+S has priority over M, and O has priority over P 
+答案：(B) 
+If no two buildings are started simultaneously, which of the following must be true? 
+J is started earlier than S.
+M is started earlier than O.
+O is started earlier than P.
+P is started earlier than J.
+S is started earlier than M.
+答案：(A) 
+If each of the buildings.once started, takes equally long to complete,each of the following is a pair of buildings that could be completed simultaneously EXCEPT 
+M and O 
+M and P 
+M and S 
+O and P 
+O and S 
+答案：(E) 
+If M and P are started simultaneously, then it must be true that M and P are started 
+later than J 
+later than O 
+later than S 
+earlier than J 
+earlier than O 
+答案：(A) 
+If no two buildings are started simultaneously, what is the maximum number of different buildings any one of which could be the building started third? 
+One 
+Two 
+Three 
+Four 
+Five 
+答案：(C) 
+The company could start work on at most how many buildings before starting work on M ? 
+None 
+One 
+Two 
+Three 
+Four 
+答案：(E) 
+The Whitley Township School Board plans to continue offering Latin courses at Whitley High School despite low enrollment in these courses.
+The board argues that the high cost of Latin courses is justified by the great benefit that taking Latin courses can give to students who need to improve their English skills.
+Which of the following, if true, most seriously weakens the school board's argument? 
+The school's Latin teacher is capable of teaching Spanish and could be reassigned to Spanish, which is a more popular course.
+Students in need of improving their English skills can benefit just as much from taking courses in other languages as from taking Latin.
+Most students who perform well in Latin courses also perform well in other courses.
+Some students who perform well in English courses do not perform well in Latin courses.
+Because Latin is no longer commonly spoken anywhere in the modern world, even scholars cannot be certain of its proper pronunciation.
+答案：(B) 
+问题：下面那一个，if true，最严重地削弱校董事会的论述？ 
+读题：Whitley Fownship校董会计划继续在Whitley高中教授拉丁课，尽管上这门课的人极少，校董会认为，拉丁文课收费很高被证明是恰当的，上拉丁文课能够使需要提高英语技巧的人获益。 
+分析：第二行by引导原因，上拉丁文课能够提高英语技巧用此原因来论证了拉丁文课的高收费是恰当的 
+b.需要提高英语技巧的学生可以从其它语言课上学到同样的东西。 
+　（论据不足以支持就必须上拉丁文课） 
+The United States usable geothermal energy-volcanic heat energy trapped below the surface-exceeds the energy potential of all domestic fossil-fuel reserves.The technology will soon exist to transform the geothermal heat accessible in certain areas into clean and safe electrical energy.An energy shortage in the United States during the next century can therefore be averted.　 
+Which of the following, if true, casts the most serious doubt on the argument made above? 
+Geothermal energy is a potentially unlimited form of energy, derived from the heat of the Earth's molten core.
+Sometime in the next century, exhaustion of the usable fossil-fuel reserves of the continental United States will force increased reliance on imported energy sources.
+Some scientists believe that an energy shortage can be averted by improving energy efficiency and encouraging energy conservation.
+Transmission of electrical energy over great distances, such as those between geothermal energy sources and most areas of high population density, is impractical.
+Any method of producing electrical energy requires the expenditure of some energy in the production process.
+答案：(D) 
+A person's intake of refined sugar and of foods that break down into sugars during digestion is the dietary source of virtually all of the glucose (a type of sugar) that reaches that person's bloodstream.Coffee, however, which itself does not break down into sugars during digestion, sometimes causes a person's blood-glucose level to rise dramatically, even if the coffee is consumed without cream or any sweeteners.
+Which of the following, if true, best helps to explain coffee's effect on blood-glucose levels as it is described above? 
+People often drink coffee after a meal consisting of several types of foods that themselves rapidly break down into sugars during digestion.
+Drinking more than two cups of coffee in an hour increases a person's level of stress, and the body reacts to stress by releasing stored glucose into the blood.
+People who eat very few foods that contain refined sugar often have higher blood-glucose levels than people who eat many such foods.
+For many people, the consumption of one piece of chocolate cake has the same stimulating effect as one cup of plain coffee.
+People with sedentary office jobs are more likely to drink large amounts of coffee and to have higher blood-glucose levels than are people with jobs requiring constant physical activity.
+答案：(B) 
+问题：下面那一个，if true，最帮助解释咖啡对葡萄糖浓度的作用? 
+读题：人直接吸收的糖及人在消化过程中由食物分解而成的糖是进入人血管的葡萄糖的来源。但是，虽然咖啡在消化过程中并不分解为糖，有时候也可以使人体内的葡萄糖浓度急剧上升，尽管喝咖啡时并没有吃奶油或其它甜食。 
+A.在吃过饭后，这顿饭是由几种在消化时迅速分解为糖的食物组成的，人们常常喝咖啡。 
+　（喝咖啡只是一种习惯，起作用的还是饭中的食物） 
+B.一小时内喝超过2杯咖啡，就会增加人的压力程度，人体对压力情绪的反应是把储存的葡萄糖释放到血液中。 
+　（介绍咖啡是如何起作用的）　 
+C.极少吃含糖食物的人往往比喜欢吃含糖食物的人的血浓度还要高。 
+D.对于许多人来讲，吃一块巧克力蛋糕与喝杯咖啡具有同样的刺激效果。 
+E.常坐办公室的人与从事体力劳动的人相比，前者更有可能喝大量的咖啡,含糖浓度更高 
+　The use of nets at beach resorts to protect swimming areas from sharks 
+has been criticized by environmentalists because the nets needlessly kill 
+thousands of marine animals annually.However, environmentalists have 
+recently discovered that an electrified cable buried beneath the periphery 
+of swimming areas causes sharks to swim away while harming neither humans 
+nor marine life.Hence, by installing such cables, resort communities 
+will be able to maintain tourism while satisfying environmentalists' 
+concerns.
+　 
+Which of the following, if true, most seriously weakens the argument? 
+Many seaside resort communities where sharks have never been sighted 
+　nonetheless plan to install the new technology.
+Tourism at resorts where sharks have been sighted has suffered only 
+　slightly despite the fact that most people claim to fear sharks.
+Most tourists are unlikely to visit beaches where swimmers cannot 
+　actually see the barrier that protects them from sharks.
+The buried cable is not the only innovation approved by environmentalists 
+　that is known to be successful in repelling sharks without harming them.
+The electrical current produced by the buried cable repels many kinds 
+　of fish but not the marine mammals that are a tourist attraction at 
+　many resorts.
+
+------------------------ 
+答案：(C) 
+读题： 
+环保人士批评海滨浴场用网将泳区与sharks隔开的作法。因为每年这种网无谓地杀死了数 
+以千计的海洋生物。最近环保人士发现将电缆埋在泳区四周的下面，sharks就会自动游 
+开，这样既不伤人又不会伤害海洋动物。所以，安装上这种电缆后，泳区既能维持旅游 
+业，同时又能满足环保人士的要求。 
+　 
+分析：倒数第四行by引导方法：通过安装电缆，而不是网 
+　　　达到目的：在满足环保人士需求的同时，维持旅游业 
+　 
+
+问题：下面那一个，if true，最严重削弱上面的论述？ 
+Weaken当然针对方法，安装电缆无法维持旅游业 
+　 
+A.许多从未目击sharks的海滨浴场也计划安装电缆。 
+B.尽管许多人声称害怕sharks，有sharks出没的地区的旅游业受影响并不大。 
+C.一些游泳的人看不到将他们与sharks隔开的障碍之后，就不再光顾这些海滩了。 
+　（没有游客，旅游业当然受损） 
+　 
+D.在环保主义者认可的能成功驱除sharks同时又不伤害他们的办法中，在地下埋电缆 
+并非唯一的办法。 
+E.埋在地下的电缆产生的电流吓跑了许多鱼，但并没有吓走吸引游客的海洋哺乳动物。 
+
+The statement concerning what the environmentalist recently discovered 
+plays which of the following roles in the argument? 
+A premise of the argument 
+The conclusion of the argument 
+A clarification of a key term in the argument 
+A reiteration of the conclusion for the sake of emphasis 
+A statement of the position that is being argued against 
+
+------------------------ 
+答案：(A) 
+读题： 
+环保人士批评海滨浴场用网将泳区与sharks隔开的作法。因为每年这种网无谓地杀死了数 
+以千计的海洋生物。最近环保人士发现将电缆埋在泳区四周的下面，sharks就会自动游 
+开，这样既不伤人又不会伤害海洋动物。所以，安装上这种电缆后，泳区既能维持旅游 
+业，同时又能满足环保人士的要求。 
+　 
+分析：倒数第四行by引导方法：通过安装电缆，而不是网 
+　　　达到目的：在满足环保人士需求的同时，维持旅游业 
+　 
+
+Mathematics instructors assigned some of the students enrolled in a 
+calculus course to participate in a small student-led group-study workshop.
+Since workshop participants achieved a significantly higher average course 
+grade than those who did not participate, the mathematics department 
+attributes this superior performance in calculus to workshop participation.
+　 
+The mathematics department's reasoning, as described above, assumes 
+which of the following? 
+
+Calculus is a difficult subject for instructors to teach to large 
+groups of students.
+The students who participated in the workshop were initially neither 
+much better prepared nor much more highly motivated than the students 
+who did not participate in the workshop.
+The time spent in the calculus workshop did not have a significantly 
+adverse effect on the participants' performance in their other courses.
+Few of the students who participated in the workshop planned to enroll 
+in any mathematics courses more advanced than calculus.
+The students who participated in the workshop received much more 
+individualized attention from the calculus instructor than did the 
+students who did not participate in the workshop.
+
+------------------------ 
+答案：(B) 
+
+问题：上述推理的假设是什么？ 
+读题：数学老师将上微积分课的一部分学生组成一个学习小组，学习小组的成员获得的 
+　　　平均分要比没有参加学习小组的学生高许多。数学系把小组成员的好成绩归功于参 
+　　　加了学习小组。 
+　 
+分析：原文中是这么一个事实，参加学习小组的比不参加的人得分高，于是得到结论： 
+　　　是参加学习小组的作用 
+此类Assumption往往是： 
+　1、 没有其他的原因来解释上面这个事实 
+　2、 直接说学习小组和成绩的关系。 
+先看具有否定词的选项B,C 
+　　 
+B.参加学习小组的同学与没有参加学习小组的同学相比，既没有专门准备，也没有受到 
+　　太多激励。 
+　　（表明没有其他的原因） 
+C.小组成员花在微积分课的时间并没有影响他们其它课程的成绩。 
+D.参加学习小组的同学中很少有人打算学习比微积分更高级的其它数学课。 
+E.参加学习小组的学生比没参加学习小组学生更加受到老师的好感。 
+
+Yorkton's city council has six members.Three members-Ford.Gonzalez 
+and Isaacson-represent northern Yorkton, and three members-Kramer, Lee, 
+and Marek-represent southern Yorkton.All six will serve as members of 
+the council for the year beginning January first.The president of the 
+council is selected from among the members of the city council to serve 
+a one-month term, beginning the first of each month, according to the 
+following conditions: 
+　 
+　The presidency must alternate between the members from northern 
+　　　Yorkton and the members from southern Yorkton.
+　Only one member can serve as president at a time.
+　No one serving a term as president can serve another term until every other 
+　　council member has served as president in the interim.
+　A member representing northern Yorkton will be president in January.
+Which of the following is a complete and accurate list of all of the 
+council members who could serve as president of the council in August? 
+Ford, Marek 
+Isaacson, Kramer 
+Ford, Kramer, Lee 
+Kramer, Lee, Marek 
+Gonzalez, Kramer, Lee, Marek 
+
+------------------------ 
+答案：(D) 
+
+Which of the following must be true? 
+Ford is president of the council immediately after Marek is president.
+Ford is not president of the council in May or in July.
+Gonzalez is president of the council in January.
+Lee is president of the council in exactly one of the months February, 
+April, or June.
+Marek is president of the council in exactly one of the months February, 
+April, or May.
+
+------------------------ 
+答案：(D) 
+
+If Isaacson is not president of the council in March, which of the 
+following must be true? 
+Ford or Gonzalez is president of the council in September.
+Ford or Isaacson is president of the council in August.
+Kramer or Lee is president of the council in September.
+Lee or Marek is president of the council in August.
+Lee or Marek is president of the council in October.
+
+------------------------ 
+答案：(A) 
+
+If Gonzalez, Marek, and Ford are president of the council in January, 
+February, and March, in that order, which of the following must be true? 
+Ford is president of the council in July.
+Ford and Kramer are president of the council in August and September, 
+respectively.
+Gonzalez and Ford are president of the council in July and August, 
+respectively.
+Kramer and Lee are president of the council in April and June, 
+respectively.
+Marek and Ford are president of the council in August and September, 
+respectively.
+
+------------------------ 
+答案：(E) 
+
+Whole wheat bread is more nutritious than white bread,which has a 
+taste that many people prefer.Bread made from whole-grain white wheat 
+flour, newly available, provides nutrition comparable to whole wheat 
+bread but tastes just like white bread.Once consumers try whole-grain 
+white wheat bread, they will prefer eating it to eating white bread.
+　 
+The conclusion of the argument above is properly drawn if which of 
+the following is assumed? 
+
+Whole-grain white wheat flour costs consumers more than does white 
+　flour but less than does whole wheat flour.
+Consumers will prefer eating foods that are more nutritious to eating 
+　foods that are less nutritious when the foods taste the same.
+Ordinary white flour is made by removing the nutritious bran and germ 
+　from ground wheat.
+Whole-grain white wheat flour is not significantly more difficult 
+　to produce than is white flour.
+Some people prefer the taste of whole wheat bread to that of white bread.
+
+------------------------ 
+答案：(B) 
+
+Essentially all polar ice forms from precipitation that falls as 
+snow.Extremely cold air cannot hold much moisture and consequently 
+cannot produce much snowfall.In recent years, air masses in both 
+polar regions have been, without exception, extremely cold.
+　 
+The information above most strongly supports which of the following 
+conclusions? 
+
+If polar ice is currently growing and expanding at all, it is doing so 
+　only slowly.
+If air temperatures in the polar regions were considerably warmer, 
+　much polar ice would melt off.
+In the last few years, snowfall in the polar regions has been virtually 
+　continuous.
+The thicker the polar ice is, the colder the air masses that are in 
+　contact with it.
+For snow to turn into ice in the polar regions, the air has to be 
+　extremely cold.
+
+------------------------ 
+答案：(A) 
+
+问题：上述信息支持下面那一个结论？ 
+读题：几乎所有的极地冰都是由降雪形成的，极冷的空气无法维持太多湿气，结果就无法 
+　　　产生许多雪。近年来，两极的气团都毫无例外地变得极冷。 
+　 
+分析：极冷的空气导致没有太多湿气，导致没有雪， 
+　　　而极地冰由降雪形成，没有雪就没有冰 
+　　　现在空气冷 
+　 
+A.如果极地冰正处于增厚与膨胀中，这种速度也是极慢的。 
+　　（可以由上面的分析推出） 
+　 
+B.如果极地地区气温相当高，许多极地冰就会融化。 
+　　（这句话本身没有错，但是上文没有说到这一方面） 
+　 
+C.在过去几年里，极地地区降雪不断。 
+D.极地冰越厚，与之接触的气团越冷。 
+E.在极地地区，若雪要就冰的话，空气必须极冷才行。 
+三、Moas were tall, flightless birds that lived only in New Zealand.
+Before humans settled in New Zealand, moas had no serious predators and 
+were plentiful.Moas became extinct after humans began hunting them.
+So hunting by humans must have caused the moas' extinction.
+　 
+Which of the following, if true, most seriously weakens the argument above? 
+
+Some moa species lived in parts of New Zealand that were among the 
+　last to be settled by humans.
+Humans in New Zealand hunted a mammalian species that, though vulnerable 
+　to indigenous predators, never became extinct.
+Humans introduced to New Zealand several animal species that preyed 
+　on moas.
+Moas still existed in some parts of New Zealand approximately 500 years 
+　after the arrival of the first humans in New Zealand.
+Some species of moa were able to outrun humans.
+
+------------------------ 
+答案：(C) 
+
+问题：下面那一个，if true，最严重削弱上面的论述？ 
+读题：Maos是仅存在于新西兰的一种高大但不会飞的鸟。在人定居新西兰之前，Maos没有 
+　　　什么可怕的天敌，数量极多。当人们开始猎取它们后，Maos几乎绝迹了。所以， 
+　　　肯定是人类的打猎造成了Maos的绝迹。 
+　 
+分析：上面是一个事实，Maos绝迹；认为人类的打猎是原因。 
+反对：　1、有其他的原因导致其绝迹 
+　 2、直接说人类的打猎和Maos绝迹无关。 
+　 
+A.一些Maos栖息在新西兰人类定居最晚的一部分地区。 
+B.新西兰人也猎取一种哺乳动物。这种动物虽然也易受本地天敌的攻击，却并未灭绝。 
+C.人们引入新西兰好几种捕食Maos的动物。 
+　　（不是打猎造成的，而是动物捕杀） 
+　 
+D.大约第一批人进驻新西兰500年之后，Maos仍存在于新西兰的某些地区。 
+
+　 During six days, Monday through Saturday, a walker is planning to 
+take five walks-the gorge walk, the lake walk, the pinewoods walk.the 
+river walk, and the village walk-at a mountain resort.The village 
+walk requires two entire consecutive days; the other four walks each 
+require exactly one entire day.The walker's plans will conform to 
+the following constraints, imposed by the nature of the walks: 
+　 
+　The gorge walk must be planned for Monday or else for Tuesday.
+　Friday and Saturday cannot be the pair of days for which the village 
+　　walk is planned.
+　The lake walk can be planned for neither the day before nor the day 
+　　after the village walk.
+If the walker's plan includes the pinewoods walk for Wednesday, 
+which of the following must the plan also include? 
+The gorge walk for Monday 
+The lake walk for Monday 
+The lake walk for Tuesday 
+The river walk for Saturday 
+The village walk for a pair of days that include Tuesday 
+
+------------------------ 
+答案：(D) 
+
+If the walker's plan includes the pinewoods walk for Tuesday, which 
+of the following CANNOT be included in that plan? 
+The lake walk for Monday 
+The lake walk for Friday 
+The pinewoods walk for Monday 
+The pinewoods walk for Wednesday 
+The river walk for Monday 
+
+------------------------ 
+答案：(B) 
+
+If the walker's plan includes the pinewoods walk and the river walk, in 
+that order, on consecutive days, then those two days must be the two 
+days that 
+follow the gorge walk 
+follow the lake walk 
+follow the village walk 
+precede the lake walk 
+precede the village walk 
+
+------------------------ 
+答案：(C) 
+
+Which of the following is a complete and accurate list of days for 
+any one of which the walker can plan a lake walk? 
+Monday, Tuesday 
+Monday, Tuesday, Friday 
+Tuesday, Friday, Saturday 
+Monday, Tuesday, Wednesday, Saturday 
+Monday, Tuesday, Friday, Saturday 
+
+------------------------ 
+答案：(E) 
+
+If the walker's plan assigns the lake walk to some day before the 
+village walk, the plan must also assign the 
+lake walk to some day before the gorge walk 
+lake walk to some day before the pinewoods walk 
+pinewoods walk to some day before the river walk 
+pinewoods walk to some day before the village walk 
+river walk to some day before the village walk 
+
+------------------------ 
+答案：(B) 
+
+Which of the following is true about the walker's plan? 
+The gorge walk must be planned for some day before the village walk.
+The gorge and lake walks must be planned for consecutive days.
+The pinewoods and river walks must be planned for consecutive days.
+The village walk must be planned for Wednesday.
+The lake walk or the pinewoods walk must be the walk planned for Saturday.
+
+------------------------ 
+答案：(A) 
+
+　A police captain is making patrol assignments for six officers-King, 
+Lee, Morales, Nini, O'Hagan, and Paredes.Two of the officers will be 
+assigned to car 1.and another three will be assigned to car 2.The 
+remaining officer will be on desk duty.The following restrictions on 
+assignments apply: 
+　 
+　King can only be assigned to a car if O'Hagan is also assigned to that car.
+　Neither Lee nor Nini can be assigned to car 1.
+　Lee cannot be assigned to the same car as Paredes.
+Which of the following can be the pair of officers assigned to car 1? 
+King and Morales 
+King and O'Hagan 
+Lee and O'Hagan 
+Lee and Paredes 
+Morales and Nini 
+
+------------------------ 
+答案：(B) 
+读题：一个警官分配6个officer巡逻，K、L、M、N、O、P，2个在car 1, 3个在car 2, 
+　　　留下的一个为duty 
+写条件： 
+　　　1、 K→KO （表示仅仅当O在某车上，K才能够在那辆车上） 
+2、 L,N≠1 （表示 L,N不在1） 
+3、 ～(LP) （表示L和P不再一组） 
+　 
+分析: 
+方法1 
+由K→KO可以把本题分为三种情况 
+*1: K在第一组 
+1:KO 
+2:N,L/P,M 
+duty:L/P 
+*2:K在第二组 
+1: PM 
+2: L/N KO 
+duty: L/N 
+*3: K在duty 
+1: P O/M 
+2: LN O/M 
+duty:K 
+　 
+　 
+*** 方法2 
+一共相当于3组, 其数字分配为2,3,1 
+现在L,N≠1, 因此就一定在第二组或者作为duty, 而duty只有一人,因此L,N之中一定至少有 
+一人在第二组 
+
+If Lee is the officer assigned to desk duty, which of the following 
+officers must be assigned to car 2? 
+King 
+Morales 
+Nini 
+O'Hagan 
+Paredes 
+
+------------------------ 
+答案：(C) 
+读题：一个警官分配6个officer巡逻，K、L、M、N、O、P，2个在car 1, 3个在car 2, 
+　　　留下的一个为duty 
+写条件： 
+　　　1、 K→KO （表示仅仅当O在某车上，K才能够在那辆车上） 
+2、 L,N≠1 （表示 L,N不在1） 
+3、 ～(LP) （表示L和P不再一组） 
+　 
+分析: 
+方法1 
+由K→KO可以把本题分为三种情况 
+*1: K在第一组 
+1:KO 
+2:N,L/P,M 
+duty:L/P 
+*2:K在第二组 
+1: PM 
+2: L/N KO 
+duty: L/N 
+*3: K在duty 
+1: P O/M 
+2: LN O/M 
+duty:K 
+　 
+　 
+*** 方法2 
+一共相当于3组, 其数字分配为2,3,1 
+现在L,N≠1, 因此就一定在第二组或者作为duty, 而duty只有一人,因此L,N之中一定至少有 
+一人在第二组 

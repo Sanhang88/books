@@ -1,0 +1,27 @@
+代名词不出错
+
+   怎样避免代名词的错误呢？
+㈠不要用同个代名词指引两个性别一样的名词，如：
+   ① Mr Li told Mr Lin that he was wrong.
+   这里的 he 既可指林先生，也可指李先生，含糊不清。应该改为 ②或③：
+   ② Mr Li said to Mr Lin, "I am wrong."
+   ③ Mr Li said to Mr Lin, "You are wrong."
+㈡避免把代名词和它所指引的名词隔开太远，如：
+   ④ The man leaned over the bench for hours working on the plan. It was too low to be comfortable.
+   这里的代词 it 离开名词 the bench 太远，结果关系不清楚，因为在位置上，它更适合指引 the plan。在这种情况下，只好避开 it，而用名词，即 the bench。
+㈢避免滥用指示代词“this, that”或关系代词“who, which, that”泛指上文的内容。例如：
+   ⑤ Tom's brother is an accountant, and this is the profession everyone envies."
+   这里的 this 指“accountant”。“会计师”是一种专业人士，和后头的“专业”（profession）并不相称，因此要把 this 改为 accountancy（会计工作），才合句子的意思。
+   ⑥ The profit from the business was large, which I realised sometime later.
+   这里的“which I realised sometime later”是句形容词分句，应该出现在先行词后面，不应该脱离出来而独立。如果要用它来修饰全句话，更不合逻辑，应该改为⑦或⑧：
+   ⑦ I realised sometime later that the profit from the business was large.（主句 + 名词分句）
+   ⑧ The profit from the business was large. I realised this (matter) sometime later.（单句 + 单句）
+㈣避免用代名词“they, you, it”影射脑子里的事物，如：
+   ⑨ In Singapore, it relies heavily on tourism as a source of national revenue.
+   这里的 it 指向什么呢？如果是心目中的“政府”或“旅游促进局”，那就要明言，不要用不清不楚的 it：
+   ⑩ In Singapore, the government...
+   11. In Singapore, the Tourist Promotion Board...
+   12. In less industrialised countries, they do not know the problems of urban development.
+   这里的代名词 they 是不是指 the people（人民）？如果是就用吧。In less industrialised countries, the people...过后，要再提这主语时，才用 they：...the people...They are only interested in their daily life.
+   其实，在这种主语不详的情况下，被动语态是最好的选择：
+   13. In less industrialised countries, the problems of urban development are not known

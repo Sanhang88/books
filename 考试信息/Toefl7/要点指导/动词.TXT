@@ -1,0 +1,72 @@
+动词
+英语动词分谓语动词（含系动词）和非谓语动词（分词、不定式及动名词）两类。有关非谓语的题目范围广泛，另成章节详述（参见本书要点之7和8）本篇则主要分析谓语动词在TOEEL考试中的命题型式和范围。动词既以谓语的功能出现，它就具有了形式上的多种变化；时态。语态及主谓数的统一等等。有关谓语动词的命题焦点主要集中在（1）区分谓语动词非谓语动词（详见本书要点之1）、（2）谓语动词的正确词形，（3）被动语态的正确词形、（4）谓语动词的正确时态、（5）谓语动词与主语数的一致。
+谓语动词常考题型及解题要点
+1.区分谓语动词及非谓语动词形式（详见本书要点之1：基本句子结构）
+[例1] The“ ashcan” school in American art being a rebellion against traditional subjects and favored the painting of back-street scenes. 992.1)
+[答案] B 分词being改为谓语动词的一般过去时was。
+[例2] Stalagmites are produced when water to drop directly to the floor of a cave. (92.5)
+[答案] C不定词to drop 改为谓语动词单数第三人称形式drops.
+2. 不规则动词变化形式
+解题要点 不规则动词很多，但TOEEL试题涉及到的却是极小量的一些，下面是较常见的一些不规则变化的动词：
+begin - began - begun break - broke - broken
+bind - broke - broken blow - bound - bound
+build- blew - blown build - built - built
+choose - chose - chosen deal - dealt - dealt
+find - found - found grow - grew- grown
+hold- hold - held know - knew- known
+leave - left - left sell - sold - sold
+stand - stood - stood steal - struck - stole
+win - won - won white- wrote written
+全真例题分析
+(1) Soil science begun with the formulation of the theory of humus in 1809. (89.10)
+[答案] A 过去分词begun改过一般过去时形式began。
+(2) The tradition of an all-male Supreme Court was broke in the 1980*s when Sandra Day O*Connor was appointed to the Supreme Court. (88.10)
+[答案] B break 的过去分词是booken。
+(3) A citadel, a fortress designed for the defense of a city, usually standed on top of a hill. (89.1)
+[答案] D standed是错误形式，应改为stood。
+3. 谓语动词的被动语态
+解题要点 动词的被动语态是TOEEL常见的题型。它通常需要根据句意来判断。介词by是一个明显的提示。
+全真例题分析
+(1) People have always fascinated by the parrot*s colovfal feathers and its ability to mimic human speck (94.5)
+[答案] A 关键词by表示动词应用被动形式，即always been fascinated。
+(2) Porgy and Bess by George Gershwin has called the first truly successful North American opera.
+(93.10)
+[答案] B 根据句意，此句应用被动语态，即has been called.
+(3) Tariffs are the taxes or customs duties levied against goods that are import from anothey country (93.10)
+[答案] C 正确的被动语态应用过去分词，即imported。
+(4) Almost destroy by fire in 1814. The White House was rebuilt and enlarged over the next three years. (92.1)
+[答案] A 关键词by表明前面的动词应用被动的形式，即Almost destroyed。
+(5) The unit of measurement known as a *foot* has originally based on the average size of the human foot (90.8)
+[答案] B 根据句意，谓语动词应用被动的形式，因而has 应改为was，而且“be based on’是固定的动词短语。
+4. 根据特定的时间状语使用正确的动词时态
+解题要点 一般过去时和完成式是常考的两个有关动词时态的命题。请特别注意相关的时间状语。如阿拉伯数字表示的年代，介词since和for＋一段时间等等。
+全真例题分析
+(1) Considered one of America*s greatest playwrights,     Eugene O*Neill win the Nobel Prize of literature in 1936. (93.10)
+[答案] C 时间状语in 1936表明谓语动词应用一般过去时won。
+(2) Since the turn of the century,the number of Native Americans living in Canada is increased. (93.8)
+[答案] D 句首介词sina 要求用完成式，故is increased 改为has increased。
+(3) The metal aluminum has been first isolated early in the nineteenth century. (89.1)
+[答案] B 时间状语in the nineteenth century要求谓语动词用一般过去时was。
+(4) For centuries large communities of people have living on houseboats in parts of the world where the climate is warm and the waters are calm. (90.5)
+[答案] A 句首介词短词For centuries 表明此句应用完成式，而have living是错误的形式，应改为have been living。
+5. 复合句或并列句中的谓语动词时态应前后统一
+全真例题分析
+(1) Before the plains were settled prairie dog towns in many places stretch as far as the eye could see. (93.5)
+[答案] B 这是个含有时间状语从句的复合句。从句是一般过去时(were settled)主句亦应用一般过去时。故stretch应改为stretched。
+(2) The poet Marianne was initially associated with the imagist movement. But later develops her own rhyme patterns and verse forms. (92.5)
+[答案]B 并列句（由but相联）前后两个句子的时态一般要求一致。Develops 应改为一般过去时developed。
+(3) Coal and petroleum resulted when plants become buried in swamps and decayed. (90.10)
+[答案]C 主句是一般过去时(resulted)，时间状语从句亦应用相同的时态，即became
+6. 谓语动词应与主语的单复数保持一致。
+解题要点 主语谓语数的统一是TOEEL必考题型，而且占的比例较大。这类试题的难点是当主语谓语相隔遥远时，如主语带一冗长的定语后置谓语动词的数常会出现错误的形式，
+全真例题分析
+(1) Contemporary management practice have been influenced by investigations in the behavioral sciences. (93.10)
+[答案] A 主语是单数的practice，谓语动词应改为has been。
+(2) Even in an age of experimentation and departures from convention, the sonata form remain among the most vital means of musical expression. (93.8)
+[答案] 单数主语sonata form要求用单数第三人称谓语动词remains。
+(3) The ability to retain a mental record of earlier experiences are referred to as *memory*. (92.5)
+[答案] D 由于主语The ability 后面带有一冗长的定语，谓语错误地使用了复数形式，应改为is referred。这类题型是有关主谓数的命题中最难的形式，当主语后面接有一个很长的定语而使主谓分隔开来时，应特别留意谓语动词的数是否与主语一致。这类题的陷井是定语部分靠近谓语的那个名词的数恰恰与主语的数相反，极易误导谓语动词的数的形式。
+(4) Its tremendous output of dairy products have earned the state of Wisconsin the title of America*s Dairyland. (92.1)
+[答案] C 主语是单数形式的output，故谓语动词应改为has。介词短语of dairy products 作主语的定语。
+(5) Ensuring an adequate water supply have been a concern ever since people began to live in towns and cities . (90.8)
+[答案] B主语是动名词短语Ensuring an adequate water supply动名词作主语要求单数谓语动词

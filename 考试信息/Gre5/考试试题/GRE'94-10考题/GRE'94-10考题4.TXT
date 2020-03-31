@@ -1,0 +1,377 @@
+GRE'94-10考题4
+Which of the following statements 
+about gypsy moth caterpillars is supported 
+by information presented in the passage? 
+Wilt disease is more likely to strike 
+small gypsy moth caterpillars than 
+large ones.
+The concentration of phenols in tree 
+leaves increases as the gypsy moth 
+caterpillar population dies off.
+Female gypsy moth caterpillars stop 
+growing after they ingest leaves con- 
+taining phenols.
+Differing concentrations of phenols 
+in leaves have differing effects on 
+the ability of the wilt virus to kill 
+gypsy moth caterpillars.
+The longer a gypsy moth population 
+is exposed to wilt disease, the greater 
+the likelihood that the gypsy moth cater- 
+pillars will become immune to the virus.
+
+------------------------ 
+答案：(D) 
+　　在美国的东北部地区，上百万亩的树木由于舞毒蛾毛虫大规模的侵扰而导致的掉叶 
+现象，是一种周而复始的周期性现象。在研究这些虫害突发现象时，科学家发现受影响 
+的树木通过将有毒的化学物质，主要是苯酚，释放到其叶子中，从而作出反击。这些有 
+毒物质遏制住毛虫的生长，并减少雌蛾产卵的数量。同时，苯酚亦使蛾卵变得更小，从 
+而抑制了来年毛虫的生长。因为雌蛾产卵的数量与其尺寸大小直接相关，又因为它的尺 
+寸大小全部取决于它作它毛虫的给食成功，因此，树木的防御机制会对舞毒蛾的生殖力 
+产生影响。 
+　 
+　　此外，舞毒蛾也易于受到核酸多角体病毒或所谓的萎蔫病的进攻，这种病毒在突发 
+性年份成为毛虫尤其重要的杀手。一旦毛虫吞食了带有病毒（被包裹一蛋白质小球体中） 
+的叶子，它们便患了萎蔫病。一旦被毛虫所摄入，该蛋白质小球体便溶化，释放出数以 
+千计的病毒或病毒体，在经过大约两周时间后，繁殖至充分的数量，充斥毛虫的全部体 
+腔。当毛虫死去时，病毒体被释放到体外，并被包裹在一个从毛虫的组织中合成的新的 
+蛋白质小球体中，等待着被其它的毛虫拣起吞食。 
+　 
+　　科研人员了解到，包括鞣酸在内的苯酚，经常是通过与蛋白质的活动联合起来并改 
+变蛋白质的活动而发挥作用，因此，他们侧重研究了毛虫同时摄入病毒和树叶，对毛虫 
+所会产生的影响。他们发现，在含有大量鞣酸的橡树叶上，病毒杀死毛虫的效果要比病 
+毒在苯酚含量较低的颤杨树叶上杀死毛虫的效果相差甚多。一般而言，树叶中苯酚含量 
+较高，病毒就越缺乏致命的杀伤力。因此，尽管树叶中高含量的苯酚可通过限制毛虫的 
+尺寸大小，并因此限制雌蛾卵群的规模，从而减少毛虫的种群数目，但正是这些相同的 
+化学物质，同样能通过使萎蔫病毒丧失能力，从而帮助毛虫幸存下来。红像树群丛，以 
+其含有大量鞣酸的树叶，甚至有可能为毛虫提供一个安全的庇护所，不受萎蔫病的影响。 
+然而，在以颤杨树这类树为主的群丛中，处于初始阶段的舞毒蛾突发态势很快地被病毒 
+流行病所抑制。 
+　 
+　　要深入的研究表明，毛虫针对萎蔫病毒变得几乎具有一种免疫的能力，随着它们赖 
+以为一的树木对愈发严重的掉叶现象作出反应。树木自身的防御反而提高了毛虫受萎蔫 
+病感染的阈值，致使毛虫种群日趋密集，但与此同时却不会变得更加易受病毒感染的影 
+响。由于这些原因，摄入笨酚给毛虫带来的益处似乎超过了给它们带来的代价。考虑到 
+病毒的顾在，树木的防御策略显然已经产生了事与愿违、适得其反的作用。
+The sweep of narrative in A.N.Wilson's 
+　　biography of C.S.Lewis is impressive and 
+　　there is much that is acute and well argued.
+　　But much in this work is careless and 
+(5) unworthy of its author.Wilson, a novelist 
+　　and an accomplished biographer, has 
+　　failed to do what any writer on such a subject 
+　　as Lewis ought to do, namely work out a 
+　　coherent view of how the various literary 
+(10) works by the subject are to be described 
+　　and commented on.Decisions have to 
+　　be made on what to look at in detail and what 
+　　to pass by with just a mention.Wilson has 
+　　not thought this problem out.For instance, 
+(15) Till We Have Faces, Lewis' treatment of the 
+　　Eros and Psyche story and one of his 
+　　best-executed and most moving works, is 
+　　merely mentioned by Wilson, though it 
+　　illuminates Lewis' spiritual development, 
+(20) whereas Lewis' minor work Pilgrim's Regress 
+　　is looked at in considerable detail.
+
+The author of the passage implies that 
+Wilson's examination of Pilgrim's Regress 
+is not as coherent as his treatment of 
+Till We Have Faces 
+would have been more appropriate in a 
+separate treatise because of the scope of 
+Pilgrim's Regress 
+demonstrates how Wilson's narrow focus 
+ignores the general themes of Lewis' works 
+was more extensive than warranted because 
+of the relative unimportance of Pilgrim's 
+Regress 
+was disproportionately long relative to 
+the amount of effort Lewis devoted to writing 
+Pilgrim's Regress 
+
+------------------------ 
+答案：(D) 
+　　在A·N·威尔逊（Wilson）撰写的关于C·S·刘易斯（Lewis）的传记中，叙事的 
+恢宏气势给人印象深刻，相当一部分的内容敏锐且论辩有力。然则，这部作品中也有很 
+大一部分内容显得粗枝大叶，与其作用并不相称。作为一个小说家和富有造诣的传记作 
+家，威尔逊没能做到任何一个作家在处理象刘易斯这样一位传主时都应该能做到的事 
+情，即阐述一个连贯的观点，以说明由传主（指主易斯）所创作的不同文学作品应如何 
+加以描述和评价。传记作者必须作出定夺，什么应该详加分析，什么可稍作提及即可一 
+略而过。威尔逊却没有把这个问题思考妥当。例如，Till We Have Faces这部作品涉及 
+到作者刘易斯对爱欲和心灵这一故事的处理，并构成了他最精湛和最动人的作品之一。 
+尽管作品足以阐明刘易斯的心路历程，但仅得到威尔逊约略的提及；而与此相反，刘易 
+斯的次要作品，即Pilgrim's Regress，却得到了甚为细致详尽的分析。 
+
+The author of the passage would be most 
+likely to agree with which of the following 
+statements regarding Till We Have Faces? 
+It is an improvement over the Eros and Psyche 
+story on which it is based.
+It illustrated Lewis' attempt to involve 
+his readers emotionally in the story of Eros 
+and Psyche.
+It was more highly regarded by Wilson than 
+by Lewis himself.
+It is one of the outstanding literary 
+achievements of Lewis' career.
+It is probably one of the most popular of 
+Lewis' works.
+
+------------------------ 
+答案：(D) 
+　　在A·N·威尔逊（Wilson）撰写的关于C·S·刘易斯（Lewis）的传记中，叙事的 
+恢宏气势给人印象深刻，相当一部分的内容敏锐且论辩有力。然则，这部作品中也有很 
+大一部分内容显得粗枝大叶，与其作用并不相称。作为一个小说家和富有造诣的传记作 
+家，威尔逊没能做到任何一个作家在处理象刘易斯这样一位传主时都应该能做到的事 
+情，即阐述一个连贯的观点，以说明由传主（指主易斯）所创作的不同文学作品应如何 
+加以描述和评价。传记作者必须作出定夺，什么应该详加分析，什么可稍作提及即可一 
+略而过。威尔逊却没有把这个问题思考妥当。例如，Till We Have Faces这部作品涉及 
+到作者刘易斯对爱欲和心灵这一故事的处理，并构成了他最精湛和最动人的作品之一。 
+尽管作品足以阐明刘易斯的心路历程，但仅得到威尔逊约略的提及；而与此相反，刘易 
+斯的次要作品，即Pilgrim's Regress，却得到了甚为细致详尽的分析。 
+
+Which of the following best describes the 
+organization of the passage? 
+An evaluation is made, and aspects of the 
+evaluation are expanded on with supporting 
+evidence.
+A theory is proposed, and supporting 
+examples are provided.
+A position is examined, analyzed, and 
+rejected.
+A contradiction is described, then the 
+points of contention are evaluated and 
+reconciled.
+Opposing views are presented and 
+evaluated, then modifications are advocated.
+
+------------------------ 
+答案：(A) 
+　　在A·N·威尔逊（Wilson）撰写的关于C·S·刘易斯（Lewis）的传记中，叙事的 
+恢宏气势给人印象深刻，相当一部分的内容敏锐且论辩有力。然则，这部作品中也有很 
+大一部分内容显得粗枝大叶，与其作用并不相称。作为一个小说家和富有造诣的传记作 
+家，威尔逊没能做到任何一个作家在处理象刘易斯这样一位传主时都应该能做到的事 
+情，即阐述一个连贯的观点，以说明由传主（指主易斯）所创作的不同文学作品应如何 
+加以描述和评价。传记作者必须作出定夺，什么应该详加分析，什么可稍作提及即可一 
+略而过。威尔逊却没有把这个问题思考妥当。例如，Till We Have Faces这部作品涉及 
+到作者刘易斯对爱欲和心灵这一故事的处理，并构成了他最精湛和最动人的作品之一。 
+尽管作品足以阐明刘易斯的心路历程，但仅得到威尔逊约略的提及；而与此相反，刘易 
+斯的次要作品，即Pilgrim's Regress，却得到了甚为细致详尽的分析。 
+
+Which of the following best describes the 
+content of the passage? 
+A critique of A.N.Wilson as a biographer 
+An evaluation of the significance of 
+several works by C.S.Lewis 
+An appraisal of a biography by A.N.
+Wilson 
+A ranking of the elements necessary for 
+a well-structured biography 
+A proposal for evaluating the literary 
+merits of the works of C.S.Lewis 
+
+------------------------ 
+答案：(C) 
+　　在A·N·威尔逊（Wilson）撰写的关于C·S·刘易斯（Lewis）的传记中，叙事的 
+恢宏气势给人印象深刻，相当一部分的内容敏锐且论辩有力。然则，这部作品中也有很 
+大一部分内容显得粗枝大叶，与其作用并不相称。作为一个小说家和富有造诣的传记作 
+家，威尔逊没能做到任何一个作家在处理象刘易斯这样一位传主时都应该能做到的事 
+情，即阐述一个连贯的观点，以说明由传主（指主易斯）所创作的不同文学作品应如何 
+加以描述和评价。传记作者必须作出定夺，什么应该详加分析，什么可稍作提及即可一 
+略而过。威尔逊却没有把这个问题思考妥当。例如，Till We Have Faces这部作品涉及 
+到作者刘易斯对爱欲和心灵这一故事的处理，并构成了他最精湛和最动人的作品之一。 
+尽管作品足以阐明刘易斯的心路历程，但仅得到威尔逊约略的提及；而与此相反，刘易 
+斯的次要作品，即Pilgrim's Regress，却得到了甚为细致详尽的分析。 
+
+SUMMON: 
+
+overlook 
+subtract 
+discourage 
+dismiss 
+refuse 
+
+---------
+答案：(D) 
+
+召集v.
+　 
+A.忽视 
+B.扣除，减去 
+C.使阻丧，劝阻 
+D.解散 
+E.拒绝 
+
+IMPEL: 
+
+restrain 
+extract 
+alternate 
+expand 
+modify 
+
+----------
+答案：(A) 
+
+激励，推动v.
+　 
+A.克制 
+B.提取 
+C.交替，轮流 
+D.延伸，扩展 
+E.修改 
+
+NEOLOGISM: 
+
+colloquial phrase 
+profound statement 
+grammatical construction 
+well-established expression 
+redundant wording 
+
+----------
+答案：(D) 
+
+新词n.
+　 
+A.口语短语 
+B.深奥，深刻的陈述 
+C.语法结构 
+D.正确立的表达法 
+E.多余的用词 
+
+PUNCTILIOUS: 
+
+provocative 
+slipshod 
+insistent 
+bewildering 
+serene 
+
+---------
+答案：(B) 
+
+小心谨慎的，拘谨的adj.
+　 
+A.挑畔性的，使人生气的 
+B.马虎的，不整齐的，懒散的 
+C.坚持的 
+D.令人手足无措的 
+E.宁静的 
+
+VARIEGATION: 
+
+ambiguity 
+refinement 
+adverse effect 
+uniform coloration 
+concise description 
+
+--------
+答案：(D) 
+
+杂色，花斑n.
+　 
+A.模棱两可 
+B.精炼(文雅) 
+C.逆反作用 
+D.一致的着色 
+E.简洁的描述 
+
+CLEMENCY: 
+
+loquacity 
+deviousness 
+capriciousness 
+convenience 
+ruthlessness 
+
+---------
+答案：(E) 
+
+仁慈，宽厚(温暖)n.
+　 
+A.喋喋不休 
+B.不正当，诡计多端(误入歧途) 
+C.易变 
+D.方便，权宜 
+E.无情 
+
+SUBLIME: 
+
+regulated 
+despicable 
+unknown 
+visible 
+weak 
+---------
+答案：(B) 
+
+崇高的adj.
+　 
+A.被调控的 
+B.卑鄙的 
+C.不知名的 
+D.可见的 
+E.虚弱的 
+
+BIFURCATE: 
+
+disagree 
+complement 
+coalesce 
+validate 
+mitigate 
+
+---------
+答案：(C) 
+
+分为两叉v.
+　 
+A.不同意 
+B.补充 
+C.合并 
+D.使正确有效 
+E.缓和，减轻 
+
+IGNOMINIOUS: 
+
+unfashionable 
+uninspired 
+memorable 
+honorable 
+voluntary 
+
+---------
+答案：(D) 
+
+可耻的；卑鄙的adj.
+　 
+A.不时髦的 
+B.无独创性的(未受鼓舞的) 
+C.值得记住的 
+D.光荣的；高尚的 
+E.自愿的 
+
+INVIDIOUS: 
+
+transient 
+abundant 
+shallow 
+conspicuous 
+beneficial 
+
+---------
+答案：(E) 
+
+PAEAN: 
+
+ungenerous offer 
+formal apology 
+harsh lampoon 
+stiff acceptance 
+long-winded explanation 
+-------------- 
+答案：(C)

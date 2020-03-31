@@ -1,0 +1,45 @@
+不定式
+
+   不定式的构成非常简单，告诉我是什么？对！是to+动词原形。当然啦，to有时也可以不带。动词不定式没有人称和数的变化，可以担当除谓语外的任何句子成分。那什么时候　可以不带to呢?
+不定式省to有四种情况：
+　 使役动词 let,have,make 等后接不定式。如：Let him go! 让他走!
+   would rather，had better后。如：You had better stay at home.你最好呆在家里。
+   Why... / why not...后。如：Why not have a good rest on Sunday?为什么星期天不好好休息一下呢?
+   感官动词 see, watch, look at, hear, listen to, smell,feel, find 等后作宾补，省to。如：I saw him dance. 我看见他跳舞。注意：这些情况在被动句中可千万不可省to哟！ 如：The boss made them work the whole night.变成被动句：They were made to work the whole night.
+不定式的特殊用法：
+   It与不定式：动词不定式可以做主语，但如果动词不定式太长，显得头重脚轻的，那么我们就可用形式主语it代替，而把真正主语(即不定式)放于句尾。
+   如: It is not difficult for me to study English well.(对我来说学好英语是可能的。)不定式还可以充当句子的宾语，但有些动词，如find，think，believe 等，这样的不定式可继续充当其宾语的作用。如: I found it difficult to fall asleep.我发现很难入睡。
+   还有一点：动词不定式，还可用在how，when，where，what，which 等疑问代词或副词之后，与其共同作宾语。如：I don't know how to use a computer.我不知道怎样使用电脑。Remember?
+   too...to...和enough...to：too...to表达"太 ... 一致于不能..."。
+   enough ... to 表达 "足以..."。这两个词组的用法用两个例子就可以说清楚了。
+   The box is too heavy for me to lift.这个箱子太沉了，我提不动。
+   He is old enough to go to school.他到上学的年龄了。也就是说，他的年龄足够上学了。记住这两个句子就可以举一反三，应用自如。
+
+从两道中考题看动词不定式作定语
+先看两道中考题：
+1．Who was the first one ____ ？ A．to reach B．to arrive C．to get to D．to arrive at（2000山东济南）（Key：B）
+2．She has no paper ____ ．A．to write B．to write with C．writing on D．to write on（2000重庆）（Key：D）
+   同是动词不定式作定语，为何1题用了不及物动词结构，2题却用了不及物动词加介词结构？要回答这个问题，还得从动词不定式作定语时与被修饰的成分（通常是名词或代词）之间所构成的逻辑关系说起。
+   动词不定式作定语与被修饰的名词或代词在逻辑上常形成以下几种关系：
+一、主谓关系
+   被修饰成分是不定式所表示动作的发出者，即被修饰的成分为不定式逻辑上的主语。构成这种关系的动词可以是及物的（其后应带宾语），也可以是不及物的（其后无宾语）。例如：
+1．The water to make steam is heated in a boiler．（相当于：The water makes steam．．．）产生蒸汽的水在锅炉中加热。
+2．The next train to arrive was from New York．（相当于：The next train arrives．．．）下一列到站的火车是从纽约开来的。
+二、动宾关系
+   被修饰的成分，从逻辑上看若是动词不定式所表示的动作的承受者，即不定式与被修饰成分之间存在动宾关系，在这种情况下，动词不定式动作的发出者往往是句子的主语泛指的“我们”、“人们”，此时该不定式中的动词可以是及物的，但不可带宾语；也可以是不及物的，但通常用“不及物动词＋介词”结构。例如：
+1．I have nothing to say on this question．（相当于：I'll say nothing．．．）在这个问题上，我没有什么好说的。
+2．He is the best man to consult with．（相当于：．．．consult with the best man．）他是可以商量问题的最合适的人。
+注：当不定式所修饰的名词是 place，day，way，time等时，该“不及物动词＋介词”结构中的介词可以省略。
+1．Night was coming on and I had to look for a place to sleep．夜幕已开始降临，我不得不找个睡觉的地方。
+2．Carrie looked about for a place to seat and eat．嘉丽环顾四周，想找一个坐坐和吃饭的地方。
+三、同位关系
+   不定式解释或说明其所修饰成分的具体内容，这时被修饰的成分常常是抽象名词（如：promise，attempt，decision，determination， will，willness，invitation，proposal，refusal，．．．）。此时，不定式中的动词可以是及物的，也可以是不及物的。例如：
+1．She lost her will to live．她失掉了生活的愿望。
+2．He made a firm resolution to give up smoking．他下了决心戒烟。
+3．We gratefully accepted his promise to help us．我们感激地接受了他要帮助我们的承诺。
+四、互相修饰关系
+   不定式修饰其前面的名词，而不定式短语中的介词又与该名词构成介词短语来修饰不定式（相当于状语）。这种结构中的动词可能是及物的（带宾语），也可能是不及物的。例如：
+1．I haven't got a basket to carry apples in．（相当于：to carry apples in a basket）我没篮子装苹果。
+2．Having no work to go to and no family to provide for，he was free．（相当于：to go to work，to provide for a family）他无工作可做，也没家庭可供养，他自由自在。
+3．The old peasant gave me a sickle to cut rice with．（相当于：to cut rice with a sickle）那个农民给我一把镰刀割稻子。
+   弄清了动词不定式作定语时与被修饰成分存在上述四种逻辑关系，也就不难理解本文开头的两道考题：1题中的不定式与被修饰成分之间构成了主谓关系，且“到达”无对象，故用不及物动词（arrive或get）来表达，因此选B；2题中的不定式与被修饰成分之间构成了动宾关系，且此处的write为不及物动词，故该不定式用“不及物动词＋介词”（．．．to write on）来表达，因此选D.   

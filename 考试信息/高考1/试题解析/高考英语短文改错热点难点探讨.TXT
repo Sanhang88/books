@@ -1,0 +1,63 @@
+高考英语短文改错热点难点探讨
+一、一致性问题
+　　1.主谓一致
+　　1)What are your favourite sport？(’97)is这是对疑问句主谓一致的考查。
+　　2)Play football not only makes us grow up tall…(’98)Playing
+　　动词原形加-ing构成动名词形式，与谓语动词makes一致。
+　　3)Now my picture and the prize is hanging in the library.(2000)are
+　　主语为复数概念“我的照片和奖牌”。
+　　2.时态一致
+　　1)It was very kind of them to meet me at the railway station and drove me to their home.
+　　(’96)drive
+　　连词and连接的是两个并列的动作meet和drive。
+　　2)They offered me coffee and other drinks.
+　　We have a good time talking and laughing.
+　　(’96)had
+　　整篇文章记述过去发生的事情，用的是过去时。
+　　3)Hello，I learn about you from my English teacher，…(’97)learned
+　　从教师那儿知道，是过去发生的行为，故须用过去时。
+　　4)My favourite sport is football.
+　　I was a member of our school football team.(’98)am整篇文章描述现在的情况，用的是一般现在时。此句也应改为一般现在时。
+　　5)…not only makes us…but also give us a sense of fair play…(’98)gives“not only…”连接的应是两个相等的成份，用第三人称单数。
+　　6)I am happy with any programme but the others spent a lot of time arguing…(’99)was
+　　此句描述的是过去的事情，且下句也是用的过去时，故要改为was。
+　　7)I remembered her words and calm down.
+　　(2000)calmed
+　　连词and连接两个相等的成份。
+　　3.名词的单复数一致
+　　1)…and asked me lots of question.
+　　(’96)questions
+　　“question”为可数名词，用在lotsof后面，应加-s。
+　　2)We study quite a few subject，such as maths，…(’97)subjects
+　　A few后面应跟可数名词的复数形式。
+　　3)…and often watch football match on TV…
+　　(’98)matches
+　　经常观看足球赛，足球赛应为复数形式。
+　　4)She said that she and my schoolmate all wished me success，…(2000)schoolmates
+　　此处同学为复数概念，应加上-s。
+　　4.代词的性、数一致
+　　1)The Smiths did his best to make me feel…(’96)their
+　　主语The Smiths用以指代一家人或夫妇俩，后面的代词应该用their。
+　　2)And they must not break the rules too often if we want to win the games.(’98)we
+　　全文谈论的都是“我们”的事，此处也应一致。
+　　3)Some wanted to see the programme while others preferred another.(’99)one
+　　此句考查表示三者以上的代词搭配one…another。
+　　4)The day before the speech contest English teacher…(2000)my
+　　可数名词前通常要加修饰语。此句虽然有English，但指代不明。根据上下文，加上my比较贴切。
+　　5.语意一致
+　　She was smiling but nodding at me.
+　　(2000)and
+　　微笑和点头在语意上是并列的关系。
+二、词义的重叠
+　　1.Today I visited the Smiths———my first time visit to…(’96)
+　　这一题是考查英汉不同的表达习惯。汉语的“第一次访问”，英语说my first visit即可，time是多余的。
+　　2.First，let me tell you something more about myself.(’97)
+　　因为是头一次交朋友，以前并不了解，无所谓“更多”。more明显是多余的。
+　　3.Now I can’t watch much television but a few years ago I used to watch it every night…and there was no way of settling the matter except by selling the set.(’99)
+　　此题难度较大。它在语义上出现重叠，但答案一直到短文最后一句才出现。电视机既已卖掉，就不可能再看了，更不可能看“很多”。故要去掉much。
+　　4.Whenever I see them I often think of my English teacher.(2000)
+　　此题易受汉语的影响，造成语意上的重叠。“每当我看见它们，我总会想起我的英语教师。”但英语中whenever之后一般不用often。
+三、逻辑关系
+　　I live in Beijing，where is the capital of China.
+　　(’97)which
+　　考查定语从句中关系代词与关系副词的用法。此处where应改为which，因为它在定语从句中作主语。(湖南省长沙市明德中学 易雄辉)

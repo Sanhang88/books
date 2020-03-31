@@ -1,0 +1,749 @@
+[W]love[M]vt. 爱，热爱，爱好，喜欢；n. 爱，爱情，喜欢
+[W]lovely[M]a. 美丽的，可爱的，有趣的，令人愉快的
+[W]lover[M]n. 爱好者，情人
+[W]low[M]a. 低的，矮的，低下的，低等的
+[W]lower[M]a. 较低的，下等的，下游的；vt. 放下，放低，降低
+[W]luck[M]n. 运气，幸运，好运
+[W]lucky[M]a. 幸运，吉祥的，侥幸的
+[W]luggage[M]n. 行李
+[W]lunch[M]n. 午餐，便饭
+[W]lung[M]n. 肺
+[W]luxury[M]n. 奢侈(品)，豪华
+[W]machine[M]n. 机器，机械
+[W]machinery[M]n. (总称)机械，机构
+[W]madam[M]a. 疯的，神经错乱的，恼火的，狂怒的，狂热的，着迷的
+[W]magazine[M]n. (对妇女的尊称)女士，夫人
+[W]maid[M]n. 女仆，未婚少女
+[W]mail[M]n. 邮件，信件；vt. 邮寄
+[W]main[M]a. 主要的，最重要的；n. (输送水或煤气的)总管道，干线
+[W]mainland[M]n. 大陆，本上
+[W]mainly[M]ad. 主要地
+[W]maintain[M]vt. 维持，保持，保养，维修，坚持，主张
+[W]maintenance[M]n. 维持，保持，保养，维修，坚持，主张
+[W]major[M]a. 较重要的，较大的，主要的；主修课程，少校；n. 主修
+[W]majority[M]n. 多数，大多数
+[W]make[M]v. 做，制造，使，致使，迫使，获得，挣，等于，总计
+[W]makeup[M]n. 化妆品
+[W]male[M]n. & a. 男性(的)，雄性(的)
+[W]mammal[M]n. 哺乳动物
+[W]man[M]n. 男人，人类
+[W]manage[M]v. 管理，经营，设法(做到、完成)处理
+[W]management[M]n. 管理，经营，管理人员
+[W]manager[M]n. 经理，主管人
+[W]mankind[M]n. 人类
+[W]manner[M]n. 方式，方法，态度，举止，(pl.)礼貌，规矩
+[W]manufacture[M]v. (大量)制造，生产，杜撰；n. 制造，(pl.)制品，制造业
+[W]many[M]a. 许多的，多的；pron. 许多人或物，许多
+[W]map[M]n. 图，地图
+[W]march[M]n. 三月
+[W]mark[M]n. 痕迹，斑点，记号，标记，(考试)分数；v. 弄污，标志，表示，(给试卷)打分
+[W]market[M]n. 市场，集市，销路，需求；vt. 销售
+[W]marriage[M]n. 结婚，婚姻，婚礼
+[W]marry[M]vt. 同…结婚
+[W]marvelous[M]a. 奇异的，不可思议的，了不起的，绝妙的
+[W]mass[M]n. (大的)团，块，群，大量，众多，(pl.)群众，集团
+[W]master[M]n. 主人，雇言，能手，大师，硕士；vt. 掌握，精通，控制，征服
+[W]match[M]1 n. 火柴
+[W]material[M]n. 物质，材料，原料，素材，资料，题材；a. 物质的
+[W]mathematics[M]n. 数学
+[W]math[M]n. 数学
+[W]matter[M]n. 事情，问题，毛病，麻烦，困难，物质，物品
+[W]may[M]n. 五月
+[W]maybe[M]ad. 大概，也许
+[W]me[M]pron. (i的宾格)我
+[W]meal[M]n. 一餐，膳食
+[W]mean[M]1 v. 表…的意思，意指，意为，意欲，意味着…
+[W]meaning[M]n. 意义，意思，重要性，目的
+[W]means[M]n. 手段，方法，财产，收入
+[W]meantime[M]n. 其时，在此期间；ad. 同时，当时
+[W]meanwhile[M]ad. 当时，与此同时
+[W]measure[M]n. 量度，尺寸，措施，方法；vt. 量，测量；vi. 有…长(宽，高)
+[W]measurement[M]n. 测量，衡量，尺寸，大小
+[W]meat[M]n. 肉
+[W]medical[M]a. 医学的，医疗的
+[W]medicine[M]n. 药，医学，医术
+[W]meet[M]v. 遇到，碰见，会见，相识，遭到，经历，满足，符合；n. 聚会，运动会
+[W]meeting[M]n. 会议，聚会
+[W]member[M]n. 成员，会员
+[W]memo[M]n. 备忘录
+[W]memory[M]n. 记忆，记忆力，回忆，怀念，存储(器)
+[W]men[M]n. man的复数
+[W]mend[M]vt. 修理，修补，缝补，纠正，改进；n. 修补，补钉
+[W]mental[M]a. 心智的，精神的，神经不正常的
+[W]mention[M]v. 提到，谈到；n. 提述，提及
+[W]menu[M]n. 菜单
+[W]mere[M]a. 仅仅，只不过
+[W]merely[M]ad. 仅仅，只不过
+[W]merry[M]a. 愉快的，欢乐的
+[W]message[M]n. 消息，信息，口信，启示，要旨
+[W]messenger[M]n. 送信人，使者
+[W]metal[M]n. 金属，合金
+[W]method[M]n. 方法，办法
+[W]metre[M]a. 米，公尺，仪表，计量器
+[W]meter[M]a. 米，公尺，仪表，计量器
+[W]mexican[M]n. 墨西哥人；a. 墨西哥(人)的
+[W]mexico[M]n. 墨西哥
+[W]microcomputer[M]n. 微型电子计算机
+[W]microphone[M]n. 麦克风，扩音器
+[W]microscope[M]n. 显微镜
+[W]midday[M]n. 正午，中午
+[W]middle[M]n. 中间，中部，中等物，中间物；a. 中间的，中等的，中级的，午夜，子夜
+[W]midnight[M]aux. & v. (may的过去式)
+[W]might[M]1 n. 力量，威力
+[W]mile[M]n. 英里
+[W]military[M]a. 军事的，军用的，军队的；n. 军队
+[W]milk[M]n. 牛奶，乳；v. 挤奶
+[W]mill[M]n. 蘑房，面粉厂，工厂，车间
+[W]million[M]num. 百万，百万个；n. (pl.)无数
+[W]millionaire[M]n. 百万富翁
+[W]mind[M]n. 头脑，思维，记忆，注意力，想法，意向；v. 注意，当心，介意，反对，照料，照看
+[W]mine[M]1 pron. (i的物主代词)我的
+[W]miner[M]n. 矿工
+[W]mineral[M]n. & a. 矿物(的)
+[W]minister[M]n. 部长，大臣
+[W]minute[M]1 n. 分，分钟，一会儿，片刻，(pl.)会议记录
+[W]mirror[M]n. 镜子，反映，反射；vt. 反映，反射
+[W]miserable[M]a. 悲惨的，痛苦的，可怜的，糟糕的
+[W]miss[M]1 n. 小姐
+[W]mistake[M]n. 错误，误解；v. 弄错
+[W]mistress[M]n. 女主人，主妇，情妇
+[W]misunderstand[M]vt. 误解，误会，曲解
+[W]mix[M]v. 混合，调配，交往，相处；n. 混合物，迷糊，混合
+[W]mixture[M]n. 混合物，混合，混杂
+[W]model[M]n. 模型，原型，模特儿，模范，榜样，样式
+[W]modern[M]a. 现代的，近代的，新式的，时新的
+[W]modernization[M]n. 现代化
+[W]modest[M]a. 谦虚的，客气的，适度的
+[W]moment[M]n. 片刻，瞬间，某一个特定时刻
+[W]monday[M]n. 星期一
+[W]money[M]n. 货币，财富，金钱
+[W]monitor[M]n. 班长，显视器，监护仪；v. 监听，监控
+[W]monkey[M]n. 猴子
+[W]month[M]n. 月，月份
+[W]monthly[M]a. 每月的，按月计算的；ad. 每月一次，每月；n. 月刊
+[W]moon[M]n. 月亮，月球，月光，卫星
+[W]mop[M]n. 墩布，拖把
+[W]more[M]a. 更多的，较高程度的，另外的；n. 更多数量，较多数量；ad. 更，更多，另外，再
+[W]moreover[M]ad. 此外，而且
+[W]morning[M]n. 早晨，上午
+[W]most[M]a. 最多的，最大程度的，大部分的；pron. 最大量，大多数，大部分；ad. 最，十分
+[W]mostly[M]ad. 主要地，多半，通常
+[W]mother[M]n. 妈妈，母亲
+[W]motherland[M]n. 祖国
+[W]motor[M]n. 电动机，马达，发动机，机动车，汽车
+[W]motorcycle[M]n. 摩托车
+[W]motorist[M]n. 驾车的人，乘车旅行的人
+[W]motorway[M]n. 高速公路，快车道
+[W]mountain[M]n. 山，高山，(pl.)山脉，大量
+[W]mouse[M]n. 鼠，老鼠，胆小怕事的人，鼠标
+[W]mouth[M]n. 口，嘴；vt. 说出，夸大地说
+[W]move[M]vt. 移动，搬动，感动，提议；vi.前进，运行，进展，搬家，迁居；n. (下棋)一着，步骤
+[W]movement[M]n. 运动，活动，举动，动作，迁移，(群众性)运动
+[W]movie[M]n. 电影，电影院
+[W]mr.[M]先生
+[W]mrs.[M]夫人
+[W]ms.[M](对婚姻状况不明的女子的称呼)女士
+[W]much[M]a. 许多的；pron. 许多，大量；ad. 很，非常，…得很多，更…，几乎，大概
+[W]mud[M]n. 泥，泥浆
+[W]murder[M]n. 谋杀，谋杀罪；vt. 谋杀，屠杀，破坏
+[W]museum[M]n. 博物馆
+[W]music[M]n. 音乐，乐曲
+[W]must[M]aux. & v. 必须，应当必定会，很可能
+[W]my[M]pron. (i的所有格)我的
+[W]myself[M]pron. (反身代词)我自己，我亲自
+[W]nail[M]n. 钉，指甲，爪；vt. 钉，使牢固
+[W]name[M]n. 名字，姓名，名声，名望，知名人士，名义；vt. 给…取名，列举，任命，提名
+[W]narrow[M]a. 狭窄的，范围小的，眼光短浅的，有偏见的
+[W]nation[M]n. 民族，国家，部落
+[W]national[M]n. 国民(指侨居国外的)；a. 全国性的，国内的，本国的，民族的，国有的
+[W]nationality[M]n. 国籍，民族
+[W]native[M]a. 出生地的，本土的，土产的，天生的；n. 本地人，本国人，土著
+[W]natural[M]a. 自然界的，天然的，正常的，惯常的，天赋的，天生的
+[W]naturally[M]ad. 当然，自然地，天然地，天生地
+[W]nature[M]n. 自然界，大自然，性质，本性
+[W]naughty[M]a. 淘气的
+[W]navy[M]n. 海军
+[W]near[M]a. 近的，不远的，亲密的；ad. 接近，靠近，差不多，大约；prep. & v. 接近
+[W]nearby[M]a. 附近的；ad. 在附近
+[W]nearly[M]ad. 几乎，差不多
+[W]neat[M]a. 整洁的，匀称的，纯净的
+[W]necessarily[M]ad. 必定，必然
+[W]necessary[M]a. 必要的，必需的，必然的；n. (pl.)必需品
+[W]neck[M]n. 脖子，颈
+[W]need[M]n. & v. 需要，缺少；aux. & v. 需要，必需
+[W]needle[M]n. 针，指针
+[W]negative[M]a. 否定的，拒绝的，反面的，消极的，阴性的，负的；n. 底片，负数
+[W]negotiation[M]n. 谈判，协商
+[W]neighbour[M]n. 邻居；v. 邻近，邻接
+[W]neighbourhood[M]n. 近邻，街坊，附近地区
+[W]neither[M]a. (两者)都不；prep. 两者中无一；conj. & ad. 也不
+[W]nervous[M]a. 紧张不安的，害怕的，神经(方面)的
+[W]nest[M]n. 巢；v. 筑巢
+[W]network[M]n. 网状织物，网状系统，广播(电视)网
+[W]never[M]ad. 永不，从不，决不，从来没有
+[W]new[M]a. 新的，新近的，新来的，不熟悉的
+[W]newly[M]ad. 新近，最近，重新，再度，以新的方式
+[W]news[M]n. 新闻
+[W]newspaper[M]n. 报纸
+[W]new zealand[M]n. 新西兰
+[W]next[M]a. 下一个的，最近的，接下来的，邻近的；其次，然后，下次；a. & ad. 靠近，贴近
+[W]nice[M]a. 美好的，令人愉快的，友好的，亲切的
+[W]niece[M]n. 侄女，外甥女
+[W]night[M]n. 夜晚，黑暗，黑夜
+[W]nine[M]num. 九
+[W]nineteen[M]num. 十九
+[W]ninety[M]num. 九十
+[W]nitrogen[M]n. 氮
+[W]no[M]ad. (用于回答)不，(用在形容词和副词的比较级前)并不；a. 毫无，不许；n. 不，否定
+[W]noble[M]a. 高尚的，贵族的；n. 贵族
+[W]nobody[M]pron. 没有人，无一人；n. 无足轻重的人
+[W]nod[M]v. & n. 点头，表示同意，打磕睡
+[W]noise[M]n. 噪音，喧闹声
+[W]noisy[M]a. 吵闹的
+[W]none[M]pron. 没有一个，无一；ad. 一点也不
+[W]nonsense[M]n. 胡说，废话
+[W]noon[M]n. 中午，正午
+[W]nor[M]conj. 也不
+[W]north[M]n. 北，北方；a. 北的，北方的；ad. 向北方
+[W]northeast[M]n. 东北；a. 东北的，在东北的；ad. 向东北
+[W]northern[M]a. 北部的，来自北方的，向北的
+[W]northward[M]a. & ad. 向北；北方的地区
+[W]northwest[M]n. 西北；a. 西北的，在西北的；ad. 向西北
+[W]nose[M]n. 鼻子；vt. 闻出，探出；vi. 嗅，闻
+[W]not[M]ad. 不，不是
+[W]note[M]n. 笔记，记录，注释，按语，便条，纸币，名望；vt. 记下，摘录，注意到
+[W]notebook[M]n. 笔记本
+[W]nothing[M]pron. 什么也没有；n. 微不足道的人或事
+[W]notice[M]n. 通知，布告，注意；v. 注意到
+[W]novel[M]n. 长篇小说；a. 新奇的
+[W]november[M]n. 十一月
+[W]now[M]ad. 现在，目前，立刻；n. 现在，此刻；conj. 既然
+[W]nowadays[M]ad. 现在，现今
+[W]nowhere[M]ad. . 任何地方都不
+[W]nuclear[M]a. 原子核的，核心的，中心的
+[W]number[M]n. 数，数字，号码
+[W]numeral[M]n. 数字，数词
+[W]numerous[M]a. 为数众多的，许多
+[W]nurse[M]n. 护士，保姆，保育员；v. 看护，照顾，喂奶
+[W]nut[M]n. 坚果，果仁，螺母，螺帽，难题，不好对付的人
+[W]obey[M]v. 服从，遵守
+[W]object[M]n. 物，物体，目的，目标，对象；v. 不赞成，反对
+[W]observation[M]n. 观察，注意，观察力，评论，意见
+[W]observe[M]vt. 注意到，观测，遵守，说，评论，纪念，庆祝
+[W]observer[M]n. 观察者，观察员，评述者
+[W]obstacle[M]n. 障碍
+[W]obvious[M]a. 明显的，显而易见的
+[W]occasion[M]n. 机会，时刻，时候，大事，节日
+[W]occasional[M]a. 偶然的，特殊场合的
+[W]occupation[M]n. 职业，工作，占用，占领，消遣
+[W]occupy[M]vt. 占，占用，占领，使忙碌
+[W]occur[M]vi. 发生，出现，存在
+[W]ocean[M]n. 海洋
+[W]o'clock[M]ad. …点钟
+[W]october[M]n. 十月
+[W]of[M]prep. …的，…之中的，用…制的，关于…的，在…方面怎样，因…，从，有…的
+[W]off[M]ad. & a. 脱离(的)，离去，(断)掉(的)，停止(的)，关着(的)；prep. 从…离开
+[W]offer[M]vt. 提出，提供，表示愿意做，奉献；n. 提供，提议，报价，出价
+[W]office[M]n. 办公室，服务处，官职，重要的职位
+[W]officer[M]n. 官员，办事员，军官
+[W]official[M]a. 官方的，正式的，官员的，公务的；n. 官员，高级职员
+[W]often[M]ad. 经常，常常
+[W]oh[M]int. (表示惊讶，恐惧，痛苦等)哦，哎呀，唉呀
+[W]oil[M]n. 油，石油；vt. 给…加油
+[W]okey[M]a. & ad. 对，好，可以；同意，许可(okey=okay)
+[W]old[M]a. 年老的，上年纪的，…岁的，长时间的，老的，过去的，以前的
+[W]on[M]prep. 在…上，朝向，向着，在…的时候，关于，在…时候，在…中；ad. 向前，继续
+[W]once[M]ad. 一次，曾经；conj. 一(旦)…就…；n. 一次
+[W]one[M]num. 一，一个；pron. 一个人，任何人；a. 一个的，某一…的，同一的
+[W]oneself[M]pron. (反身代词)自己，亲自
+[W]only[M]ad. 只，仅仅，才；a. 唯一的，仅有的；conj. 可是，只不过
+[W]onto[M]prep. 到…上
+[W]onward(s)[M]ad. & a. 向前(的)
+[W]open[M]a. 开的，开阔的，营业的，开放的；vt. (打)开，将…打开，开始，打通；vi. 开(放)
+[W]opening[M]n. 洞，孔，通道，最初，开始，空地，(职位的)空缺
+[W]opera[M]n. 歌剧
+[W]operate[M]n. 操作，(使)运转，起作用，动手术
+[W]operation[M]n. 操作，运转，作用，手术，运算
+[W]opinion[M]n. 意见，看法，与论，评价
+[W]opportunity[M]n. 机会，时机
+[W]option[M]n. 选择，供选择的事物
+[W]or[M]conj. 或，或者，还是，不然，否则，或者说，即
+[W]oral[M]a. 口头的，口语的，口(部)的
+[W]orange[M]n. 橙(树)，橘(树)，橙色，橘色；a. 橙的，橘的，橙色的，橘色的
+[W]order[M]n. 次序，顺序，正常状况，秩序，命令，订购，定货，等级；v. 命令，定购，整理，安排
+[W]ordinary[M]a. 普通的，平常的，平凡的
+[W]organization[M]n. 组织，安排，团体，有机休
+[W]organisation[M]n. 组织，安排，团体，有机休
+[W]organize[M]n. 组织，安排，筹办
+[W]organise[M]n. 组织，安排，筹办
+[W]origin[M]n. 起源，开端，出身，血统
+[W]original[M]a. 最初的，最早的，新颖的，有独创性的，原版的；n. 原作品，原型
+[W]originality[M]n. 创造力，独创性，新颖
+[W]other[M]a. 其他的，别的；pron. 其他的人或事
+[W]otherwise[M]ad. 否则，不然，在其它方面，另外；conj. 否则
+[W]ought[M]aux. & v. 应该，本应
+[W]our[M]pron. (we的所有格)我们的
+[W]ours[M]pron. (we的物主代词)我们的
+[W]ourselves[M]pron. (反身代词)我们自己，我们亲自
+[W]out[M]ad. 出去，向外，离家，外出，突出来，彻底出；a. 外面的，往外去的
+[W]outcome[M]n. 结果，后果，成果
+[W]outdoor[M]a. 户外的，露天的，野外的
+[W]outdoors[M]a. 在户外，在野外
+[W]outer[M]a. 外部的，外层的
+[W]output[M]n. 产量，产品，输出功率，输出信号，排泄量，排泄物
+[W]outside[M]n. & a. 外面(的)，外表(的)，外界(的)；ad. 在外面，向外面；prep. 在…外
+[W]outward[M]a. 外面的，外表的，公开的，可见的，向外的，外出的；ad. 向外；n. 外形
+[W]over[M]prep.…上面，覆盖…，越过…，关于；ad. 翻过来，超过，在那边，向那边，再；a. 结束
+[W]overcoat[M]n. 外衣，大衣
+[W]overcome[M]vt. 战胜，压倒
+[W]overnight[M]adv. & a. 通宵(的)，一夜(的)
+[W]overseas[M]adv. & a. 到国外(的)，到海外(去的)
+[W]overthrow[M]n. 推翻，打倒；vt. 推翻，打倒
+[W]owe[M]vt. 欠，感激
+[W]owing[M]a. 欠着的，未会的，应给予的
+[W]own[M]a. 自己的；pron. 特有的；vt. 拥有
+[W]owner[M]n. 所有人，物主
+[W]ownership[M]n. 所有权，所有制
+[W]ox[M]n. 牛，公牛
+[W]oxygen[M]n. 氧，氧气
+[W]pacific[M]a. 太平洋的
+[W]pack[M]n. 包，捆，包裹，一群，一组，一批；v. 包装，捆扎，塞满，挤满
+[W]package[M]n. 包裹，行李，包装用品；vt. 打包，包装
+[W]page[M]n. 页，张
+[W]pain[M]n. 疼，痛苦，(pl.)努力，劳苦；v. 使疼痛，使痛苦
+[W]painful[M]a. 疼的，痛苦的，费力，费心的
+[W]paint[M]v. 绘，画，给…上油漆，描绘；n. 绘画作品，油漆，颜料
+[W]painter[M]n. 油漆匠，画家
+[W]painting[M]n. 绘画，油画
+[W]pair[M]n. 一对，一双，一付，一对男女(夫妇等)；v. 使成对
+[W]palace[M]n. 宫殿，华丽大厦
+[W]pale[M]a. 淡的，暗淡的，苍白的，灰白的
+[W]pan[M]n. 平底锅
+[W]panda[M]n. 能猫
+[W]paper[M]n. 纸，报纸，文章，论文，考卷，标据
+[W]parade[M]n. & v. 游行，检阅
+[W]paragraph[M]n. 段，节，(报刊的)短讯
+[W]parcel[M]n. 包裹；打包
+[W]pardon[M]n. & vt. 原谅，饶恕，赦免
+[W]parent[M]n. 父亲，母亲，动(植)物的母体，起源，根本
+[W]park[M]n. 公园，停车场；v. 停放(车辆)
+[W]parliament[M]n. 议会，国会
+[W]part[M]n. 部分，局部，一方，作用，零件；vt. 分，使分开，断绝；vi. 分开，断裂断绝关系
+[W]particle[M]n. 粒子，微粒，极小量
+[W]particular[M]a. 特别的，不寻常的，特殊的，独特的，挑剔的，细致的；n. (pl.)细节，详情，项目
+[W]particularly[M]ad. 特别，尤其
+[W]partly[M]ad. 部分地，在一定程度上
+[W]partner[M]n. 合作者，配偶
+[W]party[M]n. 社交聚会，宴会，党，政党，一组，一伙人
+[W]pass[M]v. 经过，超过，通过，穿过，度过，传递；n. 考试及格，通行证，入场券，关口，要隘
+[W]passage[M]n. 通道，小径，通过，段落，节，航行
+[W]passenger[M]n. 乘客，旅客
+[W]passive[M]a. 被动的，消极的
+[W]passport[M]n. 护照
+[W]past[M]prep. 越过，经过，超过；n. 过去，往事；a. 过去的
+[W]path[M]n. 小路，小径，路线，轨道，路程
+[W]patience[M]n. 忍耐，耐心
+[W]patient[M]n. 病人；a. 有耐心的，能忍耐的
+[W]pattern[M]n. 图案，图样，形式，方式，模范，典范；vt. 仿制，模仿
+[W]pavement[M]n. 人行道
+[W]pay[M]v. 支付，缴纳，付清，给予，致以(问候)，进行(访问)；n. 薪水，工钱，报酬
+[W]payment[M]n. 支付，支付的款项
+[W]peace[M]n. 和平，安宁
+[W]peaceful[M]a. 和平的，安宁的，和平时期的
+[W]peasant[M]n. 农民
+[W]pen[M]n. 钢笔
+[W]pencil[M]n. 铅笔
+[W]penny[M]n. 便士
+[W]people[M]n. 人，人们，人民，民族
+[W]percent[M]n. 百分之…
+[W]perfect[M]a. 完美的，极好的，完全的；vt. 使完美
+[W]perform[M]v. 履行，完成，做，演出，表演
+[W]performance[M]n. 履行，完成，演出，表演
+[W]perhaps[M]ad. 也许，大概，可能
+[W]period[M]n. 一段时间，时期，学时，订时，周期，期间，句点
+[W]permission[M]n. 同意，许可，允许
+[W]permit[M]v. 容许，许可；n. 执照，许可证
+[W]person[M]n. 人，身体，人称
+[W]personal[M]a. 个人的，私人的，本人的，身体的，容貌n. 的
+[W]persuade[M]vt. 说服，劝服
+[W]pet[M]n. 宠物，宠儿
+[W]philosopher[M]n. 哲学家，哲人
+[W]philosophy[M]n. 哲学
+[W]phone[M]n. 电话，电话机；v. 打电话
+[W]photograph[M]n. 照片
+[W]phrase[M]n. 短语，习惯用语
+[W]physical[M]a. 物质的，身体的，物理的
+[W]physician[M]n. 内科医生
+[W]physics[M]n. 物理(学)
+[W]pianist[M]n. 钢琴家，钢琴演奏者
+[W]piano[M]n. 钢琴
+[W]pick[M]1 n. 镐
+[W]picnic[M]n. 野餐，郊游；vi. (去)野餐
+[W]picture[M]n. 画，图画，照片，图象，画面，影片
+[W]pie[M]n. 馅饼
+[W]piece[M]n. 块，片，段，一件，一张；v. 拼凑，拼合
+[W]pig[M]n. 猪
+[W]pigeon[M]n. 鸽子
+[W]pile[M]n. 堆；v. 堆叠，累积
+[W]pill[M]n. 药丸
+[W]pilot[M]n. 飞机驾驶员，领航员；v. 驾驶(飞机等)，领航
+[W]pioneer[M]n. 先驱，倡导者，开拓者
+[W]pipe[M]n. 管子，烟斗，管乐器
+[W]pity[M]n. 可怜，同情，遗憾的事，不幸的事；v. 可怜，同情
+[W]place[M]n. 地方，地点，名次，地位，职位，寓所；vt. 放置，安置，订(货)，把…寄托在…
+[W]plain[M]n. 平原，旷野；a. 明白的，朴素的
+[W]plan[M]n. 计划，策略，平面图，设计图；v. 计划
+[W]plane[M]n. 飞机，水准，水平，平面
+[W]planet[M]n. 行星
+[W]plant[M]n. 植物，作物，工厂；v. 种植
+[W]plastic[M]n. (pl.)塑料，塑料制品；a. 可塑的，造型的
+[W]plate[M]n. 盘，碟，金属板，片；vt. 镀，电镀
+[W]play[M]n. 游戏，娱乐，剧本，戏剧，比赛，运动；v. 玩，游戏，演奏，与…进行比赛，扮演
+[W]player[M]n. 选手，队员，演员，演奏者，唱机
+[W]playground[M]n. 运动场，游戏场
+[W]pleasant[M]a. 令人愉快的，舒适的
+[W]please[M]interj. 请；vt. 使高兴，使满意；vi. 满意，喜欢，想要
+[W]pleasure[M]n. 愉快，满足，乐趣，乐事
+[W]plenty[M]n. 充足，大量
+[W]plough[M]n. 犁；v. 犁，耕
+[W]plus[M]加上；a. 正的，附加的，有增益的；n. 加号，正号
+[W]p.m.[M]下午，午后
+[W]pocket[M]n. 小袋，钱袋，衣袋；a. 袖珍的，小型的；vt. 把…装入袋内
+[W]poem[M]n. 诗
+[W]poet[M]n. 诗人
+[W]poetry[M]n. 诗歌，诗集
+[W]point[M]n. 尖，尖端，点，小数点，条款，分数，得分，论点，意义；vi. 指向，表明
+[W]pole[M]n. 柱杆，地极，磁极，电极
+[W]police[M]n. 警察，警方
+[W]policeman[M]n. 警察
+[W]policy[M]n. 政策，方针，保险单
+[W]polite[M]a. 有礼貌的，客气的，有教养的，文雅的
+[W]political[M]a. 政治的
+[W]politics[M]n. 政治，政治学
+[W]pollute[M]vt. 弄脏，污染，使…堕落
+[W]pollution[M]n. 污染
+[W]pond[M]n. 池塘
+[W]pool[M]1 n. 水池，游泳池
+[W]poor[M]a. 贫穷的，(比平时预计)少或糟，可怜的，粗劣的
+[W]pop[M]a. 流行的，通俗的；n. 流行音乐
+[W]pope[M]n. 天主教教皇
+[W]popular[M]a. 大众喜爱的，喜闻乐见的，大众化的，普及的
+[W]population[M]n. 人口
+[W]pore[M]n. 毛孔
+[W]pork[M]n. 猪肉
+[W]port[M]n. 港口
+[W]portrait[M]n. 肖像，画像，生动的文字描绘
+[W]position[M]n. 位置，方位，职位，工作，姿势，姿态，处境，立场，地位，身分
+[W]possess[M]vt. 占有，拥有，(感情等)支配或控制(某人)
+[W]possession[M]vt. 所有，占有，(pl.)占有物，财产
+[W]possibility[M]n. 可能，可能性，可能的事
+[W]possible[M]n. 可能的，有可能做得到的，可接受的
+[W]post[M]1 n. 柱，桩，杆；v. 贴出(报告等)，公布，公告
+[W]postcard[M]n. 明信片
+[W]postman[M]n. 邮递员
+[W]potato[M]n. 马铃薯
+[W]pound[M]1 n. 磅，英镑
+[W]pour[M]v. 灌，倒，注，流出，蜂拥
+[W]poverty[M]n. 贫穷，贫困
+[W]powder[M]n. 粉末，火药，炸药
+[W]power[M]n. 力，力量，功率，动力，电力，影响力，权势，能力，才能，权力，势力，政权
+[W]powerful[M]a. 强大的，强有力的，强烈的，有影响的，有权力的
+[W]practical[M]a. 实际的，实用的
+[W]practically[M]ad. 几乎，简直，实际上
+[W]practice/-tise[M]n. 练习，实行，实施，业务；v. 练决，实习，开业，执业，实行
+[W]praise[M]vi. 赞扬，歌颂，表拨，称赞；n. 称赞，赞美，赞美的话
+[W]pray[M]v. 祈祷，渴望，祈求
+[W]precious[M]a. 珍贵的，贵重的
+[W]predict[M]v. 预言，预测，预告
+[W]prefer[M]v. 更喜欢，宁愿
+[W]preparation[M]n. 准备，预备，安排，筹备，制剂
+[W]prepare[M]n. 准备，预备
+[W]presence[M]n. 出席，到场，存在
+[W]present[M]1 n. 出席的，到场院的，现在的，目前的；现在，目前
+[W]presently[M]ad. 不久，一会儿，现在，目前
+[W]preserve[M]vt. 保藏，保存，保护，维持，防腐，腌制
+[W]president[M]n. 总统，总裁，校长，院长，会长，社长，(会议)主席
+[W]press[M]vt. 压，按，紧握，抱紧，挤榨，熨平(衣服等)；n. 新闻界，报界，压榨机，压，按
+[W]pressure[M]n. 压力，压强，强制，压迫
+[W]pretend[M]v. 假装，装扮，试用
+[W]pretty[M]a. 漂亮的，秀丽的；ad. 相当，颇
+[W]prevent[M]n. 预防，防止
+[W]price[M]n. 价格，代价；vt. 标价，定价
+[W]pride[M]n. 骄傲，自豪，引以自豪的东西；vt. 以…自豪
+[W]primarily[M]ad. 主要地，首先
+[W]primary[M]a. 首要的，主要的，基本的，初级的，最初的，原始的
+[W]prince[M]n. 王子，(小国的)君主
+[W]princess[M]n. 公主，王妃
+[W]print[M]v. 印，铭刻，印刷，出版；n. 印迹，印刷，印刷业，印刷品，印刷字体，图片，版画
+[W]prison[M]n. 监狱
+[W]prisoner[M]n. 囚徒，俘虏
+[W]private[M]a. 私人的，个人的，秘密的，私下的
+[W]prize[M]n. 奖常，奖金，奖品；vt. 珍视，珍藏，给… 很高的评价
+[W]probability[M]n. 可能性，可能发生之事
+[W]probable[M]a. 很可能的，大概会的，有希望的，有可能是真实的
+[W]probably[M]ad. 大概，或许，很可能
+[W]problem[M]n. 问题，疑难问题，须认真对付的困难
+[W]produce[M]vt. 生产，出产，制造，制作，拿出，出示；n. 产品，农产品
+[W]product[M]n. 产品，制品，结果，成果，乘积
+[W]production[M]n. 生产，制造，生产量，产品，作品
+[W]profession[M]n. 专业，职业
+[W]professor[M]n. 教授
+[W]profit[M]n. 利润，盈利，利益，益处；v. 从…得益
+[W]program[M]n. 电脑程序，节目单，说明书，节目，表演，计划，程序表；v. 编制程序，安排节目
+[W]progress[M]n. & vi. 前进，进展，进步，发展
+[W]project[M]n. 方案，计划，工程，项目；vt. 投掷，发射，放映，设计，规划，突出，使凸出
+[W]promise[M]v. 允诺，答应，有指望，有前途；n. 允诺，诺言，希望，前途
+[W]promote[M]vt. 提升，提拔，发起，举办，宣传，推广，促成，帮助实现
+[W]pronounce[M]vt. 发…的音，宣布，宣称，断言；vi. 表态
+[W]pronunciation[M]n. 发音，发音方法
+[W]proof[M]n. 证据，证明，校样
+[W]proper[M]a. 适当的，正确的，正当的，规矩的，完全的，彻底的
+[W]property[M]n. 财产，资产，财产权，所有权，特性
+[W]proposal[M]n. 建议，计划，求婚
+[W]propose[M]n. 提义，建议，打算，计划，求(婚)
+[W]protect[M]vt. 保护，保卫
+[W]protection[M]n. 保护
+[W]protective[M]a. 保护的，防卫的
+[W]proud[M]a. 骄傲的，自豪的
+[W]prove[M]v. 证明，证实，证明是，表明是
+[W]provide[M]vt. 提供，供给，规定
+[W]province[M]n. 省，(学术)领域，(活动)范围
+[W]public[M]a. 公共的，公众的，公开的；n. 民众，公众
+[W]publish[M]v. 出版，刊印，公布，发表
+[W]pull[M]v. 拖，拉，拔，采，拉伤；n. 拉，拖泥带水，拉绳，把手
+[W]punish[M]v. 处罚，惩罚
+[W]pupil[M]n. 学生，小学生(眼睛的)瞳孔
+[W]purchase[M]vt. 购买；n. 购买，购买的物品
+[W]pure[M]a. 纯粹的，纯净的，纯洁的，无邪的，贞洁的，完全的，彻底的
+[W]purpose[M]n. 目的，意图，意志，决心
+[W]push[M]n. 推，推动，推进，促使，催促；vt. 推，推动，促进，突袭，攻击
+[W]put[M]vt. 放，安置，记下，写下，表达，说，使… 进入(状态)
+[W]quality[M]n. 质量，品质，特性
+[W]quantity[M]n. 量，数量，(pl.)大量
+[W]quarrel[M]n. & vi. 争吵，吵架
+[W]quarter[M]n. 四分之一，一刻钏，地区，区域，(pl.)住处，(美元)两角五分
+[W]queen[M]n. 女王，皇后，(纸牌，国际象棋中的)王后
+[W]question[M]n. 问题，议题，待解决的问题，难题，疑问；vt. 询问，审问，怀疑
+[W]quick[M]a. 快的，迅速的，敏捷的，伶俐的，性急的
+[W]quiet[M]a. 安静的，安定的，宁静的，娴静；vt. 使安静，平定；vi. 平静下来
+[W]quit[M]vt. 离开，退出，停止，放弃；vi. 离开，迁出，辞职
+[W]quite[M]ad. 完全地，非常，相当，颇，的确，真正地
+[W]rabbit[M]n. 兔子
+[W]race[M]n. 种族，人种，竞赛，赛跑；vt. 使全速行进，和…竞赛；vi. 疾走，参加竞赛
+[W]radio[M]n. 收音机，无线电
+[W]railroad[M]n. 铁路
+[W]railway[M]n. 铁路
+[W]rain[M]n. 雨，雨天，雨季；vi. 下雨，雨点般地落下；vt. 使…如雨而下
+[W]raincoat[M]n. 雨衣
+[W]rainy[M]a. 下雨的，多雨的
+[W]raise[M]vt. 抬起，举起，提出，发起，抚养，饲养，募集，筹集
+[W]range[M]n. 范围，领域，(山)脉；vt. 排列成行，把…分类；vi. 列成一行，并列，延伸，变化
+[W]rank[M]n. 列，队伍，等级，地位，职位；vt. 分等，归类；vi. 列为，列队
+[W]rapid[M]a. 迅速的，快速的
+[W]rat[M]n. 老鼠
+[W]rate[M]n. 比率，等级，程度，价格，费用；vt. 评级，评价，列为
+[W]rather[M]ad. 有些，相当，宁可，宁愿，更确切地，相反地，反而
+[W]raw[M]a. 生的，未煮熟的，未加工的，天然的，未加工的，天然的，未经训练的
+[W]ray[M]n. 光线，射线
+[W]reach[M]vt. 到达，伸手；把…递来，与…取得联系；vi. 达到，伸延；n. 伸出，伸延，区域
+[W]react[M]vi. 反应，起作用，有影响，反抗
+[W]reaction[M]vi. 反应，化学反应，反作用(力)，反动
+[W]read[M]n. 辨认，读懂，读数为，标明；vi. 阅读，良读，读到，获悉，(文章等)内容是，读起来
+[W]reader[M]n. 读者，读本，读物
+[W]reading[M]n. 阅读，读书，读物，选读，读数
+[W]ready[M]a. 准确性备好的，现成的，乐意的，愿意的，迅速的，立即的
+[W]real[M]a. 真实的，现实的
+[W]reality[M]n. 现实，实际，真实；逼真
+[W]realization[M]n. 实现，认识到，深刻了解
+[W]realize[M]vt. 认识到，了解，实现
+[W]realise[M]vt. 认识到，了解，实现
+[W]really[M]ad. 真正地，确实地
+[W]reason[M]n.原因，理性，判断力，理智；vt. 论证，与…评理，劝说；vi. 推理，思考，评理
+[W]recall[M]vt. & n. 回想，忆起，收回，召回
+[W]receive[M]vt. 收到，领到，接受，得到，接待，接见，遭受，遭到
+[W]recent[M]a最近的，近来的，近代的
+[W]recently[M]ad. 最近，近来
+[W]reception[M]n. 接待，欢迎，招待会，(旅馆)接待处
+[W]recognition[M]n. 承认，认可，认出，识别
+[W]recognize[M]vt. 承认，认可，认出，识别
+[W]recognise[M]vt. 承认，认可，认出，识别
+[W]record[M]n. 记录，报告，经历，履历，纪录；vt. 记录，记载，录音，录影，录下；a. 创记录的
+[W]recorder[M]n. 录音机，记录器，记录者
+[W]recording[M]n. 录音，记录
+[W]recover[M]vt. 恢复，痊愈，重新获得
+[W]recovery[M]n. 恢复，痊愈，收回，复得
+[W]red[M]a. 红的，红色的；n. 红色，红色衣服
+[W]refer[M]vi. 提到，引用，查阅，参考；vt. 把…归因于，把…委托(交给)…
+[W]reflect[M]vt. 反射，反映，表达；vi. 反射，映出，他细考虑，思考
+[W]reform[M]v. 改革，改良，改造，改过自新，重新组成；n. 改革，改良，改过，自新
+[W]refrigerator[M]n. 冰箱，冷藏室
+[W]refusal[M]n. 拒绝，谢绝
+[W]refuse[M]v. 拒绝，谢绝；n. 废料，垃圾
+[W]regain[M]vt. 重新获得，收复，恢复
+[W]regard[M]vt. 把…看作，把…认为，注意，注视，对待，看待，尊敬，尊重，(pl.)问候，致意
+[W]regardless[M]ad. 不管后果；a. 不留心的，不注意的
+[W]region[M]n. 地区，区域，领域，范围
+[W]regional[M]a. 地区的，局部的
+[W]regret[M]vt. 后悔，悔恨，遗憾，抱歉；vi. 感到懊悔，感到抱歉；n. 懊悔，悔恨，(pl.)歉意
+[W]regular[M]a. 定期的，有规律的，正规的，正式的，匀称的，整齐的
+[W]regularly[M]ad. 定期地，有规律地
+[W]regulation[M]n. 规定，条例，法令，管制，控制，调节，调整
+[W]reject[M]vt. 拒绝接受，抵制驳回
+[W]relate[M]vt. 使有联系，叙述，讲；vi. 与…有关系
+[W]relation[M]n. 家人，亲戚，关系，叙述，陈述
+[W]relationship[M]n. 关系，亲属关系
+[W]relative[M]a. 相对的，相关的；n. 亲人，亲戚
+[W]relax[M]vt. 使放松，使休息，缓和，放宽；vi. 放松，休息，松懈，缓和
+[W]reliable[M]a. 可靠的，确实的
+[W]relieve[M]vt. 减轻(痛苦或困扰)，免除，解除，救济，救助；vi. 救济，成浮雕
+[W]religion[M]n. 宗教
+[W]rely[M]vi. 依靠
+[W]remain[M]vi. 停留，留下，保持，依然
+[W]remains[M]n. 剩余物，残留物，遗体，遗迹
+[W]remark[M]n. 评论，意见，注意；vt. 说，评论，注意；vi. 评论，谈论
+[W]remember[M]vt. 记起，想起，牢记，记住；vi. 记得，记起
+[W]remind[M]vt. 提醒，使想起
+[W]remote[M]a. 遥远的，偏僻的，(关系)不密切的，疏远的
+[W]remove[M]v. 除去，脱掉，消除，移动，移开，免职，开除
+[W]rent[M]vt. 租用，出租；vi. 出租；n. 租金
+[W]repair[M]vt. 修理，修补，补救，恢复；n. 修理，修补，维修状况，(pl.)修理工作
+[W]repay[M]v. 还钱给(某人)，偿还，报答
+[W]repeat[M]vt. 重说，照样说，重复，重复做，背诵；vi. 重述，重做；n. 重复，重述，重播，重演
+[W]replace[M]vt. 把…放回原处，取代，替换，更换
+[W]reply[M]n. 回答，答复
+[W]report[M]vt. & n. 报告，报道，汇报；vi. 报到，报告
+[W]reporter[M]n. 记者，新闻广播员
+[W]represent[M]vt. 代表，代理，表示，象征
+[W]representation[M]n. 代表，表现，描写
+[W]representative[M]n. 代表，代理人；a. 典型的，有代表性的
+[W]reproduce[M]v. 使再生，复制，生殖
+[W]republic[M]n. 共和国，共和政体
+[W]request[M]n. & vt. 请求，需要
+[W]require[M]vt. 要求，需求
+[W]requirement[M]n. 要求，需求
+[W]research[M]vi. & n. 研究，探讨
+[W]resist[M]vt. 抵抗，反抗
+[W]resistance[M]n. 阻力，抵抗，电阻
+[W]resonance[M]n. 共鸣，洪亮，共振
+[W]resource[M]n. (pl.)资源，财源，机智，智谋
+[W]respect[M]n. 尊敬，尊重，关心，重视，方面，(pl.)敬意，问候；vt. 尊敬，尊重，考虑，重视
+[W]respectful[M]a. 恭敬的，有礼貌的
+[W]respond[M]vi. 回答，做答，反应；vt. 回答
+[W]response[M]n. 回答，回应，反应，反响
+[W]responsibility[M]n. 责任，职责
+[W]responsible[M]a. 应负责的，有责任心的
+[W]rest[M]1 n. 休息；vi. 安息，安静，静止；vt. 搁，放，把…寄托于
+[W]restaurant[M]n. 餐馆，饭店
+[W]restless[M]a. 不安宁的，焦虑的
+[W]restore[M]vt. 把…恢复原状，归还，交还
+[W]result[M]n. 结果，效果，成果，计算结果，答案
+[W]retell[M]vt. 复述，再讲
+[W]retire[M]vi. 退休，退职，退下，离开，隐居，隐退
+[W]retirement[M]vi. 退体，隐退
+[W]retrieve[M]vt. 重新得到，取回，挽回，补救，检索
+[W]return[M]vi. & n. 回去，归来，还，归还；vt. 归还，送回，回报，报答；a. 回程的，回报的
+[W]revelation[M]n. 揭示，透露，显示，被揭示的真相，新发现
+[W]review[M]vt. & n. 回顾，审视，复习，评论；vi. 评论，写评论
+[W]revolution[M]n. 革命，大变革，旋转，周期，循环
+[W]revolutionary[M]a. 革命的，大变革的，旋转的；n. 革命者，革命党人
+[W]reward[M]n. 回报，报答，报酬，酬金；vt. 报答，酬谢
+[W]rewarding[M]a. 有报酬的，值得做的
+[W]rewrite[M]vt. & n. 重写，改写
+[W]rice[M]n. 稻米，米饭
+[W]rich[M]a. 富有的，有钱的，丰富的，肥沃的；n. (pl.)财富
+[W]rid[M]vt. 使摆脱，使排除
+[W]ride[M]v. 骑(马)，驾(车)，乘(风、浪等)；n. 乘坐，旅行
+[W]right[M]a. 右边的，正确的，健全的；n. 右，右边，权利，正确；ad. 对，正好，恰恰；vt. 改正
+[W]right-handed[M]a. (惯)用右手的
+[W]ring[M]1 n. 圈，环状物，戒指，耳环
+[W]riot[M]n. 骚乱，暴动；vi. 闹事，骚乱
+[W]ripe[M]a. 成熟的
+[W]rise[M]vi. 上升，上涨，升起，站起，起床，增强，起义；n. 增加，升高，加薪，高地，高坡
+[W]risk[M]n. & vt. (冒)风险
+[W]risky[M]a. 危险的，冒险的
+[W]river[M]n. 江，河
+[W]road[M]n. 道路，途径
+[W]rob[M]n. 抢劫，非法剥夺，使丧失
+[W]robot[M]n. 机器人
+[W]rock[M]n. 岩石，摇摆，摆动；vt. 摇动，使震惊；vi. 摇动，震动
+[W]rocket[M]n. 火箭；vi. 如火箭般上升
+[W]rod[M]n. 棍，棒
+[W]role[M]n. 角色，作用，任务
+[W]roll[M]vi. 卷，滚动，摇晃；vt. 使滚动，卷状物，卷，使摇摆，辗，轧；n. 卷，名册，隆隆声
+[W]roof[M]n. 顶，房顶，屋脊
+[W]room[M]n. 房间，卧室，余地，空间
+[W]root[M]n. 根，根源；vi. 生根
+[W]rope[M]n. 绳索
+[W]rose[M]n. 玫瑰，蔷薇，玫瑰色，粉红色
+[W]rough[M]a. 表面粗糙的，不平的，粗野的，狂暴的，大致的；ad. 粗暴地
+[W]round[M]a. 圆的，往返的；prep. 围绕；ad.在周围；n. 一圈；vt.绕行，使完美；vi.兜圈，环行
+[W]route[M]n. 路线，路程
+[W]row[M]n. 行，排；v. 划(船等)
+[W]royal[M]a. 皇家的，王室的，盛大的，堂皇的
+[W]rub[M]v. 擦，搓；n. 摩，擦，障碍，困难
+[W]rubber[M]n. & a. 橡胶(的)，橡皮
+[W]rubbish[M]n. 垃圾，废物，废话，胡说八道
+[W]ruin[M]vt. & vi. 毁灭，破坏，(使)破产；n. 毁灭，废墟，遗址
+[W]rule[M]vt. & vi. 统治，控制，裁决；n. 规则，规定，习惯，惯例，支配，统治
+[W]ruler[M]n. 统治者，尺子
+[W]rumour[M]n. 谣言，谣传，传说
+[W]run[M]vi. 跑，行驶，来往，流，转动；vt. 跑过，穿过，驾驶，管理，经营；n.跑，行程，航线
+[W]rural[M]a. 农村的，乡村的
+[W]rush[M]vi. 冲，突进，匆忙行动；vt. 催促；n. 冲，奔，(一阵)忙碌，蜂拥前往，抢购
+[W]russia[M]n. 俄罗斯，俄国
+[W]russian[M]a. 俄罗斯的，俄国的，俄语的
+[W]sad[M]a. 悲伤的，忧愁的
+[W]safe[M]a. 安全的；n. 保险箱
+[W]safety[M]n. 安全
+[W]sail[M]n. 帆，航行；vi. 航行，启航，翱游，飘；vt. 航行，飘过
+[W]sailor[M]n. 水手，海员
+[W]sake[M]n. 缘故，理同
+[W]salary[M]n. 工资，薪水
+[W]sale[M]n. 销售(额)，廉价出售
+[W]salesman[M]n. 售货员
+[W]salt[M]n. 盐，氯化钠；vt. 腌，盐渍
+[W]salty[M]a. 盐的，咸的
+[W]same[M]a. 相同的，一样的；pron. 同样的人或事
+[W]sand[M]n. 沙子，(pl.)沙滩，沙地
+[W]sandwich[M]n. 三明治，夹肉包；vt. 挤进，夹入
+[W]satellite[M]n. 沙丁鱼
+[W]satisfaction[M]n. 卫星，人造卫星，附庸国
+[W]satisfactory[M]n. 满足的，满意的
+[W]satisfy[M]a. 满足，满意，符合
+[W]saturday[M]n. 星期六
+[W]save[M]v. 拯救，储蓄，节省
+[W]savings[M]n. 储蓄，存款
+[W]say[M]vt. 说，讲，说明，表时，比如说，假定；vi. 说，发表意见；n. 发言权，决定权，意见
+[W]scale[M]n. 刻度，尺度，(pl.)天平，大小，规模，鱼鳞；vt. 攀登，按比例绘制，按比例增减
+[W]scatter[M]vt. 使分散，散布，撒播；vi. 消散，溃散
+[W]scene[M]n. 风景，景色，(戏)一场
+[W]scenery[M]n. 风景，布景
+[W]schedule[M]n. 计划，进度表，时刻表，时间表，一览表；vt. 预定，排定，制作…表，记入…表
+[W]scholar[M]n. 学者
+[W]scholarship[M]n. 奖学金，学问，学识
+[W]school[M]n. 学校，学院，学派，流派，上学，学业，(鱼等的)群
+[W]science[M]n. 科学，学科
+[W]scientific[M]a. 科学的
+[W]scientist[M]n. 科学家
+[W]scissors[M]n. 剪子
+[W]scold[M]v. 责骂，申斥
+[W]scope[M]n. 范围，视野，余地，机会
+[W]score[M]v. 记录，得分，记号，刻痕；分数，二十，记号，刻痕；n. 分数，二十，记号，刻痕
+[W]screen[M]n. 屏风，屏(银)幕；vt. 掩蔽，遮护，选拔，淘汰
+[W]sea[M]n. 海，洋，大量
+[W]seaman[M]n. 海员，水手
+[W]seaport[M]n. 海港
+[W]search[M]vt. 搜寻，找寻，细看，细查；vi. & n. 搜寻，搜查，探究，调查
+[W]seaside[M]n. 海边
+[W]season[M]n. 季，季节，当令期，旺季；vt. 加调味品
+[W]seat[M]n. 座位，座席；vt. 使入座，使就座
+[W]second[M]1 num. 第二；a. 第二的，第二个的，再一个的，别的；n. 第二人/物
+[W]secondly[M]ad. 第二，其次
+[W]secret[M]a. 秘密的；n. 秘密，秘诀
+[W]secretary[M]n. 秘书，书记，部长，长臣
+[W]section[M]n. 节，段，部分，科室，截面，剖视图
+[W]secure[M]a. 安全的，牢靠的；vt. 得到，使安全，防护
+[W]see[M]vt. 看见，会面，探望，知道，获悉，送行，陪，经历
+[W]seed[M]n. 种子；vt. 播种；vi. (植物)结实，生子，播种
+[W]seek[M]n. 寻求，寻找，请求，要求，试图
+[W]seem[M]vi. 似科，好象，仿佛

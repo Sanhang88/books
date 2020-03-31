@@ -1,0 +1,310 @@
+GMAT全真题五---2
+16. Many consumers are concerned about the ecological effects of wasteful packaging. This concern probably explains why stores have been quick to stock new cleaning products that have been produced in a concentrated form. The concentrated form is packaged in smaller containers that use less plastic and require less transportation space.
+Which of the following if true most seriously under-mines the explanation offered above?
+  (A) Few consumers believe that containers of concentrated cleaning products are merely small packages of regular cleaning products.
+  (B) The containers in which concentrated cleaning products are packaged are no harder to recycle than those in which regular cleaning products are packaged.
+  (C) Those concentrated cleaning products that are intended to be used diluted have clear instructions for dilution printed on their labels.
+  (D) The smaller containers of concentrated cleaning products enable supermarkets and drugstores to increase their revenues from a given shelf space.
+  (E) Consumer pressure has led to the elimination of wasteful cardboard packaging that was used for compact discs.
+SECTION 4
+Time-25 minutes
+16 Questions
+1. If x is negative, which of the following must be positive?
+. x2
+. (-1)x
+  (A)  only
+  (B) and only
+  (C) and only
+  (D) and only
+  (E) ,and
+2. The employees of Smith Enterprises received wage increases ranging from 30 cents to 87 cents per hour: What was the maximum wage increase for a 40-hour week?
+  (A) $12.00
+  (B) $23.00
+  (C) $34.00
+  (D) $35.00
+  (E) $35.20
+3. If O is the center of the circle above and the length of arc RSP is twice the length of arc PQR, then x equals
+  (A) 60
+  (B) 100
+  (C) 120
+  (D) 150
+  (E) 240
+4. The sum of 3 hours 45 minutes and 2 hours 55 minutes is approximately what percent of a day?
+  (A) 14%
+  (B) 16%
+  (C) 24%
+  (D) 28%
+  (E) 72%
+5. A salesman makes a 20 percent comminssion on the selling price of each set of encyclopedias he sells. If he sells 12 identical sets of encyclopedias and makes $1.800 in commissions, what is the selling price of each set?
+  (A) $300
+  (B) $600
+  (C) $750
+  (D) $900
+  (E) $1.080
+6. If x<12. then it must be true that
+  (A) -x<-12
+  (B) -x-2<14
+  (C) -x+2<-10
+  (D) x+2<10
+  (D) x-2<11
+7. The 10 households on a certain street have house hold incomes that range from $34.000 to $150.000 and an average (arithmetic mean) household income of $60.000. If the houlshold with the highest income and the one with the lowest income are excluded, what is the average household income for the remaining 8 households?
+  (A) $41.600
+  (B) $47.000
+  (C) $52.000
+  (D) $61.000
+  (E) $75.000
+8. If x=y+4 and x =20-y, then x2-y2=
+  (A) 16
+  (B) 80
+  (C) 144
+  (D) 256
+  (E) 384
+9. On level farmland, two runners leave at the same time from the intersection of two country roads, One runner jogs due north at a constant rate of 8 miles per hour while the second runner jogs due east at a constant rate that is 4 miles per hour faster than the first runner's rate. How far apart, to the nearest mile, will they be after hour?
+  (A) 6
+  (B) 7
+  (C) 8
+  (D) 12
+  (E) 14
+10. A square playground has the same area as a rectangular playground that is 30 meters longer but 20 meters narrower. What is the length, in meters, of a side of the square playground?
+  (A) 10
+  (B) 10
+  (C) 25
+  (D) 50
+  (E) 60
+11. The price of a dress was first discounted by a certain percent and later by 25 percent of the discounted price. If these two discounts are equivalent to a single discount of 40 percent of the orginal price. what was the first discount?
+  (A) 10%
+  (B) 15%
+  (C) 20%
+  (D) 30%
+  (E) 65%
+12. If it is assumed that each of the n production workers in a factory assembles one istrument every t minutes, how many instruments does the factory assemble in 7.5 hours of production?
+13. What is the diference between the sixth and the fifth terms of the sequence 2, 4, 7… whose n th term is n+2n-1?
+  (A) 2
+  (B) 3
+  (C) 6
+  (D) 16
+  (E) 17
+14. Which of the following could be the sum of the reciprocals of two different prime numbers?
+15. The rear wheels of a car crossed a certain line 0.5 second after the front wheels crossed the same line If the centers of the front and rear wheels are 20 feet apart and the car traveled in a straight line at a constant speed, which of the following gives the speed of the car in miles per hour? (5.280 feet = 1 mile)
+16. Working alone, a small pump takes twice as long as a large pump takes to fill an empty tank. Working together at their respective constant rates, the pumps can fill the tank in 6 hours. How many hours would it take the small pump to fill the tank working alone?
+  (A) 8
+  (B) 9
+  (C) 12
+  (D) 15
+  (E) 18
+SECTION 5
+Time-25 minutes
+18 Questions
+In an attempt to improve the overall performance of clerical workers, many companies have introduced computerized performance monitoring and control systems
+Line (CPMCS) that record and report a worker's computer
+(5) driven activities. However, at least one study has shown that such monitoring may not be having the desired effect. In the study, researchers asked monitored clerical workers and their supervisors how assessments of productivity affected supervisors' ratings of workers' performance. In
+(10) contrast to unmonitored workers doing the same work. who without exception identified the most important element in their jobs as customer service. the monitored workers and their supervisors all responded that productivity was the critical factor in assigning ratings. This finding suggested
+(15) that there should have been a strong correlation between a monitored worker's productivity and the overall rating the worker received. However. measures of the relationship between overall rating and individual elements of performance clearly supported the conclusion that supervisors
+(20) gave consideerable weight to criteria such as attendance, accuracy, and indications of suctomer satisfaction.
+It is possible that productivity may be a "hygiene factor." that is, if it is too low, it will hurt the overall rating. But the evidence suggests that beyond the point at
+(25) which productivity becomes "good enough." highter productivity per se is unlikely to improve a rating.
+1. According to the passage, before the final results of the study were known, which of the following seemed likely?
+  (A) That workers with the highest productivity would also be the most accurate
+  (B) That workers who initially achieved high productivity ratings would continue to do so consistently
+  (C) That the highest performance ratings would be achieved by workers with the highest productivity
+  (D) That the most productive workers would be those whose supervisors claimed to value productivity
+  (E) That supervisors who claimed to value productivity would place equal value on customer satisfaction
+2. It can be inferred that the author of the passage discusses 'unmonitored workers" (line 10) primarily in order to
+  (A) compare the ratings of these workers with the ratings of monitored workers
+  (B) provide an example of a case in which monitoring might be effective
+  (C) provide evidence of an inappropriate use of CPMCS
+  (D) emphasize the effect that CPMCS may have on workers' perceptions of their jobs.
+  (E) illustrate the effect that CPMCS may have on workers' ratings
+3. Which of the following, if true would most clearly have supported the conclusion referred to in lines 19-21?
+  (A) Ratings of productivity correlated highly with ratings of both accuracy and attendance.
+  (B) Electronic monitoring greatly increased productivity.
+  (C) Most supervisors based overall ratings of performance on measures of productivity alone.
+  (D) Overall ratings of performance correlated more highly with measures of productivity than the researchers expected.
+  (E) Overall ratings of performance correlated more hightly with measures of accuracy than with measures of productivity.
+4. According to the passage, a "hygiene factor" (lines 22-23) is an aspect of a worker's performance that
+  (A) has no effect on the rating of a worker's performance
+  (B) is so basic to performance that it is assumed to be adequate for all workers
+  (C) is given less importance than it deserves in rating a worker's performance
+  (D) is not likely to affect a worker's rating unless it is judged to be inadequate
+  (E) is important primarily because of the effect it has on a worker's rating
+5. The primary purpose of the passage is to
+  (A) explain the need for the introduction of an innovative strategy
+  (B) discuss a study of the use of a particular method
+  (C) recommend a course of action
+  (D) resolve a difference of opinion
+  (E) suggest an alternative approach
+Schools expect textbooks to be a valuable source of information for students. My research suggests, however, that textbooks that address the place of Native Americans
+Line within the history of the United States distort history to suit
+(5) a particular cultural value system. In some textbooks, for example, settlers are pictured as more humane, complex, skillful, and wise than Native Americans, In essence, textbooks stereotype and deprecate the numerous Native American cultures while reinforcing the attitude that the
+(10) European conquest of the New World denotes the superiority of European cultures. Although textbooks evaluate Native American architecture political systems, and home-making. I contend that they do it from an ethnocentric, European perspective without recognizing that other per
+(15) spectives are possible.
+One argument against my contention asserts that, by nature, textbooks are culturally biased and that I am simply underestimating children's ability to see through these biases. Some researchers even claim that by the time
+(20) students are in high school, they know they cannot take textbooks literally. Yet substantial evidence exists to the contrary. Two researchers, for example, have conducted studies that suggest that children's attitudes about particular cultures are strongly influenced by the textbooks used in
+(25) schools. Given this, an ongoing, careful review of how school textbooks depict Native Americans is certainly warranted.
+6. Which of the following would most logically be the topic of the paragraph immediately following the passage?
+  (A) Specific ways to evaluate the biases of United States history textbooks.
+  (B) The centrality of the teacher's role in United States history courese.
+  (C) Nontraditional methods of teaching United States history
+  (D) The contributions of European immigrants to the development of the United States
+  (E) Ways in which parents influence children's political attitudes.
+7. The primary purpose of the passage is to
+  (A) describe in detail one research study regarding the impact of history texbooks on children's attitudes and beliefs about certain cultures
+  (B) describe revisions that should be made to United States history textbooks
+  (C) discuss the difficulty of presenting an accurate history of the United States.
+  (D) argue that textbooks used in schools stereotype Native Americans and influence children's attitudes
+  (E) summarize ways in which some textbooks give distorted pictures of the political systems developed by various Native American groups
+8. The author mentions two researchers' studies (lines 22-25) most likely in order to
+  (A) suggest that children's political attitudes are formed primarily through textbooks
+  (B) counter the claim that children are able to see through stereotypes in textbooks
+  (C) suggest that younger children tend to interpret the messages in textbooks more literally than do older children
+  (D) demonstrate that textbooks carry political messages meant to influence their readers
+  (E) prove that textbooks are not biased in terms of their political presentations
+9. The author's attitude toward the content of the history textbooks discussed in the passage is best described as one of
+  (A) indifference
+  (B) hesitance
+  (C) neutrality
+  (D) amusement
+  (E) disapproval
+10. It can be inferred from the passage that the researchers mentioned in line 19 would be most likely to agree with which of the following statements?
+  (A) Students form attitudes about cultures other than their own primarily inside the school environment
+  (B) For the most part, seniors in high school know that textbooks can be biased.
+  (C) Textbooks play a crucial role in shaping the attitudes and beliefs of students.
+  (D) Elementary school students are as likely to recognize biases in textbooks as are high school students.
+  (E) Students are less likely to give credence to history textbooks than to mathematics textbooks.
+11. The author implies that which of the following will occur if textbooks are not carefully reviewed?
+  (A) Children will remain ignorant of the European settlers' conquest of the New World.
+  (B) Children will lost their ability to recognize biases in textbooks.
+  (C) Children will form negative stereotypes of Native Americans.
+  (D) Children will develop an understanding of ethnocentrism.
+  (E) Children will stop taking textbooks seriousty.
+Until recently, scientists did not know of a close vertebrate analogue to the extreme form of altruism observed in eusocial insects like ants and bees, whereby individuals
+Line cooperate, sometimes even sacrificing their own oppor
+(5) tunities to survive and reproduce, for the good of others, However, such a vertebrate society may exist among underground colonies of the highly social rodent Heterocephalus glaber the naked mole rat.
+A naked mole rat colony, like a beehive, wasp's nest, or
+(10) termite mound, is ruled by its queen, or reproducting female. Other adult female mole rats neither ovulate nor breed. The queen is the largest member of the colony, and she mantains her breeding status through a mixture of behavioral and presumably, chemical control. Queens have
+(15) been long-lived in captivity, and when they die or are removed from a colony one sees violent fighting for breeding status among the larger remaining females. leading to a takeover by a new queen.
+Eusocial insect societies have rigid caste systems, each
+(20) insect's role being defined by ist behavior, body shape and physiology, In naked mole rat societies. on the other hand, differences in behavior are related primarily to reproductive status (reproduction being limited to the queen and a few males). body size, and perhaps age. Smaller nonbreeding
+(25) members, both male and female,seem to participate primarily in gathering food, transporting nest material, and tunneling. Larger nonbreeders are active in defending the colony and perhaps in removing dirt from the tunnels. Jarvis' work has suggested that differences in growth rates
+(30) may influence the length of time that an individual perform; a task, regardless of its age.
+Cooperative breeding has evolved many times in vertebrates but unlike naked mole rats. most cooperatively breeding vertebrates texcept the wild dog. Lycaon pictus
+(35) are dominated by a pair of breeders rather than by a single breeding female. The division of labor within social groups is less pronounced among other vertebrates than among naked mole rats, colony size is much smaller, and mating by subordinate females may not be totally suppressed.
+(40) whereas in naked mole rat colonies subordinate females are not sexually active, and many never breed.
+12. Which of the following most accurately states the main idea of the passage?
+  (A) Naked mole rat colonies are the only known examples of cooperatively breeding vertebrate societies.
+  (B) Naked mole rat colonies exhibit social organization based on a rigid caste system
+  (C) Behavior in naked mole rat colonies may well be a close vertebrate analogue to behavior in eusocial insect societies.
+  (D) The mating habits of naked mole rates differ from those of any other vertebrate species.
+  (E) The basis for the division of labor among naked mole rats is the same as that among eusocial insects.
+13. The passage suggests that Jarvis' work has called into question which of the following explanatory variables for naked mole rat behavior?
+  (A) Size
+  (B) Age
+  (C) Reproductive status
+  (D) Rate of growth
+  (E) Previously exhibited behavior
+14. It can be inferred from the passage that the performance of tasks in naked mole rat colmes differs from task performance in eusocial insect societies in which of the following ways?
+  (A) In naked mole rat colontes all tasks are performed cooperatively.
+  (B) In naked mole rat colonies the performance of tasks is less rigidly determined by body shape
+  (C) In naked mole rat colonies, breeding is limited to the largest animals.
+  (D) In eusocial insect socities reproduction is limited to a single female.
+  (E) In eusocial insect societies the distrbution of tasks is based on body size.
+15. According to the passage, which of the following is a supposition rather than a fact concerning the queen in a naked mole rat colony?
+  (A) She is the largest member of the colony.
+  (B) She exerts chemical control over the colony.
+  (C) She mates with more than one male.
+  (D) She attains her status througn aggression
+  (E) She is the only breeding female.
+16. The passage supports which of the following inferences about breeding among Lycaon pictus?
+  (A) The largest female in the social group does not maintain reproductive status by means of behavioral control.
+  (B) An individual's ability to breed is related primarily to its rate of growth.
+  (C) Breeding is the only task performed by the bredding female.
+  (D) Breeding in the social group is not cooperative
+  (E) Breeding is not dominated by a single pair of dogs.
+17. According to the assage, naked mole rat colonies may differ from all other known vertebrate groups in which of the following ways?
+  (A) Naked mole rats exhibit an extreme form of altruism.
+  (B) Naked mole rats are cooperative breeders.
+  (C) Among naked mole rats, many males are permitted to breed with a single dominant female.
+  (D) Among naked mole rats different tasks are performed at different times in an individual's life.
+  (E) Among naked mole rats, fighting results in the selection of a breeding female.
+18. One function of the third paragraph of the passage is to
+  (A) state a conclusion about facts presented in an earlier paragraph
+  (B) introduce information that is contradicted by information in the fourth paragraph
+  (C) qualify the extent to which two previously mentioned groups might be similar
+  (D) show the chain of reasoning that led to the conclusions of a specific study
+  (E) demonstrate that. of three explanatory factors offered, two may be of equal significance.
+SECTION 6
+Time-25 minutes
+20 Questions
+  A Statement (1) ALONE is sufficient, but statement (2) alone is not sufficient.
+  B Statement (2) ALONE is sufficient, but statement (1) alone is not sufficient.
+  C BOTH statements TOGETHER are sufficient, but NEITHER statement ALONE is sufficient.
+  D EACH statement ALONE is sufficient.
+  E Statements (1) and (2) TOGETHER are NOT sufficient.
+1. What is 5 percent of x?
+  (1) x=200
+  (2) 10 percent of x is 20.
+2. For which type of investment, J or K, is the annual rate of return greater?
+  (1) Type J returns $ 115 per $ 1,,000 invested for any one-year period and type K returns $ 300 per $ 2.500 invested for any one-year period.
+  (2) The annual rate of return for an investment of type K is 12 percent.
+3. What is the value of ?
+  (1) an=32
+  (2) bn=243
+4. What is the tenths digit of the decimal d?
+  (1) d=
+  (2) d is 28 percent of 1.
+5. Is a-0?
+  (1) ab=0
+  (2) a2=0
+6. What percent of the drama club members enrolled at a certain school are female students?
+  (1) Of the female students enrolled at the school. 40 percent are members of the drama club.
+  (2) Of the male students enrolled at the school, 25 percent are members of the drama club.
+7. What is the perimeter of rectangle R?
+  (1) R is a square.
+  (2) The area of R is 36
+8. Carmen currently works 30 hours per week at her part-time job, If her gross hourly wage were to increase by $1.50 how many fewer hours could she work per week and still earn the same gross weekly pay as before the increase?
+  (1) Her gross weekly pay is currently $225.00
+  (2) An increase of $1.50 would represent an increase of 20 percent of her current gross hourly wage.
+9. In a serving of a breakfast cereal that contains only oats raisins, and nuts the ratio of oats to raisins to nuts by weight is 3 to 2 to 1, respectively. How many ounces of ratsins are in the serving?
+  (1) The serving weights 4 ounces.
+  (2) The serving contains 2 ounces of oats.
+10 Is x >0?
+  (1) x2>0
+  (2) x3>0
+11. A taxi company charges f cents for the first mile of a taxi ride and m cents for each additional mile. How much does the company charge for a 10-mile taxi ride?
+  (1) The company charges $0.90 for a 2-mile ride.
+  (2) The company charges $1.20 for a 4-mile ride.
+12. What was the discounted price of a certain television set?
+  (1) The original price of the television set was $50 more than the discounted price.
+  (2) The original price of the television set was 110 percent of the discounted price.
+13. If x >0, is >x?
+  (1) 0<y<1
+  (2) x>1
+14. Is n an integer?
+  (1) 2n is an integer,
+  (2) is an integer.
+15. At what speed was a train traveling on a trip when it had completed half of the total distance of the trip?
+  (1) The trip was 460 miles long and took 4 hours to complete.
+  (2) The train traveled at an average rate of 115 miles per hour on the trip.
+16. If r and s are integers, is r2 + s even?
+  (1) The product rs is odd.
+  (2) r is odd.
+17. What is the volume of a certain rectangular solid?
+  (1) Two adjacent faces of the solid have areas 15 and 24 respectively.
+  (2) Each of two opposite faces of the solid has area 40.
+18. Is x>y?
+  (1) ax>ay
+  (2) a2x>a2y
+19. If n is a positive integer and k=5.1 10n what is the value of k?
+  (1) 6,000<k<500,000
+  (2) k2= 2.601109
+20. What is the average (arithmetic mean) of 3x and 6y?
+  (1) x+2y=7
+  (2) x+y=5
+
+GMAT 全真试题五答案
+Section 1: 　EDDAE 　AECBA 　EDCBB 　DCCBB 　AC
+Section 2: 　ABCAC 　AABBD 　EDECB 　E
+Section 3: 　CAEEB 　AEDBD 　DBDBC 　D
+Section 4: 　BDCDC 　ECBBE 　CAEBA 　E
+Section 5: 　CDEDB 　ADBEB 　CCBBB 　EAC
+Section 6: 　DACDB　 ECDDB 　CCABE　 ACBDA

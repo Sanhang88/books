@@ -1,0 +1,192 @@
+Continued
+SECTION 2
+Time--30minutes
+25 Questions
+Question 1--7
+In a game,exactly six inverted cups stand side by side in a straight line, and each has exactly one ball hidden under it.The cups are numbered consecutively 1 through 6. Each of the balls is painted a single solid color.The colors of the balls are green, magenta,
+orange, purple,red,and yellow.The balls have been hidden ynder the cups in a manner that conforms to the folowing conditions: 
+The purple ball must be hidden under a lower-numbered cup than the orange ball. 
+The red ball must be hidden under a cup immediately adjacent to the cup under
+which the magenta ball is hidden. 
+The green ball must be hidden under cup 5.
+1.Which of the following could be color of the balls under the cups,in order from 1 through 6? 
+(A)Green,yellow,magenta,red,purple,orange 
+(B)Magenta,green,purple,red,orange,yellow 
+(C)Magenta,red,purple,yellow,green,orange 
+(D)Red,Purple,magenta,yellow,green,orange 
+(E)Red,purple,magenta,yellow,green,orange 
+2.If the magenta ball is under cup 4, the red ball must be under cup 
+(A)1 
+(B)2 
+(C)3 
+(D)4 
+(E)5 
+3.A ball of which of following colors could be under cup 6? 
+(A)Green 
+(B)Magenta 
+(C)Purple 
+(D)Red 
+(E)Yellow 
+4.If the purple ball is under cup 4,the orange ball must be under cup 
+(A)1 
+(B)2 
+(C)3 
+(D)5 
+(E)6 
+5.Which of the following must be true? 
+(A)The green ball is under a lower-> 
+Transfer interrupted!
+d>(B)The orange ball is under a lower-numbered cup than the green ball. 
+(C)The purple ball is under a lower-numbered cup than the green ball. 
+(D)The purple ball is under a lower-numbered cup than the red ball. 
+(E)The red ball is under a lower-numbered cup than the yellow ball. 
+6.If the orange ball is under cup 2,balls of which of the following colors could be under cups immediately adjacent to each other? 
+(A)Green and magenta 
+(B)Green and purple 
+(C)Orange and yellow 
+(D)Purple andred 
+(E)Red and yellow 
+7.If the magenta ball is under cup 1,balls of which of the following colors must be under cups immediately adjacent to each other? 
+(A)Green and orange 
+(B)Green and yellow 
+(C)Purple and red 
+(D)Purple and yellow 
+(E)Red and yellow 
+8.The company should not be held responsible for failing to correct the control- panel problem that caused the accident.Although the problem had been mentioned earlier in a safety inspector's report,companies receive hundreds of reports of such problem,and Industry Standard No.42 requires action on those problem only when an accident is foreseeable. 
+If the second sentence in the paragraph above is factually correct,the answer to which of the following questions is most relevant in helping to determine whether or not the company violated Industry Standard No.42 when it failed to correct the control-panel problem? 
+(A)Was the accident serious? 
+(B)Was the control-panel problem of a type that is known to incident that an accident is likely? 
+(C)Since the accident,has the company done a special safety check on all control panels? 
+(D)Did the safety inspector mention more than one problem in the same report? 
+(E)How long was the control panel in use before the problem was discovered? 
+9.Riothamus,a fifth-century king of the Britons,was betrayed by an associate, fought bravely against the Goths but was defeated,and disappeared mysteriously .Ri> 
+Transfer interrupted!
+Riothamus,match almost exactly those attributed to King Arthur.Therefore,Riothamus must be thehistorical model for the legendary King Arthur. 
+The argument above requires at least one additional premise.Which of the following could be such a required premise? 
+(A)Modern historians have documented the activities of Riothamus better than those of any other fifth-century king. 
+(B)The stories told about King Arthur are not strictly fictitious but are based on a historical person and historical events. 
+(C)Riothamus' associates were the authors of the original legends about King Arthur. 
+(D)Legents about the fifth century usually embellish and romanticize the actual conditions of the livesof fifth- century nobility. 
+(E)Posterity usually remembers legends better than it remembers the actual historical events on which they are based. 
+10.A worldwide banon the production of certain ozone-destroying chemicals would provide only an illusion of protection.Quantities of such chemicals,already produced,exist as coolants in millions of refrigerators.When they reach the ozone layer in the atmosphere,their action cannot be halted.So there is no way to prevent these chemicals from damaging the ozonelayer further. 
+Which of the following, if true,most seriously weakens the argument above? 
+(A)It is impossible to measure with accuracy the quantity of ozone-destroying chemicals that exist as coolants in refrigerators. 
+(B)In modern societies,refrigeration of food is necessary to prevent unhealthy and potentially life-threatening conditions. 
+(C)Replacement chemicals that will not destroy ozone have not yet been developed and would be more expensive than the chemicals now used as coolants in refrigerators. 
+(D)Even if people should give up the use of refrigeration,the coolants already in existing refrigerators are a threat to atmospheric ozone. 
+(E)The coolants in refrigerator can be fully recovered at the end of the useful life of the refrigerators and reused. 
+Question 11--15
+A government is assigning each of six embassy office workers --Farr,Golden,Hayakawa, Inserra,Jones,and Kovacs--to embassies.There are four embassies.Embassies L and M are located in countries with dry climates,whereas embassiesP and T are located in countries with humid climates.The office workers must be assigned according to the following rules: 
+Each embassy must have at least one of the workers assigned to it. 
+At least one embassy in a humid climate must haveat least two workers assigned
+to it. 
+Golden cannot be assigned to the same embassy as Kovacs. 
+Inserra must be assigned t an embassy in a dry climates. 
+Jones must be assigned to an embassy in a humid climate. 
+11.Which of the followingis an acceptable assignment of the workers to the embassies? 
+              L           M            P          T
+(A)Farr,Golden    Inserra,Kovacs    Hayakawa    Jones 
+(B)Golden,Kovacs    Inserra    Jones    Farr,Hayakawa 
+(C)Golden    Farr,Inserra    Kovacs    Jones,Hayakawa 
+(D)Jones    Golden, Inserra    Hayakawa    Farr,Kovacs 
+(E)Kovacs    Farr,Hayakawa    Inserra    Golden,Jones 
+12.Which of the following must be assigned either to embassy L or to embassy M? 
+(A)Farr 
+(B)Golden 
+(C)Hayakawa 
+(D)Inserra 
+(E)Kovacs 
+13.Which of the following CANNOT be true? 
+(A)One worker is assigned to L. 
+(B)Two workers is assigned to P. 
+(C)Two workers are assigned to L. 
+(D)Three workers are assigned to M. 
+(E)Three workers are assigned to T. 
+14.If Golden and Kovacs are assigned to L and M,respectively,which of the following must be true? 
+(A)Farr is assigned to either P or T. 
+(B)Inserra is assigned to either P or T. 
+(C)P and T each have two workers assigned to them. 
+(D)Hayakawa is assigned to L. 
+(E)Hayakawa is assigned to T. 
+15.If Golden,Hayakawa,and Kovacs are among the workers assigned to embassies in humid climayes,which of the following must be true? 
+(A)Farr is assigned to an embassy to which none of the other five office workers is assigned. 
+(B)Golden is assigned to an embassy to which none of the other five office workers is assigned. 
+(C)Jones is assigned to the same embassy as Golden. 
+(D)Hayakawa is assigned to the same embassy as Golden. 
+(E)Hayakawa is assigned to the same embassy as Kovacs. 
+Question 16--19
+A volunteer uses a truck to pick up donations of unsold food and clothing from stores and to deliver them to locations where they can be distributed.He drives only along a certain network of roads.
+In the network there are two-way roads connecting each of the following pairs of points: 1 with 2,1 with 3,1 with 5,2 with 6,3 with 7,5 with 6,and 6 with 7.There are also one-way roads going from 2 to 4,from 3 to2,and from 4 to 3.There are no other roads in the network, and the roads in the network do not intersect.
+To make a trip involving pickups and deliverirs,the volunteer always takes a route that for the whole trip passes through the fewest of the points 1 through 7,counting a point twice if the volunteer passes through it twice.
+The volunteer's home is at point 3.Donations canbe picked up at a supermarket at point 1, a clothing store at point 5,and a bakery at point 4.Deliveries can be made as needed to a tutoring center at point 2,a distribution center at point 6,and a shelter at point 7.
+16.If the volunteer starts at the supermarket and next is to go to the shelter, the first intermediate point his rpute passes through must be 
+(A)2 
+(B)3 
+(C)5 
+(D)6 
+(E)7 
+17.If,starting from home,the volunteer next is to make pickups for the shelter at the supermarket and the bakery(in either order),the first two intermediate points on his route, beginning with the first,must be 
+(A)1 and 2 
+(B)1 and 3 
+(C)2 and 1 
+(D)2 and 4 
+(E)4 and 2 
+18.If,starting from the clothing store,the volunteer next is to pick up bread at either the supermarket or the bakery(whichever stop makes his route go through the fewest of the points)and then is to go to the shelter,the first two points he reaches afterthe clothing store,beginning with the first,must be 
+(A)1 and 2 
+(B)1 and 3 
+(C)4 and 2 
+(D)6 and 2 
+(E)6 and 4 
+19.If the volunteer is to make a trip starting at the shelter,next going to the bakery for a pickup,and then ending at the distribution center,the first two intermediate points on his route,beginning with the first,can be 
+(A)3 and 1 
+(B)3 and 4 
+(C)4 and 2 
+(D)6 and 2 
+(E)6 and 5 
+Question 20--22
+A developer is planning to build a housing complex on an empty tract of land.Exactly seven different styles of houses --Q,R,S,T,W,X,and Z--will bebuild in the complex.The complex will contain several blocks,and the developer plans to put houses of at least three different styles on each block.The developer will build the complex according to the following rules: 
+Any block that has style Z on it must also have style W on it.
+Any block adjacent to one that has on it both style S and style X must have on it
+style Tand style Z.
+No block adjacent to one that has on it both style R and style Z can have on it 
+either style T or style W.
+No block can have on it both style S and style Q.
+20.Which of the following can be the complete selection of house style on a block? 
+(A)Q,R,S 
+(B)Q,S,X 
+(C)R,T,Z 
+(D)S,W,Z 
+(E)T,X,Z 
+21.Which of the following can be the complete selection of house style on a block? 
+(A)Q 
+(B)R 
+(C)S 
+(D)W 
+(E)X 
+22.Which of the following can be the complete selection of house style for a block that is adjacent to exactly one block,if that one block has on it style S,T, W,and X only? 
+(A)S,T,and X 
+(B)T,X,and Z 
+(C)R,S,X,and Z 
+(D)S,T,W,and X 
+(E)T,W,X,and Z 
+23.When an osprey(a fish-eating hawk)returna from fishing to its nesting area with a fish like an alewife, a pollack,or a smelt,other ospreys will retrace its flight path in hopes of good fishing.There is seldom such a response if the first bird brings back a winter flounder.Yet ospreys feed on winter flounder just as ready as od any other fish. 
+Which of the following,if true,contributes most to an explanation of the fishing behavior of ospreys as it is described above? 
+(A)Ospreys are seldom able to catch alewives,pollack,or smelt. 
+(B)Alewives,pollack,and smalt move in schools,but winter flounder do not. 
+(C)Winter flounder prefer shallower waters than do alewives,pollack,or smelt. 
+(D)Winter flounder prefer and pollack exhibit protective coloration,but alewives and smelt do not.
+(E)Ospreys that live in nesting area are especially successful fishers. 
+24.A recent study of an insurance company's underwriters indicate that those who worked in pleasant physical surroundings were 25 percent more productive thantheir peers in unpleasant physical surroundings.Objective criteria for evaluating job performance included caseload and complexity of cases.This shows that improving workers' enviroments increases those workers'productivity. 
+Which of the following,if true,most seriously weakens the conclusion above? 
+(A)On average,less-productive employees spend no fewer hours per day at their workstations thando their more-productive peers.
+(B)Unpleasant surroundings give employees less motivation to work hard than more pleasant surroundings do.
+(C)The more-productive employees are generally rewarded with pleasant office space.
+(D)More-productive employees do not work any more hours than their less-productive peers.
+(E)Peer pressure discourages employees in crowed,unpleasant surroundings from making phone calls to their own family members during work time.
+25.In a certain country,individual tend to change their political affiliation readily from one political party to another.In the past the Union party grew larger because of this tendency,but although most of those who change to a new party affiliation change to the Union party, the Union party has remained about the same size in recent years. 
+Which of the following,if true,best helps to explain the change in the growth pattern of the Union party mentioned above? 
+(A)The economy has been prospering recently,and many of those who change party affiliation are upwardly mobile and properous.
+(B)In recent yeas those who were previously nonaffiliated have tended to join the Union party if they joined any party at all.
+(C)The percentage of voting-age citizens who change political party affiliation each year has remained constant,and the number of voting-age citizens has remained the same.
+(D)The percentage of voting-age citizens who are affiliated with any political party has increased over the last ten years.
+(E)Many members of the Unipn party have abandoned all political party affiliation in recent years.

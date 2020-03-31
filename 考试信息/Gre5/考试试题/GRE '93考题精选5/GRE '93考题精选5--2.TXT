@@ -1,0 +1,826 @@
+GRE '93考题精选（五）---2
+risky: a.1.危险的，有风险的 2.铤而走险的，大胆的
+untapped: a.未利用的，未开发的
+pointless: a.1.无尖头的，钝的 2.无意义的，不得要领的，没有目的 3.平淡乏味
+shrewd: a.1.机灵的，敏锐的，精明的，伶俐的，狡猾的 2.锐利的，尖锐的，剧烈的
+　
+由于该城缺乏剧院，具有讽刺意味的是，该城逐渐被视作一个无利可图的戏剧城，而这一声名导致企业家信以为真，以为在那里建造新剧院将会是极具风险的。
+
+He felt it would be -------, in view of the intense
+------- that would likely follow, to make the sacrifice
+required in order to gain such little advantage.
+
+charitable.. growth
+welcomed.. prejudice
+futile.. encouragement
+academic.. acclaim
+unrealistic.. turmoil
+
+答案：(E)
+
+in view of: prep.考虑到，鉴于
+sacrifice: n.1.献祭 2.祭品 3.基督的献身 4.牺牲
+charitable: a.1.慈悲的 2.施舍慷慨的
+　
+prejudice: n.1.先入之见 2.偏见，反感
+futile: a.1.无益的，无效的 2.不重要的 3.缺乏目的的 4.愚蠢的
+acclaim: n.1.欢声 2.喝彩 3.欢迎
+turmoil: n.骚动，混乱
+　
+他觉得，考虑到会紧随出现的严重骚乱，为了去获取这么一丁点的优势而作出所需的牺牲，实乃不现实。
+
+SMALL: MINUSCULE::
+
+yielding: spongy
+crucial : disastrous
+moist: saturated
+rectangular: square
+central: local
+
+答案：(C)
+
+小的:极小的
+　
+易弯的(易屈服的):松软的
+关键的:灾难性的
+潮湿的:充满水的
+矩形的:正方形的
+中心的:当地的
+
+MOLT: FEATHERS::
+
+shed : hair
+decay : teeth
+mildew : humidity
+plane: shavings
+cry: eyes
+
+答案：(A)
+
+脱羽毛:羽毛
+　
+脱毛:毛发
+腐烂:牙齿
+发霉:湿度；潮湿
+刨:刨花
+哭泣:眼睛
+
+YOKEL: SOPHISTICATION::
+
+nomad : direction
+huckster : salesmanship
+extrovert : pragmatism
+coward : courage
+gambler : luck
+
+答案：(D)
+
+乡下佬:诡辩，世故
+　
+游牧民:方向
+叫卖小贩:推销术
+性格外向者:实用主义
+懦夫:勇气
+赌徒:运气
+
+
+POROUS: LIQUID::
+
+flimsy: material
+transparent: light
+flexible : plastic
+malleable : shape
+open-minded : opinion
+
+答案：(B)
+
+能渗透的(多孔的):液体
+　
+轻而薄的:材料
+透明的(坦率的；显而易见的):光
+灵活的:塑料
+可塑的:形状
+开明的:意见
+
+IRK: ENRAGE::
+
+whisper: mumble
+wait : anticipate
+invite: entertain
+soothe: calm
+suggest : urge
+
+答案：(E)
+
+使苦恼，使厌倦:激怒
+　
+低语:咕哝
+等待:预料，期盼
+邀请:使娱乐
+平息抚慰:使镇静，平静
+建议:敦促
+
+COUNTERMAND: ORDER::
+
+trespass : property
+criticize : judgment
+renovate : improvement
+accuse : punishment
+revoke : license
+
+答案：(E)
+
+取消定货:定货
+　
+非法侵入:财产
+批评:判断
+革新，修善:改进，提高
+控告:惩罚
+撤销，废除:执照
+
+FETID: SMELL::
+
+textured : touch
+practical: miserliness
+luxurious : money
+ugly : appearance
+anxious: excitement
+
+答案：(D)
+
+恶臭的:味道
+　
+有结构特征的:触摸
+实际的:吝啬
+奢华的:钱
+丑陋的:面貌
+焦虑的:兴奋
+
+VOLATILE: EVAPORATE::
+
+heavy : collapse
+essential : generate
+soluble: dissolve
+absorbent : melt
+nutritious : eat
+
+答案：(C)
+
+易挥发的(反复无常的):挥发
+　
+沉重的:倒塌
+基本的，本质的:产生(发电)
+易溶解的:溶解
+有吸收力的:融化
+有营养的:吃
+
+
+CRESCENDO: SOUND::
+
+mute: tone
+acceleration: tempo
+syncopation: rhythm
+wavelength : pitch
+quantity: quality
+
+答案：(B)
+
+渐强:声音
+　
+弱音器(哑巴):音调:音色
+加速:速度，步调
+切分:节奏
+波长:音高
+量:质
+
+
+　　　Many philosophers disagree over the
+　　definition of morality, but most
+　　disputants fall into one of two
+　　categories; egocentrics, who define
+(5) morality as the pursuit of self-
+　　fulfillment, and sociocentrics, who
+　　define morality as an individual's
+　　obligations to society. Where does the
+　　truth lie? Fortunately, the stem of the
+(10) word "morality" provides some clues. The
+　　word "mores" originally referred to the
+　　customs of preliterate cultures. Mores,
+　　which embodied each culture's ideal
+　　principles for governing every citizen,
+(15) were developed in the belief that the
+　　foundation of a community lies in the
+　　cultivation of individual powers to be
+　　placed in service to the community.
+　　These mores were concerned with such
+(20) skills as food- gathering and warfare as
+　　well as an individual's relationships
+　　with others. Thus, I submit "morality"
+　　must be concerned with what is honored
+　　by the community at large. However,
+(25) self-fulfillment is important to
+　　morality because unfulfilled citizens,
+　　no matter how virtuous, cannot perform
+　　the duties morality assigns them.
+
+The primary purpose of this passage
+is to
+summarize an argument
+resolve a dispute
+trace a word's origin
+prove a hypothesis
+initiate a debate
+
+答案：(B)
+许多哲学家在道德一词的定义上意见大相径庭，但大部分论争者都可以划归两大类型中的其中一类：个人中心论者以及社会中心论者。个人中心论者将道德定义为对个人满足实现的追求，而社会中心论者则将道德定义成个人对于社会的义务。真理究竟存在于何方？值得庆幸的是，道德（Morality）一词的词根可提供某些线索。Mores（习俗、民德、道德观念）一词最初指的是有文字记载之前的文化的习俗。“风俗习惯”，体现了每一文化制约每个公民的理想准则，它是在这种信仰中发展而来的，即一个社会的基础在于个人能力的培养，并将这些个人能力置于对社会的服务之中。这些习俗涉及到诸如觅食和参战诸般技能，以及个人与他人之间的关系。因此，我承认，“道德”必然涉及到整个社会所履行和遵循的一切。但是，自我实现对于道德也是重要的，因为无所成就的公民，不管多么地具有美德，也无法履行道德所赋予他们的义务。
+
+According to the passage, mores in
+preliterate cultures concerned such
+skills as warfare and food-gathering
+because these skills were
+characteristic of an individual's
+self-fulfillment
+examples of a culture's traditions
+manifestations of an individual's
+ideals
+demonstrations of an individual's
+contributions to the community
+examples of a community's governing
+principles
+
+答案：(D)
+许多哲学家在道德一词的定义上意见大相径庭，但大部分论争者都可以划归两大类型中的其中一类：个人中心论者以及社会中心论者。个人中心论者将道德定义为对个人满足实现的追求，而社会中心论者则将道德定义成个人对于社会的义务。真理究竟存在于何方？值得庆幸的是，道德（Morality）一词的词根可提供某些线索。Mores（习俗、民德、道德观念）一词最初指的是有文字记载之前的文化的习俗。“风俗习惯”，体现了每一文化制约每个公民的理想准则，它是在这种信仰中发展而来的，即一个社会的基础在于个人能力的培养，并将这些个人能力置于对社会的服务之中。这些习俗涉及到诸如觅食和参战诸般技能，以及个人与他人之间的关系。因此，我承认，“道德”必然涉及到整个社会所履行和遵循的一切。但是，自我实现对于道德也是重要的，因为无所成就的公民，不管多么地具有美德，也无法履行道德所赋予他们的义务。
+
+It can be inferred from the passage that
+the author would be most likely to
+agree with which of the following
+statements regarding sociocentrics and
+egocentrics?
+The position of the sociocenirics
+is stronger than that of the egocentrics.
+The positions of the egocentrics and
+sociocentrics are of equal merit.
+There is no merit in the position of
+the egocentrics.
+Neither position contributes very much
+to an understanding of the definition
+of morality.
+The dispute between the egocentrics
+and sociocentrics is bused on trivial
+issues.
+
+答案：(A)
+许多哲学家在道德一词的定义上意见大相径庭，但大部分论争者都可以划归两大类型中的其中一类：个人中心论者以及社会中心论者。个人中心论者将道德定义为对个人满足实现的追求，而社会中心论者则将道德定义成个人对于社会的义务。真理究竟存在于何方？值得庆幸的是，道德（Morality）一词的词根可提供某些线索。Mores（习俗、民德、道德观念）一词最初指的是有文字记载之前的文化的习俗。“风俗习惯”，体现了每一文化制约每个公民的理想准则，它是在这种信仰中发展而来的，即一个社会的基础在于个人能力的培养，并将这些个人能力置于对社会的服务之中。这些习俗涉及到诸如觅食和参战诸般技能，以及个人与他人之间的关系。因此，我承认，“道德”必然涉及到整个社会所履行和遵循的一切。但是，自我实现对于道德也是重要的，因为无所成就的公民，不管多么地具有美德，也无法履行道德所赋予他们的义务。
+
+With which of the following statements
+regarding the relationship between the
+individual and morality would the
+author be most likely to agree?
+Failure in social obligations is the
+price of success in individual endeavors.
+The unfulfilled citizen cannot fulfill
+his moral obligations to the community.
+Morality is unconcerned with conflicts
+among citizens.
+The unfulfilled citizen's is without
+virtue.
+Wealth harms a citizen's moral standing
+in the community.
+
+答案：(B)
+许多哲学家在道德一词的定义上意见大相径庭，但大部分论争者都可以划归两大类型中的其中一类：个人中心论者以及社会中心论者。个人中心论者将道德定义为对个人满足实现的追求，而社会中心论者则将道德定义成个人对于社会的义务。真理究竟存在于何方？值得庆幸的是，道德（Morality）一词的词根可提供某些线索。Mores（习俗、民德、道德观念）一词最初指的是有文字记载之前的文化的习俗。“风俗习惯”，体现了每一文化制约每个公民的理想准则，它是在这种信仰中发展而来的，即一个社会的基础在于个人能力的培养，并将这些个人能力置于对社会的服务之中。这些习俗涉及到诸如觅食和参战诸般技能，以及个人与他人之间的关系。因此，我承认，“道德”必然涉及到整个社会所履行和遵循的一切。但是，自我实现对于道德也是重要的，因为无所成就的公民，不管多么地具有美德，也无法履行道德所赋予他们的义务。
+
+
+　　(This passage was written in 1975)
+　　　The complications frequently
+　　accompanying diabetes, such as
+　　impairment of vision and of kidney
+(5) function,are now thought to result
+　　from the lack of continuous control
+　　of blood glucose concentrations. The
+　　healthy pancreas, in response to
+　　increases in blood glucose concent-
+(10) ration, releases small quantities of
+　　insulin throughout the day and thereby
+　　maintains the concentration within
+　　physiological limits (normoglycemia).
+　　But the diabetic generally receives
+(15) only one large dose daily.The diabetic's
+　　blood glucose concentration can thus
+　　fluctuate greatly during the interval
+　　between doses, and it has been
+　　suggested that the complications
+(20) result from the periods of high
+　　concentrations of blood glucose
+　　(hyperglycemia). Many investigators
+　　thus believe that restoration of
+　　normoglycemia might halt the pro-
+(25) gression of such complications and
+　　perhaps even reverse them.
+　　　There are three primary techniques
+　　that have been investigated for
+　　restoration of normoglycemia. They
+(30) are:transplantation of whole,healthy
+　　pancreases;transplantation of islets
+　　of Langerhans, that portion of the
+　　pancreas that actually secretes
+　　insulin;and implantation of artificial
+(35) pancreases.There has, in fact, been a
+　　great deal of success in the develop-
+　　ment of these techniques and each seems,
+　　on the whole, promising. Nonetheless,
+　　it will undoubtedly be many years
+(40) before any one of them is accepted
+　　as a treatment for diabetes.
+　　　To many people. the obvious approach
+　　would seem to be simply to transplant
+　　pancreases from cadavers in the same
+(45) manner that kidneys and other organs
+　　are routinely transplanted. That was
+　　the rationale in 1966 when the first
+　　recorded pancreas transplant was
+　　performed. Between 1966 and 1975,
+(50) there were forty-six pancreas trans-
+　　plants in forty-five other patients
+　　in the United States and five other
+　　countries. But only one of these
+　　patients is still alive with a
+(55) functioning graft, and surgeons
+　　have found that the procedure is
+　　not as simple as they once thought.
+　　　The surviving patient has required
+　　no insulin since the operation.
+(60) Another patient survived 638 days
+　　without requiring insulin. And one
+　　patient survived a transplantation
+　　for more than a year, but died when
+　　he chose not to take the immuno-
+(65) suppressive drugs. These results,
+　　though meager, suggest that the
+　　procedure has the potential for
+　　success.
+　　　The rest of the patients, however,
+(70) either rejected the transplant or
+　　died within a short period. There
+　　does not appear to be any technical
+　　problem with the procedure. Rather,
+　　most of the patients were already so
+(75) severely debilitated by the compli-
+　　cations of diabetes that they could
+　　not withstand, the surgery and the
+　　immunosuppressive regimen required
+　　to prevent rejection. More than half
+(80) of the patients, furthermore, also
+　　required a kidney transplant. Most
+　　investigators now agree that the
+　　simultaneous transplantation of both
+　　organs is too great a shock to the
+(85) patient and greatly increases the
+　　total risk.
+
+Which of the following best states
+one of the main conclusions of the
+passage?
+Although the techniques for
+pancreas transplants appear to
+be theoretically correct,there
+are problems that must be solved
+before the operation can be used
+as a treatment for diabetes.
+Although the techniques for
+pancreas transplants are still
+being developed,the experimental
+results show that the operation
+will be a successful treatment for
+diabetes in the near future.
+Although pancreas transplants
+are reliable, many diabetics an
+reluctant to undergo the operation
+because of the side effects of
+immunosuppressive drugs.
+Although pancreas transplants
+alone are not generally successful
+the operation can be used in con-
+junction with other procedures to
+treat diabetes.
+Although pancreas transplants
+have not been successful in treating
+diabetes. research indicates that
+other procedures may soon be developed.
+
+答案：(A)
+　　一些经常与糖尿病相伴随的并发症，如视力和肾功能的损害，现在被认为起源于缺乏对血液葡萄糖浓度持续不断的控制。健康的胰腺，针对血液葡萄糖浓度的增加，会在整个白天释放出少量的胰岛素，从而将葡萄糖浓度维持在生理限度内（血糖量正常）。但是，糖尿病患者一般每天仅能获得一次大剂量注射。因此，糖尿病患者的血糖量会在两次针剂注射期间发生严重波动变化，科学家指出，并发症就源于这些血糖高含量期（备糖量过多）。因此，许多研究者相信，恢复血糖量正常状态或许能遏制住这些并发病的发展，甚至或许能逆转这类并发症。 　
+　　科学家已对三种主要技术手段进行了研究，以恢复血糖量正常状态。它们是：完整、健康的胰泉的移植；胰岛（即胰腺中实际分泌胰岛素的那一部分）的移植；以及人造胰腺的植入。事实上，这三种技术的发展都极为成功，整体而言，每一种技术都前景可观。然而，毫无疑问，只有在若干年之后，三种技术中的任何一种技术才会被人们作为糖尿病的一种治疗手段接受。
+　
+　对许多人来说，明摆着方法将似乎就是，依照肾和其它器官通常进行移植的相同方法，利用尸体的胰腺进行移植。这就是1966年在进行第一例有记载的胰腺移植手术时的全部原理。在1966年和1975年期间，在美国和在其它五个国家。有45名其他病人接受了46例胰腺移植手术。但时至今日，所有这些病人中只有一名尚在人世，其移植物仍功能健全。手术大夫们意识到，手术程序并不象他们曾经想象的那么简单。
+　
+　　幸存的那位病人自手术之后不再需要任何胰岛素。另一位病人在不需要胰岛素的情况下存活了638天。还有一位病人器官移植之后存活了一年，但当他决定不再服用疫免抑制药物时便一命鸣乎。这些结果虽然为数不充分发，但仍表明手术程序对于成功起着潜在决定作用。
+　
+　　　但是，其余的病人或对移植物发生了排异作用，或在很短的一段时期后死去。在手术程序上似乎根本不存在任何技术问题。实际上，大多数病人早就如此严重地被糖尿病并发症弄得身心衰竭，以致于他们无法经受住手术以及为防止排异作用所必需的免疫抑制疗程。而且，一半以上的病人还需要肾移植。现在，绝大多数研究者一致认为，同时进行两个器官的移植对于病人来说震扰太大，使整体风险骤然增加。
+
+According to the passage, widely
+spaced doses of insulin can cause.
+reversal of normal kidney function
+delay in the onset of diabetes
+radical changes in the concent-
+ration of blood glucose
+restoration of normoglyccmia
+marked variations in the islets
+of Langerhans
+
+答案：(C)
+　　一些经常与糖尿病相伴随的并发症，如视力和肾功能的损害，现在被认为起源于缺乏对血液葡萄糖浓度持续不断的控制。健康的胰腺，针对血液葡萄糖浓度的增加，会在整个白天释放出少量的胰岛素，从而将葡萄糖浓度维持在生理限度内（血糖量正常）。但是，糖尿病患者一般每天仅能获得一次大剂量注射。因此，糖尿病患者的血糖量会在两次针剂注射期间发生严重波动变化，科学家指出，并发症就源于这些血糖高含量期（备糖量过多）。因此，许多研究者相信，恢复血糖量正常状态或许能遏制住这些并发病的发展，甚至或许能逆转这类并发症。
+　
+　　科学家已对三种主要技术手段进行了研究，以恢复血糖量正常状态。它们是：完整、健康的胰泉的移植；胰岛（即胰腺中实际分泌胰岛素的那一部分）的移植；以及人造胰腺的植入。事实上，这三种技术的发展都极为成功，整体而言，每一种技术都前景可观。然而，毫无疑问，只有在若干年之后，三种技术中的任何一种技术才会被人们作为糖尿病的一种治疗手段接受。
+　
+　对许多人来说，明摆着方法将似乎就是，依照肾和其它器官通常进行移植的相同方法，利用尸体的胰腺进行移植。这就是1966年在进行第一例有记载的胰腺移植手术时的全部原理。在1966年和1975年期间，在美国和在其它五个国家。有45名其他病人接受了46例胰腺移植手术。但时至今日，所有这些病人中只有一名尚在人世，其移植物仍功能健全。手术大夫们意识到，手术程序并不象他们曾经想象的那么简单。
+　
+　　幸存的那位病人自手术之后不再需要任何胰岛素。另一位病人在不需要胰岛素的情况下存活了638天。还有一位病人器官移植之后存活了一年，但当他决定不再服用疫免抑制药物时便一命鸣乎。这些结果虽然为数不充分发，但仍表明手术程序对于成功起着潜在决定作用。
+　
+　　　但是，其余的病人或对移植物发生了排异作用，或在很短的一段时期后死去。在手术程序上似乎根本不存在任何技术问题。实际上，大多数病人早就如此严重地被糖尿病并发症弄得身心衰竭，以致于他们无法经受住手术以及为防止排异作用所必需的免疫抑制疗程。而且，一半以上的病人还需要肾移植。现在，绝大多数研究者一致认为，同时进行两个器官的移植对于病人来说震扰太大，使整体风险骤然增加。
+
+According to the passage,a periodic
+high concentration of blood glucose
+in diabetics is a possible cause of
+deterioration of the pancreas
+damage to the eyes and kidneys
+rejection of transplanted organs
+inadequate secretion of insulin
+increased production of blood cells
+
+答案：(B)
+　　一些经常与糖尿病相伴随的并发症，如视力和肾功能的损害，现在被认为起源于缺乏对血液葡萄糖浓度持续不断的控制。健康的胰腺，针对血液葡萄糖浓度的增加，会在整个白天释放出少量的胰岛素，从而将葡萄糖浓度维持在生理限度内（血糖量正常）。但是，糖尿病患者一般每天仅能获得一次大剂量注射。因此，糖尿病患者的血糖量会在两次针剂注射期间发生严重波动变化，科学家指出，并发症就源于这些血糖高含量期（备糖量过多）。因此，许多研究者相信，恢复血糖量正常状态或许能遏制住这些并发病的发展，甚至或许能逆转这类并发症。 　
+　　科学家已对三种主要技术手段进行了研究，以恢复血糖量正常状态。它们是： 完整、健康的胰泉的移植；胰岛（即胰腺中实际分泌胰岛素的那一部分）的移植；以及人造胰腺的植入。事实上，这三种技术的发展都极为成功，整体而言，每一种技术都前景可观。然而，毫无疑问，只有在若干年之后，三种技术中的任何一种技术才会被人们作为糖尿病的一种治疗手段接受。
+　
+　对许多人来说，明摆着方法将似乎就是，依照肾和其它器官通常进行移植的相同方法，利用尸体的胰腺进行移植。这就是1966年在进行第一例有记载的胰腺移植手术时的全部原理。在1966年和1975年期间，在美国和在其它五个国家。有45名其他病人接受了46例胰腺移植手术。但时至今日，所有这些病人中只有一名尚在人世，其移植物仍功能健全。手术大夫们意识到，手术程序并不象他们曾经想象的那么简单。
+　
+　　幸存的那位病人自手术之后不再需要任何胰岛素。另一位病人在不需要胰岛素的情况下存活了638天。还有一位病人器官移植之后存活了一年，但当他决定不再服用疫免抑制药物时便一命鸣乎。这些结果虽然为数不充分发，但仍表明手术程序对于成功起着潜在决定作用。
+　
+　　　但是，其余的病人或对移植物发生了排异作用，或在很短的一段时期后死去。在手术程序上似乎根本不存在任何技术问题。实际上，大多数病人早就如此严重地被糖尿病并发症弄得身心衰竭，以致于他们无法经受住手术以及为防止排异作用所必需的免疫抑制疗程。而且，一半以上的病人还需要肾移植。现在，绝大多数研究者一致认为，同时进行两个器官的移植对于病人来说震扰太大，使整体风险骤然增加。
+
+It can be inferred from the passage
+that one of the important contributing
+causes of the failure of most pancreas
+transplants has been the
+reluctance of patients to cooperate
+with physicians
+imperfect techniques used in the
+operations
+scarcity of immunosuppressive drugs
+unavailability or healthy pancreases
+weakened condition of the patients
+
+答案：(E)
+
+　　一些经常与糖尿病相伴随的并发症，如视力和肾功能的损害，现在被认为起源于缺乏对血液葡萄糖浓度持续不断的控制。健康的胰腺，针对血液葡萄糖浓度的增加，会在整个白天释放出少量的胰岛素，从而将葡萄糖浓度维持在生理限度内（血糖量正常）。但是，糖尿病患者一般每天仅能获得一次大剂量注射。因此，糖尿病患者的血糖量会在两次针剂注射期间发生严重波动变化，科学家指出，并发症就源于这些血糖高含量期（备糖量过多）。因此，许多研究者相信，恢复血糖量正常状态或许能遏制住这些并发病的发展，甚至或许能逆转这类并发症。
+　
+　　科学家已对三种主要技术手段进行了研究，以恢复血糖量正常状态。它们是：完整、健康的胰泉的移植；胰岛（即胰腺中实际分泌胰岛素的那一部分）的移植；以及人造胰腺的植入。事实上，这三种技术的发展都极为成功，整体而言，每一种技术都前景可观。然而，毫无疑问，只有在若干年之后，三种技术中的任何一种技术才会被人们作为糖尿病的一种治疗手段接受。
+　
+　对许多人来说，明摆着方法将似乎就是，依照肾和其它器官通常进行移植的相同方法，利用尸体的胰腺进行移植。这就是1966年在进行第一例有记载的胰腺移植手术时的全部原理。在1966年和1975年期间，在美国和在其它五个国家。有45名其他病人接受了46例胰腺移植手术。但时至今日，所有这些病人中只有一名尚在人世，其移植物仍功能健全。手术大夫们意识到，手术程序并不象他们曾经想象的那么简单。
+　
+　　幸存的那位病人自手术之后不再需要任何胰岛素。另一位病人在不需要胰岛素的情况下存活了638天。还有一位病人器官移植之后存活了一年，但当他决定不再服用疫免抑制药物时便一命鸣乎。这些结果虽然为数不充分发，但仍表明手术程序对于成功起着潜在决定作用。
+　
+　　　但是，其余的病人或对移植物发生了排异作用，或在很短的一段时期后死去。在手术程序上似乎根本不存在任何技术问题。实际上，大多数病人早就如此严重地被糖尿病并发症弄得身心衰竭，以致于他们无法经受住手术以及为防止排异作用所必需的免疫抑制疗程。而且，一半以上的病人还需要肾移植。现在，绝大多数研究者一致认为，同时进行两个器官的移植对于病人来说震扰太大，使整体风险骤然增加。
+
+The author provides information that
+would answer which of the following
+questions?
+　I. What is hyperglycemia?
+　II. What is one cause of hyperglycemia?
+　III. What are some of the organs that
+　　can be adversely affected by
+　　hyperglycemia?
+I only
+II only
+I and III only
+II and III only
+I, II, and III
+
+答案：(E)
+　　一些经常与糖尿病相伴随的并发症，如视力和肾功能的损害，现在被认为起源于缺乏对血液葡萄糖浓度持续不断的控制。健康的胰腺，针对血液葡萄糖浓度的增加，会在整个白天释放出少量的胰岛素，从而将葡萄糖浓度维持在生理限度内（血糖量正常）。但是，糖尿病患者一般每天仅能获得一次大剂量注射。因此，糖尿病患者的血糖量会在两次针剂注射期间发生严重波动变化，科学家指出，并发症就源于这些血糖高含量期（备糖量过多）。因此，许多研究者相信，恢复血糖量正常状态或许能遏制住这些并发病的发展，甚至或许能逆转这类并发症。
+　
+　　科学家已对三种主要技术手段进行了研究，以恢复血糖量正常状态。它们是：完整、健康的胰泉的移植；胰岛（即胰腺中实际分泌胰岛素的那一部分）的移植；以及人造胰腺的植入。事实上，这三种技术的发展都极为成功，整体而言，每一种技术都前景可观。然而，毫无疑问，只有在若干年之后，三种技术中的任何一种技术才会被人们作为糖尿病的一种治疗手段接受。
+　
+　对许多人来说，明摆着方法将似乎就是，依照肾和其它器官通常进行移植的相同方法，利用尸体的胰腺进行移植。这就是1966年在进行第一例有记载的胰腺移植手术时的全部原理。在1966年和1975年期间，在美国和在其它五个国家。有45名其他病人接受了46例胰腺移植手术。但时至今日，所有这些病人中只有一名尚在人世，其移植物仍功能健全。手术大夫们意识到，手术程序并不象他们曾经想象的那么简单。
+　
+　　幸存的那位病人自手术之后不再需要任何胰岛素。另一位病人在不需要胰岛素的情况下存活了638天。还有一位病人器官移植之后存活了一年，但当他决定不再服用疫免抑制药物时便一命鸣乎。这些结果虽然为数不充分发，但仍表明手术程序对于成功起着潜在决定作用。
+　
+　　　但是，其余的病人或对移植物发生了排异作用，或在很短的一段时期后死去。在手术程序上似乎根本不存在任何技术问题。实际上，大多数病人早就如此严重地被糖尿病并发症弄得身心衰竭，以致于他们无法经受住手术以及为防止排异作用所必需的免疫抑制疗程。而且，一半以上的病人还需要肾移植。现在，绝大多数研究者一致认为，同时进行两个器官的移植对于病人来说震扰太大，使整体风险骤然增加。
+
+On the basis of the information in the
+passage. which of the following can
+be inferred about the isiels of
+Langerhans?
+　I. They are important for the normal
+control of blood glucose concentration.
+　II. They can be transplanted
+independently of other pancreatic cells.
+　III. They regulate immunosuppressive
+reactions.
+I only
+III only
+I and II only
+I and III only
+I, II, and III
+
+答案：(C)
+　　一些经常与糖尿病相伴随的并发症，如视力和肾功能的损害，现在被认为起源于缺乏对血液葡萄糖浓度持续不断的控制。健康的胰腺，针对血液葡萄糖浓度的增加，会在整个白天释放出少量的胰岛素，从而将葡萄糖浓度维持在生理限度内（血糖量正常）。但是，糖尿病患者一般每天仅能获得一次大剂量注射。因此，糖尿病患者的血糖量会在两次针剂注射期间发生严重波动变化，科学家指出，并发症就源于这些血糖高含量期（备糖量过多）。因此，许多研究者相信，恢复血糖量正常状态或许能遏制住这些并发病的发展，甚至或许能逆转这类并发症。 　
+　　科学家已对三种主要技术手段进行了研究，以恢复血糖量正常状态。它们是：完整、健康的胰泉的移植；胰岛（即胰腺中实际分泌胰岛素的那一部分）的移植；以及人造胰腺的植入。事实上，这三种技术的发展都极为成功，整体而言，每一种技术都前景可观。然而，毫无疑问，只有在若干年之后，三种技术中的任何一种技术才会被人们作为糖尿病的一种治疗手段接受。
+　
+　对许多人来说，明摆着方法将似乎就是，依照肾和其它器官通常进行移植的相同方法，利用尸体的胰腺进行移植。这就是1966年在进行第一例有记载的胰腺移植手术时的全部原理。在1966年和1975年期间，在美国和在其它五个国家。有45名其他病人接受了46例胰腺移植手术。但时至今日，所有这些病人中只有一名尚在人世，其移植物仍功能健全。手术大夫们意识到，手术程序并不象他们曾经想象的那么简单。
+　
+　　幸存的那位病人自手术之后不再需要任何胰岛素。另一位病人在不需要胰岛素的情况下存活了638天。还有一位病人器官移植之后存活了一年，但当他决定不再服用疫免抑制药物时便一命鸣乎。这些结果虽然为数不充分发，但仍表明手术程序对于成功起着潜在决定作用。
+　
+　　　但是，其余的病人或对移植物发生了排异作用，或在很短的一段时期后死去。在手术程序上似乎根本不存在任何技术问题。实际上，大多数病人早就如此严重地被糖尿病并发症弄得身心衰竭，以致于他们无法经受住手术以及为防止排异作用所必需的免疫抑制疗程。而且，一半以上的病人还需要肾移植。现在，绝大多数研究者一致认为，同时进行两个器官的移植对于病人来说震扰太大，使整体风险骤然增加。
+
+The passage suggests that the author
+considers the data concerning the
+success of pancreas transplants to be
+invalid
+indirect
+inaccurate
+insufficient
+inappropriate
+
+答案：(D)
+　　一些经常与糖尿病相伴随的并发症，如视力和肾功能的损害，现在被认为起源于缺乏对血液葡萄糖浓度持续不断的控制。健康的胰腺，针对血液葡萄糖浓度的增加，会在整个白天释放出少量的胰岛素，从而将葡萄糖浓度维持在生理限度内（血糖量正常）。但是，糖尿病患者一般每天仅能获得一次大剂量注射。因此，糖尿病患者的血糖量会在两次针剂注射期间发生严重波动变化，科学家指出，并发症就源于这些血糖高含量期（备糖量过多）。因此，许多研究者相信，恢复血糖量正常状态或许能遏制住这些并发病的发展，甚至或许能逆转这类并发症。
+　
+　　科学家已对三种主要技术手段进行了研究，以恢复血糖量正常状态。它们是：完整、健康的胰泉的移植；胰岛（即胰腺中实际分泌胰岛素的那一部分）的移植；以及人造胰腺的植入。事实上，这三种技术的发展都极为成功，整体而言，每一种技术都前景可观。然而，毫无疑问，只有在若干年之后，三种技术中的任何一种技术才会被人们作为糖尿病的一种治疗手段接受。
+　
+　对许多人来说，明摆着方法将似乎就是，依照肾和其它器官通常进行移植的相同方法，利用尸体的胰腺进行移植。这就是1966年在进行第一例有记载的胰腺移植手术时的全部原理。在1966年和1975年期间，在美国和在其它五个国家。有45名其他病人接受了46例胰腺移植手术。但时至今日，所有这些病人中只有一名尚在人世，其移植物仍功能健全。手术大夫们意识到，手术程序并不象他们曾经想象的那么简单。
+　
+　　幸存的那位病人自手术之后不再需要任何胰岛素。另一位病人在不需要胰岛素的情况下存活了638天。还有一位病人器官移植之后存活了一年，但当他决定不再服用疫免抑制药物时便一命鸣乎。这些结果虽然为数不充分发，但仍表明手术程序对于成功起着潜在决定作用。
+　
+　　　但是，其余的病人或对移植物发生了排异作用，或在很短的一段时期后死去。在手术程序上似乎根本不存在任何技术问题。实际上，大多数病人早就如此严重地被糖尿病并发症弄得身心衰竭，以致于他们无法经受住手术以及为防止排异作用所必需的免疫抑制疗程。而且，一半以上的病人还需要肾移植。现在，绝大多数研究者一致认为，同时进行两个器官的移植对于病人来说震扰太大，使整体风险骤然增加。
+
+MICROSCOPIC:
+
+predominant
+salient
+dilated
+elephantine
+universal
+
+答案：(D)
+
+微观的，极微的adj.
+　
+A.主要的
+B. 卓越的，显著的
+C. 扩大的，放大的
+D. 巨大的，笨重的
+E. 普遍的
+
+LURCH:
+
+divide equally
+relate dishonestly
+formulate hypothetically
+progress smoothly
+accomplish handily
+
+答案：(D)
+
+东倒西歪(侧倾)v.
+　
+A.平均划分
+B. 不诚实的联系
+C. 假设的陈述
+D. 平滑的前进
+E. 灵巧的完成
+
+CURTAIL:
+
+coax
+include
+prolong
+elevate
+externalize
+
+答案：(C)
+
+缩短，省略v.
+　
+A.哄骗
+B. 包括
+C. 延长，加长
+D. 抬升
+E. 使具体化，使形象化
+
+SEPTIC:
+
+stable
+glistening
+of unknown cause
+uniform in composition
+free of infection
+
+答案：(E)
+
+腐败性的adj.
+　
+A.稳定的(马厩n.)
+B. 闪烁的
+C. 起因不明的
+D. 组合上一致的
+E. 不受感染的
+
+LIABILITY:
+
+sanction
+profusion
+enormity
+criminality
+immunity
+
+答案：(E)
+
+易于…的倾向(债务)n.
+　
+A.批准，认可
+B. 大量，浪费
+C. 极恶，大罪(巨大)
+D. 罪行
+E. 不受影响(免疫)
+
+RESILIENCE.
+
+stillness
+emptiness
+uncertainty
+inelasticity
+ineffectiveness
+
+答案：(D)
+
+弹性n.
+　
+A.静止
+B. 空，空洞
+C. 不确定
+D. 无弹性
+E. 无效
+
+FEIGNED:
+
+cheerful
+free
+genuine
+amused
+relaxed
+
+答案：(C)
+
+假装的，伪造的adj
+　
+A.高兴的
+B. 自由的
+C. 真的
+D. 愉悦的
+E. 放松的
+
+FALLACY:
+
+valid reasoning
+supporting testimony
+plausible hypothesis
+unqualified assertion
+intricate argumentation
+
+答案：(A)
+
+谬误n.
+　
+A.正确的推理
+B. 支持性的证言
+C. 可信的假说
+D. 不合格的断言
+E. 复杂的论证
+
+
+DEFT:
+
+crumbling
+awkward
+close
+sane
+quiet
+
+答案：(B)
+
+灵巧的adj
+　
+A.崩溃的
+B. 笨拙的
+C. 关闭的
+D. 理智的
+E. 安静的
+
+RANKLE:
+
+entice
+condone
+pacify
+recruit
+extend
+
+答案：(C)
+
+激怒，使怨恨vt.
+　
+A.引诱
+B. 原谅
+C. 平息，使平静
+D. 招募
+E. 延伸，扩展
+
+COUNTENANCE:
+
+remove from office
+apprise of developments
+proceed with caution
+regard with disfavor
+charge with negligence
+
+答案：(D)
+
+支持，鼓励(相貌，气色)
+　
+A.失去官职
+B. 告知发展
+C. 小心前进
+D. 不赞成的着待
+E. 有疏忽大意的嫌疑
+
+
+A wildlife artist is exhibiting exactly seven sketches along one wall in a
+gallery. The artist has one sketch of each of the following birds:
+goldfinch, junco, kingfisher, meadowlark, oriole, pheasant, and redstart.
+The sketches are to be hung one to a hook are numbered consecutively 1
+through 7 from left to right. The artist must hang the sketches according
+to the following conditions:
+　
+　The meadowlark must be immediately adjacent to the redstart.
+　The goldfinch must be on a lower-numbered hook than the junco.
+　The oriole must be on a lower-numbered hook than the kingfisher.
+　The pheasant must be on hook 1 or else on hook 7.
+Which of the following is an acceptable ordering of the sketches to be
+hung on hooks 1 through 7, respectively?
+Goldfinch, junco, oriole, kingfisher, pheasant, meadowlark. redstart
+Pheasant. kingfisher, goldfinch, meadowlark, redstart. oriole. junco
+Pheasant, oriole, redstart, goldfinch, junco, meadowlark, kingfisher
+Pheasant, redstart, meadowlark, oriole, goldfinch, junco, kingfisher
+Meadowlark, redstart, oriole. junco, kingfisher, goldfinch, pheasant
+
+答案：(D)
+
+If the junco is on hook 2, which of the following must be true?
+The kingfisher is on a lower-numbered hook than the pheasant.
+The meadowlark is on a lower-numbered hook than the redstart..
+The oriole is on a lower-numbered hook than the meadowlark.
+The pheasant is on a lower-numbered hook than the goldfinch.
+The redstart is on a lower-numbered hook than the kingfisher.
+
+答案：(A)
+
+If the junco is on hook 4 and tile redstart is on hook 7, which of the following
+are two sketches that must be immediately adjacent to each others
+The goldfinch and the kingfisher
+The junco and the oriole
+The kingfisher and the meadowlark
+The oriole and the pheasant
+The pheasant and tile redstart
+
+答案：(C)
+
+If the kingfisher is immediately adjacent to both the pheasant
+and the redstart, which of the following must be true?
+The goldfinch is on hook 1.
+The junco is on hook 3.
+The kingfisher is on hook 2.
+The meadowlark is on hook 4.
+The oriole is on hook 4.
+
+答案：(D)
+
+If the junco is on the lower-numbered hook immediately adjacent
+to the meadowlark, which of the following are two sketches that
+CANNOT be immediately adjacent to each other?
+The goldfinch and the pheasant
+The goldfinch and the redstart
+The junco and the kingfisher
+The kingfisher and the redstart
+The pheasant and the redstart
+
+答案：(B)
+
+If the kingfisher is on hook 2 and the goldfinch is on
+hook 3, the seven sketches can be hung, in any one of
+exactly how many possible orderings?
+One
+Two
+Three
+Four
+Five
+
+答案：(D)

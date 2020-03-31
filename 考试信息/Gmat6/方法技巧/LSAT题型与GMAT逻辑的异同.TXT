@@ -1,0 +1,69 @@
+LSAT题型与GMAT逻辑的异同
+
+    LSAT逻辑题型及典型问法：
+　　△加强题
+　　Which one of the following statements, if added as a premise to the argument, would make the conclusion valid / strengthen the argument?
+　　Which one of the following, if true, would make the conclusion in the passage a logical conclusion?
+　　Which one of the following is an additional piece of information that would support the conclusion?
+　　△削弱题
+　　Which one of the following statements, if true, most clearly undermines / seriously weaken the conclusion / argument?
+　　Which one of the following assertions, if true, provides the most effective challenge to the author’s conclusion?
+　　△假设题
+　　Which one of the following is an assumption on which the author’s argument relies?
+　　Which one of the following most accurately states a hidden assumption that the author must make insgroupsto advance the argument above?
+　　Which one of the following is a presupposition essential to the reasoning in the passage above?
+　　△评价题
+　　Which one of the following is the most accurate evaluation of the author’s reply?
+　　Which one of the following principles, if valid, justifies the author’s argument?
+　　Which one of the following would it be most helpful to know insgroupsto evaluate the argument?
+　　△解释题
+　　The author concludes that ... partly because...
+　　Which one of the following, if true, argues most strongly against the explanation reported in the passage?
+　　Which one of the following, if true, most helps to explain why ...?
+　　Which one of the following principles, if established, would justify the judgments about A’s & B’s actions?)
+　　△矛盾解决题(也可归类到解释题里)
+　　Which one of the following, if true, most helps to resolve the apparent discrepancy between the two?
+　　Which one of the following, if true, most helps explain the difference in...?
+　　Which one of the following, if true, most helps to reconcile the author’s decision with the goal stated in the passage?
+　　△结论(归纳)题
+　　It can be concluded from the statements above that...
+　　Which one of the following statements most accurately expresses the author’s main point?
+　　Which one of the following statements CANNOT be true?
+　　Which one of the following inferences can be most reliably drawn from the passage above?
+　　The passage as a whole is structured to lead to which one of the following conclusions?
+　　Which one of the following is the best statement of the primary point of the passage?
+　　Each of the following can be inferred from his argument EXCEPT...
+　　Which one of the following claims is central to the author’s argument?
+　　If the statements above are true, then which one of the following must also be true?
+　　△句子完成(划线填空)题
+　　Which one of the following is the best completion of the argument above?
+　　Based on the passage above, which phrase does NOT provide a logical completion to the following sentence?
+　　△信息支持(反向加强)题
+　　Which one of the following is most strongly supported by the information above?
+　　The statement above, if true, most strongly support which one of the following claim?
+　　△推理缺陷题
+　　What is the flaw in the reasoning above?
+　　The author’s argument is logically flawed in that it...
+　　The source of the man’s erroneous reasoning is his...
+　　The reasoning in the argument is most vulnerable to the criticism that it...
+　　△逻辑相似性题
+　　Which one of the following is most similar in logic to the argument above?
+　　Which one of the following exhibits the same logical flaw as that exhibited above?
+　　Which one of the following could be best supported by the same type of reasoning as that exhibited in the passage?
+　　Which one of the following contains the error of reasoning described by the author in the passage?
+　　Which one of the following most closely parallels the flawed pattern of reasoning in the author’s reply?
+　　△逻辑相悖题
+　　In which one of the following situations is the principle expressed most clearly violated?
+　　△两人争论内容题
+　　The source of A & B’s dispute is their lack of agreement on which one of the following terms? Which one of the following is the point at issue between A & B?
+　　△逻辑策略方法题
+　　Which one of the following is the best line of causal analysis for A to do?
+　　The author establishes his position in the passage by doing which one of the following?
+　　The author of the passage argues by...;The argument seeks to do which one of the following?
+　　A most seriously weakens B’s argument by doing which one of the following?Which one of the following techniques of argument does the author use in the passage?
+　　A’s statement most closely conforms to which one of the following principles?
+　　The relationship if A’s response to B’s argument is that A’s response...A responds to B’s argument by...How is A’s response related to B’s argument?
+　　注：有些问法可以归为不止一类；一些较冷僻的问法没有列在括号里，但应该不会影响判断。
+　　从以上题型可以看出，LSAT前几种题型和GMAT是完全一样的，这类题要么难度和GMAT不相上下，要么在阅读难度和逻辑绕圈子上难一些，是较之GMAT更上一层楼的题。
+　　后几种涉及到逻辑推理的具体方法，GMAT中没涉及到，但其实后几种才是LSAT的精华，才是真正提高逻辑水平的训练，才是LSAT借以CRACK GMAT的法宝，所以是不能略去不做的。
+　　GMAT逻辑有“句子作用题”，LSAT中没涉及到，但基本上靠新东方给的方法就能搞定，有阅读能力作后盾这种题更是小菜。通过练习逻辑策略方法题，做句子作用题的能力可以得到很大的提高。

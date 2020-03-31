@@ -1,0 +1,225 @@
+读题：一个随机选择的小组看到一个人在对一大群专心听讲的听众作环境论理方面的演讲另一个随机选择的小组看到同样是这个人带着同样的神态在做同样的演讲，不过这　次的听众少一些，注意力不太集中。第一组评价讲演者有思想且自信；第二组评价演讲者会晤晦涩，且拖拉冗长。 
+分析：上面两组唯一的不同是听众的多少，得到了不同的评价 
+A.同样的社会行为在不同的社会情况下，不同的人会有不同的看法。
+（上面的信息可以支持A） 
+B.若第二小组看到演讲者面对的听众注意力集中一些，他们对演讲者的个性评价很可能就不同了。 
+C.人们对于演讲者的个性评价是基于他讲的内容及其讲演时的神态，气度。 
+（上文直接反对了C） 
+E.随机选出的小组有时候可对讲演者在某一特定的社会情况下的个人条件，达成共识。 
+Prolonged and unseasonable frosts produce frost rings in deciduous trees, which grow in moderate climates.Frost rings do not appear in any of the fossilized deciduous trees that have been found in ntarctica.Hence, it is unlikely that such frosts occurred in Antarctica at the time the fossilized trees lived.
+Which of the following is an assumption on which the argument depends? 
+There are fossilized nondeciduous trees from Antarctica that bear frost rings.
+Deciduous trees are more likely to bear frost rings than are other tree varieties.
+The process of fossilization does not completely obscure frost rings in deciduous trees.
+Present-day deciduous trees are more sensitive to changes in temperature than were the deciduous trees of ancient Antarctica.
+Prolonged and unseasonable frosts that might have occurred in Antarctica when the nowfossilized trees were still living did not always produce frost rings in deciduous trees.
+答案：(C) 
+问题：下面哪一个是上面的论述所基于的假设？ 
+读题：持续的并且不合季节的霜冻会在落叶树上产生霜环，落叶树一般都生长在温和的气候。在南极洲发现的落叶树化石上都没有霜环,因此，在当时有落叶树生长的时候,南极洲有这种霜冻的可能性不大 
+分析；论据说了一大堆，其实就是一个事实：南极洲发现的落叶树化石上都没有霜环于是得到结论：南极洲没有霜冻 
+Assumption往往说： 
+1、没有其他的原因解释为什么南极洲发现的落叶树化石上没有霜环 
+2、霜冻和霜环之间的关系(桥梁连接) 
+先看具有否定词的选项：c 
+C.形成化石的过程中并不会完全使落叶树上的霜环消失。 
+（把not去掉，则形成化石的过程中使落叶树上的霜环完全消失，解释了为什么没有霜环） 
+A.南极洲有些落叶树化石上有霜环。 
+B.落叶树比其它树种更易于有霜环。 
+D.如今的落叶树比南极洲的落叶树对气温的变化更敏感。 
+E.当如今的化石树仍然生长在南极洲时，南极洲上可能也有持续的反季节霜冻。但当时霜冻并不总是在落叶树上产生霜环。（E可以作为反对，有霜冻，但是不产生霜环而已,把他们之间的联系切断） 
+Jan: People should not go to the new exhibition of Thornton's paintings.Thornton will be given a portion of the admission proceeds and Thornton, a violent sociopath, should not be supported.
+Kim: Your recommendation is inconsistent with your actions, because you read poems by poets who also were violent sociopaths.
+Which of the following, if true, provides the strongest basis for Jan to counter Kim's argument? 
+Thornton's portion of the exhibition's proceeds are being donated to a cause deemed worthy by Thornton.
+It is quite difficult, if not impossible, for Jan to discover the ehavioral tendencies of the artists Jan reads.
+Kim does not use products made by companies whose hiring practices Kim finds abhorrent 
+The poets derived no benefit from Jan's reading their poems.
+The poets' violent behavior is better known to the public than is Thornton's violent behavior.
+答案：(D) 
+问题：下面哪一个，if true,对Jan反对Kim的论述提供最好的论述？ 
+读题：Jan：人们不应该到去看Thorntan的画展。Thorntan被给予一部分入场收入，并且Thorntan本身是一个残暴的反社会分子，我们不应该支持他。 
+　　Kim：你言行不一，因为你读的有些诗的作者也是残暴的反社会分子。 
+分析：Jan的因果关系：结论是不该看画展， 
+　　原因两个，1、T得到钱　2、T是一个残暴的反社会分子Kim反对了J的一个原因2问题是找一个选项再让Jan对Kim进行反戈一击 
+A.Thorntan画展入场费的一部分捐给了Thorntan认为有意义的一项事业。 
+B.如果可能，Jan也很难发现Jan读到的艺术家的行为倾向。 
+C.对于那些Kim认为其雇人体系极其卑劣的公司，Kim不用他们的产品。 
+D.诗人无法从Jan读他们的诗中获得任何实际利润。 
+　　（的确，我读诗，但是诗人无法从我这里获取任何利益，加强了原因1） 
+　A mycologist will display mushrooms of six different species- 
+Panus, Quercophilus, Russula, Sarcodon, Tarzetta, and Ustulina-in four cases,cases 1 through 4.Each mushroom species is to be displayed in exactly one case,and each case must have at least one mushroom species displayed in it.The display is to be arranged in a manner consistent with the following conditions: 　 
+　The only species that can be displayed in case 1 are Panus or Quercophilus or both.
+　The only species that can be displayed in case 2 are Russula or Sarcodon or both.
+　Tarzetta cannot be displayed in the same case as Ustulina.
+Which of the following is an acceptable assignment of the mushrooms to the four cases? 
+Case 1 Case 2 Case 3 Case 4 　 
+Panus Russula, Sarcodon, Ustulina 
+Quercophilus Tarzetta 
+Panus Sarcodon Ustulina Tarzetta, 
+Quercophilus, 
+Russula 
+Panus Russula Sarcodon Tarzetta, 
+Quercophilus Ustulina 
+Panus Russula, Tarzetta, --- 
+Quercophilus Sarcodon Ustulina 
+Tarzetta Russula, Panus Quercopliilus, 　 
+Sarcodon Ustulina 
+答案：(B) 
+Which of the following must be true? 
+Panus is displayed in case 1 or else case 2.
+Quercophilus is displayed in case 1 or else case 4.
+Russula is displayed in case 2 or else case 3.
+Sarcodon is displayed in case 2 or else case 4.
+Tarzetta is displayed in case 3 or else case 4.
+答案：(E) 
+Each of the following is a group of mushrooms that 
+can be displayed together in case 3 EXCEPT 
+Pands and Tarzetta 
+Quercophilus and Tarzena 
+Panus, Russula, and Tarzetta 
+Panus, Sarcodon, and Ustulina 
+Russula, Sarcodon, and Ustulina 
+答案：(E) 
+Which of the following can be true? 
+Panus is displayed in case 3, and Quercophilus is displayed in case 4.
+Russula and Tarzetta are displayed in case 3, and Sarcodon and Ustutina are displayed in case 4.
+Russula and Tarzetta are displayed in case 3, and Panus and Ustulina are displayed in case 4.
+Panus is the only species displayed in case 3, and Sarcodon is the only species displayed in case 4.
+Tarzetia is the only species displayed in case 3, and Quercophilus is the only species displayed in case 4.
+答案：(C) 
+If three of the species are displayed together in one of the cases, which of the following must be true? 
+Exactly one species is displayed in case 1.
+Exactly one species is displayed in case 3.
+Exactly two species are displayed in case 3.
+Exactly three species are displayed in case 3.
+Exactly three species are displayed in case 4.
+答案：(A) 
+Which of the following lists all those mushroom species any one of which can be a species displayed in case 3? 
+Tarzetta 
+Ustulina 
+Tarzetta, Ustulina 
+Russula, Sarcodon, Tarzetta, Ustulina 
+Panus, Quercophilus, Russula Sarcodon, Tarzetta, 
+Ustulina 
+答案：(E) 
+A building has exactly twelve floors, numbered l, through 12, consecutively, from the lowest floor to the top.Each floor is to be occupied by one, and only one, of four companies--R, S, T.and U.The assignment of companies to floors is subject to the following, conditions: 
+　R must occupy exactly two of the floors.
+　S must occupy exactly three of the floors.
+　T must occupy exactly three consecutive floors of the building 
+　U must occupy exactly four of the floors, at least two of which must be consecutive.
+　S cannot occupy a floor immediately above or immediately below a floor occupied by T.
+If R occupies floors 1 and 2, and U occupies floors 3 and 4, U could also occupy which of the following pairs 
+of floors? 
+5 and 12 
+6 and 11 
+7 and 8 
+7 and 12 
+8 and 10 
+答案：(E) 
+读题：一座楼有12层，从1到12，每一层由R、S、T、U四个公司之一占据 
+写条件： 
+　　R:2 (表示R占据两层) 
+　　S:3 (表示S占据3层) 
+T:3Con (表示T占据连续的3层) 
+U:4, ≥2Con (表示U占据4层，并且至少2层连续) 
+～(ST) (表示S,T不能够连续) 
+条件总结：很明显，这是一道复杂排列题，条件之中往往具有一个元素占据几个连续的位置，它考察的是元素块之间的排列。 
+如果R=1、2 ,U=3、4, 那么U还可以占据下面那一对？ 
+解题步骤： 
+　　1、R=12, U=34, 则R已经排完，还剩下ST,以及两个位置给U,由～(ST)得，S,T之间必然要由U来隔开，只能用排除法 
+If the floors that each company is assigned are consecutive, and if the three floors occupied by S are somewhere below those occupied by T, hich of the following is the lowest floor that T can occupy? 
+4 
+5 
+6 
+7 
+8 
+答案：(C) 
+读题：一座楼有12层，从1到12，每一层由R、S、T、U四个公司之一占据 
+写条件： 
+　　R:2 (表示R占据两层) 
+　　S:3 (表示S占据3层) 
+T:3Con (表示T占据连续的3层) 
+U:4, ≥2Con (表示U占据4层，并且至少2层连续) 
+～(ST) (表示S,T不能够连续) 
+条件总结：很明显，这是一道复杂排列题，条件之中往往具有一个元素占据几个连续的位置，它考察的是元素块之间的排列。 
+If floors 8 through 11 are each occupied by a different company.which of the following floors could be occupied by S ? 
+10 
+9 
+7 
+6 
+5 
+答案：(A) 
+读题：一座楼有12层，从1到12，每一层由R、S、T、U四个公司之一占据 
+写条件： 
+　　R:2 (表示R占据两层) 
+　　S:3 (表示S占据3层) 
+T:3Con (表示T占据连续的3层) 
+U:4, ≥2Con (表示U占据4层，并且至少2层连续) 
+～(ST) (表示S,T不能够连续) 
+条件总结：很明显，这是一道复杂排列题，条件之中往往具有一个元素占据几个连续的位置，它考察的是元素块之间的排列。 
+If all the floors occupied by S form a group of consecutive floors and the floors occupied by U form a group of consecutive floors, each of the following assignments would also allow all the floors occupied by R to form a group of consecutive floors EXCEPT: 
+S is assigned floors 3 through 5.
+S is assigned floors 5 through 7.
+T is assigned floors 1 through 3.
+U is assigned floors 1 through 4.
+U is assigned floors 5 through 8.
+答案：(E) 
+读题：一座楼有12层，从1到12，每一层由R、S、T、U四个公司之一占据 
+写条件： 
+　　R:2 (表示R占据两层) 
+　　S:3 (表示S占据3层) 
+T:3Con (表示T占据连续的3层) 
+U:4, ≥2Con (表示U占据4层，并且至少2层连续) 
+～(ST) (表示S,T不能够连续) 
+条件总结：很明显，这是一道复杂排列题，条件之中往往具有一个元素占据几个连续的位置，它考察的是元素块之间的排列。 
+As a promotional experiment, Omega Company distributed four million catalogs.In one of the two versions of the catalog, the description of each item for sale mentioned a "Made by Hand" label.The number of purchases from consumers receiving that catalog was twenty percent greater than the number of purchases from consumers receiving a catalog that did not mention the label.
+Thus, the mention of the label stimulated sales.
+Which of the following, if true, could best be used to challenge the conclusion drawn above? 
+Consumers receiving the catalog mentioning the label had previously purchased items from Omega Company by mail but consumers receiving the other catalog had not.
+Surveys showed that consumers returned purchased items to Omega Company during the promotional campaign at the same rate regardless of which catalog they received.
+The number of purchases from Omega Company declined substantially after the promotional campaign was completed.
+Omega Company mailed three times as many catalogs that did not mention the "Made by Hand" label as catalogs that did mention the label.
+Omega Company sold twenty percent fewer items during the year of the promotional campaign than it had during the previous year.
+答案：(A) 
+问题：下面哪一个，if true,最好地用来反对上面的结论？ 
+读题：在一次促销实验中，Qmega公司发了400万份产品介绍，产品介绍分为两种，在其中一种介绍中，每种减价商品介绍中都提到"Made by Hand"标签，收到这份产品介绍的顾客要比收到另外一份没有该标签的顾客购买的东西多20%。所以，这个标签起到了促销效果。 
+分析：论据是一次促销实验，发现有标签的比没有标签的购买的多于是得到结论：标签起到了促销效果 
+Weaken常用形式为：有其他的原因来解释上面的促销结果。其实原文中是使用了一个比较，两组顾客，一组收到标签，一组没有收到标签，然后得到上面结果，必须基于一个假设：这两组顾客必须具有可比性。　 
+a.收到带有标签产品介绍的消费者以前从Qmega公司邮购过东西，而收到其他产品介绍的顾客没有买过。 
+　（老主顾和新主顾造成结果不一样，反对了标签的作用。） 
+　（其实也说明了这两组人不具有可比性） 
+b.无论收到何种产品介绍，促销活动期间顾客向Qmega公司退货的速度是相同的。 
+d.Qmega公司邮出的不带标签的产品介绍是带标签的产品介绍的3倍。 
+　（比较对象是顾客，而不是产品） 
+Each year scientists count the golden toads that gather at the species' primary breeding site.In the past ten years.the number of golden toads counted there each year has dropped from 1,500 to 200.Obviously,there has been a precipitous drop in the golden toad population over the last decade.
+Which of the following, if true, would allow the conclusion to be properly drawn? 　 
+The golden toads gathering at some of the species' secondary breeding sites were also counted during the last decade.
+Each year the golden toads counted at the species' primary breeding site constituted the same percentage of the overall golden toad population.
+The scientists who counted golden toads at the species' primary breeding site also investigated whether populations of other sorts of amphibians had declined.
+The percentage of the golden toad population that gathers at the species' primary breeding site sometimes varies significantly from year to year.
+A small proportion of golden toads that hatched from eggs laid at some of the species' secondary breeding sites later bred at the species' primary breeding site.
+答案：(B) 
+问题：下面哪一个，if true,将允许上面的结论得到？（问题其实就是上面的结论所基于的假设） 
+读题：每年科学家都要数一下聚集在主要产卵地带的金蜍的数目，在过去10年内，金蜍的数量由1500减至200只。很明显，在过去10年内金蜍的数目急剧减少。 
+分析：原文从主要产卵地带金蜍数量的减少得到结论，往往绝对数字说明不了问题，要看相对比例。 
+A.过去10年内科学家也将聚在次级产卵地带的蜍计算总数内。 
+B.每年聚在主要产卵地的金蜍占所有蜍总数的比例相同。 
+C.科学家不仅计算主要产卵地带金蜍的数目，而且还调查其它种类的两栖类的数目是否也减少了。 
+D.主要产卵地带金蜍所占总数的比例每年都会改变。 
+E.在次级产卵地一小部分toad后来在该种类的主要产卵地繁衍。 
+Government bans on the dumping of sludge anywhere in the ocean arc based on the belief that the spread of sludge by ocean currents poses a danger to people.Since it is not clear that sludge dumped on the ocean bottom,far from coasts, would endanger people, the bans should be revised to apply only to coastal waters.
+Each of the following, if true, supports the conclusion that the bans on ocean dumping should be revised EXCEPT: 
+The slow-moving water near the ocean bottom' mixes so slowly with water closer to the surface that sludge dumped on the ocean bottom would be decomposed by bacteria before currents could bring it to the surface.
+Many locations on the ocean bottom far from coasts are geologically stable, and unlikely to be disrupted by earthquakes or volcanic eruptions.
+Deep-sea marine plants and animals in the human food chain live at depths far above the ocean bottom,
+Dumping large amounts of sludge would have an unknown effect on organisms that live on the ocean bottom.
+The technology exists to lower sewage sludge to ocean-bottom dump sites without contaminating waters closer to the surface.
+答案：(D) 
+问题：下面哪一个，if true,支持"禁令应修订"的结论，EXCEPT:(表示有4个支持，一个不支持) 
+读题：政府禁止在海洋的任何地方倾倒淤泥是基于这样一个信仰：洋流中淤泥的散布会对人类构成威胁。因为远离海岸的倾倒在海底的淤泥是否会威胁人类尚不清楚，因此禁令应修订为仅适用于沿海洋面。 
+分析：支持达到效果只要不倒在海岸，别的地方均可以。 
+A.海底水流缓慢，与洋面上的水融得极慢。以至于倾倒入海底的淤泥在水流把其带入 洋面之前，已经被细菌分解了。 
+B.远离海岸的海底许多地方地理状态都很稳定，不可能被地震或火山喷发破坏。（说明它们在海底没事） 
+C.人类食物链中的深海动植物生活在远离海底的水中。（淤积在海底，但是深海动植物远离海底）　 
+D.倾倒淤泥于海中对海底的有机物有未知的影响。（unknown）（影响未知，如果没有影响则为支持，如果有影响则为反对，因此D不能够为支持） 
+E.现有技术可将淤泥送入海底而不会污染洋面。

@@ -1,0 +1,45 @@
+西门子手机秘籍
+
+西门子S2588
+ 　- IMEI *#06#
+ 　- 回复为原厂设定*#9999#
+   - 设定语言为自动选择(英文) *#0000#
+ 　- 设定语言为繁体中文 *#0086#
+
+让C2588 提供话费显示的功能
+   从[其他功能]中选[话时，话费] -> [自动显示]要开启，再选择[费率]，其中[费率/单位]设为每秒多少元，[费率/分钟]设定为每分钟多少元，[费率/货币]设定为 NTD， 如此你的C2588就有话费显示的功能罗!
+   注意:
+   这个服务无法依赖系统供应商, 因此费率只能输入一种，请选择一个常用的费率来输入(如平常时段或减价时段或网内对打)，此功能需要PIN2!
+
+西门子C2588 手机之误拨德国的修正方法 (将原设定取消):
+   1.按 "目录",按上/下键至 "电话薄",再按"选择"
+   2.按上/下键至 "Ticket hotline",再按"目录"
+   3.按上/下键至"刪除资料",再按"选择"
+   4.按红色键2次返回目录即可
+
+西门子S15开工程模式密码:
+ 　- 按*#7436367*8378#,
+ 　- 按clear键把书面清除回到原来的待机模式,
+ 　- 此时按menu则多了 menu 3.3.4 Band selection,
+ 　- menu 3.3.4.1 Automatic band selection,
+ 　- menu 3.3.4.2 select GSM 900 only,
+ 　- menu 3.3.4.3 select GSM 1800 only,
+ 　- 另外多了一大项menu 10 Engineering,
+ 　- menu 10.1 MS info,底下可选on/off,
+ 　- menu 10.2 software detail,
+ 　- menu 10.2.1 software version,
+ 　- menu 10.2.2 EEPROM version,
+ 　- menu 10.3 Test/production details
+ 　- menu 10.3.1 Hardware deta
+ 　- menu 10.3.2 production deta menu
+ 　- 10.3.3 Service deta menu
+ 　- 10.3.4 Mechanical deta
+ 　- 选menu 10.1.1 MS info on,
+ 　- 则在待机时在面板上出现:(举例) FCN RXL C1 C2 642 011+11+91 ->
+ 　- PAGE 1 CID DSC CB 11211 045 000 ->
+ 　- PAGE 2 BCC NCC TN 000 002 00 ->
+ 　- PAGE 3 RXfRXs RQf RQs 00 00 00 00 ->
+ 　- PAGE 4 ATa APa Hn Hf 001 000 05 00 ->
+ 　- PAGE 5 DTU DTD HP CI + ? - - ->
+ 　- PAGE 6 MM CC RR IdNS Nul Idl ->
+ 　- PAGE 7

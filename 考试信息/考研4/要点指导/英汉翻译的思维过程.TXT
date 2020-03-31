@@ -1,0 +1,24 @@
+英汉翻译的思维过程
+　　英汉翻译的思维过程是准确理解原文(Source language)和创造性地用目标语(Target language)再现原文内涵的过程，大体上可以概括为"四边"和"一校"，即边读、边分析、边理解、边表达，最后对照原文将译文进行校正，使译文达到与原文大致相同的程度。
+   在英译汉翻译实践中，我们总是先认真地阅读原文。阅读时结合上下文仔细分析句子中词语的含义、词的语法形式及句子结构、句与句之间、段落与段落之间的逻辑关系。在分析过程中逐步把握和理解原文的内涵，然后再用通顺的译文表达出来。最后，对照原文推敲译文，检查译文是否忠实和通顺。
+　　可见，分析理解是表达的基础，没有中肯的分析和准确的理解，就谈不上表达的确切性。但是分析、理解、表达和校正往往是互相联系、互相制约、交错进行的，是一个统一的、连续的、无法截然分割的思维过程。
+　　例1 The supply of oil can be shut off unexpectedly at any time, and in any case, the oil well will all run dry in thirty years or so at the present rate of use.
+　　［原译］：石油的供应在任何时候和任何情况下被不可预期的关闭，如果以现在的石油使用率来说的话，石油储量在30年或更长的时间内将被抽干。
+　　［改译］：石油供应可能会随时中断；不管怎样，以目前这种消费速度，只需30年，所有的油井都会枯竭。
+　　［注释］：本句是由并列连词and连接的两个独立分句，and表示增补。
+　　第一分句为The supply ... at any time,谓语中的实义动词shut off是短语动词，词义为stop flowing or operating,与主语supply of oil搭配，应译为"停止"或"切断"。unexpectedly和at any time分别作谓语的状语。由于本句带有贬义，unexpectedly应译为"出人意料地"或"突然地"。
+　　第二分句为in any case ... of use。谓语run dry是系表结构，run相当于系动词become。例如还可以说：Water ran hot. (水热了。)介词短语in thirty years or so中的介词"in"在这里表示从现在以后到一段时间的结束，意思是"再过30年左右"。
+　　"原译"在于没有注意连词和标点在句际中的作用，没有正确地进行语法分析；同时又没有从词与词、句与句的关系中把握关键性的词义，译文选词不当，且不够确切。
+　　例2On the whole such a conclusion can be drawn with a certain degree of confidence, but only if the child can be assumed to have had the same attitude towards the test as the other with whom he is being compared, and only if he was not punished by lack of relevant information which they possessed.
+　　［原译］：但是，总的说来，假定这个孩子持有别的孩子一样的对待考查的态度，并且他未因缺乏他们所拥有的情报而受处罚，就可以得出一定把握的结论。
+　　［改译］：总的来说，得出这种结论是有一定程度的把握的，但是必须具备两个条件：能够确定这个孩子对测试的态度和与他相比较的另一个孩子的态度相同；他也没有因为缺乏别的孩子所具有的有关知识而被扣分。
+　　［注释］：从结构上看，这是一个并列复合句。并列连词but表示语意的转折。but前是简单句，but后是带有两个条件句的复合句；按逻辑推理，两个条件句所修饰的主句仍应该是the conclusion can be drawn with a certain degree of confidence,因与前面的句子重复而被省略。原文作者灵活地运用了句型结构，用词经济、语言简练，有很好的修辞效果。"改译"采用了同样的表达方法，不仅忠实于原文，而且译出了原文的风格。
+　　在on the whole ... confidence句中，with a certain degree of confidence是状语，不是conclusion的定语。
+　　在第一个条件状语从句only if ... compared中，to have had ...是主语the child的补语。as the other(has)是定语从句，修饰attitude; with whom ... compared也是定语从句，修饰the other。the child ... the other是指一个孩子和另一个孩子，the other不应译成任何复数形式。
+　　在第二个条件状语从句only if ... possessed中，which they possessed是定语从句，修饰information。代词they是本句前面提到的other children of his age ...,即参加测试的其他同龄孩子。译为"他们"，则显得含糊不清。
+　　两个条件从句中的only是副词，作全句的状语，意思是"只有在……条件下"，和if only的含义完全不同，不应译为"但愿"或"如果仅仅"。
+　　在翻译中正确地选择词义对翻译质量有重要影响，因为一个词的交际功能只有在上下文中才能体现出来。脱离具体的语言环境去照搬辞典上的注释，可能会使译者步入歧途，影响译文的准确性。如有的考生把本句的test译为"考查"或"检查"，把information译为"情报"或"资料"，从而使得整个译文与本文主题不符。
+　　综上所述，研究生英语入学考试英译汉部分的翻译过程，可以分三步进行：
+　　1)考生应首先把文章快速浏览一遍，注意全文的主题句和结论句，把握文章的中心思想，熟悉文章的主要内容。
+　　2)结合上下文，着重理解划线部分句子的含意。这时，要特别注意句中代词的指代关系、惯用搭配和句子结构。在细致分析和深入理解的基础上，用通顺的汉语表达出来。凡遇直译不能通顺表达的部分，可以采用意译，但必须忠实表达原文的含义。
+　　3)把译文和原文逐句对照，纠正错译，增补漏译，加工润色。

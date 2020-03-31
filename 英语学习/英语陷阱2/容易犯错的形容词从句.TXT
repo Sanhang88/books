@@ -1,0 +1,31 @@
+容易犯错的形容词从句
+
+   形容词从句是英语中较少用的从句，也较易犯错。
+   最常见的形容词从句是由关系代词“who, whom, which, that, whose”等引导。这种代词既是代词，也是连词。被“who”和“whom ”所修饰的先行词（the antecedent）是“人”。“Who”是主语格（the nominative case）；“whom”是宾语格（the objective case）；“which”的先行词是“动物”或“事物”，是主格，也是宾格；“that”是主格也是宾格，可以指“人物、动物、事物”；“ whose”是所有格（the possessive case），可以和“人物、动物、事物”连用。
+   上述各点都可以从下列例句中反映出来：
+1. The boy who is watching TV is my nephew.
+2. Do you know the man whom Jane is talking to?
+3. The pen which was broken belonged to John.
+4. This is the cat which came from Thailand.
+5. The gentleman that has just walked past is our new manager.
+6. The generation gap is a problem that concerns us all.
+7. The principal will speak to those whose performance is not up to the standard expected.
+8. The damaged truck, whose passengers were hospitalised, was towed away.
+   1－8的形容词从句都是由关系代词引导而出。另一种形容词从句是由关系副词引导的。这些关系副词“where, when, why”相当于 “连词＋副词”。当先行词是“地点”时，用“where”；是“时间 ”时，用“when”；是“原因”时，用“why”。例如：
+9.This is the hotel where many tourists like to stay.
+10. May I know the time when the assignment must be handed in?
+11. You have not given David any good reason why he should employ you.
+   形容词从句分两款，即限制性的（restrictive/ defining）和非限制性的（non-restrictive/ non-defining）。
+   限制性形容词从句对先行词很重要，因为它所提供的资讯令先行词突出，容易辨别。例如：
+12. A doctor is a person who cures patients.
+13. A library is a place where people study.
+   如果把这两个形容词从句除掉，它们的先行词的形象就立刻模糊起来。
+   非限制性形容词从句并未显得那么重要，因为它只给先行词增加些额外的修饰品；这些附属品，有固然好，没有也无伤大雅，不会对先行词已经明确的身分起不良影响。这种从句要用逗号和先行词隔开。例如：
+14. NUS, which turns out a variety of scholars, is a world-famous university.
+15. Jason's latest book, which came out last month, has been well-received.
+   当限制性形容词从句以宾格出现时，里面的关系代词“whom, which, that”可以省略。例如：
+15.Do you know the man (whom) Jane is talking to?
+Please show me the book (which) you bought yesterday.
+The house (that) they are living in will be renovated.
+Irene likes the puppy (that) her friend gave her.
+Have you visited the gentleman (whom) you met at the airport?

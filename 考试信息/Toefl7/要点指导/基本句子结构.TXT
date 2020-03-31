@@ -1,0 +1,66 @@
+基本句子结构    
+      请注意TOEEL第二部分的标题Structure and Written Expression (结构和表达法）。这两项就是TOEEL语法部分的命题范围。结构指的是句子的基本结构，题目主要分布在Structure (1-15题)中。表达法所指内容极为广泛，概括地讲。它指英文句子中词和短语的正确形式以及词与词，词与短语的正确搭配。表达法的题目主要分布在16－40题中。本篇主要讲解有关结构的命题，即英文句子的基本构成形式。
+基本句子结构常考题型及解题要点.一般来讲，TOEEL所考的有关句子结构的题目都比较简单，通常是正常词序的简单句和复合句，即主语－谓语－宾语或主语－系词－表语两种基本词序。倒装句、省略句、强调句在TOEEL试题也时有出现。但所占比例很小。
+基本句型
+（1）简单句 主－ 谓－ 宾
+主－ 系－ 表
+（2）复合句 主句 ＋连词 ＋从句
+连词 ＋从句 ，主句
+（3）并列句 句1 ＋ 连词 ＋ 句2
+基本概念
+（1）有主语、有谓语方可称为句子，否则为短语。
+（2）主句和从句必须有连接词衔接。连接句可在两个句子中间，亦可放置于句首。
+解题要点
+（1）寻找谓语动词或系动词以确定主谓结构
+（2）寻找连接词以确定句子结构
+（3）分别检查主句和从句的主谓结构
+全真倒题分析
+1. 简单句中主语谓语要完整
+(1) In addition to pleasure, ------- excitement, challenge, and relaxation.
+(A) the providing of garrets
+(B) games if providing
+(C) the games which provide (94.5)
+(D) games provide
+[答案] D 空格前为一介词短语、空格后为三个并列名。此句即无主语，也无谓语，故选择含有动词的答案（D）。寻找动词是最快捷的途径。
+(2) ------has won consistent praise for her novels about Black children.
+(A) Virginia Hamilton who
+(B) Because Virginia Hamilton
+(C) Virginia Hamilton
+(D) The fact than Virginia Hamilton (93.3)
+[答案] C 空格后面是谓语动词形式has own, 故空格内应主语句词，即（C）。
+(3) With affection and humor, poet phyllis McGinley ------- of ordinary life.
+(A) the virtues were praised
+(B) praised the virtues
+(C) she praised the virtues
+(D) her praise of the virtues (92.8)
+[答案] B 此句有主语，但缺谓语动词，故选择（B）。
+(4) ------- became a state in 1876.
+(A) When Colorado
+(B) Colorado
+(C) It was Colorado
+(D) Colorado.which
+[答案] B 空格后的谓动词be came表明应选择一个名词作主语，即（B）。
+2. 主句和从句皆要有完整的主语和谓语
+(1) Because it hardens soft metals such as tin and lead, ------- in alloys.
+(A) antimony is used
+(B) using antimony
+(C) antimony uses
+(D) to use antimony (93.3)
+[答案] A Because 引导的状语从句主谓结构完整，而主句却主谓俱缺，故选择主谓完整而句意正确的答案（A）。
+(2) The dominant philosophy of the Age of Enlightenmers ------- in the universe in terms of forces that could be detected by the human senses.
+(A) an explanation for everything
+(B) attempted to explain everything
+(C) everything was an attempt
+(D) explained and attempted
+[答案] B 这是个含有定语从句的复合句。主句缺少谓语动词，故选择（B）。答案（D）亦为动词，但缺少宾语。
+(3) ------- that both birds and mamma 8|5 become larger, their metabolite rates per unit of tissue decrease, and they generally live longer.
+(A) The truth (B) If true
+(C) It is tr (D) To be true (93.1)
+[答案] C 空格后面的连接词That 表明此处应填入主句，即含有主语和谓语的答案。四项选择中只有（C）是完整的句子。
+(4) Prescriptions for corrective lenses that are provided by an optometrist are often brought to an optician who ------- the lenses.
+(A) grinding
+(B) grinds
+(C) they grind
+(D) are ground
+[答案] B 空格前面的连接词 who引导一个定语从句。此句缺少谓语动词，故选择答案（B）。答案（D）亦为谓语动词形式，但被动语态不适合本句。
+3. 主句和从句必须有

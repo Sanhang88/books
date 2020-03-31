@@ -1,0 +1,66 @@
+2002年考研英语试卷英汉翻译真题解析
+2002年英译汉试题
+　　Directions: Read the following text carefully and then translate the underlined segmentssintosChinese. Your translation should be written clearly on ANSWER SHEET 2. (10 points)
+　　Almost all our major problems involve human behavior, and they cannot be solved by physical and biological technology alone. What is needed is a technology of behavior, but we have been slow to develop the science from which such a technology might be drawn. 61) One difficulty is that almost all of what is called behavioral science continues to trace behavior to states of mind, feelings, traits of character, human nature, and so on. Physics and biology once followed similar practices and advanced only when they discarded them. 62) The behavioral sciences have been slow to change partly because the explanatory items often seem to be directly observed and partly because other kinds of explanations have been hard to find. The environment is obviously important, but its role has remained obscure. It does not push or pull, it selects, and this function is difficult to discover and analyze. 63) The role of natural selection in evolution was formulated only a little more than a hundred years ago, and the selective role of the environment in shaping and maintaining the behavior of the individual is only beginning to be recognized and studied. As the interaction between organism and environment has come to be understood, however, effects once assigned to states of mind, feelings, and traits are beginning to be traced to accessible conditions, and a technology of behavior may therefore become available. It will not solve our problems, however, until it replaces traditional prescientific views, and these are strongly entrenched. Freedom and dignity illustrate the difficulty. 64) They are the possessions of the autonomous (self-governing) man of traditional theory, and they're essential to practices in which a person is held responsible for his conduct and given credit for his achievements. A scientific analysis shifts both the responsibility and the achievement to the environment. It also raises questions concerning values. Who will use a technology and to what ends? 65) Until these issues are resolved, a technology of behavior will continue to be rejected, and with it possibly the only way to solve our problems.
+翻译题解：
+61) One difficulty is that almost all of what is called behavioral science continues to trace behavior to states of mind, feelings, traits of character, human nature, and so on.
+句子分析：
+第一、句子可以拆分为两段：One difficulty is that almost all of what is called behavioral science / continues to trace behavior to states of mind, feelings, traits of character, human nature, and so on.
+第二、句子的结构是：
+1)主干结构是表语从句One difficulty is that...
+2)almost all of what is called behavioral science是表语从句中的主语部分，后面是简单的谓语和宾语结构。第三、词的处理：continues to trace behavior to继续针对……研究行为
+behavioral science  行为科学
+states of mind  心态，意识状态
+feelings  感情
+traits of character  性格特点
+完整的译文：
+61)难题之一在于所谓的行为科学几乎全都依然从心态、情感、性格特征、人性等方面去寻找行为的根源。
+62) The behavioral sciences have been slow to change partly because the explanatory items often seem to be directly observed and partly because other kinds of explanations have been hard to find.
+句子分析：
+第一、句子可以拆分为三段：The behavioral sciences have been slow to change/partly because the explanatory items often seem to be directly observed and/partly because other kinds of explanations have been hard to find.
+第二、句子的主干结构是：主句+两个并列关系的原因状语从句之所以……，部分是因为……，部分是因为……
+第三、词的处理：
+the explanatory items  用以解释的要素(内容，项目)
+other kinds of explanations  其他解释方式
+完整的译文：
+62)行为科学之所以发展缓慢，部分原因是用来解释行为的依据似乎往往是直接观察到的，部分原因是其他的解释方式一直难以找到。
+63) The role of natural selection in evolution was formulated only a little more than a hundred years ago, and the selective role of the environment in shaping and maintaining the behavior of the individual is only beginning to be recognized and studied.
+句子分析：
+第一、句子可以拆分为四段：The role of natural selection in evolution/was formulated only a little more than a hundred years ago, /and the selective role of the environment in shaping and maintaining the behavior of the individual/is only beginning to be recognized and studied.
+第二、句子的主干结构是两个表示时间对比的并列句The role of...was formulated only..., and the selective role of...is only beginning to...每一个句子的主语都比较长，都是名词+介词短语结构。
+第三、词的处理：
+in evolution  在演化中
+formulated  阐述；表述；解释；论证
+shaping  形成(造就)
+maintaining  保持，维护
+recognized  认可，承认
+完整的译文：
+63)自然选择在进化中的作用仅在一百多年前才得以阐明，而环境在塑造和保持个体行为时的选择作用则刚刚开始被认识和研究。
+64) They are the possessions of the autonomous (self-governing) man of traditional theory, and they're essential to practices in which a person is held responsible for his conduct and given credit for his achievements.
+句子分析：
+第一、句子可以拆分为三段：They are the possessions of the autonomous (self-governing) man of traditional theory, /and they're essential to practices/in which a person is held responsible for his conduct and given credit for his achievements.
+第二、句子的结构：
+1)主干结构是两个并列句They are the possessions of ... and they're essential to...
+2)in which...是practices的定语从句。
+第三、词的处理：
+They  它们(自由与尊严)，代词做主语
+possessions  所有物
+autonomous (self-governing)  自主行为的；自我管理的；自我约束的
+practices  实践活动
+is held responsible for  对……负责
+given credit for  认可；赞誉；给予肯定
+完整的译文：
+64)自由和尊严(它们)是传统理论定义的自主人所拥有的，是要求一个人对自己的行为负责并因其业绩而给予肯定的必不可少的前提。
+65) Until these issues are resolved, a technology of behavior will continue to be rejected, and with it possibly the only way to solve our problems.
+句子分析：
+第一、句子可以拆分为三段：Until these issues are resolved, /a technology of behavior will continue to be rejected, /and with it possibly the only way to solve our problems.
+第二、句子的结构是：
+1)主干结构是复合状语从句Until these issues are resolved, a technology..., and with it...
+2) and with it possibly the only way to solve our problems的完整表达是the only way to solve our problems will possibly continue to be rejected with it.其中it指代前面主句的内容。
+第三、词的处理：
+until  如果不，直到
+a technology of behavior  研究行为的技术手段
+be rejected  被抛弃；被拒绝；被反对
+with it  随之；伴随着它
+完整的译文：
+65)(如果)这些问题得不到解决，研究行为的技术手段就会继续受到排斥，解决问题的惟一方式可能也随之受到排斥。

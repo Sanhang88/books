@@ -1,0 +1,160 @@
+GRE ‘Ã‚£®ŒÂ£©
+Time -30 minutes
+25 Questions
+1.Drug companies lose money when manufacturing drugs that cure those suffering from rare diseases because selling a drug to only a few people usually does not recoup manufacturing expenses£ÆTherefore, a company manufacturing any of the drugs that cure those suffering from loxemia, an extremely rare disease, will undoubtedly lose money£ÆWhich of the following, if true, most seriously weakens the conclusion above£ø
+(A)Several drugs that cure those suffering from loxemia also cure those suffering from very common illnesses£Æ
+(B)Most of those who contract loxemia also contract another illness concurrently£Æ
+(C)Most of the drug companies that manufacture drugs that cure rare diseases do not manufacture drugs that cure loxemia£Æ
+(D)A sizable number of people are afflicted with one or another rare disease even though each rare disease afflicts only a small number of people£Æ
+(E)The larger the amount of a drug that is manufactured, the lower the manufacturing expense for each unit of the drug that is produced£Æ
+2.The tomb of a warrior killed in 1501 bears a sculpted portrait depicting him dressed for battle£ÆSome historians attribute the portrait to an artist from that century, but of the many references to the tomb in surviving documents, none that predates the 1800's mentions the portrait£ÆThe portrait is therefore more likely the work of a much later artist£ÆWhich of the following, if true, would also support the conclusion of the argument if substituted for the evidence given concerning the portrait£ø
+(A)The portrait of the warrior was commissioned by the family of the warrior's widow£Æ
+(B)References in surviving documents mention that an artist was paid in 1525 for an unspecified number of works for the church in which the tomb is located
+(C)The warrior is depicted in the portrait as wearing boots made of a material not used for boots until the 1700's£Æ
+(D)Some other art treasures from the church in which the tomb is located have been reliable dated to the 1400's£Æ
+(E)The portrait of the warrior on the tomb strongly resembles a portrait of him known to have been completed during his lifetime£Æ
+Questions 3-7
+A florist is designing flower arrangements containing two or more varieties of flowers selected from among six varieties of flowers£∫freesias, irises, lilies, peonies, tulips, and zinnias£ÆAll acceptable arrangements conform to the following conditions£∫If an arrangement contains any freesias, it cannot contain any zinnias£ÆIf an arrangement contains any tulips, it cannot contain any zinnias£ÆIf an arrangement contains any peonies, it must also contain at least one zinnia, and there must be exactly as many zinnias as peonies£ÆIf an arrangement contains any irises, it must also contain tulips, and there must be twice as many tulips as irises.If an arrangement contains freesias, the number of freesias must be greater than the total number of other flowers used£Æ
+3.Which of the following flower arrangements could be made acceptable simply by adding a tulip£ø
+(A)Three freesias, one lily, two tulips
+(B)Four freesias, two peonies, one tulip
+(C)Five freesias, one iris, one tulip
+(D)Two irises, two tulips, two zinnias
+(E)Two lilies, two peonies, two tulips
+4.Which of the following, if added to an unacceptable flower arrangement consisting of four tulips and two freesias, would make the arrangement acceptable£ø
+(A)Four freesias
+(B)Four irises
+(C)Two lilies
+(D)Two peonies
+(E)Two zinnias
+5.Each of the following is a pair of varieties of flowers that can be used together in an acceptable flower arrangement EXCEPT
+(A)freesias and irises
+(B)freesias and tulips
+(C)irises and lilies
+(D)irises and peonies
+(E)lilies and zinnias
+6.Which of the following unacceptable flower arrangements could be made acceptable simply by removing some or all of the flowers of one variety£ø
+(A)Four freesias, one iris, one lily, one peony
+(B)Four freesias, one iris, two tulips, one zinnia
+(C)Four freesias, two irises, two tulips, one zinnia
+(D)Three freesias, one lily, one peony, two zinnias
+(E)Three freesias, two peonies, one tulip, two zinnias
+7.If an unacceptable flower arrangement consisting of four freesias, one lily, one peony, and two tulips is to be made acceptable by adding or removing only one flower, which of the following must be done£ø
+(A)Add one freesia
+(B)Add one iris
+(C)Add one zinnia
+(D)Remove the peony
+(E)Remove one tulip
+8.Scientist£∫More than 1, 000 large asteroids regularly cross the Earth's path£ÆEven though the probability of one colliding with the Earth is extremely slight, we should do whatever we can to reduce that probability since any such collision would be catastrophic£ÆThe best way to avoid such a disaster is to deflect the asteroids£ÆThe only known way of deflecting asteroids is by hitting them with nuclear weapons that would be stored in space stations£ÆThe scientist's claims are structured so as to lead to which of the following conclusions£ø
+(A)Nuclear technology is the only technology that can plausibly be used to prevent natural catastrophes£Æ
+(B)Nuclear weapons should be deployed in space£Æ
+(C)No catastrophe has yet been caused by the collision of an asteroid with the Earth£Æ
+(D)The 1, 000 large asteroids that cross the Earth's path pose only an extremely slight risk of colliding with the Earth£Æ
+(E)There is currently no acceptable use to which nuclear weapons can be put, aside from protecting the Earth from asteroids£Æ
+9.It has long been thought that high levels of the hormone testosterone contribute to the onset of heart disease in men£ÆHowever, this view cannot be correct, since men who have heart disease typically show significantly lower levels of testosterone than do men who have not had heart disease£ÆThe argument above assumes which of the following£ø
+(A)Many men who have never had heart disease have unusually low levels of testosterone£Æ
+(B)Having heart disease does not significantly lower the level of testosterone in men£Æ
+(C)Levels of hormones other than testosterone significantly affect the likelihood that a man will develop heart disease£Æ
+(D)Heart disease and lowered testosterone levels in men are the effects of a single common cause£Æ
+(E)High levels of testosterone have never been thought to contribute to a serious disease other than heart disease
+10.The time-out technique involves removing the child from an undesirable situation in order to let the child think things over£ÆOver the last two decades, family doctors have been advocating this technique as preferable to spanking, which is now known to be potentially injurious and no more effective£Æ
+10.Which of the following can properly be concluded from the data presented in the graph£ø
+(A)The 1962 survey was based on a larger sample than the 1992 survey was£Æ
+(B)In the period between the surveys, denying television privileges was never the disciplinary technique most popular with parents£Æ
+(C)The four disciplinary techniques featured in the graph were the only disciplinary techniques named by parents in either survey£Æ
+(D)The 1962 survey allowed parents to name more than one disciplinary technique, but the 1992 survey may not have allowed this£Æ
+(E)In the period between the surveys, there were no significant changes in the popularity of lecturing children as a disciplinary method£Æ
+11.People who engage in scuba diving are healthier, on average, than people who do not engage in this activity£ÆTherefore, scuba diving tends to promote improved health£ÆThe argument is most vulnerable to criticism on the grounds that it
+(A)presupposes that everyone who takes up scuba diving does so solely for health reasons
+(B)leads to a further and falsifiable conclusion that no one can achieve good health without engaging in scuba diving
+(C)fails to point out that a small number of people are seriously injured in scuba diving accidents each year
+(D)treats a precondition for improving one's health as though it were something that by itself could ensure good health
+(E)overlooks the possibility that people generally do not take up scuba diving unless they are in good health
+Questions 12-15
+An art museum owns six paintings by an eighteenth-century painter£ÆThe paintings, listed in order by estimated value from lowest to highest, are F, G, H, S, T, and U£ÆPaintings F, G, and H are landscapes; S, T, and U are portraits£ÆAt any one time, exactly three of the six paintings are on exhibit, subject to the following restrictions:The paintings on exhibit cannot all be landscapes£ÆIf the exhibit includes only one portrait, that portrait must be U£ÆH cannot be on exhibit at any time that T is on exhibit.
+12.Which of the following could be the three paintings on exhibit at some point£ø
+(A)F, G, and H
+(B)F, G, and T
+(C)G, H, and S
+(D)G, S, and U
+(E)H, T, and U
+13.Which of the following, if they are the first two paintings selected for inclusion in a future exhibit, leave the widest choice of paintings for the third painting in that future exhibit£ø
+(A)F and G
+(B)G and H
+(C)H and U
+(D)S and T
+(E)S and U
+14.An exhibit must include S if which of the following is true£ø
+(A)T is included in the exhibit£Æ
+(B)T is not included in the exhibit£Æ
+(C)H is the only landscape included in the exhibit£Æ
+(D)U is included in the exhibit£Æ
+(E)The exhibit includes either F or G, but not both£Æ
+15.If U is undergoing restoration and is not available to be exhibited, which of the following is a painting that CANNOT then be exhibited£ø
+(A)F
+(B)G
+(C)H
+(D)S
+(E)T
+Questions 16-22
+In each of the five consecutive days of a cooks' contention, exactly one of five well-known cooks®DG, H, J, K, and L®Dwill cook a demonstration meal£ÆEach of the five cooks will cook exactly one of the five meals£ÆThe schedule for the cooks is constrained by the following conditions£∫H cannot cook on any of the first three days£ÆL must cook on one of the days before the day on which H cooks£ÆJ must cook on one of the days before the day on which G cooks£ÆG must cook on one of the days before the day on which K cooks£Æ
+16.Which of the following can be the order, from first to fifth, in which the five cooks cook the meals£ø
+(A)G, K, L, J, H
+(B)J, G, K, H, L
+(C)J, G, K, L, H
+(D)J, K, G, L, H
+(E)L, J, H, K, G
+17.If K cooks the fourth meal, which of the following must be true£ø
+(A)G cooks on the third day£Æ
+(B)H cooks on the fifth day£Æ
+(C)J cooks on the first day£Æ
+(D)J cooks on the second day£Æ
+(E)L cooks on the third day£Æ
+18.Which of the following can be true£ø
+(A)G cooks the first meal£Æ
+(B)J cooks the fourth meal£Æ
+(C)L cooks the fifth meal£Æ
+(D)H cooks on some day before G cooks£Æ
+(E)L cooks on some day after K cooks£Æ
+19.If G cooks a meal on some day before L does, then it must be true that
+(A)G cooks the second meal
+(B)J cooks the third meal
+(C)H cooks the fourth meal
+(D)K cooks the fifth meal
+(E)L cooks the fourth meal
+20.If J does not cook on the first day, then it must be true that
+(A)G does not cook the third meal
+(B)H does not cook the fourth meal
+(C)J does not cook the second meal
+(D)L does not cook the third meal
+(E)K does not cook the fifth meal
+21.If H does not cook the fifth meal, which of the following must be true£ø
+(A)G cooks the second meal£Æ
+(B)J cooks the first meal£Æ
+(C)J cooks the second meal£Æ
+(D)K cooks the fifth meal£Æ
+(E)L cooks the first meal£Æ
+22.If G cooks the third meal, which of the following is true£ø
+(A)L is the only one of the five cooks who can cook the first meal£Æ
+(B)J is the only one of the five cooks who can cook the second meal£Æ
+(C)Any one of exactly three of the five cooks can cook the second meal£Æ
+(D)K is the only one of the five cooks who can cook the fourth meal£Æ
+(E)Either one of exactly two of the five cooks can cook the fifth meal£Æ
+23.Which of the following most logically completes the argument below£øIn recent years, the proportion of car buyers who buy new cars rather than used cars has declined£ÆSome consumers have attributed this change to an increase in new-car prices£ÆAs evidence of the price increase, they cite figures that show that, even adjusting for inflation, the price that the buyer of a new car pays, on average, is far higher now than a few years ago£ÆThis evidence is unpersuasive, however, because
+(A)the value of a car that is bought new declines much more rapidly than does the value of a car that is bought used
+(B)after someone has bought a car, it might be several years before that person next buys a car
+(C)a decline in the proportion of car buyers who buy new cars must necessarily mean that the proportion who buy used cars has increased
+(D)the relative increase in used-car sales might be explained by the decisions of only a small proportion of all car buyers
+(E)the change in the average price paid for a new car could result solely from more people's rejecting inexpensive new cars in favor of used cars
+24.In Bassaria a group of that country's most senior judges has criticized the uniform mandatory sentences recently introduced for certain specific crimes£ÆThe judges argue that such sentences, by depriving them of all discretion in setting sentences, make it impossible for them to consider either aggravating or extenuating circumstances and so make it impossible to achieve true justice®Dthe fitting of the severity of the punishment to the gravity of the particular crime£ÆWhich of the following, if true, provides the strongest evidence for the claim that in Bassaria the newly introduced mandatory sentences are not necessarily a change for the worse with respect to achieving true justice as defined in the argument£ø
+(A)Before mandatory sentencing, judges in eastern Bassaria imposed strikingly different sentences from those in western Bassaria for equally grave instances of the same kind of offense£Æ
+(B)In Bassaria the frequency of crimes that have been made subject to mandatory sentences is lower now than it was just prior to the introduction of mandatory sentencing£Æ
+(C)The law introducing mandatory sentences was passed in the legislature of Bassaria by a large majority and is unlikely to be repealed in the foreseeable future£Æ
+(D)There used to be a wide difference between the minimum and the maximum sentences allowed by law in cases of crimes now subject to mandatory sentences£Æ
+(E)In Bassaria judges are appointed for life and are thus not easily influenced by political pressure groups£Æ
+25.Each of two particular inspection systems that are based on different principles would detect all product flaws but would also erroneously reject three percent of flawless products£ÆAssuming there is no overlap between the products erroneously rejected by the two systems and also no interference between the systems if both operate, using both systems and rejecting only those products found flawed by both would be a way of avoiding all erroneous rejections£ÆWhich of the following most precisely characterizes the reasoning in the argument£ø
+(A)The reasoning is conclusive, that is, the conclusion cannot be false if the statements offered in its support are true£Æ
+(B)The reasoning is strong but not conclusive, if the statements offered in support of the conclusion are true, they provide good grounds for that conclusion, though it is possible that additional information might weaken the argument£Æ
+(C)The reasoning is weak; the statements offered in support of the conclusion, though relevant to it, by themselves provide at best inadequate grounds for the conclusion£Æ
+(D)The reasoning is flawed in that the conclusion is no more than a paraphrase of one of the pieces of evidence offered in its support£Æ
+(E)The reasoning is flawed in that the argument treats evidence that a factor is necessary to bring about an event as if it were evidence that the factor is sufficient to bring about that event£Æ

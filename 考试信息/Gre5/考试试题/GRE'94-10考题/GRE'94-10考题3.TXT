@@ -1,0 +1,1015 @@
+GRE'94-10考题3
+If Morales is assigned to car 2, then the two officers assigned to 
+car 1 can be 
+King and Lee 
+King and Paredes 
+Lee and O'Hagan 
+Nini and O'Hagan 
+O'Hagan and Paredes" 
+
+----------
+答案：(E) 
+读题：一个警官分配6个officer巡逻，K、L、M、N、O、P，2个在car 1, 3个在car 2, 
+　　　留下的一个为duty 
+写条件： 
+　　　1、 K→KO （表示仅仅当O在某车上，K才能够在那辆车上） 
+2、 L,N≠1 （表示 L,N不在1） 
+3、 ～(LP) （表示L和P不再一组） 
+　 
+分析: 
+方法1 
+由K→KO可以把本题分为三种情况 
+*1: K在第一组 
+1:KO 
+2:N,L/P,M 
+duty:L/P 
+*2:K在第二组 
+1: PM 
+2: L/N KO 
+duty: L/N 
+*3: K在duty 
+1: P O/M 
+2: LN O/M 
+duty:K 
+　 
+　 
+*** 方法2 
+一共相当于3组, 其数字分配为2,3,1 
+现在L,N≠1, 因此就一定在第二组或者作为duty, 而duty只有一人,因此L,N之中一定至少有 
+一人在第二组 
+
+如果M=2, 那么哪两个官员可以在第1组? 
+本题直接对选项进行排除就能得到E对 
+　 
+
+The three officers assigned to car 2 can be 
+King, Morales, and O'Hagan 
+King, Morales, and Paredes 
+Lee, Morales, and Paredes 
+Lee, Nini, and O'Hagan 
+Nini, O'Hagan.and Paredes% 
+
+---------
+答案：(D) 
+读题：一个警官分配6个officer巡逻，K、L、M、N、O、P，2个在car 1, 3个在car 2, 
+　　　留下的一个为duty 
+写条件： 
+　　　1、 K→KO （表示仅仅当O在某车上，K才能够在那辆车上） 
+2、 L,N≠1 （表示 L,N不在1） 
+3、 ～(LP) （表示L和P不再一组） 
+　 
+分析: 
+方法1 
+由K→KO可以把本题分为三种情况 
+*1: K在第一组 
+1:KO 
+2:N,L/P,M 
+duty:L/P 
+*2:K在第二组 
+1: PM 
+2: L/N KO 
+duty: L/N 
+*3: K在duty 
+1: P O/M 
+2: LN O/M 
+duty:K 
+　 
+　 
+*** 方法2 
+一共相当于3组, 其数字分配为2,3,1 
+现在L,N≠1, 因此就一定在第二组或者作为duty, 而duty只有一人,因此L,N之中一定至少有 
+一人在第二组 
+
+分配给2的三个官员可以是? 
+＊选项A ,B都没有包含L, N中至少一个，所以不对 
+＊选项C违反～(LP) 
+＊选项E, NOP在第二组,则得到L一定为duty, 那么K在第一组,K→KO，座椅O也在第一组 
+这与已知O在第二组相违背 
+　 
+
+If King is not assigned to car 1, which of the following is an 
+officer who must be assigned to car I ? 
+Lee 
+Morales 
+Nini 
+O'Hagan 
+Paredes 
+
+---------
+答案：(E) 
+读题：一个警官分配6个officer巡逻，K、L、M、N、O、P，2个在car 1, 3个在car 2, 
+　　　留下的一个为duty 
+写条件： 
+　　　1、 K→KO （表示仅仅当O在某车上，K才能够在那辆车上） 
+2、 L,N≠1 （表示 L,N不在1） 
+3、 ～(LP) （表示L和P不再一组） 
+　 
+分析: 
+方法1 
+由K→KO可以把本题分为三种情况 
+*1: K在第一组 
+1:KO 
+2:N,L/P,M 
+duty:L/P 
+*2:K在第二组 
+1: PM 
+2: L/N KO 
+duty: L/N 
+*3: K在duty 
+1: P O/M 
+2: LN O/M 
+duty:K 
+　 
+　 
+*** 方法2 
+一共相当于3组, 其数字分配为2,3,1 
+现在L,N≠1, 因此就一定在第二组或者作为duty, 而duty只有一人,因此L,N之中一定至少有 
+一人在第二组 
+
+If Nini is the officer assigned to desk duty, then the three officers 
+assigned to car 2 must be 
+King, Lee, and O'Hagan 
+King, Morales, and O'Hagan 
+King, Morales, and Paredes 
+Lee, Morales, and O'Hagan 
+Lee, Morales, and Paredes# 
+
+----------
+答案：(A) 
+读题：一个警官分配6个officer巡逻，K、L、M、N、O、P，2个在car 1, 3个在car 2, 
+　　　留下的一个为duty 
+写条件： 
+　　　1、 K→KO （表示仅仅当O在某车上，K才能够在那辆车上） 
+2、 L,N≠1 （表示 L,N不在1） 
+3、 ～(LP) （表示L和P不再一组） 
+　 
+分析: 
+方法1 
+由K→KO可以把本题分为三种情况 
+*1: K在第一组 
+1:KO 
+2:N,L/P,M 
+duty:L/P 
+*2:K在第二组 
+1: PM 
+2: L/N KO 
+duty: L/N 
+*3: K在duty 
+1: P O/M 
+2: LN O/M 
+duty:K 
+　 
+　 
+*** 方法2 
+一共相当于3组, 其数字分配为2,3,1 
+现在L,N≠1, 因此就一定在第二组或者作为duty, 而duty只有一人,因此L,N之中一定至少有 
+一人在第二组 
+
+如果N=duty,那么谁一定在2? 
+　N=duty，那么L一定在2, 由～(LP)得到P一定在1 
+第一组一共需要分配两人，现在已经有一人，因此由谁导致谁的条件中的元素就不 
+能在第一组.所以K一定在第二组，第二组为K,O,P 
+
+Kyle: The rate of highway fatalities per 100 million miles driven was 
+　　about a third lower last year than ten years ago.The decrease is mainly 
+　　attributable to greater use of seat belts and to less drinking of alcohol 
+　　by drivers, but last year's sluggish economy also contributed, by curtai- 
+　　ling driving.
+　 
+Lisa: The economy could not have been a factor, because even if fewer 
+　　fatalities occur when fewer miles are driven, the number "per 100 million 
+　　miles driven" is what you were discussing, and that figure would not 
+　　fall merely because fewer miles were driven.
+Lisa's objection is based on 
+indicating, that a confusion between cause and effect has taken place 
+distinguishing between total number of instances and rate of occurrence 
+proposing an alternative way of interpreting the data presented 
+pointing out that statistics can be misleading if selected to prove 
+a point 
+showing that lack of precision has caused a relevant ambiguity 
+
+---------
+答案：(B) 
+
+Lisa的反对是基于： 
+A.指出混淆因果。 
+B.区分时间总数和发生比率。　　　　 
+　　Kyle认为经济萧条限制驾驶，英里数少，就能够导致死亡率降低。 
+　　而Lisa认为你讨论的是每行驶1亿英里数死亡人数，是一个比率。英里数少，也许 
+总死亡人数会变少，但是比率不一定降低。事件总数和发生比率是两回事。 
+　 
+C.提出另一种解释所提的数据。 
+D.指出用统计来证明观点时，统计会误导人。 
+E.表明精确度不高会导致模糊概念。 
+
+Which of the following, if true, would provide Kyle with the strongest defense to Lisa's challenge? 
+If roads are less crowded, a driver's error or a mechanical failure is less 
+　likely to result in a fatal collision.
+During the past three years, the weather in the region for which the 
+　statistics were compiled has been unusually hazardous for drivers.
+When the economy is sluggish, fewer vehicles are driven by shoppers, by 
+　delivery persons, and by vacationers.
+Seat belts are more effective when used in conjunction with air bags, and 
+　more and more new cars are being equipped with air bags.
+Sluggishness in the economy increases the proportion of old cars on the road, as 
+　people postpone the replacement of old cars or buy used cars instead of new cars.
+
+-----------
+答案：(A) 
+
+问题：下面那一个，if true，提供给Kyle反对Lisa的最有利支持？ 
+（其实也就是Kyle对Lisa反戈一击） 
+　 
+A.若车道不太拥挤，司机操作失误或机械故障就不太可能导致致命的撞车现象。 
+　　低迷的经济导致车少，而车少导致致命的碰撞减少，死亡数目减少，死亡率就 
+　　可能降低，注意SUPPORT不需要具有充分必要性，只要有支持作用就可以了。 
+　 
+B.过去三年内，进行统计的地区的天气对司机行车非常不利。 
+C.经济停滞时期，购物者、送货者及度假者开车的更少了。 
+　　（没有与死亡数目挂钩） 
+　　 
+D.当安全带配上汽袋后，安全带就更为有效，并且越来越多的人开始配置汽袋。 
+E.经济停滞增加了路上旧车的比例，因为人们推延旧车换新车的打算，或者因为经济 
+　　拮据干脆买二手车。 
+In household electric ovens, the heating element has only two settings- 
+on and off.A thermostat connected to the oven's temperature knob is 
+the only control on temperature, automatically switching the element 
+off when the indicated temperature is reached, which happens quickly 
+in modern ovens, and subsequently on or off as needed to maintain 
+temperature.
+　 
+Which of the following statements is most strongly supported by the information above? 
+
+Because in each case the heating element alternates between on and off, a modern 
+　household electric oven uses little more power at its maximum temperature 
+　setting than it does at its lowest temperature setting.
+Once the indicated temperature has been reached and is being maintained by 
+　the thermostat, the heating element will be switched off for a greater 
+　proportion of the time than it is switched on.
+The accuracy with which household electric ovens maintain their temperature 
+　could not be improved on by ovens whose heating elements have more than two 
+　settings.
+In a correctly functioning modern household electric oven, tile thermostat 
+　will generally not switch the heating element off when the oven's temperature is 
+　more than a few degrees above the indicated temperature.
+If the thermostat of a modern household electric oven is disabled so that the 
+　heating element remains switched on, the oven's temperature can eventually 
+　become higher than the maximum temperature setting on its temperature knob.
+
+-----------
+答案：(E) 
+
+问题：下面那一个陈述最被上面的信息所支持？ 
+读题：家用电子烤箱的供热系统仅有两种状态开和关，与烤箱温度柄相连的恒温器是对温 
+　　　度的仅有控制，当达到设定的温度时就会自动关上。之后根据保持温度的需要自动 
+　　　打开关闭。 
+　 
+A.由于家用电子烤箱的供热系统总在开、关两种状态转换，因此最高温度状态比最低温 
+度状态多用不了多少电。 
+(没有涉及用电量的比较) 
+　 　 
+B.一旦达到设定的温度并由怛温器保证该温度的话，供热系统关闭的时间要比打开的时 
+　　间长。（上文没有涉及这两方面时间的比较） 
+　　 
+C.即使供热系统具有两种以上状态的烤箱也无法提高家用电子烤箱保持温度的精确度。 
+D.在运转正常的现代家用电子烤箱中，如果烤箱的温度要比设定的温度还要高好几度， 
+　　恒温器一般不会关闭供热系统。 
+E.如果现代家用电子烤箱的恒温器坏了，而供热系统一直开着，那么最后烤箱的温度就 
+　　可能超过温度柄所设定的最高温度。 
+　（原来是到设定温度就关闭，现在坏了，供热系统继续开，当然最后温度就有可能超过)e 
+
+Artificial light _______ the respiratory activity of some microorganisms 
+in the winter but not in the summer, in part because in the summer their 
+respiration is already at its peak and thus cannot be _______ 
+
+stimulates..lessened 
+inhibits..quickened 
+reflects..expanded 
+elevates..measured 
+enhances..increased 
+
+----------- 
+答案：(E) 
+
+respiratory: a.呼吸的，呼吸器管的，呼吸作用的 
+microorganism: n.微生物 
+inhibit: v.1.抑制，约束 2.[化][医]抑制 
+elevate: v.1.举起，提高，使上升 2.提升…的职位，提高（嗓门，信心等），改善 
+3.使情绪高昂 
+　 
+人造光能增强某些微生物体在夏季的呼吸活动，但在夏季却不能，部分原因是因为它们的 
+呼吸在夏季早已处于高峰状态，故而已到了无以复加的地步。 
+
+Doreen justifiably felt she deserved recognition for the fact that 
+the research institute had been _____a position of preeminence, since 
+it was she who had ______ the transformation.
+
+reduced to..controlled 
+raised to..observed 
+mired in..imagined 
+maintained in..created 
+returned to..directed 
+
+----------
+答案：(E) 
+
+justifiably: adv.无可非议地，可辩护地，情有可原地 
+preeminence: n.卓越，杰出 
+mire: v.使陷入泥潭，使陷困境 
+　 
+戴莲理直气壮地觉得她理应得到人们的褒奖，因为研究院再度回到了昔日的卓越地位，而 
+正是她一手导演了这一变迁。 
+
+The prospects of discovering new aspects of the life of a painter 
+as thoroughly studied as Vermeer are not, on the surface_______ 
+
+unpromising 
+daunting 
+encouraging 
+superficial 
+challenging 
+
+---------
+答案：(C) 
+
+prospect: n.1.预期，展望，指望 2.景象，视野 3.机会，前景，前程，前途 
+vermeer: n.弗美尔（荷兰风俗画家，亦作肖像及风景画，以善用色彩表现空间感及光的 
+效果著称，作品有《挤奶女工》，《情书》等） 
+unpromising: a.无指望的，没有前途的，不太有成功希望的 
+daunting: a.令人胆怯气馁的，威吓的 
+superficial: a.1.面（积）的 2.表面的，外部的 3.草率的，粗略的 
+4.肤浅的，浅薄的 
+　 
+象弗美尔这样一位其生平被研究得如此这巨细无遗、透彻详尽的画家，要挖掘其生平中的 
+新内容，乍看上去，前景并不让人感到欣慰鼓舞。 
+
+Even those siblings whose childhood was ------- familial feuding and 
+intense rivalry for their parents' affection can nevertheless develop 
+congenial and even _______relationships with each other in their adult 
+lives.
+
+scarred by..vitriolic 
+dominated by..intimate 
+filled with..truculent 
+replete with..competitive 
+devoid of..tolerant 
+
+----------
+答案：(B) 
+
+sibling: n.兄弟（或姊妹），同胞 
+familial: a.家庭的，家族的，家庭（或家庭）成员所持有的 
+feuding: n.世仇，仇恨，长期不和 
+congenial: a.1.协调一致的 2.情趣相投的，令人愉快的，合意的，相宜的 
+scar: v.给…留下创伤 
+vitriolic: a.凶残的，粗暴的，刻毒的，好战的 
+replete(with): a.1.充满的 2.详尽的，完备的 
+devoid (of): a.没有…的，无…的 
+　　 
+即使其童年生活充斥着家庭怨仇和对其父母亲感情的强烈竞争，但那些兄弟姊妹们在其成 
+年生活中相互之间依然能培养起融洽的，甚至是亲密的关系。 
+
+Because they have been so dazzled by the calendars and the knowledge 
+of astronomy possessed by the Mayan civilization, some anthropologists 
+have ------- achievements like the sophisticated carved calendar sticks 
+of the Winnebago people.
+
+described 
+acknowledged 
+overlooked 
+defended 
+authenticated 
+
+-----------
+答案：(C) 
+
+dazzle: v.1.使目眩 2.使昏眩，使惊诧不已，使倾倒 
+calendar: n.1.日历，历书 2.历法 3.日程表，记事录 
+anthropologist: n.人类学者，人类学家 
+sophisticated: a.1.老于世故的 2.老练的，精通的 3.深奥微妙的，精致的 4.复杂 
+的，精密的，尖端的 
+autheticate: v.证明…是确实可信的 
+　 
+由于他们如此痴迷倾倒于玛亚文明所拥有的历法和天文学知识，某些人类学家故而对温内 
+贝戈人雕刻于木棍上的复杂的历法这类成就视而不见。 
+
+Aptly enough, this work so imbued with the notion of changing times 
+and styles has been constantly _______over the years, thereby reflecting 
+its own mutability.
+
+appreciated 
+emulated 
+criticized 
+revised 
+reprinted 
+
+---------
+答案：(D) 
+
+aptly: adv.1.有…倾向地 2.恰当地，适宜地 3.反应敏捷地 
+imbue: v.使充满，使渗透 
+thereby: adv.1.因此，由此，从而 2.在那件事上 
+mutability: n.可变性，无常不定，变化性 
+emulate: v.1.努力赶超，与…竞争 2.仿效，模仿 
+　 
+恰当得很，一部如此贯穿着变化的时代与变化的风格这一观念的著作，在过去的几年中， 
+也不断地被修订，从而反映出它自身的变化性。 
+
+The sea was not an ______the _____of the windmill; on the contrary, 
+while the concept of the new invention passed quickly from seaport 
+to seaport, it made little headway inland.
+
+element in..evolution 
+issue in ..acceptance 
+aid to..designers 
+obstacle to..diffusion 
+impediment to..creation 
+
+---------
+答案：(D) 
+
+windmill: n.1.风车房，风车 2.旋转玩具，玩具风车 
+headway: n.进展，进步 
+inland: adv.在内地，在内陆，向内地，向内陆 
+diffusion: n.扩散，传播，弥漫 
+impediment: n.妨碍，阻碍 
+　 
+海洋并未构成风车传播普及的一种阻碍；相反，尽管风车这一新发明之观念从一处海港迅 
+速传播至另一处海港，但它在内陆地区却鲜有进展。 
+
+IMPECCABLE: FAULT:
+
+unalloyed: purity 
+unblemished: imperfection 
+precise: conformity 
+meticulous: ornamentation 
+ostentatious : excess 
+
+----------
+答案：(B) 
+
+无缺点的，无瑕庇的:错误(断层) 
+　 
+未掺杂的:纯度 
+无瑕的:不完美 
+精确的:符合，一致(遵从) 
+小心的，过份注意琐事的:装饰 
+夸示的，自负的:过多 
+
+DISJOINTED: COHERENCE:
+
+nondescript: clarity 
+banal: originality 
+uniform: consistency 
+tenable: credibility 
+paradoxical: duality 
+
+----------
+答案：(B) 
+
+无条理的，支离破碎的:首尾一致，有条理 
+　 
+难形容的，莫明其妙的:清楚 
+陈腐的:新意 
+一致的:一贯 
+意见站得住的:可信性 
+自相矛盾的，似非而是的:两重性 
+
+WAIT: LURK:
+
+speak: stutter 
+save: hoard 
+walk: crawl 
+risk: hedge 
+discover: expose 
+
+----------
+答案：(B) 
+
+等待:潜伏 
+　 
+说:结巴 
+储存:匿藏 
+走:爬 
+冒险:闪避(树篱) 
+发现:暴露 
+
+OPACITY: LIGHT:
+
+incombustibility: powder 
+stability: pendulum 
+impermeability: fluid 
+brittleness: sponge 
+density :stone 
+
+----------
+答案：(C) 
+
+不透明性(模糊性):光 
+　 
+不可燃性:粉末 
+稳定性:钟摆 
+不可渗透性:流体 
+易脆性:海绵 
+密度:石头 
+
+THEATER: PERFORMANCE:
+
+kitchen: food 
+movie: acting 
+market: commerce 
+raft: swimming 
+family: outing 
+
+----------
+答案：(C) 
+
+戏院:表演 
+　 
+厨房:食物 
+电影:扮演 
+市场:商贸 
+筏子:游泳 
+家庭:外出郊游 
+
+LUSTROUS: POLISH:
+
+pure: refine 
+transparent: obscure 
+iridescent: paint 
+precise: embellish 
+stinking: smell 
+
+----------
+答案：(A) 
+
+有光泽的:抛光(优美风度n.) 
+　 
+纯的:精炼 
+透明的(明白的，显而易见的):使模糊(不出名的) 
+彩虹色的:绘画(粉刷) 
+精确的:装饰，润色 
+臭的:味道 
+
+REGIMEN: HEALTH:
+
+budget: solvency 
+prescription: medicine 
+agenda: priority 
+roster: personnel 
+index: content 
+
+---------
+答案：(A) 
+
+养生法:健康 
+　 
+预算:偿还能力 
+处方:药品 
+会议议程:优先权 
+花名册:人员 
+索引:内容 
+
+COLLAPSE: VOLUME:
+
+ventilate: breathing 
+irrigate: torrent 
+attenuate : thickness 
+initiate: climax 
+quarantine: disease 
+
+---------
+答案：(C) 
+
+倒塌，崩溃:体积(卷，册；音量) 
+　 
+通风:呼吸 
+灌溉:急流 
+变薄(变稀):厚度(浓度) 
+发起:最高潮 
+隔离检查:疾病 
+
+ASCETIC: LUXURY:
+
+pauper: wealth 
+prisoner: liberty 
+beggar: food 
+teetotaler: alcohol 
+novice: experience 
+
+---------
+答案：(D) 
+
+禁欲者，苦行者:奢华 
+　 
+贫民:财富 
+囚犯:自由 
+乞丐:食物 
+绝对戒酒主义者:含酒精饮料 
+新手:经验 
+
+
+
+　　　The defoliation of millions of acres 
+　　of trees by massive infestations of 
+　　gypsy moth caterpillars is a recurring 
+　　phenomenon in the northeastern United 
+(5) States.In studying these outbreaks, 
+　　scientists have discovered that 
+　　affected trees fight back by releasing 
+　　toxic chemicals, mainly phenols, into 
+　　their foliage.These noxious substances 
+(10) limit caterpillars' growth and reduce 
+　　the number of eggs that female moths 
+　　lay.Phenols also make the eggs 
+　　smaller, which reduces the growth of 
+　　the following year's caterpillars.
+(15) Because the number of eggs a female 
+　　moth produces is directly related to 
+　　her size, and because her size is deter- 
+　　mined entirely by her feeding success as 
+　　a caterpillar, the trees' defensive 
+(20) mechanism has an impact on moth 
+　　fecundity.
+　　　The gypsy moth is also subject to 
+　　attack by the nucleo-polyhedrosis 
+　　virus, or wilt disease, a particularly 
+(25) important killer of the caterpillars in 
+　　outbreak years.Caterpillars contract 
+　　wilt disease when they eat a leaf to 
+　　which the virus, encased in a protein 
+　　globule, has become attached.Once 
+(30) ingested by a caterpillar, the protein 
+　　globule dissolves, releasing thousands 
+　　of viruses, or virions, that after 
+　　about two weeks multiply enough to fill 
+　　the entire body cavity.When the 
+(35) caterpillar dies, the virions are 
+　　released to the outside, encased in a 
+　　new protein globule synthesized from 
+　　the caterpillar's tissues and ready to 
+　　be picked up by other caterpillars.
+(40) 　Knowing that phenols, including 
+　　tannins, often act by associating with 
+　　and altering the activity of proteins, 
+　　researchers focused on the effects on 
+　　caterpillars of ingesting the virus and 
+(45) leaves together.They found that on 
+　　tannin-rich oak leaves, the virus is 
+　　considerably less effective at killing 
+　　caterpillars than when it is on aspen 
+　　leaves, which are lower in phenols.
+(50) In general, the more concentrated 
+　　the phenols in tree leaves, the less 
+　　deadly the virus.Thus, while highly 
+　　concentrated phenols in tree leaves 
+　　reduce the caterpillar population by 
+(55) limiting the size of caterpillars and 
+　　consequently, the size of the female's 
+　　egg cluster, these same chemicals also 
+　　help caterpillars survive by disabling 
+　　the wilt virus.Forest stands of red 
+(60) oaks, with their tannin-rich foliage, 
+　　may even provide caterpillars with 
+　　safe havens from disease.In stands 
+　　dominated by trees such as aspen, 
+　　however, incipient gypsy moth outbreaks 
+(65) are quickly suppressed by viral 
+　　epidemics.
+　　　Further research has shown that cater- 
+　　pillars become virtually immune to the 
+　　wilt virus as the trees on which they 
+(70) feed respond to increasing defoliation.
+　　The trees' own defenses raise the 
+　　threshold of caterpillar vulnerability 
+　　to the disease, allowing populations 
+　　to grow denser without becoming 
+(75) more susceptible to infection.For 
+　　these reasons, the benefits to the 
+　　caterpillars of ingesting phenols 
+　　appear to outweigh die costs.Given 
+　　the presence of the virus, the trees' 
+(80) defensive tactic apparently has 
+　　backfired.
+
+Which of the following statements best 
+expresses the main point of the passage? 
+Recurring outbreaks of infestation by 
+gypsy moth caterpillars have had a 
+devastating impact on trees in the 
+northeastern United States.
+A mechanism used by trees to combat 
+the threat from gypsy moth caterpillars 
+has actually made some trees more 
+vulnerable to that threat.
+Although deadly to gypsy moth cater- 
+pillars, wilt disease has failed to 
+significantly affect the population 
+density of the caterpillars.
+The tree species with the highest levels 
+of phenols in their foliage are the most 
+successful in defending themselves 
+against gypsy moth caterpillars.
+In their efforts to develop new, 
+methods for controlling gypsy moth 
+caterpillars, researchers have focused 
+on the effects of phenols in tree 
+leaves on the insects' growth and 
+reproduction.
+
+------------------------ 
+答案：(B) 
+　　在美国的东北部地区，上百万亩的树木由于舞毒蛾毛虫大规模的侵扰而导致的掉叶 
+现象，是一种周而复始的周期性现象。在研究这些虫害突发现象时，科学家发现受影响 
+的树木通过将有毒的化学物质，主要是苯酚，释放到其叶子中，从而作出反击。这些有 
+毒物质遏制住毛虫的生长，并减少雌蛾产卵的数量。同时，苯酚亦使蛾卵变得更小，从 
+而抑制了来年毛虫的生长。因为雌蛾产卵的数量与其尺寸大小直接相关，又因为它的尺 
+寸大小全部取决于它作它毛虫的给食成功，因此，树木的防御机制会对舞毒蛾的生殖力 
+产生影响。 
+　 
+　　此外，舞毒蛾也易于受到核酸多角体病毒或所谓的萎蔫病的进攻，这种病毒在突发 
+性年份成为毛虫尤其重要的杀手。一旦毛虫吞食了带有病毒（被包裹一蛋白质小球体中） 
+的叶子，它们便患了萎蔫病。一旦被毛虫所摄入，该蛋白质小球体便溶化，释放出数以 
+千计的病毒或病毒体，在经过大约两周时间后，繁殖至充分的数量，充斥毛虫的全部体 
+腔。当毛虫死去时，病毒体被释放到体外，并被包裹在一个从毛虫的组织中合成的新的 
+蛋白质小球体中，等待着被其它的毛虫拣起吞食。 
+　 
+　　科研人员了解到，包括鞣酸在内的苯酚，经常是通过与蛋白质的活动联合起来并改 
+变蛋白质的活动而发挥作用，因此，他们侧重研究了毛虫同时摄入病毒和树叶，对毛虫 
+所会产生的影响。他们发现，在含有大量鞣酸的橡树叶上，病毒杀死毛虫的效果要比病 
+毒在苯酚含量较低的颤杨树叶上杀死毛虫的效果相差甚多。一般而言，树叶中苯酚含量 
+较高，病毒就越缺乏致命的杀伤力。因此，尽管树叶中高含量的苯酚可通过限制毛虫的 
+尺寸大小，并因此限制雌蛾卵群的规模，从而减少毛虫的种群数目，但正是这些相同的 
+化学物质，同样能通过使萎蔫病毒丧失能力，从而帮助毛虫幸存下来。红像树群丛，以 
+其含有大量鞣酸的树叶，甚至有可能为毛虫提供一个安全的庇护所，不受萎蔫病的影响。 
+然而，在以颤杨树这类树为主的群丛中，处于初始阶段的舞毒蛾突发态势很快地被病毒 
+流行病所抑制。 
+　 
+　　要深入的研究表明，毛虫针对萎蔫病毒变得几乎具有一种免疫的能力，随着它们赖 
+以为一的树木对愈发严重的掉叶现象作出反应。树木自身的防御反而提高了毛虫受萎蔫 
+病感染的阈值，致使毛虫种群日趋密集，但与此同时却不会变得更加易受病毒感染的影 
+响。由于这些原因，摄入笨酚给毛虫带来的益处似乎超过了给它们带来的代价。考虑到 
+病毒的顾在，树木的防御策略显然已经产生了事与愿违、适得其反的作用。
+四、In lines 19-21, the phrase "the trees" 
+defensive mechanism has an impact on moth 
+fecundity" refers to which of the following 
+phenomena? 
+Female moths that ingest phenols are 
+more susceptible to wilt virus, which 
+causes them to lay smaller eggs.
+Highly concentrated phenols in tree 
+leaves limit caterpillars' food supply, 
+thereby reducing the gypsy moth popu- 
+lation.
+Phenols attack the protein globule 
+that protects moth egg clusters, making 
+them vulnerable to wilt virus and 
+lowering their survival rate.
+Phenols in oak leaves drive gypsy moths 
+into forest stands dominated by aspens, 
+where they succumb to viral epidemics.
+The consumption of phenols by cater- 
+pillars results in undersized female 
+gypsy moths, which tend to produce 
+small egg clusters.
+
+------------------------ 
+答案：(E) 
+　　在美国的东北部地区，上百万亩的树木由于舞毒蛾毛虫大规模的侵扰而导致的掉叶 
+现象，是一种周而复始的周期性现象。在研究这些虫害突发现象时，科学家发现受影响 
+的树木通过将有毒的化学物质，主要是苯酚，释放到其叶子中，从而作出反击。这些有 
+毒物质遏制住毛虫的生长，并减少雌蛾产卵的数量。同时，苯酚亦使蛾卵变得更小，从 
+而抑制了来年毛虫的生长。因为雌蛾产卵的数量与其尺寸大小直接相关，又因为它的尺 
+寸大小全部取决于它作它毛虫的给食成功，因此，树木的防御机制会对舞毒蛾的生殖力 
+产生影响。 
+　 
+　　此外，舞毒蛾也易于受到核酸多角体病毒或所谓的萎蔫病的进攻，这种病毒在突发 
+性年份成为毛虫尤其重要的杀手。一旦毛虫吞食了带有病毒（被包裹一蛋白质小球体中） 
+的叶子，它们便患了萎蔫病。一旦被毛虫所摄入，该蛋白质小球体便溶化，释放出数以 
+千计的病毒或病毒体，在经过大约两周时间后，繁殖至充分的数量，充斥毛虫的全部体 
+腔。当毛虫死去时，病毒体被释放到体外，并被包裹在一个从毛虫的组织中合成的新的 
+蛋白质小球体中，等待着被其它的毛虫拣起吞食。 
+　 
+　　科研人员了解到，包括鞣酸在内的苯酚，经常是通过与蛋白质的活动联合起来并改 
+变蛋白质的活动而发挥作用，因此，他们侧重研究了毛虫同时摄入病毒和树叶，对毛虫 
+所会产生的影响。他们发现，在含有大量鞣酸的橡树叶上，病毒杀死毛虫的效果要比病 
+毒在苯酚含量较低的颤杨树叶上杀死毛虫的效果相差甚多。一般而言，树叶中苯酚含量 
+较高，病毒就越缺乏致命的杀伤力。因此，尽管树叶中高含量的苯酚可通过限制毛虫的 
+尺寸大小，并因此限制雌蛾卵群的规模，从而减少毛虫的种群数目，但正是这些相同的 
+化学物质，同样能通过使萎蔫病毒丧失能力，从而帮助毛虫幸存下来。红像树群丛，以 
+其含有大量鞣酸的树叶，甚至有可能为毛虫提供一个安全的庇护所，不受萎蔫病的影响。 
+然而，在以颤杨树这类树为主的群丛中，处于初始阶段的舞毒蛾突发态势很快地被病毒 
+流行病所抑制。 
+　 
+　　要深入的研究表明，毛虫针对萎蔫病毒变得几乎具有一种免疫的能力，随着它们赖 
+以为一的树木对愈发严重的掉叶现象作出反应。树木自身的防御反而提高了毛虫受萎蔫 
+病感染的阈值，致使毛虫种群日趋密集，但与此同时却不会变得更加易受病毒感染的影 
+响。由于这些原因，摄入笨酚给毛虫带来的益处似乎超过了给它们带来的代价。考虑到 
+病毒的顾在，树木的防御策略显然已经产生了事与愿违、适得其反的作用。 
+
+It can be inferred from the passage 
+that wilt disease virions depend for their 
+survival on 
+protein synthesized from the tissues 
+of a host caterpillar 
+aspen leaves with high concentrations 
+of phenols 
+tannin-rich oak leaves 
+nutrients that they synthesize from 
+gypsy moth egg clusters 
+a rising threshold of caterpillar 
+vulnerability to wilt disease 
+
+------------------------ 
+答案：(A) 
+　　在美国的东北部地区，上百万亩的树木由于舞毒蛾毛虫大规模的侵扰而导致的掉叶 
+现象，是一种周而复始的周期性现象。在研究这些虫害突发现象时，科学家发现受影响 
+的树木通过将有毒的化学物质，主要是苯酚，释放到其叶子中，从而作出反击。这些有 
+毒物质遏制住毛虫的生长，并减少雌蛾产卵的数量。同时，苯酚亦使蛾卵变得更小，从 
+而抑制了来年毛虫的生长。因为雌蛾产卵的数量与其尺寸大小直接相关，又因为它的尺 
+寸大小全部取决于它作它毛虫的给食成功，因此，树木的防御机制会对舞毒蛾的生殖力 
+产生影响。 
+　 
+　　此外，舞毒蛾也易于受到核酸多角体病毒或所谓的萎蔫病的进攻，这种病毒在突发 
+性年份成为毛虫尤其重要的杀手。一旦毛虫吞食了带有病毒（被包裹一蛋白质小球体中） 
+的叶子，它们便患了萎蔫病。一旦被毛虫所摄入，该蛋白质小球体便溶化，释放出数以 
+千计的病毒或病毒体，在经过大约两周时间后，繁殖至充分的数量，充斥毛虫的全部体 
+腔。当毛虫死去时，病毒体被释放到体外，并被包裹在一个从毛虫的组织中合成的新的 
+蛋白质小球体中，等待着被其它的毛虫拣起吞食。 
+　 
+　　科研人员了解到，包括鞣酸在内的苯酚，经常是通过与蛋白质的活动联合起来并改 
+变蛋白质的活动而发挥作用，因此，他们侧重研究了毛虫同时摄入病毒和树叶，对毛虫 
+所会产生的影响。他们发现，在含有大量鞣酸的橡树叶上，病毒杀死毛虫的效果要比病 
+毒在苯酚含量较低的颤杨树叶上杀死毛虫的效果相差甚多。一般而言，树叶中苯酚含量 
+较高，病毒就越缺乏致命的杀伤力。因此，尽管树叶中高含量的苯酚可通过限制毛虫的 
+尺寸大小，并因此限制雌蛾卵群的规模，从而减少毛虫的种群数目，但正是这些相同的 
+化学物质，同样能通过使萎蔫病毒丧失能力，从而帮助毛虫幸存下来。红像树群丛，以 
+其含有大量鞣酸的树叶，甚至有可能为毛虫提供一个安全的庇护所，不受萎蔫病的影响。 
+然而，在以颤杨树这类树为主的群丛中，处于初始阶段的舞毒蛾突发态势很快地被病毒 
+流行病所抑制。 
+　 
+　　要深入的研究表明，毛虫针对萎蔫病毒变得几乎具有一种免疫的能力，随着它们赖 
+以为一的树木对愈发严重的掉叶现象作出反应。树木自身的防御反而提高了毛虫受萎蔫 
+病感染的阈值，致使毛虫种群日趋密集，但与此同时却不会变得更加易受病毒感染的影 
+响。由于这些原因，摄入笨酚给毛虫带来的益处似乎超过了给它们带来的代价。考虑到 
+病毒的顾在，树木的防御策略显然已经产生了事与愿违、适得其反的作用。
+Which of the following, if true, would most 
+clearly demonstrate the operation of the trees' 
+defensive mechanism as it is described 
+in the first paragraph of the passage? 
+Caterpillars feeding on red oaks that were 
+more than 50 percent defoliated grew to be 
+only two-thirds the size of those feeding 
+on trees with relatively intact foliage.
+Oak leaves in areas unaffected by gypsy 
+moths were found to have higher levels 
+of tannin on average than aspen leaves 
+in areas infested with gypsy moths.
+The survival rate of gypsy moth caterpillars 
+exposed to the wilt virus was 40 percent 
+higher for those that fed on aspen leaves 
+than for those that ate oak leaves.
+Female gypsy moths produced an 
+average of 25 percent fewer eggs in areas 
+where the wilt virus flourished than did 
+moths in areas that were free of the virus.
+Gypsy moth egg clusters deposited on 
+oak trees were found to have relatively 
+large individual eggs compared to those 
+deposited on aspen trees.
+
+------------------------ 
+答案：(A) 
+　　在美国的东北部地区，上百万亩的树木由于舞毒蛾毛虫大规模的侵扰而导致的掉叶 
+现象，是一种周而复始的周期性现象。在研究这些虫害突发现象时，科学家发现受影响 
+的树木通过将有毒的化学物质，主要是苯酚，释放到其叶子中，从而作出反击。这些有 
+毒物质遏制住毛虫的生长，并减少雌蛾产卵的数量。同时，苯酚亦使蛾卵变得更小，从 
+而抑制了来年毛虫的生长。因为雌蛾产卵的数量与其尺寸大小直接相关，又因为它的尺 
+寸大小全部取决于它作它毛虫的给食成功，因此，树木的防御机制会对舞毒蛾的生殖力 
+产生影响。 
+　 
+　　此外，舞毒蛾也易于受到核酸多角体病毒或所谓的萎蔫病的进攻，这种病毒在突发 
+性年份成为毛虫尤其重要的杀手。一旦毛虫吞食了带有病毒（被包裹一蛋白质小球体中） 
+的叶子，它们便患了萎蔫病。一旦被毛虫所摄入，该蛋白质小球体便溶化，释放出数以 
+千计的病毒或病毒体，在经过大约两周时间后，繁殖至充分的数量，充斥毛虫的全部体 
+腔。当毛虫死去时，病毒体被释放到体外，并被包裹在一个从毛虫的组织中合成的新的 
+蛋白质小球体中，等待着被其它的毛虫拣起吞食。 
+　 
+　　科研人员了解到，包括鞣酸在内的苯酚，经常是通过与蛋白质的活动联合起来并改 
+变蛋白质的活动而发挥作用，因此，他们侧重研究了毛虫同时摄入病毒和树叶，对毛虫 
+所会产生的影响。他们发现，在含有大量鞣酸的橡树叶上，病毒杀死毛虫的效果要比病 
+毒在苯酚含量较低的颤杨树叶上杀死毛虫的效果相差甚多。一般而言，树叶中苯酚含量 
+较高，病毒就越缺乏致命的杀伤力。因此，尽管树叶中高含量的苯酚可通过限制毛虫的 
+尺寸大小，并因此限制雌蛾卵群的规模，从而减少毛虫的种群数目，但正是这些相同的 
+化学物质，同样能通过使萎蔫病毒丧失能力，从而帮助毛虫幸存下来。红像树群丛，以 
+其含有大量鞣酸的树叶，甚至有可能为毛虫提供一个安全的庇护所，不受萎蔫病的影响。 
+然而，在以颤杨树这类树为主的群丛中，处于初始阶段的舞毒蛾突发态势很快地被病毒 
+流行病所抑制。 
+　 
+　　要深入的研究表明，毛虫针对萎蔫病毒变得几乎具有一种免疫的能力，随着它们赖 
+以为一的树木对愈发严重的掉叶现象作出反应。树木自身的防御反而提高了毛虫受萎蔫 
+病感染的阈值，致使毛虫种群日趋密集，但与此同时却不会变得更加易受病毒感染的影 
+响。由于这些原因，摄入笨酚给毛虫带来的益处似乎超过了给它们带来的代价。考虑到 
+病毒的顾在，树木的防御策略显然已经产生了事与愿违、适得其反的作用。 
+
+Which of the following best describes 
+the function of the third paragraph of 
+the passage? 
+It resolves a contradiction between 
+the ideas presented in the first and 
+second paragraphs.
+It introduces research data to support 
+the theory outlined in the second para- 
+graph.
+It draws a conclusion from conflicting 
+evidence presented in the first two para- 
+graphs.
+It shows how, phenomena described in 
+the first and second paragraphs act in 
+combination.
+It elaborates on the thesis introduced 
+in the first paragraph after a digression 
+in the second paragraph.
+
+------------------------ 
+答案：(D) 
+　　在美国的东北部地区，上百万亩的树木由于舞毒蛾毛虫大规模的侵扰而导致的掉叶 
+现象，是一种周而复始的周期性现象。在研究这些虫害突发现象时，科学家发现受影响 
+的树木通过将有毒的化学物质，主要是苯酚，释放到其叶子中，从而作出反击。这些有 
+毒物质遏制住毛虫的生长，并减少雌蛾产卵的数量。同时，苯酚亦使蛾卵变得更小，从 
+而抑制了来年毛虫的生长。因为雌蛾产卵的数量与其尺寸大小直接相关，又因为它的尺 
+寸大小全部取决于它作它毛虫的给食成功，因此，树木的防御机制会对舞毒蛾的生殖力 
+产生影响。 
+　 
+　　此外，舞毒蛾也易于受到核酸多角体病毒或所谓的萎蔫病的进攻，这种病毒在突发 
+性年份成为毛虫尤其重要的杀手。一旦毛虫吞食了带有病毒（被包裹一蛋白质小球体中） 
+的叶子，它们便患了萎蔫病。一旦被毛虫所摄入，该蛋白质小球体便溶化，释放出数以 
+千计的病毒或病毒体，在经过大约两周时间后，繁殖至充分的数量，充斥毛虫的全部体 
+腔。当毛虫死去时，病毒体被释放到体外，并被包裹在一个从毛虫的组织中合成的新的 
+蛋白质小球体中，等待着被其它的毛虫拣起吞食。 
+　 
+　　科研人员了解到，包括鞣酸在内的苯酚，经常是通过与蛋白质的活动联合起来并改 
+变蛋白质的活动而发挥作用，因此，他们侧重研究了毛虫同时摄入病毒和树叶，对毛虫 
+所会产生的影响。他们发现，在含有大量鞣酸的橡树叶上，病毒杀死毛虫的效果要比病 
+毒在苯酚含量较低的颤杨树叶上杀死毛虫的效果相差甚多。一般而言，树叶中苯酚含量 
+较高，病毒就越缺乏致命的杀伤力。因此，尽管树叶中高含量的苯酚可通过限制毛虫的 
+尺寸大小，并因此限制雌蛾卵群的规模，从而减少毛虫的种群数目，但正是这些相同的 
+化学物质，同样能通过使萎蔫病毒丧失能力，从而帮助毛虫幸存下来。红像树群丛，以 
+其含有大量鞣酸的树叶，甚至有可能为毛虫提供一个安全的庇护所，不受萎蔫病的影响。 
+然而，在以颤杨树这类树为主的群丛中，处于初始阶段的舞毒蛾突发态势很快地被病毒 
+流行病所抑制。 
+　 
+　　要深入的研究表明，毛虫针对萎蔫病毒变得几乎具有一种免疫的能力，随着它们赖 
+以为一的树木对愈发严重的掉叶现象作出反应。树木自身的防御反而提高了毛虫受萎蔫 
+病感染的阈值，致使毛虫种群日趋密集，但与此同时却不会变得更加易受病毒感染的影 
+响。由于这些原因，摄入笨酚给毛虫带来的益处似乎超过了给它们带来的代价。考虑到 
+病毒的顾在，树木的防御策略显然已经产生了事与愿违、适得其反的作用。 
+
+It can be inferred from the passage that 
+gypsy moth caterpillars become immune 
+to the wilt virus as a result of 
+consuming a wide range of nutrients 
+from a variety of leaf types 
+feeding on leaves that contain high 
+levels of phenols 
+producing fewer offspring, which favors 
+the survival of the hardiest individuals 
+ingesting the virus together with 
+leaves that do not contain tannin 
+growing population density, which 
+outstrips the ability of the virus 
+to multiply and spread 
+
+------------------------ 
+答案：(B) 
+　　在美国的东北部地区，上百万亩的树木由于舞毒蛾毛虫大规模的侵扰而导致的掉叶 
+现象，是一种周而复始的周期性现象。在研究这些虫害突发现象时，科学家发现受影响 
+的树木通过将有毒的化学物质，主要是苯酚，释放到其叶子中，从而作出反击。这些有 
+毒物质遏制住毛虫的生长，并减少雌蛾产卵的数量。同时，苯酚亦使蛾卵变得更小，从 
+而抑制了来年毛虫的生长。因为雌蛾产卵的数量与其尺寸大小直接相关，又因为它的尺 
+寸大小全部取决于它作它毛虫的给食成功，因此，树木的防御机制会对舞毒蛾的生殖力 
+产生影响。 
+　 
+　　此外，舞毒蛾也易于受到核酸多角体病毒或所谓的萎蔫病的进攻，这种病毒在突发 
+性年份成为毛虫尤其重要的杀手。一旦毛虫吞食了带有病毒（被包裹一蛋白质小球体中） 
+的叶子，它们便患了萎蔫病。一旦被毛虫所摄入，该蛋白质小球体便溶化，释放出数以 
+千计的病毒或病毒体，在经过大约两周时间后，繁殖至充分的数量，充斥毛虫的全部体 
+腔。当毛虫死去时，病毒体被释放到体外，并被包裹在一个从毛虫的组织中合成的新的 
+蛋白质小球体中，等待着被其它的毛虫拣起吞食。 
+　 
+　　科研人员了解到，包括鞣酸在内的苯酚，经常是通过与蛋白质的活动联合起来并改 
+变蛋白质的活动而发挥作用，因此，他们侧重研究了毛虫同时摄入病毒和树叶，对毛虫 
+所会产生的影响。他们发现，在含有大量鞣酸的橡树叶上，病毒杀死毛虫的效果要比病 
+毒在苯酚含量较低的颤杨树叶上杀死毛虫的效果相差甚多。一般而言，树叶中苯酚含量 
+较高，病毒就越缺乏致命的杀伤力。因此，尽管树叶中高含量的苯酚可通过限制毛虫的 
+尺寸大小，并因此限制雌蛾卵群的规模，从而减少毛虫的种群数目，但正是这些相同的 
+化学物质，同样能通过使萎蔫病毒丧失能力，从而帮助毛虫幸存下来。红像树群丛，以 
+其含有大量鞣酸的树叶，甚至有可能为毛虫提供一个安全的庇护所，不受萎蔫病的影响。 
+然而，在以颤杨树这类树为主的群丛中，处于初始阶段的舞毒蛾突发态势很快地被病毒 
+流行病所抑制。 
+　 
+　　要深入的研究表明，毛虫针对萎蔫病毒变得几乎具有一种免疫的能力，随着它们赖 
+以为一的树木对愈发严重的掉叶现象作出反应。树木自身的防御反而提高了毛虫受萎蔫 
+病感染的阈值，致使毛虫种群日趋密集，但与此同时却不会变得更加易受病毒感染的影 
+响。由于这些原因，摄入笨酚给毛虫带来的益处似乎超过了给它们带来的代价。考虑到 
+病毒的顾在，树木的防御策略显然已经产生了事与愿违、适得其反的作用。 

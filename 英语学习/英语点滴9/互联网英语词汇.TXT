@@ -1,0 +1,79 @@
+互联网英语词汇
+
+中央处理器 CPU(Central Processing Unit)
+
+计算机辅助设计 CAD(Computer-Aided Design)
+
+互联网普及率 Internet Penetration
+
+网民 Cyber Citizen
+
+网络犯罪 Cyber Crime
+
+网络城市, 虚拟城市 Cyber City
+
+数字鸿沟 Digital Divide
+
+智能学校 Smart Schools
+
+多功能卡 Multipurpose Card
+
+软件开发 Software Development
+
+内容开发 Content Development
+
+数字化商业 Digital Business
+
+信息化 Informationization, Network-based Information Flow
+
+软件包 Software Packages
+
+申请注册域名 Domain Name Application and Registration
+
+虚拟空间 Virtual Space
+
+局域网 Intranet
+
+脑图 Mind Map
+
+便携式电脑 Portable Computer; Laptop; Notebook Computer
+
+个人数字助理 PDA---Personal Digital Assistant
+
+掌上电脑 Palm Computer
+
+路由器 Router
+
+网络管理员 Network Administrator
+
+网络经济 Cyber Economy
+
+以太网 Ethernet
+
+服务提供者 ISP-Internet Service Provider
+
+网络计算机 NC: Network Computer
+
+多媒体个人电脑 MPC: Multimedia Personal Computer
+
+多媒体扩展 MMX: 是MultiMedia eXtensions
+
+兆赫 MHz Mega Hertz
+
+视频图形阵列 VGA:Video Graphics Array
+
+三维摄影室 3D Studio: Three Dimension Studio
+
+虚拟现实 VR：Virtual Reality
+
+原始设备制造商 OEM：Original Equipment Manufacturer
+
+即插即用 PNP：Plug and Play
+
+乐器数字接口 MIDI：Musical Instrument Digital Interface
+
+运动图象专家组 MPEG:Motion Picture Experts Group
+
+域名 Domain Name
+
+拨号连接 Dial-up Connection

@@ -1,0 +1,157 @@
+GMAT考试语法改错题方法总结
+　　CORRECTIVENESS
+　　I.Logical Fallacies (logical perfection is superior to grammatical imperfection, the first and foremost issue of GMAT grammar is logic)
+　　(i)"Shanghai is bigger than any cities in China."is mistaken because Shanghai cannot be larger than any cities that inclusive of itself. So it should be"Shanghai is bigger than any other cities in China."
+　　(ii)Blind eyesight; visible wavelength are logically flawed arrangement; it should be"blind people","visible radiation"instead.
+　　(iii)Price cannot cause inflation but Price Increase can.
+　　(iv)前后转折关系(by transitional words as‘but'etc.)是否成立要看前后的分类标
+　　(v)准是否统一：big measurement→small measurement
+　　III.主谓搭配和代词指代(七大类型)
+　　(vi)出现句首名(vii)词+长串修饰考主谓搭配的可能性很大；
+　　(viii)在英文中永远只有主谓搭配，同(ix)位语对谓语动词单复(x)数没有影响
+　　Five hundred students each have a computer.
+　　Each of five hundred students have a computer.
+　　Leaf and *** material, the most *** parts, Vt.s
+　　Five hundred students, groups each have a computer.
+　　(xi)倒装句(搞清主语在哪)
+　　a.介词在句首 b.状语+句子谓语动词+主语(完全倒装) c.极端形容词或So放在句首
+　　(xii)Never, Whether, What, Should在一个完整句子做整个句子的主语，(xiii)谓语动作用单数
+　　(xiv)代词指(xv)代，同(xvi)样一句话中相同(xvii)的代词指(xviii)代相同(xix)的事物：they, them, their在一句话中必须指(xx)代同(xxi)一主体
+　　推论：It在句首做形式主语，后面it不能指代同一主体。如果出现这样的选项，一定错！
+　　(xxii)Exoneration and his freedom例题：泛指(xxiii)和特指(xxiv)不(xxv)能对称；代词是个特指(xxvi)概念，(xxvii)不(xxviii)能随意丢失，(xxix)否则句子意思发生变化。
+　　8GMAT中所有代词都不用来指代整个句子，只能是特定的名词或主体。但是当it在句首做形式主语时，可以指代：
+　　1.后面的不定式
+　　2.后面的that从句，
+　　3.如：It is you who is my friend that…
+　　IV.固定搭配的错误
+　　(xxx)require somebody to do something that +虚拟语气省略should of somebody that +虚拟语气省略should (xxxi)as的固定搭配begin as, depict as, regard as, perceive as, represent as, see as, be prizeless as, be acclaimed as, think of as, be seem as (xxxii)to be: consider something (省略to be) something [正确答案的出现方式] (xxxiii)help
+　　a)help somebody to do something
+　　b)help (to do) something
+　　c)helpful in doing
+　　(xxxiv)at point; at pole; at equator; aim at doing something
+　　(xxxv)forbid somebody to do something; forbid something
+　　(xxxvi)prohibit somebody from doing something; prohibit something
+　　(xxxvii)compare A to B (把A比作B)
+　　(xxxviii)compare A with B (相同(xxxix)事物比较)
+　　(xl)in that标(xli)准书面英语，(xlii)汉译为"原因体现在"
+　　(xliii)more ancient标(xliv)准书面英语
+　　V.连接词连接两个部分的对称性问题
+　　and在画线部分中或画线部分的前面，and是一个解题点。
+　　(xlv)形式上对称：名(xlvi)词对名(xlvii)词；分词对分词(现在分词不(xlviii)一定要对现在分词，(xlix)要检验动作的发出者和承受者)
+    (l)强调含义上的对称：duty assignment对应the staffing of people
+　　(li)平行对称结构：多个小分句之间要平行对称，(lii)在最后一个分句前补出and难点：A)在肯定句时，补and；在否定时，补nor英语否定句的定义：句子出现no, not时"Never……"是肯定句，表示否定的含义
+　　B)非平行结构的误导题(如补充材料5：三个句子不能构成平行对称结构)
+　　(liii)当前后两个问题对称时，
+　　(liv)后半句的be动词可能被省略，
+　　(lv)如to do and do something,to可以省略
+　　如果发现一个选项有意省略‘to'或被动词时，则很有可能是正确答案对称结构的常考连词：but……or
+　　either…or…not only…but also…(also有时省略)
+　　neither…nor…not…but…(优选结构)
+　　from…to……as well as…
+　　as…as……rather than…(如果前面有不定式的话，后面不定式往往被省略)
+　　VII.虽然违反了Effectiveness有效性原则，但ETS把它当成Correctness来处理(lvi)违反了"忠实原文的意思"
+　　a)极端性修饰词的位置改变了: first, last, typical, typically, only you, you only;
+　　b)强烈语气表达要保持，如：
+　　I don't know any……
+　　Not unlike = like it very much
+　　Whatever = no matter what…
+　　Whenever = no matter when
+　　c)句子的强调重心发生改变一定错！
+　　d)把倒装句变成正常语序一定错！
+　　(lvii)简洁原则：语义重复(lviii)一定错！注意(rise, raise, grow, roaring, increase的使用而(lix)使语义重复(lx)的情况)
+　　from…to…当中不能加up or down
+　　opposition=againstorbit=aroundannually=a year
+　　by the name of=be known aswith=include
+　　EFFECTIVENESS
+　　II.忠实原文的意思，除非从逻辑上发现原文意思一定要修改
+　　(i)弱语气词的添加、丢失或位置发生改变(如just, even)，(ii)但不(iii)一定错
+　　(iv)句子的强调重心发生了微弱改变，(v)但选项不(vi)一定错(如in 1980)
+　　(vii)时态发生变化(GMAT中一般时态不(viii)能随意改变，(ix)除非有个明确的点提示原文时态应当发生改变)
+　　III.简洁原则
+　　-实意名-词>动词>形容词>抽象名-词>分词动名-词>从句-存在该种错误，-并不-一定错，-看是不-是两个选项中唯一的区别，-如support > be supportive of -半抽象名-词，-即动词和名-词形式一样的名-词，-如result, help, cost, increase, bare优选动词词性的选项-分词优于定语从句，-因为过去分词是定语从句的省略形式, that is indicated = indicated
+　　CORRECTNESS
+　　I.宾语从句和定语从句
+　　-that, which只能指-物
+　　-who, whom只能指-人
+　　-whose指-人或物
+　　-宾语从句一定要有that; -定语从句用that和which有区别:
+　　that限制性，紧跟被修饰名词后；which引导非限制性定语从句，前面必须是","或介词
+　　II.even though, although > despite, in spite of
+　　not…but…> …rather than…, instead of
+　　B +介词+ A结构> AB结构，如Inability of French > French inability
+　　形容词名词结构> 名词that is
+　　同位语从句> 定语从句
+　　III.GMAT中一定错的表达方式
+　　-口语化表达：when you; if you; maybe < probably
+　　-主观色彩的表达方式一定错: be to do, be going to, have to
+　　-Similar to放在句首一定错，-无论是整句还是分句
+    -Enough在画线部分一定错！
+　　-Concerning一定错！要用about, over
+　　-Hopefully错！要用it is hoped
+　　-Make comparison of错！要用compare
+ 　 -With the intention to错！要用intend
+ 　 -As is based错！要用based
+ 　 -Be able to be done错！
+ 　 -There be done错！
+ 　 -Comparing，-basing错！只能用被动compared, based
+ 　 -Doubled, tripled, quadrupled错！只能用主动
+ 　 IV.整个前面一段话对后面的影响
+ 　 正确选项：现在分词；
+ 　 A中没出现的名词，概括前半句，并做后两句的主语
+ 　 错误选项：to do something;
+ 　 用which指代前面整个句子
+ 　 VI.当表示一前一后的两个动词，要用‘and'连接；
+ 　 分词做状语表伴随状态一定错！
+ 　 Doing A, B do?
+ 　 A do, doing B?
+ 　 当一个动词是另一个动词的伴随状况而用and连接，一定错！
+ 　 VII.形容词和副词的区别
+ 　 a.形容词、副词转意：significant, significantly; fair, fairly
+ 　 b.形容词修饰名c.词、副词修饰动词：closing quickly; pack clothes flat
+ 　 d.形容词修饰名e.词、副词修饰形容词：seemingly permanent accommodation
+ 　 VIII.分词的省略结构
+ 　 介词+分词
+ 　 连词+分词要求分词的逻辑主语与后句的主语一致
+ 　 正确选项的给出：
+ 　 Type A:保留分词省略结构，把后面主语换成正确的主语；
+ 　 Type B:把分词结构名词化，分词逻辑主语没出现，故把分词结构名
+ 　 词化
+ 　 IX.表示A和B一样大或至少比B大
+ 　 as…as…or greater than
+ 　 at least as…as
+ 　 at most as…as
+ 　 as…as something, if not more so (此形式出现一定对)
+ 　 X.Like和As的混合考法
+ 　 Like (介词)+名词或名词短语
+ 　 As (连词) +句子，助动词补出
+ 　 Like A, B do (A, B必须是完全相同的结构)
+ 　 XII.在GMAT中，有一类词强调动作、过程closing, varying, the rising of cost;另一类词强调结果、状态closed, varied, the rising cost。在选项中优选结果、状态的选项
+ 　 XIV.固定搭配：high rate, low rate, prevalent; rate对应rate而非wage
+ 　 New Oriental School Effectiveness (存在一个错，但不一定错；按严重性由大到小排)
+ 　 II.there be +抽象名词
+ 　 III.情态动词的强加、丢失、改变
+    IV.介词、助动词尽量补充原则
+ 　 V.定语从句和分词结构的就近修饰原则
+ 　 VI.定语从句that的尽量省略原则
+ 　 VII.代词指代要尽量地明确清晰
+ 　 VIII.and连接两个句子时要尽量使用相同句式
+ 　 when…when…; that…that…;
+ 　 how…how…;
+ 　 XI.三种关系的强加、丢失
+ 　 1>if引导的条件关系从句
+　　2>when引导的时间关系从句
+　　3>because…因果关系
+　　As的用法(P35 163)
+　　Just as A do something, so B do…
+　　Just as A do something, so too…
+　　GMAT考三类
+　　1>as, like的混合考：as作连词，
+　　2>像…一样，
+　　3>后面跟一个句子
+　　4>as作介词，
+　　5>as an adolescent; While being = as
+　　6>as后面加从句，
+　　7>as是连词，
+　　8>当…的时候
+　　As when she was a child…
+　　也可以说as a child (as是介词)

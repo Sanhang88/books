@@ -1,0 +1,599 @@
+GRE '93考题精选（七）--1
+
+  The September issue of a music journal will consist of exactly six articles, each by a different one of six musicologists—Ferraro, Gallegos, Herrera, Johnson, Lee,and Ostrow. The articles will appear sequentially, and their positions relative to one another in the issue must conform to the following conditions:　
+　Ostrow's article immediately precedes Gallegos' article.
+　Lee's article immediately precedes or else immediately.follows Ferraro's article.
+　Herrtra's article appears earlier in the issue than Gallegos' article.
+　Johnson's article is the first or else the second article.Which of the following lists the musicologists in an order in which their articles can appear in the issue?
+答案：(D)
+If Lee's article is second, which of the following must be true?
+Ferraro's article is third
+Gallegos' article is fifth
+Herrera's article is third
+Herrera's article is fifth
+Ostrow's article is sixth
+答案：(A)
+If Gallegos' article immediately precedes Ferraro's article, then Herrera's article can be
+second
+third
+fourth
+fifth
+sixth
+答案：(A)
+If Ferraro's article immediately precedes Lee's article,which of the following can be true?
+Gallegos' article immediately precedes Ferraro's article.
+Lee's article immediately precedes Gallegos' article.
+Ostrow's article immediately precedes Ferraro's article.
+Lee's article is second.
+Lee's article is fifth.
+答案：(A)
+If Ostrow's article immediately follows Herrera's article, which of the following can be true?
+Gallegos' article is third.
+Gallegos' article is fifth.
+Herrera's article is first.
+Johnson's article is second.
+Lee's article is second.
+答案：(E)
+If Gallegos' article immediately precedes Lee's article, then Ferraro's article must be
+second
+third
+fourth
+fifth
+sixth
+答案：(E)
+If Ostrow's article appears earlier in the issue than does Lee's article, which of the following must be true?
+Gallegos' article is third.
+Gailegos' article is fourth.
+Lee's article is fifth.
+Lee's article is sixth.
+Ostrow's article is second
+答案：(B)
+The average number of hours employees in the United States work per week stopped decreasing and has instead been increasing since 1970. This is not surprising, since in the absence of countervailing pressures, such as strong unions, employers find it possible to keep workers on the job for relatively long hours.
+　
+Which of the following, if true about United States employment,could best substitute for the reason given above concerning pressures on employers?
+The costs to employers of training and health benefits for employees rose to a level at which employers prefer　paying extra for overtime work to hiring additional workers.To maintain the same of living, a middle-class household requires more paid workers than in the period prior to 1970.Vacation time allowed by large employers for their　average workers is not increasing but is remaining　relatively constant.
+When workers put in a shorter workday, they tend to
+　work more efficiently, and when they work long hours.
+　their productivity tends to lag.
+As production processes are automated, it becomes
+　possible for employers to use fewer employees to produce
+　a given quantity of goods in a given amount of time
+　without increasing costs.
+答案：(A)
+问题：下面哪一个，如果关于美国雇佣正确得话，最能够替代关于雇主压力的原因?
+读题：自从1970年以来，美国工人每周平均工作时间不仅停止减少反而日益增加，这种现象并不奇怪，因为在缺少抵制压力的情况下，诸如强有力的工会，雇主们发现使工人们工作相对较长的时间是完全可能的。
+　
+分析：读题时我们当然就需要找到原因，看一下原因所起得作用。
+文中第四行since引导原因，它用来作为一个事实现象得解释为什么工作时间不仅停止减少反而日益增加呢？是因为缺少抵制压力，诸如强有力的工会。
+　
+替代这个原因相当于反对时有其他的原因来解释上面这个现象。
+A.雇主用于雇员的培训费和健康福利上升到一定水平后，雇主宁可对加班的工人提供加班费也不愿意另外雇佣工人。（有其他的原因来解释为什么工人工作时间增加，替代了原来的原因）
+　
+B.如果一个中产阶级家庭要维持同样的生活水准，就需要比1970年以前更多的工人。
+C.大雇主许可普通工人的度假时间并没有增长，而是保持相对稳定。
+D.当工人的工作日较短时，他们工作效率较高；相反工作时间太长，就会拖拉。
+E.随着生产过程实现自动化，雇主们有可能在不增加开支的前提下，在既定的时间内用较少的雇员生产既定数量的货物。
+Ounce for ounce, blends of different artificial sweeteners match any
+individual artificial sweetener in sweetening power. When used to sweeten
+food, blends greatly decrease the likelihood that consumers will exceed
+acceptable daily intakes for individual sweeteners. Blends should
+therefore be used. rather than single sweeteners alone, since blends are
+clearly more healthful, yet equally effective.
+　
+The argument above depends on which of the following assumptions?
+When ingested together,different artificial sweeteners
+　in the blends do not interact in a way that makes them
+　harmful to human health.
+Different artificial sweeteners, when used together
+　in food, do not contribute a more desirable flavor to
+　the food than would any one of them by itself.
+The acceptable daily intake for any given artificial
+　sweetener is a conservative figure that could probably
+　be greatly exceeded at little or no risk.
+Consumers who substitute artificial sweeteners for
+　sugar in their diets generally keep track of their daily
+　intake of different sweeteners.
+The ill effects on health produced by the intake of
+　excessive quantities of any single artificial sweetener
+　cannot be reversed by reducing in take later.
+答案：(A)
+问题：以上论证依据下面那一个假设？
+读题：在质量相等的前提下，几种人工制糖剂的混合物的甜度绝不逊于其中任何一种人工制糖剂的甜度。如果用来使食物发甜，几种制糖剂的混合物极大地降低了一种可能性, 消费者超过人体对某一种致糖剂日常可吸收量的可能性，所以，我们就不应仅仅使用某一种致糖剂，而应该食用多种糖剂的混合物，因为混合物更健康，而且同样有效。
+　
+分析：文中倒数第三行therefore引导结论，倒数第二行since引导原因因为混合物更健康，所以应该使用混合物。
+　
+A. 当人体同时消化几种不同的制糖剂时，混合物中的制糖剂不会相互作用从而危害人体健康。(去掉not, 混合物中的制糖剂会相互作用从而危害人体健康，结论不成立，因此a就是assumption)
+　 　
+B. 几种不同的制糖剂同时用于一种食物时，不会比使用其中任何一种制糖剂产生更好的味道。
+　
+C. 任何一种人工制糖剂的日常可吸收量都是一个保守数字，如果大大超过这个数字都不会或很少有什么危险。
+　
+D. 用制糖剂代替饮食中的糖的消费者一般每天都保持摄取几种不同的制糖剂。
+E. 由于摄取过量的某一种人工制糖剂而对人体健康造成的恶劣影响，很难靠日后减少摄入量而弥补。（加强论据，可以作为支持）
+A certain pesticide can harm plants of one common
+species if used to treat them. But since the pesticide
+carries a warning to that effect, there is little danger
+that plants of this vulnerable species will be harmed
+as a result of being treated with that pesticide.
+　
+Which of the following if true, most seriously weakens
+the argument above?
+There are several relatively rare species of plants
+　to which the pesticide is potentially harmful.
+The pesticide is sold only in special dispensers from
+　which it cannot easily be transferred into an unmarked
+　container.
+Advice about the proper use of the pesticide in
+　question is provided free of charge to all who purchase
+　the pesticide.
+It is difficult to distinguish plants of the species
+　that the pesticide can harm from related plants that can
+　benefit from treatment with the pesticide.
+Any plant that is susceptible to harm by the pesticide
+　in question is also likely to be harmed if it comes into
+　contact with a different, more common, pesticide.
+答案：(D)
+问题：下面哪一个，if true，最严重地削弱了上面的论述?
+读题：当某种杀虫剂用来治疗一种常见种类植物时会伤害它们，但是由于该杀虫剂带有对这种效果的警告，所以这种易受伤害的植物被杀虫剂伤害的可能性极小。
+　
+分析：第二行since引导原因
+　　　因为对这种伤害带有警告，所以植物就不会被伤害反对可以: 1、直接反对原因，比如对不这种伤害带有警告的明确性
+2、原因和结论两者之间，虽然带有警告，还有伤害。
+　
+A. 该杀虫剂可能伤害的植物种类极少。
+B. 该杀虫剂仅在专门器皿中出售,一般不会轻易转移到无标签的容器。（有点支持，这种杀虫剂很容易识别，不会弄错）
+　
+C. 关于如何正确使用杀虫剂的建议会免费提供给所有买杀虫剂的人。
+D. 杀虫剂可能会伤害的植物种类与受益于杀虫剂的植物种类很难区别开来。（原因是有警告, 但是现在说会伤害的植物种类与受益于杀虫剂的植物种类很难区分，那么就有可能把杀虫剂用在会受伤害的植物上，因此作为反对）
+E. 任何易于被该杀虫剂伤害的植物，一旦与另一种不同的更加普遍的杀虫剂接触，同样会受伤害
+　Exactly seven faculty members—N, O, P, S, T, U, and
+X—are to be divided into two committees, Committee 1
+and Committee 2. Each faculty member will be assigned
+to exactly one of the committees according to the
+following conditions:
+　
+　Each committee must include at least three faculty members.
+　If U is on Committee 2, N must be on Committee 1.
+　If O is on Committee 1, T must also be on Committee 1.
+　If S is on Committee 1, X must be on Committee 2.
+　P must be on a different committee from X.
+Which of the following could be the two committees?
+Committee 1 Committee 2
+P, S, T N, O, U, X 　　
+N, P, U, X O, S, T
+O, P, S. U N, T, X
+O, T, U, X N, P, S
+N, O, P, S, T U, X
+答案：(D)
+If S is on Committee 1, which of the following must be true?
+N is on Committee 2.
+O is on Committee 1.
+P is on Committee 1.
+T is on Committee 1.
+U is on Committee 2.
+答案：(C)
+If U is one of four people on Committee 2, which of
+the following must be true?
+O is on Committee 2.
+P is on Committee 1.
+S is on Committee 2.
+T is on Committee 1.
+X is on Committee 1.
+答案：(A)
+If S is on we same committee as both U and X, which
+of the following can be true?
+N is on Committee 2.
+O is on Committee 2.
+P is on Committee 2.
+T is on Committee 2.
+X is on Committee 1.
+答案：(B)
+If T is one of exactly three people on Committee 2,
+which of the following is a pair of people who must be
+on a committee together?
+N and U
+O and P
+O and S
+S and X
+U and X
+答案：(A)
+On a particular day, seven divers—F, G, H, J, K, L, and M—will be
+available to dive in four shifts to recover artifacts from a sunken ship.
+Shifts will last 90 minutes and will begin at 8a.m. at 10a.m. at 12noon,
+and at 2p.m. Shifts will be organized according to the following
+conditions:
+　In no shift can there be fewer than two divers or more than three divers.
+　No diver can dive during two consecutive shifts.
+　F and G cannot dive during the same shift as each other.
+　Neither K nor L can dive during any shift unless the other
+　　also dives during that shift.
+　J must dive at 12 o'clock and not before 12 o'clock.
+Which of the following can be the divers during the
+8 o'clock and 10 o'clock shifts?
+　8 o'clock　10 o'clock
+F, H G, J, M 　
+F, L G, H
+G, H K, L, M
+G, H H, K, L
+K, L F, G, M
+答案：(C)
+读题：某天，7个潜水员F、G、H、J、K、L、M分4批营救沉船，每次持续90分钟，
+　　　将从8am、 10am、12noon、2pm开始
+写条件：
+1、2/3 （表示每次2到3个人）
+2、～Con （表示没有人能够连续）
+3、F≠G （表示F、G不能在同一个shift)
+*4、K=L （表示K、L不能潜水，除非另外一人也在那个shift)
+*5、J=12，并且J>12 （表示J一定在12点开始那批，并且如果还有J的话，J晚于12点)
+　
+条件总结：
+*正确理解条件5，J=12，并且not before 12，也就是如果还有J的话，J不能早于12点
+一共4个shift，那么就只有2点了，但是条件2有～Con ，12noon和2pm处于连续位置
+所以J只能在12noon
+（第17题其实就是对这个条件的理解）
+　
+理解条件时注意：
+1、尽量从一些直观的角度来考察，而不是从模糊的角度，比如本题条件5，J>12，
+大于12一共才只有一个shift，当然直接写为J=2；再比如全分组，分为2组，
+J≠1，当然可直接理解为J=2。
+2、不仅仅要理解条件的表面含义、字面意思，要把条件放到具体的题目、数字和其
+它条件结合考虑，比如本题12noon和2p.m.位置的连续。
+Any of the following could dive during more than one
+of the four shifts EXCEPT
+F
+G
+J
+K
+M
+答案：(C)
+读题：某天，7个潜水员F、G、H、J、K、L、M分4批营救沉船，每次持续90分钟，
+　　　将从8am、 10am、12noon、2pm开始
+写条件：
+1、2/3 （表示每次2到3个人）
+2、～Con （表示没有人能够连续）
+3、F≠G （表示F、G不能在同一个shift)
+*4、K=L （表示K、L不能潜水，除非另外一人也在那个shift)
+*5、J=12，并且J>12 （表示J一定在12点开始那批，并且如果还有J的话，J晚于12点)
+　
+条件总结：
+*正确理解条件5，J=12，并且not before 12，也就是如果还有J的话，J不能早于12点
+一共4个shift，那么就只有2点了，但是条件2有～Con ，12noon和2pm处于连续位置
+所以J只能在12noon
+（第17题其实就是对这个条件的理解）
+　
+理解条件时注意：
+1、尽量从一些直观的角度来考察，而不是从模糊的角度，比如本题条件5，J>12，
+大于12一共才只有一个shift，当然直接写为J=2；再比如全分组，分为2组，
+J≠1，当然可直接理解为J=2。
+2、不仅仅要理解条件的表面含义、字面意思，要把条件放到具体的题目、数字和其
+它条件结合考虑，比如本题12noon和2p.m.位置的连续。
+If F dives during the 8 o'clock and 12 o'clock shifts,
+which of the following could also dive during the 8 o'clock
+and 12 o'clock shifts?
+G
+J
+K
+L
+M
+答案：(E)
+读题：某天，7个潜水员F、G、H、J、K、L、M分4批营救沉船，每次持续90分钟，
+　　　将从8am、 10am、12noon、2pm开始
+写条件：
+1、2/3 （表示每次2到3个人）
+2、～Con （表示没有人能够连续）
+3、F≠G （表示F、G不能在同一个shift)
+*4、K=L （表示K、L不能潜水，除非另外一人也在那个shift)
+*5、J=12，并且J>12 （表示J一定在12点开始那批，并且如果还有J的话，J晚于12点)
+　
+条件总结：
+*正确理解条件5，J=12，并且not before 12，也就是如果还有J的话，J不能早于12点
+一共4个shift，那么就只有2点了，但是条件2有～Con ，12noon和2pm处于连续位置
+所以J只能在12noon
+（第17题其实就是对这个条件的理解）
+　
+理解条件时注意：
+1、尽量从一些直观的角度来考察，而不是从模糊的角度，比如本题条件5，J>12，
+大于12一共才只有一个shift，当然直接写为J=2；再比如全分组，分为2组，
+J≠1，当然可直接理解为J=2。
+2、不仅仅要理解条件的表面含义、字面意思，要把条件放到具体的题目、数字和其
+它条件结合考虑，比如本题12noon和2p.m.位置的连续。
+如果F=8,12，下面哪一个同样可能在8,12？
+　解题步骤：
+1、条件3，F≠G，很明显A错。
+2、J只为12，B错。
+3、由于J=12，则12位置上已经有2个元素，而条件1有每个shift为2/3人，
+J,F已经有两人，所以最多只能再有1人。
+条件4：K=L，则KL都不能在12，故C、D错。
+If G, H and M all dive during the 8 o'clock shift,
+which of the following is one of the divers who must
+dive during the 10 o'clock shift?
+F
+G
+H
+J
+L
+答案：(E)
+读题：某天，7个潜水员F、G、H、J、K、L、M分4批营救沉船，每次持续90分钟，
+　　　将从8am、 10am、12noon、2pm开始
+写条件：
+1、2/3 （表示每次2到3个人）
+2、～Con （表示没有人能够连续）
+3、F≠G （表示F、G不能在同一个shift)
+*4、K=L （表示K、L不能潜水，除非另外一人也在那个shift)
+*5、J=12，并且J>12 （表示J一定在12点开始那批，并且如果还有J的话，J晚于12点)
+　
+条件总结：
+*正确理解条件5，J=12，并且not before 12，也就是如果还有J的话，J不能早于12点
+一共4个shift，那么就只有2点了，但是条件2有～Con ，12noon和2pm处于连续位置
+所以J只能在12noon
+（第17题其实就是对这个条件的理解）
+　
+理解条件时注意：
+1、尽量从一些直观的角度来考察，而不是从模糊的角度，比如本题条件5，J>12，
+大于12一共才只有一个shift，当然直接写为J=2；再比如全分组，分为2组，
+J≠1，当然可直接理解为J=2。
+2、不仅仅要理解条件的表面含义、字面意思，要把条件放到具体的题目、数字和其
+它条件结合考虑，比如本题12noon和2p.m.位置的连续。
+If L and M both dive during the 8 o'clock shift.
+which of the following must dive during the 10 o'clock
+shift?
+F
+G
+H
+J
+K
+答案：(C)
+读题：某天，7个潜水员F、G、H、J、K、L、M分4批营救沉船，每次持续90分钟，
+　　　将从8am、 10am、12noon、2pm开始
+写条件：
+1、2/3 （表示每次2到3个人）
+2、～Con （表示没有人能够连续）
+3、F≠G （表示F、G不能在同一个shift)
+*4、K=L （表示K、L不能潜水，除非另外一人也在那个shift)
+*5、J=12，并且J>12 （表示J一定在12点开始那批，并且如果还有J的话，J晚于12点)
+　
+条件总结：
+*正确理解条件5，J=12，并且not before 12，也就是如果还有J的话，J不能早于12点
+一共4个shift，那么就只有2点了，但是条件2有～Con ，12noon和2pm处于连续位置
+所以J只能在12noon
+（第17题其实就是对这个条件的理解）
+　
+理解条件时注意：
+1、尽量从一些直观的角度来考察，而不是从模糊的角度，比如本题条件5，J>12，
+大于12一共才只有一个shift，当然直接写为J=2；再比如全分组，分为2组，
+J≠1，当然可直接理解为J=2。
+2、不仅仅要理解条件的表面含义、字面意思，要把条件放到具体的题目、数字和其
+它条件结合考虑，比如本题12noon和2p.m.位置的连续。
+如果L,M=8，下面哪一个一定在10？
+已知8，问谁在，当然应该从条件2：元素不能在连续的shift来考虑
+1、L,M=8，K=L，则8有K、L、M
+2、J只在12，
+　此时还余下3个元素F、G、H，10上面得元素之能够从这里取，必须至少取2个
+3、条件3，F≠G，则10上的元素为F/G、H，必有H，故选C
+If during each shift there are exactly three divers
+diving, and if F and M both dive during the 8 o'clock
+shift, the divers in the 12 o'clock shift can be J as
+well as
+F and G
+F and H
+G and H
+G and M
+K and L
+答案：(B)
+
+GRE '93考题精选（七）
+--------------------------------------------------------------------------------
+摘自：《试题库 》(2002-02-06)
+上一页  1 2 3  下一页
+读题：某天，7个潜水员F、G、H、J、K、L、M分4批营救沉船，每次持续90分钟，
+　　　将从8am、 10am、12noon、2pm开始
+写条件：
+1、2/3 （表示每次2到3个人）
+2、～Con （表示没有人能够连续）
+3、F≠G （表示F、G不能在同一个shift)
+*4、K=L （表示K、L不能潜水，除非另外一人也在那个shift)
+*5、J=12，并且J>12 （表示J一定在12点开始那批，并且如果还有J的话，J晚于12点)
+　
+条件总结：
+*正确理解条件5，J=12，并且not before 12，也就是如果还有J的话，J不能早于12点
+一共4个shift，那么就只有2点了，但是条件2有～Con ，12noon和2pm处于连续位置
+所以J只能在12noon
+（第17题其实就是对这个条件的理解）
+　
+理解条件时注意：
+1、尽量从一些直观的角度来考察，而不是从模糊的角度，比如本题条件5，J>12，
+大于12一共才只有一个shift，当然直接写为J=2；再比如全分组，分为2组，
+J≠1，当然可直接理解为J=2。
+2、不仅仅要理解条件的表面含义、字面意思，要把条件放到具体的题目、数字和其
+它条件结合考虑，比如本题12noon和2p.m.位置的连续。
+如果每个shift有3人，并且F,M=8，则12上除了J还可能有谁？
+同20题一样，也应该从元素不能在连续的shift来考虑，已知8，求12，当然要考虑中
+间位置10
+1、每个shift有3人，由于～Con，则连续2个相邻的shift有6个不同的人，一共
+有7人，并且J只等于12，则可供8am、10am选择的只有6人
+题目已知F,M=8，余下4人由条件K=L，F≠G得到安排如下：
+8am 10am
+F K
+M L
+H
+　　
+2、12 noon不能有10am上的元素，只能是从F、M、H中选择2个，故B正确。
+If during each shift then are exactly two divers diving, which of
+the following can be true?
+There is one diver who dives during three different shifts.
+Three divers do not dive at all that day.
+The same two divers who dive at 8 o'clock also dive
+at 12 o'clock.
+T he same two divers who dive at 10 o'clock also dive
+at 2 o'clock.
+H dives during at least one shift in which L also dives.$
+答案：(D)
+读题：某天，7个潜水员F、G、H、J、K、L、M分4批营救沉船，每次持续90分钟，
+　　　将从8am、 10am、12noon、2pm开始
+写条件：
+1、2/3 （表示每次2到3个人）
+2、～Con （表示没有人能够连续）
+3、F≠G （表示F、G不能在同一个shift)
+*4、K=L （表示K、L不能潜水，除非另外一人也在那个shift)
+*5、J=12，并且J>12 （表示J一定在12点开始那批，并且如果还有J的话，J晚于12点)
+　
+条件总结：
+*正确理解条件5，J=12，并且not before 12，也就是如果还有J的话，J不能早于12点
+一共4个shift，那么就只有2点了，但是条件2有～Con ，12noon和2pm处于连续位置
+所以J只能在12noon
+（第17题其实就是对这个条件的理解）
+　
+理解条件时注意：
+1、尽量从一些直观的角度来考察，而不是从模糊的角度，比如本题条件5，J>12，
+大于12一共才只有一个shift，当然直接写为J=2；再比如全分组，分为2组，
+J≠1，当然可直接理解为J=2。
+2、不仅仅要理解条件的表面含义、字面意思，要把条件放到具体的题目、数字和其
+它条件结合考虑，比如本题12noon和2p.m.位置的连续。
+如果每个shift有2人，下面哪一个可能正确？
+1、由条件2:～Con，并且每个shift有2人，则8am,10am两个shift需要4个不同的人，
+再加上J，至少需要5人， can be true可用排除法。
+A.有一个人在3个不同的shift；
+　（一共4个shift，一个人在3个不同的shift，则必然至少有2个是连续的shift，
+　　这违反了条件2，A错)
+B.3人那天不潜水
+　（7个人，3人不用，剩下4人，则违背至少要5人，故B错）
+C.由于J只等于12，故C错。
+E.由于有L就有K，，再加上H，这该shift有3人，违背每个shift有2人，故E错
+Almost all forms of large-scale electric power
+generation pollute the environment; the less electric
+power consumed, therefore, the less pollution created.
+Ordinary refrigerators account for 15 percent to 25
+percent of the average United States household's annual
+electric power consumption, but energy efficient refrige-
+rators use 20 percent to 30 percent less electricity
+than ordinary refrigerators.
+　
+If the information above is correct, which of the
+following conclusions does it best support?
+The increasingly widespread use of energy efficient
+　refrigerators will ensure that less pollution will be
+　produced twenty years from now than is currently being
+　produced.
+United States household energy consumption could be
+　reduced by 20 percent to 30 percent if all households
+　were to replace their current refrigerators with energy-
+　efficient models.
+In the future,people will buy smaller refrigerators
+　and will keep a smaller percentage of food items
+　refrigerated.
+The replacement of ordinary refrigerators with energy-
+　efficient refrigerators can help reduce the amount of new
+　pollution created.
+Energy-efficient refrigerators often cost substantially
+　more money than do ordinary refrigerators.
+答案：(D)
+问题：以上信息支持以下哪个结论?
+读题：几乎所有大型发电形式都会污染环境，所以，耗电越少，污染越少，普通冰箱的耗
+　　　电量占普通美国家庭年耗电量的15-25%，而节能冰箱比普通冰箱耗电少20-30%。
+　
+A. 节能冰箱日益广泛的应用将保证20年后的污染没有目前的污染严重。
+　　（新的比较）
+B. 如果所有美国家庭都用节能冰箱代替普通冰箱，则美国家庭耗电量将减少20-30%。
+C. 将来人们将买小型冰箱，而且所冷冻的食物的比例也会减少。
+　
+D. 用节能冰箱替代普通冰箱有助于减少新产生的污染。
+　　（耗电越少，污染越少,节能冰箱比普通冰箱耗电少,新产生的污染就少）
+　
+E. 节能冰箱要比普通冰箱花好多钱。
+　　（新的比较）
+Regional and local telephone companies around the
+nation are beginning to offer customers an electronic
+operator system that allows customers to choose to
+make some operator-assisted calls through an electronic
+operator. Nevertheless, the number of human operators
+on staff will not be reduced in the foreseeable future.
+　
+Each of the following statements, if true, helps explain
+why the number of human operators is not being reduced EXCEPT:
+Demand for operator-assisted calls is increasing dramatically.
+The new electronic operator system,though it has been tested,
+　is expected to require significant adjustments before it can
+　become fully operational.
+The operators' union would be quick to strike the companies
+　involved if operators were dismissed during the current
+　contract period.
+In one regional trial of the electronic system, virtually
+　all consumers, given a choice, preferred a human operator to
+　an electronic.
+The new electronic operator system will complete operator-
+　assisted calls twice as fast as human operator can.
+答案：(E)
+问题：以下何项有助于解释人工接线员不会减少的原因，EXCEPT:
+读题：全国地区性公司及当地公司正在提供给消费者一种电脑话务员系统，该系统使消费
+　　　者通过电脑话务员打接线员协助电话（或分机电话），即使如此，在可预见的将
+　　　来，人工接线员的数量仍不会减少。
+　
+A. 人们对接线员协助电话的需求正在剧增。
+B. 新的电子接线员系统尽管已通过检验，但在正式开通之前仍需要极大调整。
+C. 若在目前合同期内解雇工人，则接线员联合会将很快起来对有关公司罢工。
+D. 在对电子接线员系统进行的专区性试验中，如果在二者中进行选择的话，几乎所有的
+　　顾客更喜欢人工接线员。
+E. 新电子接线员完成接线员协助的电话的速度是人工接线员的2倍。
+Dreams are composed of disjointed images from memory
+on which superficial stories are imposed. They do not have
+psychological significance, however, because they arise
+as merely a result of chemical processes that cause visual
+images to be recalled while the brain categorizes,compares,
+and stores away the day's experiences.
+　
+The argument above is vulnerable to criticism if it is true that
+dreams would be more coherent than they are if they
+　had psychological significance.
+a dream cannot be communicated unless the dreamer
+　has awakened.
+both the categorizing of experiences and the imposition
+　of stories are events with psychological significance.
+it would be impossible for the brain to function
+　without carrying on chemical processes.
+dreaming must have a biological basis if dreaming
+　is essential to adequate sleep.
+答案：(C)
+问题：下面哪一个，if true，最易于使上面的论述遭受批评？
+读题：梦是由产生于记忆的一些不连贯的映像组成的，而记忆中又附加了许多肤浅的
+　　　（或模糊的故事）。但是，梦并没有心理学意义；因为梦的产生仅仅是化学作用的
+　　　结果，当大脑对一天的经历进行分类、比较和储存时，唤起大脑对视觉形象回忆的
+　　　化学作用。
+　
+分析：第四行because前面是结论，后面引导原因
+　　　结论：梦没有心理学意义
+　　　原因：是某个化学过程的结果。
+很显然，原因because引导，对反对来说：
+　1、主要针对原因，
+　2、原因和结论之间，虽然是化学作用，还是有心理学意义
+　
+A. 如果梦具有心理学意义，则会更加连贯。
+B. 若不叫醒作梦者，就无法交流所作的梦。
+C. 将经历分类和附加故事于记忆之中都是具有心理学意义的事件。
+　　（直接反对论据，化学作用中本身就具有心理学意义）
+　
+D. 如果大脑不进行化学作用，则大脑就无法起作用。
+E. 如果作梦对保持充足睡眠是必要的，那么作梦一定具有生物基础。
+
+In some cultures the essence of magic is its traditional
+integrity; it can be efficient only if it has been -------
+without loss from primeval times to the present practitioner.
+conventionalized
+realized
+transmitted
+manipulated
+aggrandized
+答案：(C)
+magic: n.魔术，法术，巫术
+integrity: n.1.正真，廉正，诚实，诚恳 2.完整，完全 3.完善，健全
+primeval: a.原始的，早期的，远古的
+efficient: a.1.效率高的，有能力的，能胜任的 2.直接产生效果的，有效的，生效的
+conventionalize: a.使符合习俗，使惯例化，按传统手法表现
+aggrandize: v.扩大…权势，提高…地位，增进，扩充
+　
+在某些文化中，巫术的本质在于其传统的完整性：只有当它被完好无损地从远古时期传递到当今术士的手中，它方能显得卓有成效。
+Although skeptics say financial problems will probably
+--------- our establishing a base on the Moon. Supporters
+of the project remain ------, saying that human curiosity
+should overcome such pragmatic constraints.
+beset.. disillusioned
+hasten.. hopeful

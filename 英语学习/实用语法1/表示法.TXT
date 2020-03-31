@@ -1,0 +1,277 @@
+序数词表示法
+表示顺序的词称为序数词。序数词的主要形式：
+A．从第一至第十九
+其中，one— first， 
+two— second， 
+three— third， 
+five— fifth，
+eight—eighth，
+nine—ninth，
+twelve— twelfth为特殊形式，其它的序数词都是由其相对应的基数词后面添加“th”构成。例如： six— sixth、nineteen— nineteenth．
+B．从第二十至第九十九
+整数第几十的形式由其对应的基数词改变结尾字母y为i，再加“eth”构成。
+twenty——twentieth thirty——thirtieth
+表示第几十几时，用几十的基数词形式加上连字符“－”和个位序数词形式一起表示。
+thirty-first 第三十一
+fifty-sixth 第五十六
+seventy-third 第七十三
+ninety-ninth 第九十九
+C．第一百以上的多位序数词
+由基数词的形式变结尾部分为序数词形式来表示。
+one hundred and twenty-first 第一百二十一
+one thousand，three hundred and twentieth 第一千三百二十
+D．序数词的缩写形式
+有时，序数词可以用缩写形式来表示。主要缩写形式有。
+first——lst second——2nd third——3rd
+fourth——4th sixth——6th twentieth——20th
+twenty-third——23rd
+其中lst，2nd，3rd为特殊形式，其它的都是阿拉伯数字后加上th。
+E．序数词的句法功能
+序数词在句中可作主语、宾语、定语和表语。
+The second is what I really need．
+第二个是我真正需要的。（作主语）
+He choose the second．
+他挑选了第二个。（作宾语）
+We are to carry out the first plan．
+我们将执行第一个计划。（作定语）
+She is the second in our class．在我们班她是第二名。（作表语）
+注：序数词在使用时，通常前面要加定冠词 the；但是如果序数词前出现不定冠词a或an时，则表示“再——”，“又——”。
+We'll go over it a second time．
+我们得再念第二遍。
+We've tried it three times．Must we try it a fourth time?
+我们已经试过三遍了，还必须试一次（第四次）吗？
+另外，基数词也可以表示顺序。只需将基数词放在它所修饰的名词之后即可，不需要添加定冠词。
+the first lesson——Lesson One
+the fifth page——Page 5（five）
+the twenty-first room——Room 21（twenty-one）
+
+小数表示法
+1. 小数用基数词来表示，以小数点为界，小数点左首的数字为一个单位，表示整数，数字合起来读；小数点右首的数字为一个单位，表示小数，数字分开来读；小数点读作 point，o读作 zero或o［ou］，整数部分为零时，可以省略不读。
+0.4 zero point four或point four 零点四
+10.23 ten point two three 十点二三
+25.67 twenty-five point six seven 二十五点六七
+l.03 one point o three 一点零三
+2.当数字值大于1时，小数后面的名词用复数，数字值小于1时，小数后面的名词用单数。
+1.03 meters 一点零三米 0.49 ton 零点四九吨
+l.5 tons 一点五吨
+
+数量表示法
+1.表示长、宽、高、面积等，用基数词+单位词（meter，foot，inch，kilogram等）+ 形容词（long，wide，high等）表示，或者用基数词+单位词 + in + 名词（length， width， height， weight等）表示。
+two meters long或 two meters in length 2米长
+three feet high或 three feet in height 3英尺高
+four inches wide或 four inches in width 4英寸宽
+This box is 2 kilograms in weight．
+这个盒子有两千克重。
+The city wall of Xi'an is 12 meters wide and 12 meters high．
+西安城墙是12米宽，12米高。
+2. 表示时间、距离时，使用含数词的名词所有格形式作定语。
+five minutes' walk
+步行五分钟（的距离）
+It's an hour's ride from my hometown to our university．
+从我的家乡到我们大学是乘车一小时的路程。
+或：从我的家乡到我们大学需要乘车一小时。
+It's three kilometers' distance from our campus to the Bell Tower.
+从我们校园到钟楼有三公里远。
+3. 表示温度时，用below zero表示零下温度，温度用基数词+degree（s）+单位词（centigrade摄氏或Fahrenheit华氏）表示。
+thirty-six degrees centigrade或 36℃ 摄氏 36度
+four degrees below zero centigrade或 -4℃ 摄氏零下4度
+Water freezes at thirty-two degrees Fahrenheit．
+水在华氏三十二度时结冰。
+Water boils at one hundred degrees centigrade．
+水在摄氏一百度时沸腾。
+这里的单位词在人们都很清楚是什么度量制度时，可以省略。
+You are 37℃．（读作 thirty-seven degrees）
+你是三十七度。（摄氏）
+It's seven degrees below zero．
+今天是零下七度。（摄氏）
+4. 由数词和其他名词构成的名词性短语作定语时，其中的名词用单数形式，名词性短语中各部分间要用连字符“-”来连接。
+It's a five-minute walk from the library to the playground．
+从图书馆到操场需要走五分钟。
+She's a sixteen-year-old girl．
+她是个十六岁的女孩。
+5. 表示“比···大（或）几倍”的说法。
+This room is two times bigger than that one．
+这个房间比那个（房间）大两倍。
+The dictionary is four times thicker than that book．
+这本词典比那本书厚四倍。
+My age is two times older than his．
+我的年龄比他大两倍。
+
+百分数表示法
+百分数用基数＋percent表示
+50％ fifty percent　百分之五十
+3％ three percent　百分之三
+0.12％ zero point one two percent 百分之零点一二
+   这里的percent前半部per表示“每一”，cent这一后半部分表示“百”，所以百分之几中percent不用复数形式。
+   
+年月表示法
+1. 世纪可以用定冠词加序数词加世纪century表示，也可以用定冠词加百位进数加's表示
+the sixth（6th）century 公元六世纪
+the eighteenth（18th）century 公元十八世纪
+the 1900's 二十世纪
+the 1600's 十七世纪
+这里，用百位数整数表示的世纪比这一百位阿拉伯数字本身多一个世纪。
+2. 年代用定冠词及基数词表示的世纪加十位整数的复数形式构成
+in the 1930's（in the thirties of the twentieth century或 in the nineteen thirties）
+在二十世纪三十年代
+in the 1860's（in the sixties of the 19th century或 in the eighteen sixties）
+在十九世纪六十年代
+In the 1870's when Marx was already in his fifties，he found it important to study the situation in Russia，so he began to learn Russian．
+在十九世纪七十年代当马克思已经五十多岁时，他发现研究俄国的形势很重要，便开始学习俄语。
+3. 表示某年代的早期、中期和晚期，可以在定冠词后，年代前添加 early，mid-，late
+in the early 1920's 在二十世纪二十年代早期
+in the mid-1950's 在二十世纪五十年代中期
+4. 年月日表示法
+A．年份用基数词表示，一般写为阿拉伯数字，读时可以以hundred为单位，也可以以纪、年代为单位分别来读。
+1949 读作 nineteen hundred and forty-nine 或 nineteen forty-nine
+1800 读作 eighteen hundred
+253 读作 two hundred and fifty-three或two fifty-three
+1902 读作 nineteen hundred and two或 nineteen o two
+表示在哪一年，一般在年数前加介词in，使用year时，year放在数词之前。
+in the year two fifty-three B.C. 在公元前253年
+但是，通常采用in加表示年份的阿拉伯数字。
+B. 月份，在哪个月用介词in加第一个字母大写的月份词表示。例如：in May在五月； in July在七月。为了简便起见，月份与日期连用时，月份常用缩写形式表示。缩写形式除May，June，July外，其它的月份都由其前三个字母表示，但September除外。
+January——Jan．一月 February——Feb．二月
+March——Mar. 三月 April——Apr．四月
+August——Aug．八月
+September——Sept．九月
+October——Oct．十月
+November——Nov．十一月
+December——Dec．十二月
+注：这里缩写形式后面加点不能省略，因为它是表示缩写形式的符号。
+C．日期用定冠词the加序数词表示。在哪一天要添加介词on。
+National Day is on Oct. 1.
+国庆节是十月一日。（读作 October first）
+此句也可以表示为 National Day is on the 1st of October．
+May 5 五月五日（读作May fifth）
+也可以表示为the fifth（5th）of May
+Mar. 1（st） 三月一日（读作March first或 the first of March）
+5. 表示不具体、不确切的时间，如世纪、年代、年份、月份时，用介词in表示，表示具体确切的某一天用介词on表示通常情况下morning，afternoon，evening等词前用介词in。但是，当这些词前后有一修饰限定的词作为定语，把它们限定为某一天早晨、下午或晚上时，介词in应改为on。这里的修饰限定词可以是介词短语、名词、形容词、定语从句等。
+On a cold morning，the old man died lonely in his house．
+在一个寒冷的早晨，这个老人孤独地死在自己的房子里。
+I don't want to be disturbed on nights when I have to study．
+我不愿意在我必须学习的晚上被打扰。
+The accident happened on the afternoon of July 7．
+这次事故发生在7月7日下午。
+We are to have a small test on Monday morning．
+星期一早晨我们将进行一次小测验。
+
+加减乘除表示法
+1. “加”用plus，and或add表示；“等于”用is，make，equal等词表示。
+2+3=? 可表示为： How much is two plus three?
+2+3=5
+Two plus three is five．
+Two and three is equal to five．
+Two and three make five．
+Two added to three equals five．
+If we add two to/and three, we get five．
+二加三等于五
+2. “减”用 minus或 take from表示
+10－6＝?　How much is ten minus six?
+10-6=4
+Ten minus six is four．
+Take six from ten and the remainder is four.
+Six (taken) from ten is four．
+十减去六等于四
+3. “乘”用time（动词）或multiply表示
+3X4＝? How much is three times four?
+3X4=12
+Three times four is/are twelve．
+Multiply three by four，we get twelve．
+Three multiplied by four makes twelve．
+三乘以四等于十二
+4. “除”用divide的过去分词形式表示
+16÷4=? How much is sixteen divided by four?
+16÷4＝4
+Sixteen divided by four is four．
+Sixteen divided by four equals/gives/makes four．
+十六除以四等于四。
+
+基数词
+表示数目的词称为基数词。其形式如下：
+A．从1——10
+one，two，three，four，five，six，seven，eight，nine，ten．
+B．从 11——19
+eleven，twelve， thirteen， fourteen， fifteen， sixteen， seventeen，eighteen， nineteen．
+这里除 eleven， twelve， thirteen， fifteen， eighteen为特殊形式外，fourteen，sixteen，seventeen，nineteen都是由其个位数形式后添加后缀-teen构成。
+C．从 21——99
+整数几十中除twenty，thirty, forty，fifty，eighty为特殊形式外，sixty，seventy，ninety都是其个位数形式后添加后缀-ty构成。表示几十几时，在几十和个位基数词形式之间添加连字符“-”
+21 twenty-one
+76 seventy-six
+D．百位数
+个数基数词形式加“hundred”，表示几百，在几十几与百位间加上and．
+101 a hundred and one
+320 three hundred and twenty
+648 six hundred and forty-eight
+E．千位数以上
+   从数字的右端向左端数起，每三位数加一个逗号“，”。从右开始，第一个“，”前的数字后添加 thousand，第二个“，”前面的数字后添加 million，第三个“，”前的数字后添加 billion。然后一节一节分别表示，两个逗号之间最大的数为百位数形式。
+   2,648 two thousand six hundred and forty-eight
+   16,250,064 sixteen million two hundred and fifty thousand sixty-four
+   5,237,166,234 five billion，two hundred and thirty-seven million，one hundred and sixty-six thousand，two hundred and thirty-four
+F．基数词在表示确切的数字时，不能使用百、千、百万、十亿的复数形式；但是，当基数词表示不确切数字，如成百、成千上万，三三两两时，基数词则以复数形式出现。
+   There are hundreds of people in the hall．
+   大厅里有数以百计的人。
+   Thousands and thousands of people come to visit the Museum of　Qin Terra-Cotta Warriors and Horses every day．
+   每天有成千上万的人来参观秦兵马涌博物馆。
+   They went to the theatre in twos and threes．
+   他们三三两两地来到了剧院。
+G．表示人的不确切岁数或年代，用几十的复数形式表示。
+   He became a professor in his thirties．
+   他三十多岁时成为了教授。
+   She died of lung cancer in forties．
+   她四十来岁时死于肺癌。
+   It was in the 1960s．
+   那是在二十世纪六十年代。
+H．基数词的句法功能
+   基数词在句中可作主语、宾语、定语、表语、同位语。
+   The two happily opened the box．
+   两个人高兴地打开了盒子。（作主语）
+   I need three altogether．
+   我总共需要三个。（作宾语）
+   Four students are playing volleyball outside．
+   四个学生在外面打排球。（作定语）
+   We are sixteen．
+   我们是16个人。（作表语）
+   They three tried to finish the task before sunset．
+   他们三个人尽力想在日落前完成任务。（作同位语）
+   
+分数表示法
+1. 分数是由基数词和序数词一起来表示的。基数词作分子，序数词作分母，除了分子是“1”以外，其它情况下序数词都要用复数形式。
+3/4 three fourths或 three quarters
+1/3 one third或a third
+24/25 twenty-four twenty-fifths
+3又1/4 three and one fourth或 three and one quarter
+1/2 a half
+1/4 one quarter或a quarter
+1又1/2 one and a half
+1又1/4 one and a quarter
+2. 当分数后面接名词时，如果分数表示的值大于1，名词用复数；小于1，名词用单数。
+1又1/2 hours 一个半小时（读作 one and a half hours）
+2又3/4 meters 二又四分之三米（读作two and three-fourths meters）
+4/5 meter 五分之四米
+5/6 inch 六分之五英寸
+3. 表示“n次方”的说法：指数用序数词，底数用基数词。
+10的7次方 the seventh power of ten（ten to the seventh power）
+6的10次方 the tenth power of six（six to the tenth power）   
+
+时刻表示法
+1. 表示几点钟用基数词加可以省略的o'clock
+5:00 读作 five o'clock 或 five
+2. 表示几点过几分，在分钟后加past，再加小时
+five past seven 七点过五分
+half past six 六点半
+a quarter past eight 八点过一刻
+seven past eight 八点过七分
+3. 表示几点差几分，在分钟后面加to，再加小时
+ten to eight 差十分八点（七点五十分）
+a quarter to twelve 差一刻十二点（十一点四十五分）
+twenty to six 差二十分六点（五点四十分）
+在日常生活中，常用下列简单方法表示时间。
+以小时、分种为单位分别读出数字。
+6:31　读作 six thirty-one
+10:26读作 ten twenty-six
+14:03 读作 fourteen o three
+16:15 读作 sixteen fifteen
+18:30 读作 eighteen thirty
+23:55 读作 twenty-three fifty-five
+注：时刻表上的时间大多采用24小时表示法，这样就不需要用a.m.表示上午，p.m.表示下午了。

@@ -1,0 +1,265 @@
+2001年在职攻读教育硕士英语二试题（英语专业）
+考生须知
+1、选择题（第01-40题）的答案必须用2B铅笔填涂在答题卡上。用其他笔填涂的答案或填涂在试题册上的答案无效。
+2、选择题答案选出后，必须用2B铅笔在答题卡上相应的选中项上划一横线，如：[A][B][C][D]。划线要粗，要有一定浓度。修改时，必须用橡皮擦净后，再填涂其他选项。
+3、其他题（翻译和写作）一律用蓝色或黑色钢笔或圆珠笔在答题纸上按规定的要求作答。凡做在试题册上或未做在指定位置的答案无效。
+4、本考试时间为3小时。
+
+Section I Use of English (10%)
+    Read the following text. Choose the best word or phrase for each numbered blank and ma,A, B, C or D on ANSWER SHEET 1 (客观答题卡:).
+    We suffer from a conspicuous lack of role models and shared causes. This is 01 ofreason, I think, that many young Asian-Americans continue to assimilate quietly into America2 as doctors, scientists and engineers. Our struggles are individual and familial but __03communal or political. Ours is a frustratingly limited version of the AMERICAN DrearrWhile I can strive for 04 into Harvard and become the talk of the Korean mothers in mlhometown, God forbid that I aim much further and higher than that -- 05 fame antinfluence as a writer, an intellectual or perhaps president of the United States.
+    I wish more than anything else to feel like part of something 06 than myself and m~personal ambitions, part of a larger culture. Unfortunately, by coming to America my parent.,07_ the cultural legacy they would have passed on to me. When I visited 08 last summer, found that I was 09 and chastised by many people for never learning how to speak Koreanand for turning my 10 on their culture. Taxi drivers would 11 to stop for me and my
+Korean-American friends because they knew from our 12 where we had come from.
+    And 13 , in spite of the 17 years I have spent in this country, I feel more acutely consciousthan ever of the fact that I am not completely 14. Recently, a black man called me a "littleChinese faggot" in a men's room, and a 15 woman on the street told me to "go back toJapan." Americans, I think, feel a(n) 16 to keep both Asians and Asian-Americans at asociological, philosophical and geographical distance. With 17_ numbers of Asian-American18 applying to top colleges, many white students have begun to complain about Asian-American 19 and competitiveness, calling us "Asian nerds." Many Americans consider thisas part of a larger "Asian invasionf associated 20 Japan's export success in America.
+
+01. [A] one [B] part [C] much [D] some
+02. [A] country [B] city [C] land [D] society
+03. [A] hardly [B] frequently [C] approximately [D] always
+04. [A] scholarship [B] citizenship [C] admittance [D] integration
+05. [A] toward [B] near [C] between [D] among
+06. [A] more [B] better [C] larger [D] longer
+07. [A] sold [B] maintained [C] memorized [D] sacrificed
+08. [A] Japan [B] China [C] Korea [D] Thailand
+09. [A] scorned [B] respected [C]surprised [D] ignored
+10. [A] side [B] head [C] eyes [D] back
+11. [A] like [B] refuse [C] straggle [D] want
+12. [A] skin [B] clothes [C] faces [D] politeness
+13. [A] also [B] so [C] yet [D] then
+14. [A] hated [B] ignored [C] treated [D] welcome
+15. IAI homeless [B] careless [C] selfless .[D] shameless
+16. [A] fear [B] need [C] interest [D] hate
+17. [A] growing [B] expanding [C] developing [D] enlarging
+18. [A] people [B] residents [C] students [D] foreigners
+19. ,[Al diligence [B] laziness [C] hardship [D] stubbornness
+20. [A] for [B] to [C] with [D] at
+
+gection II Reading Comprehension (60%)
+Part A (40 %)
+    Read the following texts. Answer the questions below each text by choosing A, B, C or D.
+Mark your answers on ANSWER SHEET 1 (客观答题卡).
+
+Text 1
+    InfraGard is a grass-roots effort to respond to the need for cooperation and collaboration
+n countering the threat of cybercrime and terrorism to private businesses and the government.
+~y the end of September, there will be InfraGard chapters in all 50 states, Calloway said.
+    With advice from the FBI, each local chapter will be run by a board of directors that includes members of private industry, the academic community and public agencies. Banks,utilities, and other businesses and government agencies will use a secure Web site to share
+nformation about attempts to hack into their computer networks. Members can join the system
+!t no charge.
+    A key feature of the system is a two-pronged method of reporting attacks. A "sanitized"description of a hacking attempt or other incident - one that doesn't reveal the name or
+ensitive information about the victim- can be shared with the other members to spot trends.
+?hen a more detailed description also can be sent to the FBI's computer crimes unit to ietermine if there are grounds for an investigation.
+    Cybercrime has jumped in recent years across the nation, particularly in hotbeds of financial cormmerce and technology like Charlotte. "Ten years ago, all you needed to protect yourself was a safe, a fence and security officers," said Chris Swecker, who is in charge of the FBI's Charlotte office. "Now any business with a modem is subject to attack."
+    FBE agents investigating computer hacking that disrupted popular Web sites including Amazon.com, CNN and Yahoo! this year identified several North Carolina victims. The investigation has also identified computer systems in North Carolina used by hackers to commit such attacks.
+    Prosecutions of hackers have been hampered by the reluctance of businesses to report security intrusions for fear of bad publicity and lost business. Meanwhile, too many corporations have made it too easy for criminals by sacrificing security for speed and accessibility. Jack Wiles, who will lead the local InfraGard chapter's board, said a recent report estimated 97 percent of all cybercrime goes undetected. Wiles, a computer security expert, has a firewall on his personal computer to prevent hackers from getting into his files.
+    "I get at least one report a day that somebody was trying to get into my computer," he said. "The Net is a wonderful place, but it's also a dangerous one."
+
+21. From the fkst paragraph, we know
+[A] InfraGard is a protective measure aga/nst cybercrime.
+[BI InfraGard is a measure of cooperation and collaboration.
+[C] there will be 50 InfraGard chapters in all states.
+[DJ private business and the government are now committing cybererime.
+
+22. Each local chapter of InfraGard will be run by the following EXCEPT
+[Al academic communities.
+[B] public agencies.
+[C] FBI.
+[D] private industry.
+23. By saying "too many corporations have made it too easy for criminals by sacrificing security for speed and accessibility" the author means
+[A] too many corporations take no notice of the security problem of computers.
+[B] criminals are sacrificing security for speed and accessibility.
+[C] it's very easy to sacrifice security for speed and accessibility.
+[D] many companies suffer from computer hacking because they value speed and accessibility more than security.
+
+24. All the following are reasons for the rise in cybercrime EXCEPT
+[A] victims won't report intrusions by hackers.
+[B] vi victims have no fkewalls.
+[C] the use of modem is increasing.
+[D] companies don't pay enough attention to Security.
+
+25. It can be concluded from the passage that
+[A] not all hacking attempts are worthy of investigation.
+[B] information of the victims is inaccessible.
+[C] InfraGard chapters will be in effect by the end of September.
+[D] Amazon.com was once disrupted by hacking.
+
+Text 2
+
+    The annual Phi Delta Kappa/Gallup poll of attitudes towards public education releasedthis week found that a majority of Americans feel it is important to put a "a qualified,competent teacher in every classroom". Bob Chase, president of the National EducationAssociation (NEA), the main teachers' union, wasted no time in pointing out that this willrequire raising teachers' salaries so that more qualified candidates will enter the profession andstay there.
+    A study by two economists suggests that the quality of America's teachers has more to dowith how they are paid rather than how much. The pay of American public-school teachers isnot based on any measure of performance; instead, it is determined by a rigid formula based onexperience and years of schooling, factors massively unimportant in deciding how wellstudents do.
+    The uniform pay scale invites what economists call adverse selection. Since the mosttalented teachers are also likely to be good at other professions, they have a strong incentive toleave education for jobs in which pay is more closely linked to productivity. For dullards, theincentives are just the opposite.
+    The data are striking: when test scores are used as a proxy for ability, the brightestindividuals shun the teaching profession at every juncture. Clever students are the least likelyto choose education as a major at university. Among students who do major in education, thosewith higher test scores are less likely to become teachers. And among individuals who enterteaching, those with the highest test scores are the most likely to leave the profession early.
+    The study takes into consideration the effects of a nationwide 20% real increase in teachersalaries during the 1980s. It concludes that it had no appreciable effect on overall teacherquality, in large part because schools do a poor job of. recruiting and-selecting the best teachers.Also, even if higher salaries lure more qualified candidates into the profession, the overall effect on quality may be offset by mediocre teachers who choose to postpone retirement.
+    The study also takes aim at teacher training. Every state requires that teachers be licensed,a process that can involve up to two years of education classes, even for those who have auniversity degree or a graduate degree in the field they would like to teach. Inevitably, thissystem does little to lure in graduates of top universities or professionals who would like toenter teaching at mid-career.
+
+26. Which statement is NOT TRUE according to the passage?
+[A] NEA is the largest society for teachers.
+[B] Education-majored students are not as wise as people have assumed.
+[C] Young teachers are paid less because their students don't do well enough.
+[D] The study is both concerned with the effects of rise in payment and teacher training.
+
+27. Increase in teacher salaries did not turn out so effective mainly because of the following reasons EXCEPT
+[A] the authorities do not set standards for qualified teachers.
+[BI mediocre teachers postpone retirement.
+[C] the salaries were not attractive enough.
+[D] teachers didn't have equal opportunities.
+
+28. According to the passage, the reason for clever students' refusal to take teaching as profession is because
+[A] it offers low pay.
+[B] they have interest in other professions.
+[C] it does not value productivity.
+[D] it uses poor recruiting strategies.
+
+29. "The data are striking: when the brightest individuals shun the teaching profession at every juncture" means
+[A] students doing well in study are willing to take teaching as a career.
+[B] students doing well in study can't avoid choosing teaching as a career.
+[C] students doing well in study are reluctant to be teachers.
+[D] students doing well in study are not reluctant to be teachers.
+
+30. All can be concluded BUT
+[A] teaching in U.S.A needs a certificate.
+[B] the more outstanding one is, the more likely he is to choose teaching.
+[C] American public-school teachers are paid in proportion to experience and years of schooling.
+[D] increase in teacher's salaries is to attract more qualified candidates to teaching.
+
+Text 3
+    The Nobel prize in economics had a difficult birth. It was created in 1969 to mimic thefive prizes initiated under Alfred Nobel's will. These had already been around for 68 years, andpurists fought hard to stop the newcomer. Some members of the Royal Swedish Academy ofSciences still dismiss economics as unscientific, and its prize as not a proper Nobel. Earlywinners were among the prize's fiercest critics. Gunnar Myrdal, who shared the award in 1974,said the prize ought to be abolished (but he did not return the money). Milton Friedman, winnerin 1976, doubted the ability of a few people in Stockholm to make decisions respected aroundthe world.
+    By the 1990s, the Nobel committee had gained a reputation for intransigence. GaryBecker won only after a flood of nominations forced the cabal in Stockholm to act. The fathersof game theory won only after Mr Nash's sudden recovery from paranoid schizophrenia,though the disease had no bearing on the quality of his work, the best of which was done beforehe became ill. Robert Lucas received a prize that many economists believed he should have hadmuch earlier. In 1998, the prize became the subject of countless jokes after the collapse ofLong-Term Capital Management, a hedge-fund firm whose founders included Robert Mertonand Myron Scholes, the 1997 Nobel laureates.
+The Merton/Scholes choice also highlighted another enduring problem with the prize:untimely deaths. Fischer Black, co-originator of the options-pricing model for which MessrsMerton and Scholes were recognised, died a year too soon to join his collaborators on thepodium. Last year, many economists hoped that Zvi Griliches, a noted econometrician who wasunquestionably deserving of the prize, and was suffering from a long illness, would win. He didnot, and died soon afterwards. Because the prize came into being so late, there is still a backlogof elderly luminaries waiting to be recognised. Paul Samuelson, one of the younger winners,and Mr Becker, who was a friend of Griliches, want the committee to take old age explicitlyinto account.
+    The committee could also cast its net more widely across the profession. Almost ail the laureates are also theoreticians; advances in empirical work and applications in the past two decades have yet to be paid due respect, a fact bemoaned by Mr Becker. Mr Samuelson adds
+that the economics committee's selection methods have excessively mimicked those used for
+the prizes in natural sciences: "If the right apple fell on your head, and you saw it, then you got
+the prize. But if you had a lifetime of excellence in all branches of physics, you didn't get it."
+
+31. From the first paragraph, we learned that
+[A] the Nobel prize in economics was created under Alfred Nobel's will.
+[B] Gunnar Myrdal was one of the Nobel prize winners in economics.
+[C] Milton Friedman refused to accept the prize.
+[D]the Nobel committee had not the ability to make decisions.
+
+32. We can learn from the text that about the winners of the Nobel prize in economics during 1990s,
+[A] Gary Becker won the prize after he forced the committee to act.
+[B]Mr Nash's illness delayed his receiving of the prize.
+[C]obert Lucas received the prize earlier than expected.
+[D] Robert Merton and Myron Scholes played jokes on the prize.
+
+33. According to the text, the author's attitude toward Nobel prize in economics is
+[A]doubtful.
+[B]positive.
+[C] hostile.
+[DJ indifferent.
+
+34. From the third paragraph, we learn that
+[A] Fisher Black did not live long enough to win the Nobel prize.
+[B] the Nobel committee will soon take old age into account.
+[C] younger people are more likely to win the prize.
+[D] Zvi Griliches won the prize after he died.
+
+35. In the last paragraph of the text, Mr Samuelson's attitude toward the economics committee's selection methods is
+[A] critical.
+[B] approving.
+[C] angry.
+[D] ironic.
+
+Text 4
+    In America alone, tipping is now a $16 billion-a-year industry - all the more surprising since it is a behavioural oddity. Consumers acting rationally ought not to pay more than they have to for a given service, Tips, which are voluntary, above and beyond a service's contracted cost, and delivered afterwards, should not exist. So why do they? The conventional wisdom is that tips both reward the efforts of good service and reduce uncomfortable feelings of inequality. The better the service, the bigger the tip.
+    A paper analysing data from 2,547 groups dining at 20 different restaurants shows that the correlation between larger tips and better service was very weak: only a tiny part of the variability in the size of the tip had anything to do with the quality of service. Customers who rated a meal as "excellent" still tipped anywhere between 8% and 37% of the meal price.
+    Tipping is better explained by culture than by economics. In America, the custom hasbecome institutionalised: it is regarded as part of the accepted cost of a service. In a New Yorkrestaurant, failing to tip at least 15% could well mean abuse from the waiter. Hairdressers canexpect to get 15-20%, the man who delivers your groceries $2. In Europe, tipping is lesscommon; in many restaurants, discretionary tipping is being replaced by a standard servicecharge. In many Asian countries, tipping has never really caught on at all.
+    How to account for these national differences? Look no further than psychology.According to Michael Lynn, the Cornell paper's co-author, countries in which people are moreextrovert, sociable or neurotic tend to tip more. Tipping relieves anxiety about being served bystrangers: And, says' Mr Lynn, "in America, where people are outgoing and expressive, tippingis about social approval. If you tip badly, people think less of you. Tipping well is a chance toshow off." Icelanders, by contrast, do not usually tip - a measure of their introversion and lackof neuroses, no doubt.
+    While such explanations may be crude, the hard truth seems to be that tipping does notwork. It does not benefit the customer. Nor, in the case of restaurants, does it actuallyincentivise the waiter, or help the restaurant manager to monitor and assess his staff. The cry ofstingy tippers that service people should "just be paid a decent wage" may actually makeeconomic sense.
+
+36. From the text we learn that Americans
+[A] are willing to give tips because they love the practice.
+[B] like to givetips to service people to help them financially.
+[C] are reluctant to give tips, but they still do so.
+[D] are giving less and less tips.
+
+37. According to Paragraph 3, we learn that
+[A] tips are voluntary in America.
+[B] people don't tip in Europe.
+[C] tipping is rare in many Asian countries.
+[D] tipping is now popular in Iceland.
+
+38. According to Michael Lynn,
+[A] nervous people do not usually tip.
+[B] A merican people are anxious.
+[C] Icelanders don't like to show off.
+[D] people will ignore you if you tip bakly.
+
+39. The text indicates that in America
+[A] customers tip 8% to 37% of the meal price if a meal was "excellent".
+[B] a waiter can abuse a customer if he fails to tip 15%.
+[C] the amount of tipping is standardized with different services.
+[D] the man who carry groceries for you can expect to get 15-20%.
+
+40. According to the text, the author believes that in America
+[A] the better the service, the bigger the tip.
+[BI tips can reward the effort of good service.
+[C] tips can reduce feelings of inequality.
+[D] tips cannot prompt better service.
+
+Part B (20%)
+    slation shouM be written clearly on ANSWER SHEET 2 (主观答题纸).
+    (41) There are plenty of grim statistics about childhood in the Third World. showing thatthe journey for survival is long and hard. But in the rich world, children can suffer from adifferent kind of poverty - of the spirit. For instance, one Western country alone now sees 14,000 attempted suicides every year by children under 15, and one child in five needsprofessional psychiatric counselling.
+    There are many good things about childhood in the Third World. Take the close andconstant contact between children and their parents, relatives and neighbours. In the West, the very nature of work puts distance between adults and children. (42) But itl most Third World villages mother and father do not go miles away each day to do abstract work in offices, shuffling paper to make money mysteriously appear in banks. Instead. the child sees mother an(t father, relations and neighbours working nearby, and often shares in that work.
+    A child growing up in this way learns his or her role through participating in the community's work: helping to dig or build, plant or water, tend to animals or look after babies - rather than through playing with water and sand in kindergarten, building with construction toys, keeping pets or playing with dolls.
+    (43) These children may grow up with a less oppressive limitation of space and time than their Western counterparts. Set days and times are few and self-explanatory, determined mostly by the rhythm of the seasons and the different jobs they bring. (44) A child in the rich world, on the other hand. is provided with a wrist-watch as one of the earliest symbols of ~owing up. so that he or she can worry, along with their parents about being late for school times, meal times clinic times, bed times, the times of TV shows..;
+    Third World children are not usually cooped up indoors, still less in high-rise apartments.Instead of fenced-off play areas, dangerous roads, 'keep off the grass' signs and 'don't speak tostrangers', there is often a sense of freedom to play. (45) Parents can see their children outsiderather than observe them anxiously from ten floors up. And other adults in the community canusually be counted on to be caring rather than indifferent or threatening.
+    Of course twelve million children under five still die every year through malnutrition anddisease. But children in the Third World is not all bad.
+
+Section m Writing (30%)
+    Teachers often consider some students as good students. What do you think good studentsare like? Describe the characteristics of good students according to your own opinion. Provideone or two examples where necessary. You may also need to use knowledge in education andpsychology to support your argument.
+    You shouM write 240-280 words. Write your essay on ANSWER SHEET 2 (主观答题纸).
+2001年在职攻读教育硕士英语二试题答案（英语专业）
+2001年在职攻读学位全国阳考
+教育硕士专业学位
+（英语二）试题册
+[供报考学科教学（英语）专业考生使用]
+[A卷]
+答案：
+I．Use of English (10%)
+
+01.B 02.D 03.A 04.C 05.A 06.C 07.D 08.C 09.A 10.D
+11.B 12.B 13.C 14.D 15.A 16.B 17.A 18.C 19.A 20.C
+
+II.Reading comprehension(60%)
+21.A 22.C 23.D 24.B 25.A 26.C 27.A 28.C 29.C 30.B
+31.B 32.B 33.A 34.A 35.A 36.C 37.C 38.C 39.C 40.D
+
+Part B(20%)
+41.有关第三世界儿童成长的大量统计资料令人担忧。这些资料表明，儿童成长（生存）的过程漫长而且艰难。但是在富裕国家，儿童也有另外一种贫穷-精神上的贫穷。
+
+42.但是，在大多数第三世界国家的村庄里，孩子的父母亲每天不用到离家数英里的地方运河做那些令人难以琢磨的办公室工作，忙碌地埋头于文书中而使钱神秘地出现在银行的帐户里。相反，孩子们看着他们的父母亲、亲属和邻居在旁边劳动，而且还经常帮把手。
+
+43.与西方国家的儿童相比，这些儿童（第三世界国家的儿童）在成长过程中受到的空间和时间限制要少得多。
+
+44.而在富裕的国家里，父母会给孩子一块手表，作为孩子长大的最初标志之一。这样他们就可以和父母亲一起关注上学、吃饭、就诊、就寝以及看电视等日常活动的时间，不迟到，不误时。
+
+45.父母可以看见孩子在户外活动，而不是在十层楼上焦虑地照看着他们。另外，家长们也相信社区的其他成年人通常会照顾这些儿童，而不会对他们漠不关心或伤害他们。
+Ⅲ.Writint (30%)
+（答案略）
+
+
+
+2001年在职攻读学位全国联考
+教育硕士专业学位
+（英语二）试题册
+[供报考学科教学（英语）专业考生使用]
+[B卷]
+答案：
+I. Use of English(10%)
+01.D 02.A 03.B 04.C 05.B 06.D 07.C 08.B 09.C 10.A
+11.A 12.B 13.B 14.C 15.A 16.D 17.B 18.C 19.D 20.C
+
+II. Reading comprehension (60%)
+Part A(40%)
+21.B 22.B 23.A 24.A 25.A 26.C 27.A 28.C 29.C 30.B
+31.A 32.C 33.D 34.B 35.A 36.C 37.C 38.C 39.C 40.D
+
+Part B: (20%)
+41.有关第三世界儿童成长的大量统计资料令人担忧。这些资料表明，儿童成长（生存）的过程漫长而且艰难。但是在富裕国家，儿童也有另外一种贫穷-精神上的贫穷。
+42.但是，在大多数第三世界国家的村庄里，孩子的父母亲每天不用到离家数英里的地方运河做那些令人难以琢磨的办公室工作，忙碌地埋头于文书中而使钱神秘地出现在银行的帐户里。相反，孩子们看着他们的父母亲、亲属和邻居在旁边劳动，而且还经常帮把手。
+43.与西方国家的儿童相比，这些儿童（第三世界国家的儿童）在成长过程中受到的空间和时间限制要少得多。
+44.而在富裕的国家里，父母会给孩子一块手表，作为孩子长大的最初标志之一。这样他们就可以和父母亲一起关注上学、吃饭、就诊、就寝以及看电视等日常活动的时间，不迟到，不误时。
+45.父母可以看见孩子在户外活动，而不是在十层楼上焦虑地照看着他们。另外，家长们也相信社区的其他成年人通常会照顾这些儿童，而不会对他们漠不关心或伤害他们。
+Ⅲ.Writint (30%)
+（答案略）

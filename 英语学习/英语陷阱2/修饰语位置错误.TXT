@@ -1,0 +1,22 @@
+修饰语位置错误
+
+   以前曾讨论过名词修饰语的种类和用法。在谈到修饰语用法时，未免要牵涉到修饰语的位置。这点相当重要，因为修饰语不管是单字的或短语的或甚至是分句的，它们都要定位，不可越雷池一步，否则不是语意模糊，就是不合句法。
+   下面这则室内设计商的广告，有两个小缺点。一个是同义词重复；另一个便是修饰语位置不妥：
+   “We fabricate our products from the best quality materials available and ensure refinement in the finishing works while keeping your cost at the lowest possible prices. ”
+   先谈同义词的重复。在“while keeping your cost at the lowest possible prices”中，把“prices”改为“level”即可。如果要品味好些，可把“possible”挪到“level”后头，即：“ While keeping your cost at the lowest level possible.”
+   现在谈修饰语位置问题。
+   在“We fabricate our products from the best quality materials available”中，形容词短语“best quality”漏了介语 “of”：“of best quality”。这样的短语一定要摆在被修饰的名词后面，即：“We fabricate our products from the materials of best quality available”；不然，就把“quality”去掉，只留住“best”也可：“We... from the best materials available.”
+   上述这两种小毛病虽然不是很普遍，但是也会碰到。看看这几个实例就知道了：
+① Do you know the man who talked to you in a white shirt?
+   这里的形容词短语“in a white shirt”和所修饰的名词“the man”离开太远，不妥当，要移前：“Do you know the man in a white shirt who talked to you ?”
+② A dog is a good helper that is well-trained.
+   这里的形容词分句“that is well-trained”修饰名词“the dog”，不是“a good helper”，因此要和正确的对象靠拢：“A dog that is well-trained is a good helper.”
+   名词修饰语的位置重要，动词修饰语的位置也不可马虎。例如：
+③ The Board of Directors only has meeting once a month.
+   这里的副词“only”显然是要修饰“once a month”，那么就应该把它移过去：“The Board of Directors has meeting only once a month.”
+④ The man needed a bandage for his wound badly.
+   这里的状态副词“badly”修饰动词“needed”。既然如此，它就要移到“needed”之前：“The man badly needed a bandage for his wound.”
+⑤ Though the standard of living is raised, the costs of living are increasing also.
+   习惯上，“also”这个位置属于“too”的；“also”可以到“ are increasing”中间去；
+   “Though the standard of living is raised, the costs of living are increasing, too.”或
+   “Though the standard of living is raised, the costs of living are also increasing.”

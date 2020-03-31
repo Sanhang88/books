@@ -1,0 +1,31 @@
+GMAT考试--CAT格式及应试策略
+
+    Quantity Time(min)
+　　Analytical Writing
+　　Analysis of an Issue
+　　Analysis of an Argument
+　　Optional Break
+　　Quantitative Problem Solving
+　　Data Sufficiency
+　　Optional Break
+　　Verbal Reading Comprehension
+　　Critical Reasoning
+　　Sentence Correction
+　　Total:220
+　　Quantitative和Verbal部分均为选择题。另外，每一次测试中都包含数量不定的试验性题目，这些题目不计分，但在考试时不单独标出，所以应该对每道题都要认真对待。
+　　CAT与传统的笔试有以下不同：
+　　在计算机的屏幕上一次只出现一道题目；
+　　在选择各选项前不用A,B,C,D,E来表示，而代之以椭圆圈；
+　　应试者使用鼠标来选择答案；
+　　应试者只有在选中并确认某一选项后，才能进入下一道题，而一旦确认答案后，即不可返回或更改答案；实际考试中Quantitative部分的几种题目并不依照题型为顺序，Verbal部分也是如此，且Quantitative和Verbal两部分分别计时；
+　　Analytical Writing中的两部分必须在与考试附带的文字处理器上完成，且别计时，这就要求应试者具有一定的键盘输入技巧。
+　　CAT的试题是从试题库中抽取的。CAT总是设法找到与应试者水平相当的试题因此应试者所遇到的题目的难易程度取决于应试者自己在已出现的题目中的表现。
+　　CAT的应试策略:
+　　熟悉各种题型和部分的格式及要求，这样能减少不必要地浪费时间；
+　　认真阅读各题目的Directions,因为Directions详细讲明了解题要求。如果匆匆看过，可能会漏掉一些重要的要求。在考试中要重读Directions，只须用鼠标点Help键；
+　　在选择题中尽量回答所有的问题。当题目过难时，也不应过多地浪费时间；
+　　在解答Analytical Writing Assessment时，先考虑几分钟，做到心中有数，再开始回答。尽量使观点有条理且表述充分，同时还要留足够的时间做必要的检查和修改；
+　　自始自终注意做题速度。应不时查看显示屏上的时钟。做题是应快速而仔细。避免在难题上不必要的浪费时间。Verbal部分平均每道题占有7/4分钟的时间，而Quantitative部分每题有2分钟时间；
+　　仔细读题，以免忽略任何重要的信息；在做选择题时不要害怕猜答案。
+　　这方面的权威软件是ETS出版的软件：
+　　POWERPREP Software--Test Preparation for the Computer-Adaptive GMAT

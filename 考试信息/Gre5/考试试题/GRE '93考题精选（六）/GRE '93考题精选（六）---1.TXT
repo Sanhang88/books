@@ -1,0 +1,835 @@
+GRE '93考题精选（六）---1
+In the past ten years, there have been several improve-
+ments in mountain-climbing equipment. These improvements
+have made the sport both safer and more enjoyable for
+experienced climbers. Despite these improvements, however,
+the rate of mountain-climbing injuries has doubled in the
+past ten years.
+　
+If all of the statements above are true, which of the following,
+　if true, best reconciles their apparent discrepancy?
+
+Many climbers, lulled into a false sense of security,
+　use the new equipment to attempt climbing feats of which
+　they are not capable.
+Some mountain-climbing injuries are caused by
+　unforeseeable weather conditions..
+Mountain climbing, although a dangerous sport,
+　does not normally result in injury to the experienced
+　climber.
+In the past ten years there have been improvements
+　in mountain-climbing techniques as well as in mountain-
+　climbing equipment.
+Although the rate of mountain-climbing injuries has
+　increased, the rate of mountain-climbing deaths has not
+　changed.
+
+答案：(A)
+
+Scientists have rediscovered certain food crops, once
+commonly cultivated in the Americas, that contain more
+protein per pound than do current staple food crops such
+as rice and wheat. The scientists claim that cultivation
+of these crops could greatly benefit densely populated
+countries that have low per-person caloric intake and
+inadequate sources of protein.
+　
+Which of the following, if true, casts the most serious
+doubt on the claim reported above?
+
+The average yield per acre of the rediscovered crops
+　is substantially less than that. of current staple food
+　crops.
+Many important food crops, such as tomatoes, originated
+　in the Americas.
+Wheat yields more protein per pound than does rice.
+The rediscovered crops have more calories per pound
+　than do current staple rood crops
+As few as 20 different food crops provide the bulk of
+　the planet's food supply.
+
+答案：(A)
+
+A certain type of shrimp habitually hovers around
+superheated deep-sea geysers, near which the bacteria
+that form the shrimps' diet can be found. Because the
+geysers emit a faint light, scientists have concluded
+that the shrimps' light-sensitive dorsal patches were
+developed to locate the geysers and thereby find food.
+　
+Which of the following, if true, casts the most doubt
+on the scientists' conclusion?
+
+The light to which the shrimps are sensitive is not
+　the sort of light that the geysers emit.
+The light given off by the geysers is too faint to
+　be detected by the human eye.
+The heat inside a geyser's stream is sufficient to
+　kill instantly any bacteria that move into it.
+Most other types of shrimp use eyes located at the
+　end of eyestalks in order to see.
+In other types of shrimp. a heat-sensing organ has
+　developed that could serve the same geyser-detecting
+　purposes as the light-sensitive patches are said to serve.
+
+答案：(A)
+
+　A school has four classroom suitable for art instruction.
+These classrooms are situated side by side along one
+straight hallway and are numbered consecutively 1 through 4.
+For the fall semester and also for the spring semester
+of an academic year, the school's four art teachers—Mr.
+Gilmore, Ms. Kramer, Ms. Lombardi, and Mr. Ramos—must each
+be assigned to these classrooms. one teacher to a room.
+The following restrictions on assignments must be observed:
+　
+　No teacher can be assigned to the same classroom for the
+　　spring semester to. which that teacher is assigned for the
+　　fall semester.
+　Ms. Lmbardi and Mr. Ramos must be assigned to immediately
+　　adjacent classrooms.
+　Mr. Gilmore cannot be assigned to classroom 4 in either
+　　semester.
+In order from classroom 1 to classroom 4, which of the
+following is an acceptable assignment of teachers to class-
+rooms for the fall semester?
+Gilmore, Lombardi, Kramer, Ramos
+Gilmore, Kramer, Ramos, Lombardi
+Kramer, Lombardi, Gilmore, Ramos
+Kramer, Ramos, Lombardi, Gilmore
+Ramos, Gilmore, Lombardi, Kramer
+
+答案：(B)
+读题：一个学校有4间教室适用于艺术指导，教室从1到4排成一排。学年的春季和秋季，
+4个教师G、K、L、R必须被安排到教室，一人一个教室。
+写条件：
+1、fall ≠ spring （没有教师在春季和秋季分配的教室相同）
+2、(LR） （表示LR紧密相邻）
+3、G≠4(both) (表示G两个学期都不分配在教室4）
+　
+条件总结：
+*条件1对每个元素都进行了限制，但本题中我们无法把它与具体元素的条件或数字联
+系起来直接做题。
+
+Which of the following can be true in neither the fall
+nor the spring semester?
+Mr. Gilmore is assigned to classroom 2.
+Mr. Gilmore is assigned to classroom 3.
+Ms. Kramer is assigned to classroom 3.
+Ms. Lombardi is assigned to classroom 1.
+Mr. Ramos is assigned to classroom 4.
+
+答案：(C)
+读题：一个学校有4间教室适用于艺术指导，教室从1到4排成一排。学年的春季和秋季，
+4个教师G、K、L、R必须被安排到教室，一人一个教室。
+写条件：
+1、fall ≠ spring （没有教师在春季和秋季分配的教室相同）
+2、(LR） （表示LR紧密相邻）
+3、G≠4(both) (表示G两个学期都不分配在教室4）
+　
+条件总结：
+*条件1对每个元素都进行了限制，但本题中我们无法把它与具体元素的条件或数字联
+系起来直接做题。
+
+If Mr. Ramos is assigned to classroom 2 for one of the
+semesters. which of the following must be true of that
+semester?
+Mr. Gilmore is assigned to classroom 1.
+Mr. Gilmore is assigned to classroom 3.
+Ms. Kramer is assigned to classroom 1.
+Ms. Kramer is assigned to classroom 4.
+Ms. Lombardi is assigned to classroom 3.
+
+答案：(D)
+读题：一个学校有4间教室适用于艺术指导，教室从1到4排成一排。学年的春季和秋季，
+4个教师G、K、L、R必须被安排到教室，一人一个教室。
+写条件：
+1、fall ≠ spring （没有教师在春季和秋季分配的教室相同）
+2、(LR） （表示LR紧密相邻）
+3、G≠4(both) (表示G两个学期都不分配在教室4）
+　
+条件总结：
+*条件1对每个元素都进行了限制，但本题中我们无法把它与具体元素的条件或数字联系起来直接做题。
+
+If for the spring semester Mr. Ramos and Ms. Lombardi
+are each assigned to the other's fall semester classroom,
+which of the following must be true?
+For the fall semester, Mr. Ramos is assigned to
+classroom 3.
+For the fall semester, Mr. Ramos is assigned to
+classroom 1 or else to classroom 2.
+Mr. Gilmore is assigned to classroom 2 for the fall
+semester and to classroom 3 for the spring semester.
+Ms. Kramer is assigned to classroom 3 for the fall
+semester and to classroom 4 for the spring semester.
+For the spring semester. Mr. Gilmore and Ms.Kramer
+are also each assigned to the other's fall semester
+classroom.
+
+答案：(E)
+读题：一个学校有4间教室适用于艺术指导，教室从1到4排成一排。学年的春季和秋季，4个教师G、K、L、R必须被安排到教室，一人一个教室。
+写条件：
+1、fall ≠ spring （没有教师在春季和秋季分配的教室相同）
+2、(LR） （表示LR紧密相邻）
+3、G≠4(both) (表示G两个学期都不分配在教室4）
+　
+条件总结：
+*条件1对每个元素都进行了限制，但本题中我们无法把它与具体元素的条件或数字联系起来直接做题。
+
+If Mr. Gilmore is assigned for the spring semester
+to a classroom that is one number higher than the class-
+room to which he is assigned for the fall semester. which
+of the following can be true about the fall semester's
+assignment of teachers to classrooms?
+Mr. Gilmore is assigned to a classroom with a higher
+number than the classroom assigned to Mr. Ramos.
+Ms. Kramer is assigned to a classroom with a higher
+number than the classroom assigned to Mr. Gilmore.
+Mr. Gilmore is assigned to classroom 3.
+Ms. Lombardi is assigned to classroom 1.
+Mr. Ramos is assigned to classroom 1.
+
+答案：(B)
+读题：一个学校有4间教室适用于艺术指导，教室从1到4排成一排。学年的春季和秋季，4个教师G、K、L、R必须被安排到教室，一人一个教室。 写条件：
+1、fall ≠ spring （没有教师在春季和秋季分配的教室相同）
+2、(LR） （表示LR紧密相邻）
+3、G≠4(both) (表示G两个学期都不分配在教室4）
+　
+条件总结：
+*条件1对每个元素都进行了限制，但本题中我们无法把它与具体元素的条件或数字联系起来直接做题。
+
+If Ms. Kramer is assigned to a lower-numbered class-
+room than Mr. Ramos for one of the semesters. which of
+the following must be true of that semester?
+Mr. Gilmore is assigned to a classroom immediately
+adjacent to the classroom assigned to Ms. Kramer.
+Ms. Kramer is assigned to a classroom immediately
+adjacent to the classroom assigned to Ms. Lombardi.
+Ms. Lombardi is assigned to classroom 3.
+Mr. Ramos is assigned to classroom 4.
+Mr. Ramos is assigned to a classroom two numbers
+higher than the classroom assigned to Ms. Kramer.
+
+答案：(A)
+读题：一个学校有4间教室适用于艺术指导，教室从1到4排成一排。学年的春季和秋季，4个教师G、K、L、R必须被安排到教室，一人一个教室。 写条件：
+1、fall ≠ spring （没有教师在春季和秋季分配的教室相同）
+2、(LR） （表示LR紧密相邻）
+3、G≠4(both) (表示G两个学期都不分配在教室4）
+　
+条件总结：
+*条件1对每个元素都进行了限制，但本题中我们无法把它与具体元素的条件或数字联系起来直接做题。
+
+Exactly eight children-Q, R, S, T, W, X, Y, and Z--
+are planning to ride on a roller coaster. They are to
+ride in two cars, car 1 and car 2, with four children
+in each car. The children will choose cars according
+to the following conditions:
+　
+　S must ride in the same car as T.
+　Q must ride in a different car from X.
+　Y must ride in a different car from Z.
+　If X rides in car 1, R must also ride in car 1.
+Which of the following is an acceptable choice of
+cars for the eight children?
+　　Car 1 　　　　 Car 2
+Q, R, S, T W, X, Y, Z
+Q, R, X, Z S, T. W, Y
+Q, S, T, W R, X, Y, Z
+R, S, X, Y Q, T, W, Z
+R, W, X, Y Q, S, T, Z
+
+答案：(E)
+
+If X rides in car 1, which of the following is a
+child who must ride in car 2 ?
+R
+S
+W
+Y
+Z
+
+答案：(B)
+
+If X and R ride in different cars from each other,
+which of the following is a pair of children who could
+also ride in different cars from each other?
+Q and W
+R and W
+S and X
+T and X
+T and Y
+
+答案：(E)
+
+Which of the following is a pair of children who
+could ride together in car 1 ?
+Q and R
+R and S
+S and W
+S and X
+T and X
+
+答案：(A)
+
+If R and Z ride in car 1, which of the following
+children must also ride in car 1 ?
+S
+T
+W
+X
+Y
+
+答案：(C)
+
+If S rides in car 1, which of the following is a
+pair of children who must be together in a car?
+Q and Z
+R and S
+R and Y
+W and X
+W and Z
+
+答案：(D)
+
+Which of the following is a pair of children who
+CANNOT ride together in a car?
+Q and R
+Q and T
+R and T
+R and W
+W and Y
+
+答案：(C)
+
+In "quick-response" manufacturing,the manufacturer
+receives electronic feedback directly from retailers
+about which models, patterns, or styles are selling,
+and in what quantities. This feedback triggers the
+manufacture of further batches to replenish stocks
+of articles that have been sold. The advantage for
+retailers is that they are freshly stocked with just
+those articles are most likely to sell.
+　
+For quick-response manufacturing to work to the
+retailer's advantage in the respect mentioned above,
+which of the following must be true?
+
+The cost per piece or manufacturing various articles
+in small batches exceeds the cost per piece of manu-
+facturing large quantities of those articles.
+The equipment necessary to provide the direct feedback
+is different from the equipment that supports conventional
+inventory control.
+Consumers do not patronize a store that does not stock
+the model, pattern, or style that they prefer.
+Consumers can distinguish retailers that rely on quick-
+response manufacturing from retailers that do not.
+Consumers do not suddenly stop buying models,patterns,
+or styles that have just become popular.
+
+答案：(E)
+
+问题：要让快速反应制造业满足零售者的利益，下面那一个必然正确? （这种问法，其实就是问基于的假设是什么？）
+读题：在快速反应的制造业中，制造者直接从零售者那里得到电子反馈信息，关于出售的模型、模式、风格以及出售的量。这些反馈触发了制造者进一步的批量生产来补足已经被销售的商品。对零售者的利益而言，是他们总是能够补充最可能销售的产品
+　
+分析：文中快速反应制造业是如何做的呢？他们总是补充给零售者最可能销售的产品。
+现在问的是假设: 他们这么做，就能够给零售者带来钱。
+　
+c. 顾客不光顾这样的店,不存贮顾客喜欢的模型,模式和风格
+d. 顾客能够辨别依赖于快速反应制造的零售商和不依赖于此的零售商
+　
+e. 消费者不会突然停止购买目前流行的模型、模式和风格。
+　(判断方法：去掉not, 消费者突然停止购买，零售者的利益就不能够满足，因此e就是assumption）
+
+Fragments of charred antelope bone have recently been
+found at a million-year-old settlement of Homo erectus,
+an early human species. This discovery demonstrates that
+humans were making controlled use of fire to cook meat at
+a very early stage of their development.
+　
+The argument above makes which of the following assumptions?
+
+Every human species since Homo erectus has made
+　controlled use of fire.
+Homo erectus could not have eaten antelope meat
+　unless the meat had been cooked.
+Early human settlements can be identified by the
+　presence of charred antelope bones.
+The diet of Homo erectus consisted in large part
+　of antelope meat.
+The antelope bones were charred in a fire controlled
+　by humans.
+
+答案：(E)
+
+A random sample or shoppers responded to the questions
+contained in a marketing survey. Six months later, another
+random sample of shoppers responded to exactly the same
+questions, except that the questions were now arranged
+in a different order. The pattern of responses to many
+individual questions was greatly different, thus
+demonstrating that a question will sometimes elicit
+different responses depending only on what question
+precedes it.
+　
+The argument above depends on which of the following assumptions?
+
+The reordering of the questions did not put each
+　question in a different sequential position from its
+　position six months previously.
+Shoppers who respond to a marketing survey do not
+　generally remember six months later what responses they
+　gave.
+There was no motive for the second survey except
+　that of discovering whether the ordering of the questions
+　mattered.
+The survey was not composed of questions to which
+　shoppers would give different responses at different
+　times of the year.
+The first sample of shoppers did not have any
+　individuals in common with the survey sample of six
+　months later.
+
+答案：(D)
+
+问题：上面的论述依赖于下面哪一个假设？
+读题：随机挑选的购物者对包含在市场调查中的问题作出反应。
+　　　六个月以后，另外一组随机挑选的购物者对相同的问题作出反应，除了问题以不同的顺序重新组合外。对许多问题的反应结果是截然不同的，因此显示一个问题将导致不同的反应，仅仅依赖于在它前面是什么问题。
+　
+分析：原文是一个调查,两组人回答问题，问题相同，次序不同，反应不同，
+　　　得出一个结论:问题的次序不同导致对问题的反应不同
+　
+此类假设一般为: 没有其他的原因来解释为什么反应会不同(首先看具有否定词选项)
+a. 没有把每一个问题放在不同的位置
+c. 除了发现是否问题的顺序有关，第二次调查没有任何动机
+d. 调查不是由这样的问题组成，购物者在一年的不同时期会对问题作出完全不同的反应。
+（not去掉，调查包含购物者在不同时期对问题作出完全不同的反应，
+　说明不是次序的不同，而是时间的不同导致的）
+
+
+The academic education offered to university students
+is essential and must not be -------, but that does not
+mean universities should -------- the extracurricular,
+yet still important, aspects of university life.
+
+impeded.. promote
+debated.. victimize
+protected.. broaden
+maximized.. continue
+compromised. neglect
+
+答案：(E)
+
+extracurricular: a.课程以外的
+impede: v.妨碍，阻碍
+victimize: v.使…成为牺牲品，使受害
+maximize: v.使增加（或扩大）到最大限度
+compromise: v.1.通过互让解决（争端等） 2.连累，危及，损害 3.放弃（原则、理解
+等）
+　
+向大学生提供的专业知识教育殊为重要，绝不允许损害放弃，但这并不意味着大校就可以忽视大学生活中课程以外的——但依然是重要的——内容。
+
+To understand fully the impact of global warming on
+the environment, one must recognize that the components
+of the problem are -------- and, therefore, a change in
+any one component will ------ the others.
+
+distinct.. influence
+unique.. clarify
+linked.. affect
+cyclical.. negate
+growing.. exacerbate
+
+答案：(C)
+
+component: n.1.（组）成（部）分 2.零件，部件，电路元件
+distinct: a.1.有区别的，不同的，单独的 2.明显的，清晰的 3.明确的，确实的 4.显著的
+clarify: v.1.澄清，阐明，使清晰明了 2.清除混乱（或疑问） 3.净化
+cyclical: a.循环的，周期性的
+negate: v.否定，否认，取消
+exacerbate: v.1.使加深（剧），使恶化 2.激怒
+　
+为了充分理解全球升温对环境产生的影响，我们必须认识到，该问题的诸组成部分是彼此相连的，因此，任何一个组成部分发生变化，就会影响到其他组成部分。
+
+Although the Impressionist painters appeared to earlier
+art historians to be ------- in their methods, recent
+analyses of their brushwork suggest the contrary that,
+in fact, their technique was quite -------
+
+unstudied.. sophisticated
+idiosyncratic.. effective
+eclectic.. naive
+lax.. fashionable
+careless.. unpremeditated
+
+答案：(A)
+
+impressionist: a.1.印象主义的，印象派的 2.仅给人以一般印象的，主观的，不成体
+系的
+brushwork: n.（画家或作家的）笔法
+sophisticated: a.1.老于世故的，失去天真的，矫揉造作的 2.老练的，富有经验的，精通的 3.不落俗套的，深奥精妙的，精致的 4.复杂的，精密的，尖端的
+idiosyncratic a.富于个人特质的，个人习性的
+eclectic: a.折中主义的
+naive: a.1.天真的 2.幼稚的，轻信的 3.未经正规训练的，未有过经验的
+lax: a.1.松驰的 2.不检点的，放纵的
+unpremeditated: a.非预先计划的，非预谋的
+　
+尽管印象主义画家在早期艺术史家看来，其方法显得不事雕凿，但最近对他们笔法所作的分析表明，情况恰恰相反——事实上，他们的技法甚为精致复杂。
+
+Increased governmental alarm about global warming----
+the concerti among scientists that such.warming is
+occurring, though when to expect major effects is still
+-------.
+
+echoes.. agreed on
+precludes.. under consideration
+reflects.. in dispute
+obviates.. in doubt
+encourages. confirmed
+
+答案：(C)
+
+echo: v.1.产生回响 2.复述，重复…的观点
+preclude: v.排除，阻止，杜绝
+obviate: v.排除，消除，避免
+　
+政府对全球升温与日俱增的关注反映出科学家之间所存在的忧虑，即这种升温现象确在发生，尽管何时可望出现重大效应尚莫衷一是。
+
+For someone as ------- as she, who preferred to speak
+only when absolutely necessary. his relentless chatter
+was completely -------.
+
+ingenuous.. ignorant
+curt.. enchanting
+cheerful. idle
+laconic.. maddening
+forward.. pointless
+
+答案：(D)
+
+relentless: a.1.残酷无情的 2.不间断的，持续的
+chatter: n.1.喋喋不休 2.啭鸣声，潺潺声，打战声 3.（工具的）震颤（声）
+ingenuous: a.坦率单纯的，胸无城俯的，天真的
+curt: a.1.简短失礼的，唐突草率的 2.简明扼要的
+　
+enchanting: a.1.令人陶醉的，引人入胜的 2.使人着魔的，迷惑人的
+idle: a.1.闲散的，闲置的 2.懒散的，不务正业的 3.无根据的 4.琐碎的，无意义的
+laconic: a.（言语、文章等）简洁的，精练的
+forward: a.1.热心的，乐意的 2.冒失的，鲁莽的
+pointless: a.无意义的，不得要领的
+　
+对于一个象她这样言简意赅、只有在绝然必要的时候才愿意启齿说话的人来说，他那无休止的闲聊变得彻底令人发疯。
+
+
+Future generations will probably consider current
+speculations about humanity's place in the universe
+to be ------- omissions and errors; even rigorous
+scientific views change, sometimes overnight.
+
+immune from
+marred by
+uncorrupted by
+correct despite
+abridged by
+
+答案：(B)
+
+speculation: n.1.猜测，推断，遐想 2.（哲）思辨
+rigorous: a.1.严格的，严厉的，苛严的 2.严峻的，严酷的 3.精确的，严密的，缜密的
+overnight: adv.在短时间内，突然地，一夜之间地
+immune from: a.豁免的，不受影响的，对…有免疫力的
+mar: v.毁坏，损坏，玷污，损伤
+abridge: v.减少…篇幅，节略，缩短，减少，限制
+　
+未来年代的人们很可能认为，目前人类对其在宇宙中的地位的思索会由于存在各种疏忽和谬误而显得美中不足，即便是缜密的科学见解也会改变，有时就在旦夕之间。
+
+Marshal Philippe Petain, unlike any other French
+citizen of this century, has been, paradoxically, the
+object of both great veneration and great -------
+
+reverence
+interest
+empathy
+contempt
+praise
+
+答案：(D)
+
+marshal: n.元帅
+philippe petain: 贝当（1856-1951，法国元帅，第一次世界大战时曾指挥凡尔登战役第二次世界大战时任维希亲纳粹政府元首，战后因通敌罪被法国法庭判处死刑，后改判无期徒刑。）
+paradoxically: adv.1.似是而非地，佯谬地 2.自相矛盾地 3.反常地
+veneration: n.敬重，崇敬
+reverence: n.1.尊敬，敬畏 2.受尊敬，威望 3.崇敬的表示
+empathy: n.（审美）移情作用
+　
+与本世纪任何其他法国公民所不同的是，菲利普·贝当元帅非常矛盾地既受到高度的敬仰，又遭到强烈的鄙视。
+
+
+SYMPHONY: CONDUCTOR::
+
+novel : author
+film: director
+documentary : collaborator
+musical : vocalist
+play : critic
+
+答案：(B)
+
+交响乐:乐队指挥
+　
+小说(有新意的):作者
+电影:导演
+纪录片，记实小说:合作者
+音乐剧:歌唱家
+戏剧:评论家
+
+REMAINDER : SUBTRACTION::
+
+fulcrum: leverage
+drip: pool
+battle : warfare
+residue : evaporation
+credit: translation
+
+答案：(D)
+
+剩余物:提取
+　
+支柱，支点:杠杆作用
+水滴:水池(合力，集中v.)
+战斗:战争
+残渣:蒸发
+信誉，名誉(功荣，学分):翻译
+
+SMUGGLER: IMPORT::
+
+lobbyist: convince
+analyst: inform
+embezzler: :appropriate
+theorist: postulate
+witness : incriminate
+
+答案：(C)
+
+走私者:进口
+　
+说客:使信服
+分析家:通知
+侵吞公款者:挪用公款
+理论家:假定
+目击者:归罪于，控告
+
+REPRIEVE: PUNISHMENT::
+
+injunction: prohibition
+evaluation : assessment
+investigation: prosecution
+dare: fight
+moratorium: activity
+
+答案：(E)
+
+缓刑，暂缓:惩罚
+　
+指令，禁令:禁止
+评价:评估
+调查:起诉
+勇气，胆量:战斗，打斗
+延期偿付:活动
+
+SNUB : DISDAIN ::
+
+forsake : desertion
+condemn : exasperation
+incense: tact
+double-cross : disloyalty
+lampoon: respect
+
+答案：(D)
+冷落，怠慢:轻蔑，藐视
+　
+放弃，抛弃:抛弃(脱党)
+谴责(定罪):激怒(加剧)
+激怒(香n.):机智，圆滑
+出卖，欺骗:不忠诚
+讽刺:尊敬
+
+SYNOPSIS : CONDENSED::
+
+summation : definitive
+outline : intricate
+precis : through
+appendix : supplementary
+oration : redundant
+
+答案：(D)
+
+大纲:浓缩的，压缩的
+　
+总结(加法):确定的(有限的)
+轮廓:复杂的
+摘要；梗概:完全的
+附录(阑尾):补充性的
+演说:多余累赘的
+
+FRIABLE: CRUMBLE::
+
+malleable : alter
+fragile: fortify
+immutable: change
+moist: contaminate
+resilient : injure
+
+答案：(A)
+
+脆的，易碎的:崩溃，粉碎
+　
+可塑的:改变
+脆弱的，易碎的:加强
+不可改变的:改变
+潮湿的:污染
+有弹性的:受伤
+
+
+INTRACTABLE: MANAGE::
+
+compliant: appease
+phlegmatic: provoke
+inimical: antagonize
+interpretive: construe
+hesitant: pursue
+
+答案：(B)
+
+倔强的，固执的:操纵(处理，管理)
+　
+温顺的，服从的:平息
+冷淡的，无动于衷的:激怒；引发
+敌视的(不利的):对抗
+翻译的:翻译
+犹豫的:追寻
+
+STRIDENCY: SOUND::
+
+fluidity: liquid
+graininess : texture
+garishness : appearance
+striation: color
+aroma: odor
+
+答案：(C)
+
+刺耳:声音
+　
+流动性，液性:液体
+粒状:结构，质地
+华丽而俗气:外表
+条纹:颜色
+芬芳:气味
+
+
+　　　In February 1848 the people of
+　　Paris rose in revolt against the
+　　constitutional monarchy of Louis-
+　　Philippe. Despite the existence of
+(5) excellent narrative accounts, the
+　　February Days, as this revolt is
+　　called, have been largely ignored
+　　by social historians of the past
+　　two decades. For each of the three
+(10) other major insurrections in nineteenth-
+　　century Paris-July 1830, June 1843,
+　　and May 1871 there exists at least
+　　a sketch of participants' backgrounds
+　　and an analysis,more or less rigorous,
+(15) of the reasons for the occurrence of
+　　the uprisings. Only in the case of
+　　the February Revolution do we lack
+　　a useful description of participants
+　　that might characterize it in the
+(20) light of what social history has
+　　taught us about the process of revolu-
+　　tionary mobilization.
+　　　Two reasons for this relative neglect
+　　seem obvious. First, the insurrection
+(25) of February has been overshadowed by
+　　that of June. The February Revolution
+　　overthrew a regime, to be sure, but
+　　met with so little resistance that
+　　it failed to generate any real sense
+(30) of historical drama. Its successor,
+　　on the other hand, appeared to pit
+　　key socioeconomic groups in a life-
+　　or-death struggle and was widely seen
+　　by contemporary observers as marking
+(35) a historical departure.Through their
+　　interpretations, which exert a con-
+　　tinuing influence on our understanding
+　　of the revolutionary process,the impact
+　　of the events of June has been magnified,
+(40) while, as an unintended consequence,
+　　the significance of the February insur-
+　　rection has been diminished. Second,
+　　like other "successful" insurrections,
+　　the events of February failed to
+(45) generate the most desirable kinds
+　　of historical records. Although the
+　　June insurrection of 1848 and the
+　　Paris Commune of 1871 would be con-
+　　sidered watersheds of nineteenth-
+(50) century French history by any standard,
+　　they also present the social historian
+　　with a signal advantage: these failed
+　　insurrections created a mass of
+　　invaluable documentation as a by-
+(55) produce of authorities efforts to
+　　search out and punish the rebels.
+　　　Quite different is the outcome of
+　　successful insurrections like those
+　　of July 1830 and February 1848. Experi-
+(60) ences are retold, but participants
+　　typically resume their daily routines
+　　without ever recording their activities.
+　　Those who played salient roles may
+　　become the objects of highly embellished
+(65) verbal accounts or in rare cases, of
+　　celebratory articles in contemporary
+　　periodicals. And it is true that the
+　　publicly acknowledged leaders of an
+　　uprising frequently write memoirs.
+(70) However, such documents are likely
+　　to be highly unreliable, unrepresent-
+　　ative, and unsystematically preserved,
+　　especially when compared to the
+　　detailed judicial dossiers prepared
+(75) for everyone arrested following a
+　　failed insurrection.As a consequence,
+　　it may prove difficult or impossible
+　　to establish for a successful revolution
+　　a comprehensive and trustworthy picture
+(80) of those who participated ,or to answer
+　　even the most basic questions one might
+　　pose concerning the social origins of
+　　the insurgents.
+
+According to the passage, a useful
+description of participants"(line 18)
+exists for which of the following insurrec-
+tions of nineteenth-century France?
+　I. The July insurrection of 1830
+　II. The February Revolution of 1843
+　III. The June insurrection of 1848
+　IV. The May insurrection of 1871
+I and III only
+II and IV only
+I, II, and III only
+I, III, and IV only
+II, III, and IV only
+
+答案：(D)
+
+　一九四八年二月，巴黎人民举行暴动起义，反抗路易—菲律普的君主立宪制（the constitutional monarchy of Louis-Philippe）。尽管不乏极好的叙事描述，被称为“二月的日子”的这场起义在很大程度上被历史学家在过去的二十年中所忽略。对于十九世纪的巴黎其它三次重大暴劝——1830年7月，1848年6月以及1871年5月——中的任何一次来说，都至少存在对参加者背景的大致描述以及对这些起义发生的原因或多或少甚为严谨的分析。唯独在二月革命（the February Revolution）这一情形中，我们缺乏一种有用的有关参加者的描述，而这一描述则有可能按照社会历史有关革命动员过程所教给我们的内容来勾画出这场革命的性质。
+　
+　　对于这种相对的忽视，有两个原因似乎是显而易见的。第一，二月起义一直因为六月起义而被弄得相形见绌。二月革命被推翻了一个政权，这是毫无疑问的，但它遭到如此少的抵制，以致于它没能产生任何真正的历史剧变感。而另一方面，继此之后发生的那场革命却似乎将两大社会经济群体置于一场生死存亡的斗争中，故这场革命被当代观察家们广泛视作标志着一次历史性的重大转折。通过他们的解释（正是这些解释对我们有关革命过程的理解产生着经久不衰的影响），六月事件的影响得以被渲染夸大，而与此同时，作为一种无心而为的后果，二月起义的意义则被贬低了。其次，如同其它“成功的”起义那样，二月事件没有能够产生最为可取的历史记载。尽管1848年的六月起义以及1871年的巴黎公社藉任何标准来评判都有可能被视作十九世纪法国历史的分水岭（watershed），它们同样也为社会历史学家提供了一个重大的优势：这些失败的起义，作为政府当局力图搜查出并惩罚叛党的一个副产品，造成了大量无价的文件记载史料。
+　
+　　　然而，象1830年七月和1848年年二月此类成功的起义，其后果却全然不同。起义的成功经验不断被复述，但参加者普遍重新操起其日常例行惯事，从不曾将其活动一一记录下来。那些起过显赫作用的人变成了极为渲染的文字记述的对象，或者，在不多的一些情形中，成为当代刊物中歌颂德性文章的对象。诚在，每次起义公认的领袖们经常地撰写回忆录。但是，这类文档有可能是极不可靠的，缺乏代表性的，且不能得到系统的保存，尤其是当它们相比于紧随每一次失败的起义之后为每一个遭逮捕的人所准备的那些详尽的法律卷宗。因此，若想为一次成功的革命建立起所有参加者的一种综合而又可信的记述，或者想要回答我们有可能针对起义者的社会背景提出的最基本的问题，这可能会显得甚为困难，甚至根本就不可能。

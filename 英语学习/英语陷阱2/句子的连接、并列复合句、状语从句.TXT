@@ -1,0 +1,171 @@
+句子的连接、并列复合句、状语从句
+
+1．句子的连接
+   导言：英语的五个基本句型，都为简单句。如何将两个或两个以上的简单句连接起来，就是句子的连接问题。
+   牢牢记住：逗号"，"不能连接两个句子
+   这是英语书面语中句子连接的核心思想，如：
+   错：He is ill, he cannot come to the party this evening. (他病了，今晚不能来参加派对。)
+   改：He is ill and he cannot come to the party this evening. 或：
+   Because he is ill, he cannot come to the party this evening. 或：
+   He is ill so he cannot come to the party this evening.
+   当然，还可以有其他几种改法。但不管怎么改，都必须有"连接词"，如上句中的 "and", "because", "so" 都称为"连接词"。不同的连接词有不同的句法功能，名称五花八门。为了便于学习，讲座中将尽量避免使用语法术语，大家只要记住"连接词"这个概念就可以了。
+   上述两个句子的连接，如果不用连接词连接，就必须将其中一个句子（一般为从句）的谓语动词改为"动词非谓语形式"，即：
+   Being ill, he cannot come to the party this evening.
+   关于这个问题，将在"第五讲：动词非谓语形式"具体讨论。
+   举出上述例子，是想告诉考生一个重要的语法现象：当考题中出现两个句子（或类似两个句子的结构）要求连接时，A，B，C，D选项的正确答案要么是"连接词"，要么是"动词非谓语形式"，其他形式都是错的。这个概念对于应试是非常重要的。
+   例如：
+   Some metals are better conductors than others, ______ means that the former has atoms that contain more free electrons than the latter.
+   A.it  B.that  C.this  D.which
+　 不要考虑这个句子是什么意思，首先看到的是这两个句子中间是个"，"号，其考点只有一个，即A，B，C，D四个选项中哪个是连接词。A，C在英语中不是连接词，永远不可能用来连接两个句子。这是个"非限制性定语从句"（具体概念见"第四讲"），故正确答案为D。
+   又如：
+   It ______ fine, all the students went to Xishan for a picnic.
+   A.was  B.is  C.be  D.being
+   这两个句子中间又是个"，"号。显然，这道题的A，B，C，D选项不是连接词，而是"动词"，只有用"动词非谓语形式"才能把这两个"句子"连起来，故正确答案只能是D。
+   一再强调的一个思想是：对于某些语法题，解题思路比单纯认识几个英文单词更为重要。
+   英语中，句子的连接有以下几种形式：
+   1）并列复合句
+   2）状语从句
+   3）定语从句（含同位语从句）
+   4）名词性从句（即主、宾、表语从句）
+   2． 并列复合句
+   简单地说，由简单并列连词and, but, or，或复合并列连词both… and…, neither…nor…, either…or…, not only…but also…连接的句子称为并列复合句。
+   重点：
+   1） and - 不能简单地理解为"和"，除了起连接作用外，应根据句子的上下文判别其实际意义，总的表示"递进"。
+   例如：He is ill and he cannot come to the party this evening.
+   2） But - 表示"转折"
+   所以要确定，应根据上下文，特别是两个句子中的用词是"同方向的"还是"反方向的"，前者一般用 "and", 后者一般用 "but"，.
+   例如：
+   There was little rain last year______ the farmers still got a bumper crop.
+   这个句中"little rain"（少雨）和"a bumper crop"（丰收）是相反方向的用词，故应填"but"。请回忆一下"第一讲"中的有关示例。
+   3） or - 解释为"或者"，表示选择，但在"非真实条件句中"解释为"否则"，引出"含蓄虚拟式"
+   4） 关于复合并列连词，主要注意两个问题，一是"数"，二是句子的"均衡"。
+   在历年军队职称考试中，并列复合句方面的题出得较少。
+   3． 状语从句
+   所谓状语从句，是指用来说明主句行为（或状态）发生的时间、原因、条件、地点、目的、结果及方式等。
+   1) 时间状语从句：记住以下连接词的意思和重点：
+   (1)when / while / as （当…时侯）
+   注意：while除了做时间状语的连接词外，还解释为"虽然…"，"而…"。
+   例如：He is very diligent, while she is very lazy. (他很勤奋，而她却很懒。)
+   (2)before (after) 在…之前（后）
+   (3)until / not until（直到）注意：not until放在句首时，往往要求倒装
+   (4)as soon as / once (一…就…)
+   (5)immediately / instantly / directly 原本是副词，这里作连接词，表示"一…就…"，
+   例如： I knew I had made a mistake directly (或用immediately / as soon as) I had done it. (刚做完这件事，我就知道我做错了。)
+   (6)the moment / each time / every time / next time / the first time / the instant / the year原本是名词或副词，这里作连接词用。
+   (7)hardly (scarcely)…when… / no sooner…than…"一…就…"
+   注意：这是时间状语考试的重点句型，一是不要把两个句型中的when和than的搭配搞错了，二是要用倒装语序。
+   例如：
+   Hardly had I sat down when the telephone rang. (我刚坐下，电话铃就响了。)
+   重点：在时间（和条件）状语中，用一般时代替将来时。
+   例如：
+   We'll start as soon as the leader ______. ( 领导一来就开始。)
+   A.comes   B.is coming   C.will come   D.came
+   根据英语"时态一致性"原则，主句与从句的时态应一致，答案似乎应该是B或C，但是正确答案是A，因为在时间状语中，用一般时代替将来时。将上句改为过去时，道理也一样：
+   He said (that) we would start as soon as the leader _____.
+   A.came  B.was coming  C.would come  D.comes
+   答案应为A
+   2) 条件状语从句：分真实条件句和非真实条件句（虚拟语气）
+   重点：在条件（时间）状语中，用一般时代替将来时（可参见时间状语从句例子）
+   虚拟语气（见"第六讲"）
+   主要连接词：
+   (1)if / unless (除非 = if not 如果不)
+   例如：
+   Children should not be taken into the room of a very sick person ______ there is some special reason for it.
+   A.except  B. besides  C. unless  D.whereas
+   解题思路：根据上面说过的连接原则，这里必须是一个"连接词"，而A，B都是介词，因此正确答案只能在C，D中选。"whereas"意为"而"，故正确答案为C。（不应把儿童带到重病人房间，除非有某种特殊原因。）
+   (2)provided / on condition that (跟句子) （如果…）知道这也是连接词就可以了，一般说，当考题中出现这种词时，应倾向选择。
+   3) 原因状语从句：
+   主要连接词：because/ since / as
+   要点：不要把连接词 because与介词短语because of ( + 名词或-ing形式) 相混淆；
+   不要把表示原因的since与表示时间的since"自从…"相混淆；
+   不要把表示原因的as与表示时间的as"随着…"相混淆；
+   顺便提一下， because表示直接"因果关系"，而since, as 是对事实的说明，主句和从句之间并不一定具有"因果关系"。
+   例如：
+   As you are already 18 years old, you should know what to do and what not to do. (你已经18岁了，应该知道什么该干什么不该干。)
+   这个句子用because连接就不太合适。好在军队职称考试中并不要求作这种分辨。
+   …for 注意：一般只能放在主句后面，即主句 + for从句，例如：
+   He must have gone to bed, for it is too late. (他肯定已经睡了；现在已经很晚了。)-- 该句不能用because
+   now that / seeing that / considering that （由于…）
+   Seeing that this problem was settled, they proceeded to the next one.（鉴于这个问题已经解决，他们开始进行下一个问题。） n
+   …in that（在于…）一般放在主句后面，例如：
+   Humans are superior to animals in that they can use languages as a tool to communicate. (人比动物高等，因为人能以语言作为工具进行交际。)
+   ４) 让步状语从句：
+   主要连接词：although （虽然）/ even if (though) （即使）/ while （尽管）后两个是考试的重点。no matter what… (= whatever无论…什么…) / no matter how… (=however， 无论怎样…) / whether…or not （不论…还是…）这是让步句考试的重点。
+   例如：
+   No matter what (或Whatever) may happen, we will not change our plan. (无论可能发生什么，我们决不改变计划。)
+   No matter how difficult (或However difficult) the journey may be, we will not change our plan. （不管路程有多难，我们决不改变计划。）
+   We should not worry her whether she is well or ill (或whether she is ill or not).（无论她身体好坏，我们都不应使她烦恼。）
+   注意：no matter what后面跟名词或名词性结构；no matter how后面跟形容词或副词，不要搞错；用了no matter what / no matter how就不能再用whatever / however。
+   ５) 比较状语从句：
+   这是英语语法必考内容，要特别加以重视。
+   基本概念：两个比较级，三个或三个以上最高级。要对数字"2"特别敏感，试选择：
+   Of Mary and Jane, who is ______?
+   A. smart　B.the smartest
+   C.more smarter  D.the smarter
+   解题思路：很显然这是一道考形容词比较级的题目，从句子结构和选题A可以判断smart是个形容词原级，因此可以断定C的形式错了（重复比较，如不能说more happier 一样的道理）。B是最高级，但句中只有两个人Mary 和Jane，因此正确答案只能是D，这是一个较特殊的比较级句型，即the + 形容词比较级 + of (两个)。
+   比较级的主要句型：
+   (1) 原级比较：as +形容词或副词原级+ as， 否定式：not so (或as) +形容词或副词原级+ as
+   注意问题：as…as 之间的形容词或副词是否采用了原级；as…as 之间该用形容词还是副词；用as much as 还是用as many as
+   表示倍数时用下面结构， 如3倍：three times as …as…
+   例如：
+   The size of the island is about ______ that of this one.
+   A.three times as much as  B.as three times much as
+   C.as three times greater than 　D.three times as big as
+   解题思路：B、C违反了上述句型规定，A、D的区别是size（大小 / 尺寸）是与much搭配还是与big搭配，D是对的。
+   （2） 比较级：more …than…
+   注意：
+   1） 比较形式是否正确，如是否有类似"more better"这样重复比较的错误；
+   2）两者之间是比较级，三者以上是最高级，看看是"两者"还是"三者或三者以上;
+   3）只有同类的人或物才能比较（可比性）；比较不能包括"自己"， 常用other表示排除。
+   例如不能说：
+   He is taller than any students in this class.
+   而应说：
+   He is taller than any other student(s) in this class.
+   4）修饰比较级的词有：much, even, far, by far, still, a lot, a bit 等，例如：
+   John did badly in the sports meet. I did even worse (than John did).
+   你能看出下句的问题吗？
+   His salary as a bus driver is more higher than a teacher. ( 他是个公共汽车司机，他的工资要比教师高。)
+   该句有两个大错1）high的比较级为higher，2）主语his salary（他的工资）而比较对象是a teacher，两者不可比，怎样的表达才是对的呢？请选择：
+   His salary as a bus driver is much higher ______.
+   A.in comparison with a teacher   B.than a teacher
+   C.than a teacher's   D.than that of a teacher's
+   正确答案是C，也可以写成than that of a teacher（请联系名词格的概念想一想）
+   最高级the most of +比较范围 / 最高级+名词+that （不是which）定语从句，例如：
+   This is the most interesting film that I have ever seen. (这是我看过的最有趣的电影。)
+   the more…the more…
+   The longer you wear glasses, the more you depend on them. (眼镜戴的时间越长越有依赖性。)
+   考试时，一般只要认准"the" 和比较级形式就不难判别。
+   其他表示比较意思的形式
+   A is superior / inferior to B（A 比B高级 / 低级）
+   注意：superior/ inferior前不能再加 more 或者less; 用to不是用 than。
+   例如：
+   Humans are superior to animals in that they can use languages to communicate.（人比动物高级在于人能用语言进行交际。）
+   prefer… rather than (宁可…而不…)
+   例如：
+   I preferred to stay out in the cold rather than spend the night there. (我宁可呆在外面受冷，也不在那儿过夜。)
+   Would rather…than… ..(用法和意思与上句型差不多)
+   6) 地点状语从句：
+   主要连接词：where / wherever / everywhere
+   注意地点状语从句中where与定语从句中关系副词where的区别与联系：
+   Put the book where it is. (把书放好，即"把书放在该放的地方。)
+   Put the book in the place where it is.
+   以上两个句子的意思是一样的，第一个句子是"地点状语从句"，第二个句子是"定语从句"（详见"第四讲"），where作关系副词修饰the place
+   7) 方式状语从句：
+   as按时（正如…/ 就象…）
+   Air is to man as water is to fish.
+   要点：不要把as 与like 混淆，like是介词，不是连接词, 如不能说：All plants need air like they need water，应为：All plants need air as they need water. （所有的植物需要空气，正如他们需要水一样。）
+   as if / as though（好象…）可以是真实的，也可以是"虚拟"的，如：
+   The meat tastes as if (though) it has already gone bad.（这肉吃起来好象变质了。-- 确实坏了）
+   He speaks English as though (if) he were an Englishman. (他说起英语来好象英国人。-- 他不是英国人，动词用的是were)
+   8）目的 / 结果状语从句
+   目的状语从句：
+   so that / in order that
+   lest / for fear that (惟恐… / 一以免…) 注意：该句型一般使用"should型"虚拟式（见"第六讲"）
+   结果状语从句：
+   so…that / such…that…/ so that / that / so
+   The professor speaks so fast that we find it difficult to follow him. （这位教授讲话很快，我们感到很难理解他讲话的意思。要点：so + 形容词或副词）
+   He give me such good advice that I finished the task smoothly. (他给了我很好的建议，因此我顺利地完成了任务。要点：such + 名词)
+   The film was such that everyone was deeply moved. （这部电影如此精彩，每个观众都被深深打动了。要点：such在这里做代词，可以理解为：The film is such a good film that…）
+   顺便提一下，"…，only to do…" 虽不属于从句，但是是一个重要的表 (意想不到的) 结果的句型，请记住， 例如：
+   For nearly three hours we waited for the decision, only to be told to return the next day. (为这个决定我们几乎等了三个小时，可结果被告知第二天返回。)
+   从考试角度看，状语从句的重点是：时间、原因、条件、让步和比较

@@ -1,0 +1,34 @@
+手机常见英文释义
+
+    持英文显示数字移动电话的用户，经常被屏幕上所显示的字母所困惑，为方便您使用，特将屏幕显示字母含意说明如下：
+
+摩托罗拉型号：
+　　BadCardSeeSupplier（可能欠费停机或SIM卡有问题）；
+　　PhonefaildeSeeSupplier（可能是手机有故障）；
+　　Block（SIM卡被锁，请到营业室解锁）；
+　　BlockSeeSupplier（SIM卡被锁，可能已坏，请到营业室查询）；
+　　460．00（进入待机状态，可以使用）。
+
+爱立信型号：
+　　Enterpin（请输入您的密码）；
+　　Welcome（欢迎使用，正在找网）；
+　　Searching（正在搜寻）；
+　　CardError（卡有错误，可能是SIM卡有故障，可能需要重新装卡，可以是欠费）；
+　　CardBlockedUnIock？（连续三次密码输入错误，SIM卡被锁，请到营业室解锁）；
+　　BlockdeContactCardProvider（在SIM卡被锁后继续操作，卡已烧毁）；
+　　4600．00或CmGmcc（进入待机状态，可以使用）。
+
+西门子型号：
+　　PleaseenteryourPIN（请您输入个人密码）；
+　　NelworkSearch（正在搜寻网络）；
+　　MCC：460MNC：00（待机状态，可能使用）；
+　　PINblockedEntreMas？terPIN（三次密码输入错误已锁机）；
+　　Carddisabred（烧卡，请到营业室解锁或换卡）。
+
+诺基亚型号：
+　　EnterCode（请输入您的密码）；
+　　CodeAccepted（密码被确认）；
+　　NOAccess（可能是欠费停机故障）；
+　　NonetWork（不能入网，可能是手机故障）；
+　　Blocked或EnterPukcode（密码输入错误，SIM卡被锁，请营业室解锁）；
+　　Cardrejected（SIM卡被锁后继续操作导致卡已损坏）；460．00（进入待机状态，可以使用）。

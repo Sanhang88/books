@@ -1,0 +1,133 @@
+英语作文中的句法错例分析
+
+   要想写好英语作文，必须突破语法这一难关，否则永远写不出像样的东西来。下面通过例句对英语写作过程中容易出现的语法错误类型进行分析，以提醒读者不要犯相同的错误。
+一、名词。
+   名词可以分为许多种类，如个体名词、集合名词、可数名词、不可数名词等。所有这些类型的名词都与数的概念有关，而许多与名词有关的问题也都反应在单、复数的错误运用上。例如：
+   Opportunity is only one of the most common thing in the span of life.
+   例句中的thing与前面的one of …相呼应，应改为复数。此类错误多是由于粗心造成的，一旦指出，一般都能立即对所犯错误进行纠正。
+二、冠词。
+   冠词属于结构词，只能与名词或其他相当于名词的成分一起使用。定冠词表示特指，不定冠词表示泛指。不定冠词a用于辅音开头的词语前，an则用于以元音开头的词语前。这些是基本的冠词使用中的基本规则，但运用起来并不简单，据统计，在英语作文中，与其他语法项目相比，冠词方面的错误是最多的。一般而言，冠词错误可以分为三类：
+1．在不需要冠词的地方使用冠词：
+   The lucky people are those who can take hold of the every chance when they arrive. (the多余的)
+2．在需要冠词的地方不运用冠词：
+   Which one of two opinions is right? （two前面应加上the）
+3．a和an的误用：
+      When a unexpected opportunity comes, don't hesitate to take hold of it. （a应改为an）
+三、代词。
+   在大多数情况下，代词都会有一个前置词，通常是它指代的名词或代词。在使用过程中，必须注意代词与前置词之间在数、人称和性等方面的一致性。例如：
+   People should learn to look for opportunities around him.
+   这里的him显然应该改为them。代词错误一般也是由于粗心造成的，一经指出，一般也能够立即认识到自己的问题。
+四、助动词。
+   助动词通常与其他动词一起构成动词短语，该动词短语在作用上相当于一个完整的动词，以帮助构成谓语并体现时态、语态和语气。此外，它们还帮助构成否定句和疑问句。此外还有另一种称为情态动词的助动词，这样的助动词都具有本身的意义，而且也可以帮助构成句子的谓语。在下列句子中，助动词在使用上都出现了某些方面的错误。
+   There are not many opportunities, but opportunity do exist. (应改为does)
+   Some people succeed, but other not. (句末应改为did not)
+   Only in this way can you be able to succeed. (can和be able to为同义词，本句可改为：Only in this way can you succeed或Only in this way are you able to succeed。)
+   值得指出的是，据统计，现有一种普遍现象，那就是越是英语水平高的人越是不注意助动词的用法。
+五、修饰语。
+   修饰语指的是一个或一组词语，其作用是限制或描述另一个或一组词语。修饰语能够使被限制或描述的对象更加生动与精确。修饰语一般可分为三类：定语修饰语、状语修饰语和句子修饰语。定语修饰语是任何修饰名词或代词的词或词组，状语修饰语指任何修饰动词、形容词或其他副词的词或短语，顾名思义，句子修饰语就是用来修饰整个句子的词或短语。
+   修饰语错误可分为三类：
+1．放错位置：
+   Sometimes are not enough sensitive to find an opportunity. (应改为sensitive enough)
+2．定语修饰语误用：
+   If you learn English pretty good, you can find a good job in a factory run by a foreigner. (good应改为well)
+3．状语修饰语误用：
+   I think everyone has equally chance. (equally应改为equal)
+六、搭配形式。
+   搭配形式指的是共同构成一个较为稳定形式的一组词语。以汉语为母语的英语学习者经常会犯这样的错误，因为他们常常会倾向于用汉语思考，从而忘记了英语词汇的语言特征，或者是由于缺乏搭配方面的知识。我们知道，每一个英语单词都有自己的特征，以动词agree为例，该动词就只能以名词短语为宾语，但却不能后跟名词从句或介词短语；形容词every则不能后跟一个名词复数，而只能跟一个单数名词。违犯了这种规则，就会犯搭配方面的错误。例如：
+   For the two views, I agree the latter one. (应改为agree with)
+   Now almost every people agrees that success needs proper opportunity. (应改为every people agree)
+   此外，大部分英语单词都包括一些可选择性的限定形式，比如do只能后跟名词good或harm，而不能跟use； same可以后跟一个as，但却不能后跟which。假如不了解这些选择性限定条件，就会犯如下错误：
+   What use will the opportunity do to you? (use应改为good)
+   They don't get the same opportunity which they have been longing for. (which应改为as)
+七、非谓语动词。
+   非谓语动词是由动词变化来的，通常被用作名词、形容词或副词。同动词一样，非谓语动词可以有宾语和语态，也可以有状语修饰语，但却不能在谓语动词中充当谓语。非谓语动词可以划分为三类：不定式、分词和动名词。非谓语动词在使用上有很大差别，因此也会出现许多不同的错误。
+1．把非谓语动词当作谓语动词：
+   We often talking about opportunity. (应改为We often talk…)
+2．把谓语动词当作非谓语动词：
+   I want to tell those who will go into the society grasp every opportunity. (应改为to grasp)
+3．现在分词和过去分词的混淆使用：
+   Opportunity appears in the ignoring corner. (应改为ignored)
+4．动词不定式和动名词的混淆使用：
+   He suggested to go. out for a walk. (suggest后跟动词作宾语时应使用动名词形式，因此to go要改为going)
+八、主谓一致。
+   在英语写作过程中，必须要保持谓语动词与主语在数与人称上的一致性。尽管不缺乏这方面的知识，不少人在造句中仍会出现一致性方面的错误。例如：
+   The development of the human beings depend on knowledge and technology. (depend的主语是development，因此应改为depends)
+   In my own view, opportunity are here and there. (are应改为is)
+   上述第一个例句中的错误可能是因为主语和谓语之间的插入语造成的，但第二个句子的主谓之间并没有任何成分，由此可见，主谓一致方面的错误是很常见的。
+九、语态。
+   语态表示主语与谓语动词之间的关系，如果主语是动作的执行者，动词就用主动语态，假如主语是动作的接受者，动词则用被动语态。然而需要注意的是，并非所有的动词都有被动形式，写作中出现的这方面的错误主要是把不及物动词用作及物动词造成的。例如：
+   For opportunities are existed in the world. (exist、 happen、 occur、 take place等都属于不及物动词，不能有被动形式，因此are existed应改为exist)
+十、时态。
+   时态是用来表示动词时间概念的。许多情况下，人们常常不必要地将一种时态转换成另一种时态，而某些情况下，时态方面的错误则是由于粗心造成的。例如：
+   Since I have been such a loyal believer, why didn't you save me when I am in danger. (整个句子表示的都是现在的时间，因此要把didn't改为don't)
+十一、溶合句。
+   溶合句指的是没有用标点符号或连词隔开的两个或两个以上的独立成分。例如：
+   You must work hard and get hold of every chance then you will succeed. (改正：…and then you will succeed.)
+   He didn't win the game so far as I could see, he did not even try. (改正：He didn't win the game; …)
+十二、句子片段。
+   句子片段指的是短语或从句等句子的一部分被用作完整的句子。
+   1．从句被用作完整的句子：
+   Wherever opportunity may be around you. (改正：Wherever you are, opportunity may be around you.)
+   2．短语或词组被用作完整的句子：
+   Those people who can't study at college. It is because they lost their opportunity. (改正：Those people who can't study at college because they lost their opportunity.)
+十三、平行句。
+   具有同样功能和重要性的短语和从句必须有相同的语法形式。英语中有三种平行结构：比较或对比、关联和并列。例如：
+   Success belongs to those who are diligent and perseverance. (有and并列的成分在词性必须一致：diligent and perseverant)
+   Opportunity is created not by others, but ourselves. (表示关联的not…but后面的成分要一致：not by others, but by ourselves)
+十四、基本句型。
+   典型的英语句子基本句型应该是"主语+谓语"，虽然也有省略的时候。记着这一点是非常重要的，因为某些汉语句子中的谓语是可以省略的，由于受母语的影响，英语使用者常常会造出缺少主语或谓语的句子来，这些错误有时候不仅是基本句型方面的，也有可能是词序、连词的运用等与句型有关的问题。例如：
+1．主要方面的问题：
+   There may be many people see apples fall from the trees. (动词see没有主语，因此前面应加上who)
+   Anyone he can grasp the chance belonging to him. (he前面已经有了主语，因此是多余的)
+2．谓语方面的问题：
+   Everything is created by man, so the opportunity. (改正：…so is the opportunity)
+   They think those who have succeeded are entirely rely on good luck. (动词be不能和动词原形用在一起，因此are应该去掉)
+3．某些特殊句型方面的问题：
+   There won't have pies falling down from the heaven. (there be和have不能用在一起)
+4．词序方面的问题：
+   Only when you have prepared well for a test you can have the opportunity to pass it. (以only开头的句子后面主句中的主谓结构应倒装：can you have)
+5．连词方面的问题：
+   The first thing we should know is that what opportunity means. (that是多余的)
+十五、习惯用语。
+   什么是习惯用语？狭义地说，习惯用语指的是一组词语共同构成的一个具有特定意义的语言单位，而这个语言单位的意义是不能根据其中单个词语的意义猜测出来的。比如a case in point就是一个惯用语，它的意思是"恰当的例子"，而这一意义就很难根据其中的单个词语的意思猜测出来。此外在翻译中，许多习惯用语也不能从字面翻译或直译。
+   从广义上来看，习惯用语就是由一组词语构成的一个固定的短语，但不同的是，这样的短语是可能进行字面翻译的，比如differ from、 come in等等。大多数这样的短语都包含了一个或一个以上的介词或冠词，如turn a deaf ear to、 be apt to、 persist in、 on the way to等等。
+   习惯用语的结构一般是固定的，因此其中的介词、冠词或其他任何成分都是不能改变的，而且也不能省略或任意添加任何成分，这些是习惯用语在使用上的基本规则。然而在实际操作过程中，由于违反上述规则而出现的错误却是很常见的。
+1．随意改变某些成分：
+   Some people turn a deaf ear on it, who lose golden opportunities. (turn a deaf ear to是习惯用语，意思是"充耳不闻"，因此on应改为to)
+   This is dues to the careful observation. (是习惯用语，意思是"由于"、"应归于"，因此dues应改为due)
+2．随意增减某些成分：
+   The boy goes to the school at seven from Monday to Friday. (go to the school意思是"到学校去"，但不一定是去上学，go to school才是"去上学")
+   I think there are many opportunities in world. (in world应改为in the world)
+十六、选词用字。
+   一个学习英语的人可能掌握了几千个单词，但更为重要的是他应该学会如何正确使用这些单词。有时他选择的词语并不一定完全是错误的，但却有可能是不恰当的或不符合习惯的。例如：
+   The job requires a person who maintains two foreign languages. (maintain的意思是continue to have，也即"保持"、"维持"、"继续"等，而根据搭配，应将其改为know、 master或command)
+   A coach caught him by chance and trained him to be an excellent football player. (catch意思是get hold of、 seize、 trap等，这里应改为find、 meet、 get to know等)
+   需要指出的是，大部分选词用字方面的错误却属于另外一种情况，错误的产生或是由于受汉语的影响，或是由于混淆了词语的拼写形式，或者是其他方面的原因。
+1．受汉语影响：
+   You've got the opportunity to work in the company because he appreciates you after he knows your ability and talent.
+   appreciate有"欣赏"（enjoy）的意思，但这里的"欣赏"应该是think highly of，也就是说，汉语的"欣赏"和英语的appreciate并不完全一样。一般情况下，appreciate指欣赏音乐、文学作品等，此外还有"感谢"、"感激"等意思，但并不用来指人，在汉语中，"欣赏"似乎可以指任何东西。再如：
+   I think that young children often appreciate modern pictures better than anyone else.
+   We appreciate your efforts for the development of the company.
+2．词性混淆：
+   The people who are self-conscious and work hard can grasp the opportunity, but others will be fail.
+   fail是个动词，句子的后半部分应改为but others will be failures或者but others will fail。
+3．词形混淆：
+   Many people contribute their success to their opportunity.
+   contribute的词形和attribute相似，但意思完全不一样，contribute (to)意思是"贡献给……"、"有助于……"等，而attribute…to则表示"归结于……"。再如：
+   The exchange of goodwill missions greatly contributes to a better understanding between the two countries.
+   We attribute all our success to their timely help.
+4．同义词混淆：
+   Opportunity can take you success, fortune and power.
+   take是"带走"、"拿走"的意思，这里应改为bring（带来、带给）。再如：
+   The next car the boy stopped did not take him into the center of Paris as he hoped it would.
+   When you go to the post office, will you please bring some stamps back for me?
+5．前后关系不当：
+   The people who are eager to be successful need endeavor very hard.
+   情态动词need一般不能用在肯定式中，这里应该用must。再如：
+   You needn't talk so loud.
+   Need you go so soon?
+   You needn't have told him the news; he knew it already.
+   She's on holiday; she needed a change from work.
+   We need to work harder.
+   My car needs repairing.
+   在上述例句中，前三句中的need是情态动词，因此可以有否定式和疑问式，而后三句中的need则是实义动词，一般情况下，只有用作实义动词的情况下，need才可以有肯定形式。

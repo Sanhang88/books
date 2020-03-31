@@ -1,0 +1,481 @@
+GRE '93考题精选（八）--1
+
+It can be inferred from the passage that an electride behaves most like a normal ionic crystal when the electride has which of the following features?The anionic cavities are widely separated.
+All of the trapped electrons are able to delocalize.
+The trapped electrons are liberated by impinging photons.
+The ions are tightly packed together.Most of the cations have lost their electrical charge.
+
+答案：(A)
+　　在各种最简单和最为人熟知的晶体中，离子盐即是其中之一，其典型的实例就是氯化钠，或普通佐餐食盐。离子盐的基本成分是离子：那些由于获得或失去了一个或多个电子而变成带有电荷的原子或分子。例如，在形成氯化钠的过程中，同原子放弃一个电子（从而变成带正电），而氯则获得一个电子（从而变成带负电）。离子由于其相反的电荷而相互吸引，它们更加结实地堆砌在一起，如同紧密挤压在一起的球体一般。
+　　最近，密执安州立大学的科学家创造出一种晶体，称为电子晶体。在电子晶体中，阴离子（带负电荷的离子）完全被电子所替代。在正常堆砌在一起的阳离子（带正电荷的离子）的架构内，这些电子被困在自然形成的空隙中。电子晶体是离子盐的最早实例，所有阴离子的空间全部为电子所占据。
+　　与其它类型的阴离子不同，阴离子的电子不会以某些方式来运用，仿佛它们是一些简单的带电球体那样。具体地说，由于其质量低，并由于它们倾向于在相隔甚远的情形下亦能彼此间产生交互作用，因此，它们不会被“钉死”在任何一个固定位置。恰恰相反，它们会到处游离，或者紧靠着那些排列在空隙边缘的原子，或者在这些原子之间，并且还与邻近空隙中的电子产生交互作用，或许与它们交换位置。电子晶体的诸属性很大程度上取决于那些将受困电子容纳在一起的一个空隙与另一个空隙之间的距离。当受困电子相隔甚远时，它们不会发生强烈的交互作用，因而在某种程度上表现为一排孤立的负电荷。当它们贴得较近时，它们便呈现出与成群相同粒子有关的属性来。当它们更趋接近时，群体属性便占据统治地位，每个电子顿始“离域：它们在单个的空隙中不再被紧密地结合在一起，而可或多或少自由地穿越正离子架构中的空间。
+　　科学家们通过从各种材料中合成电子晶体，可改变阴离子空隙的几何结构，并改变它们与周围阳离子的关系。随之而产生的诸属性不可使电子晶体成为那些具有经济效用的材料和装置的一个基础。例如，由于某些电子晶体内的电子结合得非常微弱，这些晶体就能作为感光探测物发挥作用，在此类探测物中，一个碰撞的光子释放出一电子，随之而造成一般小电流。同样的这种微弱结合亦可使电子晶体在太阳能转换器中派上用场，并在电池中用作阴极。电子晶体的一个不足之处是它易于与空气和水发生反应而分解。科研人员正设法寻找各种方法以提高其稳定性。
+With which of the following state-ments regarding electrides would the
+author most likely agree?They have proven themselves to be of great commercial value.Their future commercial value is promising but uncertain.
+They are interesting but of no practical value.They have commercial value mainly in solar-energy applications.Their principal importance will lie in scientific research.
+答案：(B)
+　　在各种最简单和最为人熟知的晶体中，离子盐即是其中之一，其典型的实例就是氯化钠，或普通佐餐食盐。离子盐的基本成分是离子：那些由于获得或失去了一个或多个电子而变成带有电荷的原子或分子。例如，在形成氯化钠的过程中，同原子放弃一个电子（从而变成带正电），而氯则获得一个电子（从而变成带负电）。离子由于其相反的电荷而相互吸引，它们更加结实地堆砌在一起，如同紧密挤压在一起的球体一般。
+　　最近，密执安州立大学的科学家创造出一种晶体，称为电子晶体。在电子晶体中，阴离子（带负电荷的离子）完全被电子所替代。在正常堆砌在一起的阳离子（带正电荷的离子）的架构内，这些电子被困在自然形成的空隙中。电子晶体是离子盐的最早实例，所有阴离子的空间全部为电子所占据。
+　　与其它类型的阴离子不同，阴离子的电子不会以某些方式来运用，仿佛它们是一些简单的带电球体那样。具体地说，由于其质量低，并由于它们倾向于在相隔甚远的情形下亦能彼此间产生交互作用，因此，它们不会被“钉死”在任何一个固定位置。恰恰相反，它们会到处游离，或者紧靠着那些排列在空隙边缘的原子，或者在这些原子之间，并且还与邻近空隙中的电子产生交互作用，或许与它们交换位置。电子晶体的诸属性很大程度上取决于那些将受困电子容纳在一起的一个空隙与另一个空隙之间的距离。当受困电子相隔甚远时，它们不会发生强烈的交互作用，因而在某种程度上表现为一排孤立的负电荷。当它们贴得较近时，它们便呈现出与成群相同粒子有关的属性来。当它们更趋接近时，群体属性便占据统治地位，每个电子顿始“离域：它们在单个的空隙中不再被紧密地结合在一起，而可或多或少自由地穿越正离子架构中的空间。
+　　科学家们通过从各种材料中合成电子晶体，可改变阴离子空隙的几何结构，并改变它们与周围阳离子的关系。随之而产生的诸属性不可使电子晶体成为那些具有经济效用的材料和装置的一个基础。例如，由于某些电子晶体内的电子结合得非常微弱，这些晶体就能作为感光探测物发挥作用，在此类探测物中，一个碰撞的光子释放出一电子，随之而造成一般小电流。同样的这种微弱结合亦可使电子晶体在太阳能转换器中派上用场，并在电池中用作阴极。电子晶体的一个不足之处是它易于与空气和水发生反应而分解。科研人员正设法寻找各种方法以提高其稳定性。
+
+VERSATILE:
+challenging accepted beliefs having limited applications making clear distinctions excessive unreliable
+答案：(B)
+通用的(多才多艺的；易变的)adj.
+　
+A.向被接受的信仰挑战的
+B. 应用有限的
+C. 区别明显的
+D. 过份的
+E. 不可能的
+EXCRETE:
+choose selectively
+coalesce tightly
+ingest
+impair
+restrain
+答案：(C)
+排出v.
+　
+A.选择性的挑选
+B. 紧紧合并
+C. 摄入
+D. 损害
+E. 克制
+CIRCUMVENTION:
+plain language
+needed action
+careless inattention
+primary means
+direct encounter
+答案：(E)
+计谋避免(计谋战胜；包围n.)
+　
+A.朴素的语言
+B. 需要的行动
+C. 不注意
+D. 主要方式
+E. 直接遭遇
+PREPOSTEROUS:
+monotonous
+philosophical
+commonsensical
+pusillanimous
+unpretentious
+答案：(C)
+反常的，不合理的，荒谬的adj.
+　
+A.单调的
+B. 富于哲理的
+C. 常识性的
+D. 怯懦的
+E. 不装腔作势的，谦逊的
+
+VOLITION:
+ineligibility to negotiate
+inability to choose
+indifference to shock
+indignity of frustration
+inadequacy in socializing
+答案：(B)
+意志，愿欲n.
+　
+A.无资格协商
+B. 不能选择
+C. 无动于衷，不受震动
+D. 挫败的侮辱
+E. 社交的不充分
+EXHILARATE:
+sadden
+invalidate
+minimize
+demean
+incriminate
+答案：(A)
+使高兴v.
+　
+A.使悲伤
+B. 使无效
+C. 使减小
+D. 降低身份，损坏人品
+E. 控告
+
+DISGORGE:
+inter
+swallow
+solidify
+replace
+include
+答案：(B)
+吐出v.
+　
+A.埋
+B. 吞入
+C. 巩固
+D. 代替
+E. 包括
+SUMMARY:
+tenuous
+extenuating
+nominal
+austere
+protracted
+答案：(E)
+扼要的，立刻的adj.
+　
+A.细薄的(空洞贫乏的)
+B. 减轻的
+C. 名义上的
+D. 扑素的
+E. 延长的，拖长的
+
+VIRTUOSITY:
+immorality
+mediocrity
+timidity
+inconstancy
+virulence
+答案：(B)
+艺术上的熟练技巧n.
+　
+A.不道德
+B. 庸碌，平庸
+C. 胆怯
+D. 不恒定
+E. 恶毒(毒性)
+SUBLIME:
+weak
+austere
+simple
+base
+abnormal
+答案：(D)
+崇高的adj.
+　
+A.虚弱
+B. 朴素的
+C. 简单的
+D. 低级的，卑鄙的
+E. 反常的
+SEMINAL:
+oblique
+provincial
+incomplete
+fluctuating
+derivative
+答案：(E)
+繁殖的，开创性的adj.
+　
+A.不正当的，邪恶的(斜的，间接的)
+B. 地方性的，偏狭的
+C. 不完全的
+D. 波动的
+E. 派生的，导出的
+
+What is most important to the monkeys in the sanctuary
+is that they are a group; this is so because primates are
+inveterately ----- and build their lives around each other.
+independent
+stable
+curious
+social
+proprietary
+答案：(D)
+sanctuary: n.禁猎区，鸟兽保护区
+primate: n.灵长目动物
+inveterate: a.根深蒂固的，积习难改的，顽固不化的
+social: a.群集的，群居的
+proprietary: a.1.所有人的，业主的 2.财产的，年有财产的，所有权的
+　　3.私营的，专卖的，专利的
+　
+对于禁猎区内的猴子而言，最重要的一点是它们是一个群体；这之所以如此，是因为灵长目动物具有一种根深蒂固的群居习性，均围绕着对方而营造其生活。
+Often the difficulties of growing up in the public eye cause child rodigies to ------ the world of achievement before reaching adulthood: happily, they sometimes later return to competition and succeed brilliantly.
+ridicule
+conquer
+retire from
+antagonize
+examine
+答案：(C)
+prodigy: a.1.奇迹，奇事 2.奇才，天才
+child prodigy: n.神童
+ridicule: v.嘲笑，嘲弄，戏弄
+antagonize: 引起…敌意（或反感），与…抗衡，竭力反对
+　
+在公众的心目中成长起来，这方面的种种困难通常致使神童们在到达成年人阶段之前便退离成就的世界；值得庆幸的是，有时他们会在后来回到竞争中来，并取得辉煌的成功。
+In scientific studies, supporting evidence is much more satisfying to report than are discredited hypotheses, but,in fact, the ----- of errors is more likely to be ------than is the establishment of probable truth.
+formulation.. permitted
+correction.. ignored
+detection.. useful
+accumulation.. agreeable
+refinement.. conditional
+答案：(C)
+discredit: v.1.败坏…名声，诽谤 2.使不可置信，证实…是假，对…怀疑，驳倒
+hypothesis: n.假说（设），前提
+formulation: n.1.公式化（的表述） 2.系统（或确切）的阐述 3.规划，构想
+agreeable: a.1.令人愉快的，惬意的 2.（欣然）同意的，愿意的 3.适合的，一致的
+refinement: n.1.高雅，有教养 2.精炼，精制
+在科学研究中，报告确凿的证据要比报告被推翻的假设来得远为令人满意，但是，事实上，
+发现错误要比建立可能的真理或许更为有用。
+Professional photographers generally regard inadvertent
+surrealism in a photograph as a curse rather than a
+blessing; magazine photographers, in particular, consider
+themselves ------ to the extent that they can --------
+its presence in their photographs.
+skillful.. enhance
+inadequate.. eliminate
+original.. demonstrate
+fortunate.. minimize
+conventional.. highlight
+答案：(D)
+inadvertent: a.1.漫不经心的 2.非故意的，因疏忽而造成的
+surrealism: n.超现实主义
+curse: n.1.诅咒 2.祸害，祸因
+blessing n.1.神赐，神恩 2.幸事，恩惠
+to the extent that: conj.只要（即等于as long as,表示条件）
+inadequate: a.1.不适当的，不够格的，不充分的 2.有弱点（缺陷）的
+minimize: v.1.使减少（或缩小）到最低限度 2.极度轻视（或贬低），小看
+highlight: v.1.以强光照射，照亮 2.使显著，使空出，强调
+　
+一般而言，专业摄影家将摄影作品中由疏忽而致的超现实主义视作一种灾祸而非幸事；尤其是杂志摄影家，只要能在摄影作品中将它的存在减少到最低程度，他们便视自己为相当幸运的了。
+Marison was a scientist of unusual ----- and imagination
+who had startling success in -------- new and fundamental
+principles well in advance of their general recognition.
+restiveness.. acknowledging
+precision.. coordinating
+aggression.. resisting
+candor.. dispelling
+insight.. discerning
+答案：(E)
+well in advance of: prep.远在…之前
+restiveness: n.1.焦躁不安 2.倔强，不受管束
+acknowledge: v.1.承认 2.告知，确认 3.就…表示谢忱，报偿 4.对…作出反应，理
+会
+coordinate: v.协调，调节，整理
+aggression: n.侵犯（行为），侵略（行为），挑衅
+candor: n.1.直言，坦率，诚恳 2.公平，公正
+dispell: v.1.驱散 2.消除（疑虑）等
+discern: v.1.看出，觉察出 2.认识，了解
+　
+作为一位科学家，马里逊具有非凡的洞悉力和想象力，远在某些全新的基本原理被人们普遍认识之前，他早就能够成功地令人吃惊地将其察觉发现。
+
+Unenlightened authoritarian manage rarely recognize a crucial reason for the low levels of serious conflict among members of democratically run work groups: a modicum of tolerance for dissent often prevents——
+demur
+schism
+cooperation
+compliance
+shortsightedness
+答案：(B)
+unenlightened: a.未受启迪的，愚昧无知的，不开明的
+authoritarian: a.权力主义的，独裁主义的，专制的
+modicum: n.少许，一点
+dissent: n.意见的不一致，意见的分歧，异议，不同意见
+demur: 1.反对，异议 2.顾虑，迟疑，不愿，犹豫
+schism: n.1.分裂 2.宗派，派系，派别 3.教会分裂，教会宗派 4.分歧，不和
+compliance: n.遵从，依从，顺从
+shortsightedness: n.1.近视 2.目光短浅，缺乏预见，缺乏想象力
+　
+那些缺乏开明思想且又专制擅权的经理们很少能认识到某一至关重要的原因，以解释在那些民主管理的工作群体的成员之间，为什么严重矛盾冲害的程度会如此之低：对不同意见只要有一丁点的宽容，往往能避免分歧不和。
+
+Carruthers' latest literary criticism ------- her
+reputation for trenchant commentary; despite its
+intriguing title and the fulsome praise on its dust
+jacket, it is nothing more than a collection of——
+reinforces.. pronouncements
+belies.. platitudes
+prejudices.. insights
+advances. . aphorisms
+undermines.. judgments
+答案：(B)
+trenchant: a.1.锐利的，尖锐的 2.有力的，中肯的
+intriguing: a.引起好奇心（或兴趣）的，有迷惑力的
+fulsome: a.1.令人作呕厌恶的 2.过分恭维的，虚伪的 3.大量的，丰富的
+dust jacket: n.（书籍的）护封，封面纸套
+nothing more than: adv.仅仅，不只过（即等于only或merely）
+pronouncement: n.1.声明，公告 2.看法，意见，决定
+belie: v.证明…为虚假，与…抵触，违背
+platitude: n.1.平凡，陈腐 2.老生常谈，陈词滥调
+aphorism: n.格言，警言
+　
+卡鲁塞最近的文学批评有悖于她那一贯以锐利中肯的评论而著称的声誉；尽管书名引人入胜，书的护封上的好评如潮，但它充其量也只是一本充斥着陈辞滥调的集子而已。
+ORATION: HEARD::
+epic : revised
+ballet : appreciated
+poem: analyzed
+movie :directed
+novel: read
+答案：(E)
+演说:被听到的
+　
+史诗:被修改了的
+芭蕾:被欣赏的
+诗:被分析的
+电影:被指导的
+小说:被读的
+OBSERVATORY: ASTRONOMY::
+purgatory : remuneration
+refectory : religion
+dormitory : university
+conservatory : music
+armory: militia
+答案：(D)
+天文台:天文学
+炼狱:报酬
+神学院，修道院的饭堂:宗教
+宿舍:大学
+音乐学院:音乐
+军械库:民兵
+PRODIGY: PERSON::
+paean : iconoclast
+beacon: shadow
+maniac: obsession
+traitor: confidence
+miracle : occurrence
+答案：(E)
+天才(奇人):人
+　
+异教徒(没有宗教信仰的人):反对崇拜偶像的人(攻击传统观念的人)
+灯塔，信号所:影子
+躁狂者，疯子:着魔，迷念
+叛徒:信心
+奇迹:事件的发生
+
+MOIST: SODDEN::
+warm: inviting
+surprised: astonished
+magical: sentimental
+hopeless: bereft
+soft: euphonious
+答案：(B)
+潮湿的:湿透的
+　
+温暖的:吸引人的
+吃惊的:震惊的
+不可思议的，有魔力的:多愁善感的
+没有希望的:被夺去
+轻柔的(软的):悦耳的
+STATUE : SCULPTURE::
+engraving : mural
+novel : character
+ode: poem
+movement: symphony
+script: pay
+答案：(C)
+雕像:雕塑作品
+　
+雕刻:壁画
+小说(有新意的):人物
+颂歌:诗
+乐章(运动):交响乐
+剧本:戏剧
+ANNOYING : GADFLY::
+brave : underdog
+conniving : killjoy
+insipid: bungler
+rude: churl
+vicious : manipulator
+答案：(D)
+烦扰人的:讨厌的人，牛虻
+　
+勇敢的:斗输的狗(失败者)
+默许的，纵容的:扫兴的人
+乏味的:手艺笨拙的人，把工作做坏的人
+粗鲁的:粗鄙的人
+邪恶的:操纵者
+DOSE: MEDICINE::
+current : river
+electricity: shock
+tremor: earthquake
+sentence: punishment
+tempo: music
+答案：(D)
+剂量:药品
+　
+水流(当前的adj.):河流
+电:电击
+小地震:地震
+判决:惩罚
+拍子:音乐
+DINGY : GLISTEN::
+slippery: adhere
+coarse : polish
+sharp :hone
+shallow: overflow
+savory: taste
+答案：(A)
+无光泽的，暗黑的:闪烁
+　
+滑的:坚持，附着
+粗俗的(粗糙的):抛光
+锋利的:磨快
+浅的:流溢
+有滋味的，好吃的:品尝
+MISCALCULATION : JUDGMENT::
+breach: fortification
+fumble: location
+gaffe : decorum
+exaggeration : statement
+default: loan
+答案：(C)
+估算错误:判断
+　
+破坏，违背:加强
+乱摸(笨拙的做):定位(地点)
+出丑，言行错误:礼貌，礼节
+夸张:陈述
+拖欠:贷款
+
+　　Typically the queen honeybee is mother　to all the bees in a hive;after mating　with several male drones from other　colonies,she lays fertilized eggs that
+(5) develop into all female worker bees and lays unfertilized eggs that become　all-male drones. When a queen dies,workers often lay unfertilized eggs that hatch into drones. Yet workers
+(10) rarely reproduce while a queen reigns.According to natural selection theory, a　worker would enhance her fitness-or　ability to propagate her genes-by　hatching her own eggs in addition to or
+(15) in place of the queen's. But a typical　worker's fitness would be diminished if　other workers' sons, who have less　genetic material in common with the　worker, supplanted the queen's sons (the
+(20) worker's brothers). Researchers,　testing the hypothesis that workersusually somehow block each other's　attempts to reproduce, put unfertilized　eggs laid by workers and by the queen
+(25) into a hive. Other workers quickly　devoured the workers' eggs while leaving the queen's eggs alone.
+The author refers to the experiment described in lines 20-23 in order to explain how worker bees are prevented from mating with drones explain how worker bees hatch and nurture the queen's young demonstrate the niversality of natural selection show that worker bees are capable of thwarting each other's attempts to reproduce provide a model of daily life in a in a typical honeybee hive
+答案：(D)
+　　普遍而言，蜂后是一个蜂窠中所有蜜蜂的母蜂；经过与来自其它蜂群中的几个公蜂交配，它便产下受精卵来，而这些受精卵则发展成为全雌性工蜂；它所产下的未受精卵则变成全雄性的公蜂。在蜂后死后，工蜂经常产下未受精卵来，孵经而成为公蜂。然而，当蜂后主宰着蜂群时，工蜂很少会繁殖后代。
+　　
+　　按照自然选择理论，工蜂如果在孵化了蜂后所产的卵之外又去孵它自己的卵，或者不去孵蜂后产的卵而仅是孵它自己产的卵的话，它就可以通过这一做法来提高其自身的适应能力，或繁殖其基因的能力。但一个典型的工蜂的适应能力反而会降低，如果其它工蜂的雄性后代（具有较少的与该工蜂相同的基因材料）替代了蜂后的雄性后代（该工蜂的同胞“兄弟”）的话。科研人员，为了检验工蜂们一般会以某种方式阻碍相互间繁殖后代的企图这一假设，将工蜂和蜂后所产的未受精卵置于同一个蜂窠中。其它工蜂迅速地将该工蜂的卵吞食一空，而蜂后的卵却安然无恙。
+The inner workings in a honeybee
+hive that regulate reproduction as they
+are described in the passage, are most
+similar to which of the following types
+of human societies?
+A totalitarian society in which
+citizens' "pricing" of each other's
+actions helps to maintain the status quo.
+A pacifist state in which the
+individuals are strongly opposed to
+the use of violence or aggression to
+settle disputes.
+A democratic society in which the
+voice of the majority rules.
+A parliamentary society in which
+a few members, organized as a cabinet
+wield executive power.
+An anarchic state in which order
+and stable social structures are lacking
+答案：(A)
+　　普遍而言，蜂后是一个蜂窠中所有蜜蜂的母蜂；经过与来自其它蜂群中的几个公蜂交配，它便产下受精卵来，而这些受精卵则发展成为全雌性工蜂；它所产下的未受精卵则变成全雄性的公蜂。在蜂后死后，工蜂经常产下未受精卵来，孵经而成为公蜂。然而，当蜂后主宰着蜂群时，工蜂很少会繁殖后代。
+　　
+　　按照自然选择理论，工蜂如果在孵化了蜂后所产的卵之外又去孵它自己的卵，或者不去孵蜂后产的卵而仅是孵它自己产的卵的话，它就可以通过这一做法来提高其自身的适应能力，或繁殖其基因的能力。但一个典型的工蜂的适应能力反而会降低，如果其它工蜂的雄性后代（具有较少的与该工蜂相同的基因材料）替代了蜂后的雄性后代（该工蜂的同胞“兄弟”）的话。科研人员，为了检验工蜂们一般会以某种方式阻碍相互间繁殖后代的企图这一假设，将工蜂和蜂后所产的未受精卵置于同一个蜂窠中。其它工蜂迅速地将该工蜂的卵吞食一空，而蜂后的卵却安然无恙。
+The passage best supports which of
+the following inferences about the
+fitness of honeybees?
+Reproduction diminishes any individual
+honeybee's fitness.
+An individual worker's fitness can be
+maintained without the individual herself
+reproducing.
+A hierarchy of stronger and weaker
+individuals among the worker bees
+determines which individuals will
+reproduce when a queen dies.
+While a queen reigns, the fitness
+of the worker bees is increased and that
+of the drones is diminished.
+Fitness encourages worker bees to
+hatch honeybee eggs without regard for
+the relatedness of the young to the
+"parent"
+答案：(B)

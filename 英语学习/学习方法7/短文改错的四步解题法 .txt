@@ -1,0 +1,24 @@
+短文改错的四步解题法
+
+   文章改错较难，而句子改错较容易。作为短文改错题，它的一个特点是：几个句子组成一篇文章，但它是以行设置错误的，而且每行只有一处错误。如果我们把"文"改错转化为"句"改错，然后再在行中查错。则此题的难度就会大大降低。因此，我认为做短文改错题应使用(A-S-L-A)四步法。即：文章→句子→行→文章。
+第一步：通读短文，把握句意，正确理解全篇含义。(Article)
+第二步：变文章改错为句子改错。(Sentence)
+第三步：在行中检查错误。(Line)
+第四步：再读短文，检查上下句之间的逻辑关系。即句与句之间连词的使用是否正确(Article)。
+另外，做短文改错题必须遵循以下两条原则。
+解题原则：
+第一、不能改变原文思想。
+第二、原文中的内容不能用多种表达法去替换。
+下面我们一起来做一篇短文改错，体会一下A-S-L-A四步法的运用。
+Model:The Problem with Television
+① Now I can't watch much television but a few years ago 1.much I was used to watch it every night.
+② I was often 2.was a little tired after a day's work and watch TV 3.watching demands very little effort.
+③ Unfortunate,there are 4.Unfortunately too many people among my family.
+④ Some wanted 5.in to see the programme while others preferred 6.one another.
+⑤ I am happy with any programme but 7.was the others spent a lot time arguing and there 8.of was no way of settling the matter except by 9.√ selling the set.
+⑥ Now someone at home reads instead. 10.everyone
+分析：
+第一步：从头到尾读短文，掌握大意。我们把文章看完后可以得知：作者是想表明现在每天晚上在家不能像几年前那样看电视了，这是因为家里人太多，有人想看这个节目，有的人想看那个节目，结果造成了家里人的争辩。解决的办法只好卖掉电视，人人在家看书。在读的过程中，凭语感就可以改出4.Unfortunate→Unfortunately，7.am →was，10. someone→everyone/everybody。
+第二步：文章共有6句话组成。第2句、第4句各跨3行。第5句跨4行，此时，我们以句子为单位来细细分析琢磨。例如，在第一句中，若没有把握好全文的整篇含义易将1题much改为any。误以为在否定句中用not...any固定搭配；2题watch改为watching，误以为was used to后接doing，"过去习惯于干什么"。这样，本文第一句语意则为"现在我不大看电视，但几年前每晚我习惯于看电视"，强调了"看电视的程度"，而从文章整体来看，原文要表达的是"由于家人争吵而只好卖掉电视，而我过去是常看电视的，现在是无法看电视了"。这显然是与原文相悖，即它违背了短文改错的第一条原则--改变了原文章思想。再如第8题，好多学生做题时在arguing前加in,误以为spend time in doing sth. 殊不知，in在其中可以省略，加in和不加in语义是一样的，这又违背了短文改错的第二个原则--原文中的内容不能用多种表达法去替换。
+第三步，做完句改错后，在行中检查错误，确定每行只有一处错误，而且，没有单词拼写错误。
+第四步，通读短文，检查是否有连词错误，行文逻辑是否流畅、合理。此文无连词错误。 总之，短文改错是一个集多项语法规则和多种语言技能于一身的综合性试题，它所隐含的这两个原则告诉我们，短文改错虽是分行而不是以句子为单位设置错误的，但做题时，我们必须通读全文，在把握句意、理解全篇含义的基础上方可动手改错，切不可以偏盖全，"一叶障目，不见泰山"。再之，复习时要注意把分散的知识加以归纳、整理，举一反三，触类旁通，达到事半功倍之功效。

@@ -1,0 +1,62 @@
+词性变化
+   词性混淆误用一直是TOEEL考题中最重要的命题形式。它与“基本句子结构”（本书要点之1）和“平行结构”（本书要点之4）组成TOEEL命题的三大焦点。有关词性混淆的试题主要集中在written Expression (16-40题）中，命题范围包括（1）并列结构中词性一致、（2）形容词与副词混淆、（3）形容词与名词混淆、（4）名词与动词混淆。其中，形容词用错的题型占此类命题的最大比例。
+词性混淆常考题型及解题要点
+1. 并列连词and but or结构要求词性统一
+全真例题分析
+(1) Bigness. Boastful. And strong. Frontiersman Mike Fink was the subject of many folk tales. (93.3)
+[答案] A 并列连词and连接三个形容词，故（A）Bigness应改为Big。
+(2) The success of a naval ship is determined by its seaworthiness, speedy ,and maneuverability. (92.10)
+[答案] D 并列连词and连接三个名词，而speed是形容词，故应改为speed。
+(3) Regulation of public utilities in the United States is carried out by locally state and federal governments. (92.5)
+[答案] D 并列连词and连接三个形容词性质的词，共同修饰后面的中心词governnenrfs 。而locally是副词，应改为local。
+(4) In Middle Ages. Books called bestiaries were prepared in an attempt to describe animals, real or imagine, that exemplified human traits. (92.5)
+[答案] B 并列连词or前面是形容词real。之后亦应是形容词imaginary。
+2. 形容词错用为副词
+解题要点 形容词用来修饰说明名词或名词性成分的，而副词则可修饰除名词以外的所有词性及句子成分。
+全真例题分析
+(1) Animal life on Prince Edward island is confined large to ducks. Pheasants. And rabbits (93.5)
+[答案]C 修饰限定介词短语to ducks pheasants and rabbits 应用副词largely。
+(2) The General Sherman tree a giant sequoia in California, has grown to be the world*s largest plant at approximate 272 feet tall.
+[答案] D 修饰说明数词（272）应用副词approximately。
+(3) Because its body is supported by water, the blue whale can grow to a size considerable larger than any land mammal alive today. (93.8)
+[答案] 修饰形容词短语larger than…应用副词形式considerably。
+(4) Once an important port of entry for immigrants to the United States. Island recent reopened its great hall s a museum of immigration. (92.8)
+[答案] C 修饰整个句耶Ellis ls land reopened its great hall as a museum of immigration 应用副词recently，表示时间。
+(5) Because their properties differ from those of their constituents. Proper alloys can great increase the corrosion resistance of a metal.
+[答案] C 修饰动increase 应用副词greatly。
+3. 以副词后缀－ly组成的副词错用为形容词
+解题要点 A、B、C、D四个选择答案中如果有以－ly形式构成的副词，应首先考虑它的词性是否正确，是否错用为形容词。
+全真例题分析
+(1) Parrots have heavily bodies and exceedingly strong legs. (93.8)
+[答案] A 修饰名词应用形从词。Heavily 应改为heavy。
+(2) The katydid a type of grasshopper is actively at night and rests motionless amid foliage during the day. (93.8)
+[答案] B 改为形容词active，作表语。
+(3) Although the unified states experienced rapidly growth in the first half of the nineteenth century ,it was still predominately concerned with agriculture and forestry (93.10)
+[答案] A 修饰名词应用形容词rapid growth。
+(4) Although they are in different countries, Windsor. Ontario and Detroit, Michigan are close neighbors and cooperate on numerous matters of mutually interest. (91.5)
+[答案] D 改为mutual interest。
+4. 以名词后缀- tion ,- sion 组成的名词错用为动词
+解题要点 A、B、C、D四个选择答案中出现以－tion, -sion形式构成的名词，应首先考虑它的词性是否正确，是否错用为动词。
+全真例题分析
+(1) The work *saga* is often application to any narration of events of the past, whether mythical or historical in character. (92.10)
+[答案] A application应改为applied，作谓语动词的被动语态。
+(2) Administrative assistants are often expected to make decisions, supervision staff, delegate responsibility, and work harmoniously with managers and fellow cmployces. (92.100
+[答案] B supervision 改为动词原形supervise与后面名词组成动宾结构。
+(3) Fascination by the promise of the internal engine and its application to a self-propelled vehicle, Henly Ford constructed a one-cylinder gasoline motor in 1892. (93.10)
+[答案] A Fascination 改为Fascinated, 与后面的by 组成过去分词短语作状语。
+(4) From 1872 to, Alice Elvira Freeman was Dean of Women at the newly foundation University of Chicago. (93.8)
+[答案] D foundation 改为founded 过去分词作定语，修饰University of Chicago
+5. 由表示词性的后缀- fur ,-tie -enc., -ent,-tive都很可能是此题的考试焦点
+全真例题分析
+(1) Few theories are originality enough to be called unique. (92.10)
+[答案] C 名词originality应改为形容词original 作表语。
+(2) Height, powerful and speed are attributes that coaches often look for in basketball players. (93.8)
+[答案] A 形容词powerful应改为名词power，与height和speed并列。
+(3) A major purpose of scientific analysts is to idenufy and examine causal connections between independent and dependence variables. (93.1)
+[答案] D 名词dependence 应改为形容词dependent, 用来修饰后面的名词variables。
+(4) A deficient of folic acid is rarely found in humans because the vitamin is contained in a wide variety of foods. (92.8)
+[答案]A 形容词deficient改为名词deficiency。作主语。
+(5) In nature, the distributive of plants is obviously related to climate. (90.8)
+[答案] B 形容词distributive 改为名词distribution ，用主语。
+(6) A foreign exchange rate is a price that reflects the relative supply and demand of difference currencies. (93.5)
+[答案] D 名词difference改为形容词different，修饰后面的名词。

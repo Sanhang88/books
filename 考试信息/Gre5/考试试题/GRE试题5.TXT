@@ -1,0 +1,160 @@
+GRE ‘Ã‚£®∆ﬂ£©
+Time -30 minutes
+25 Questions
+Questions 1-8
+A bakery makes nine kinds of cookies. Of these nine, three kinds are fruit cookies-G, H, and J; three kinds are nut cookies-K, L, and O; and three kinds are plain cookies-X, Y, and Z. Each day of the week, Monday through Sunday, the bakery will feature a special price on exactly three different kinds of cookies. The three featured cookies will be selected according to the following rules:
+Each day at least one fruit cookie must be featured, and each day at least one nut cookie must be featured. On any day on which cookie J is featured, cookie L cannot be featured. On any day on which cookie k is featured, cookie Y must also be featured. No kind of cookie can be featured more than three times in a week.
+1.Which of the following lists three cookies that can be featured together?
+(A) G, L, Z
+(B) H, K, X
+(C) J, L, Y
+(D) J, O, Z
+(E) K, O, Y
+2. On a day on which both cookie L and cookie Z are featured, which of the following can be the third kind of cookie featured?
+(A) H
+(B) J
+(C) O
+(D) X
+(E) Y
+3.A partial schedule of featured cookies is shown below. Monday Tuesday Wednesday Thursday Friday L H O G Z According to this schedule, which of the following is a day on which cookie X CANNOT be one of the featured cookies?
+(A) Monday
+(B) Tuesday
+(C) Wednesday
+(D) Thursday
+(E) Friday
+4.If cookie J is featured on Friday, Saturday, and Sunday; if cookie K is featured on Monday, Tuesday, and Wednesday, and if cookie G is featured only on Thursday, then cookie L can be featured on
+(A) Monday only
+(B) Thursday only
+(C) Monday, Tuesday, and Wednesday only
+(D) Friday, Saturday, and Sunday only
+(E) any two of the first four days of the week
+5. If each kind of nut cookie is featured three times in one week, what is the maximum number or days on which plain cookies can be featured during that week?
+(A) Three
+(B) Four
+(C) Five
+(D) Six
+(E) Seven
+6.If cookie H and cookie Y are each featured on Monday, Tuesday, and Wednesday, and if cookie G and cookie X are each featured on Thursday, Friday and Saturday, then the cookies featured on Sunday must include both
+(A) J and K
+(B) J and L
+(C) J and O
+(D) K and L
+(E) K and Z
+7.If exactly seven kinds of cookies are featured during one week, which of the following must be true about that week?
+(A) X is the only kind of plain cookie that is featured
+(B) Y is the only kind of plain cookie that is featured
+(C) Z is the only kind of plain cookie that is featured.
+(D) On at least one day, both cookie G and cookie Z are featured.
+(E) On at least one day, both cookie J and cookie X are featured.
+8.If cookie X is featured exactly twice and cookie Z is featured exactly three times in one week, which of the following must be true?
+(A)Cookie G is featured exactly three times during the week.
+(B)Cookie J is featured at most twice during the week.
+(C)Cookie K is featured at most twice during the week.
+(D)Cookie L is featured at most twice during the week.
+(E) Cookie Y is featured exactly twice during the week.
+9. In recent years, there has been a dramatic decline in the population of the shrike, a predatory bird that inhabits flat land, such as farms and pastures. Some ornithologists hypothesize that this decline is due to the introduction of new, more effective pesticides to control the insect species on which shrikes prey.The answer to which of the following questions is NOT relevant to evaluating the ornithologists' hypothesis?
+(A) Was there a decline in the shrike population before the new pesticides were first used?
+(B) Have shrike populations declined significantly in those habitats where the new pesticides have not been used?
+(C) Have the new pesticides more significantly reduced the population of insect species on which shrikes prey than did the pesticides previously used?
+(D) Are insects that have consumed the new pesti-cides more toxic to the shrikes that eat those insects than were insects that consumed the less effective pesticides?
+(E) Are the new pesticides considered by most people to be less harmful to the environment than the old pesticides were considered to be?
+10. Census data for Prenland show that unmarried Prenlandic men in their thirties outnumber unmarried Prenlandic women in that age group by about ten to One. Most of these men do wish to marry. Clearly, however, unless many of them marry women who are not Prenlandic, all but a minority will remain unmarried.The argument makes which of the following assump-tions?
+(A) Emigration from Preland is more common among women than among men.
+(B) A greater proportion of Prelandic women in their thirties than of Prenlandic men of the same age would prefer to remain unmarried.
+(C) It is unlikely that many of these unmarried Prenlandic men will marry women more than a few years older than themselves.
+(D) Prenland has a high rate of divorce.
+(E) Most of the unmarried Prenlandic men are unwilling to marry women who are not Prenlandic.
+11.Certain extremely harmful bacteria found only in sewage are difficult to detect directly. Testing for E. coli, an easily detected and less harmful type of bacteria, in ocean water would be a reliable way of determining whether or not these more harmful bac-teria are present, since ocean water contains E. Coli only if the water is contaminated with sewage that contains the harmful bacteria. Which of the following, if true, most seriously weakens the argument?
+(A) There are many different strains of the E. coli bacteria, and only some of these strains are harmful.
+(B) Some types of bacteria found in sewage are neither disease-causing nor difficult to detect directly.
+(C) Some of the types of bacteria found in sewage along with E. coli are not harmful to people unless the bacteria are ingested in large quantities.
+(D) E. coli dies out much more quickly than some of the more harmful bacteria found in sewage and then can no longer be easily detected.
+(E) Some of the types of bacteria found in sewage along with E. coli reproduce at a slower rate than E. coli.
+Questions 12-17
+A bank has exactly four cashier windows, arranged in a row and numbered consecutively 1through 4 from one end of the row to the other. The bank has exactly six cashiers: two supervisors (Joan and Karim); and four trainees (Lorraine, Mark, Nora, and patrick). Throughout a particular peak-hour period, the stationing of cashiers at windows is restricted as follows:There must be exactly one cashier at each window.The cashier at window 2 must be a supervisor.Lorraine must be at a window but cannot be at window 3. If Mark is at one of the windows, Joan must be at a window immediately adjacent to it. The cashiers at the windows must include either Nora or Patrick, but they cannot include both Nora and Patrick.
+12.Which of the following lists the cashiers who can be stationed at windows 1 through 4 during this period?1 2 3 4
+(A) Joan Karim Mark Lorraine
+(B) Joan Karim Nora Lorraine
+(C) Karim Nora Joan Lorraine
+(D) Mark Joan Lorraine Patrick
+(E) Patrick Joan Nora Lorraine
+13.Which of the following must be true about the stationing of the cashiers during this period?
+(A) Joan is at window 1 or at window 2.
+(B) Karim is at window 2 or at window 4.
+(C) Lorraine is at window 1 or window 4.
+(D) Nora is at window 1 or at window 3.
+(E) Patrick is at window 3 or at window 4.
+14.sarily in that order, are stationed at immediately adjacent windows, which of the following must be stationed at window 4 during this period?
+(A) Joan
+(B) Karim
+(C) Lorraine
+(D) Mark
+(E) Patrick
+15.If during this period Lorraine and Mark, not neces-sarily in that order, are stationed at immediately adjacent windows, which of the following can be stationed at window 1 during this period?
+(A) Joan
+(B) Karim
+(C) Lorraine
+(D) Mark
+(E) Nora
+16.If during this period Lorrained and Nora, not neces-sarily in that order, are stationed at immediately adjacent windows, which of the following must be true during this period?
+(A) Joan is stationed at window 1.
+(B) Joan is stationed at window 2.
+(C) Karim is stationed at window 2
+(D) Nora is stationed at windows 3.
+(E) Patrick is stationed at window 1.
+17.If during this period Mark is stationed at a window,which of the following CANNOT be stationed at a window during this period?
+(A) Joan
+(B) Karim
+(C) Lorraine
+(D) Nora
+(E) Patrick
+Questions 18-22
+Seven photographs-three landscapes: F, H, and J; and four still lifes: Q, R, T and W-will appear on the first seven pages-numbered consecutively from page 1 through page 7-of an exhibit catalog. Each page will contain exactly one of the photographs. The ordering of the photographs in the catalog is governed by the following conditions.J and W, not necessarily in that order, must appear on consecu-tively numbered pages.The three landscapes cannot appear on-consecutively numberedpages.Neither page 2 not page 4 is a page on which a landscape can appear.A landscape must appear on page 7
+18.Which of the following is an acceptable ordering of the photographs in the catalog?Page 1 Page 2 page 3 Page 4 page 5 page 6 page 7
+(A) F T H Q W R J
+(B) H Q J W R F T
+(C) J W H R T Q F
+(D) Q T R W J F H
+(E) T F Q W J R H
+19.Any of the following can appear on page 3 EXCEPT
+(A) J
+(B) Q
+(C) R
+(D) T
+(E) W
+20. If F appears on page 6, H must appear on page
+(A) 1
+(B) 2
+(C) 3
+(D) 5
+(E) 7
+21.If the still lifes all appear on consecutive pages, which of the following must be true?
+(A) A still life appears on page 1.
+(B) A still life appears on page 5.
+(C) J appears on page 6.
+(D) T appears on page 4.
+(E) W appears on page 5
+22.If F and H, not necessarily in that order, appear on consecutive pages, which of the following can be true?
+(A) J appears on page 1
+(B) J appears on page 5
+(C) R appears on page 6
+(D) W appears on page 1
+(E) W appears on page 5
+23.The organizers of tomorrow's outdoor concert announced that it will go on tomorrow on schedule unless bad weather is forecast or too few advance tickets are sold. If the concert is canceled, refunds will be made to ticket holders. Since some ticket holders have already been issued refunds even though more than enough advance tickets were sold, it must be the case that bad weather is forecast. Which of the following is an error of reasoning con-tained in the argument?
+(A) It proceeds as if a condition, which by itself is enough to guarantee a certain result, is the only condition under which that result would occur.
+(B) It bases a conclusion that is known to require two conditions on evidence that bears on only one of those conditions.
+(C) It explains one event as being caused by another event, even though both events must actually have been caused by some third, unidentified event.
+(D) It treats evidence for the absence of one condi-tion under which a circumstance would occur as conclusive evidence that that circumstance will not occur.
+(E) Evidence given to support the conclusion actually undermines it.
+24. Although the prevailing supposition has been that it is too hot for microorganisms to survive deep below the Earth's surface, some scientists argue that there are living communities of microorganisms there that have been cut off from surface life for millions of years. These scientists base their argument on the discovery of living microorganisms in samples of material that were taken from holes drilled as deep as 1.74 miles. The scientists' argument depends on which of the fol-lowing assumptions?
+(A)The microorganisms brought up were of a species that is related to those previously known to science.
+(B)No holes have been drilled into the Earth's surface to a distance deeper than 1.74 miles
+(C)The microorganisms did not come from surface soil that came into contact with the drilling equipment.
+(D) The stratum from which the samples came has been below the surface of the Earth ever since the Earth came into existence.
+(E) The temperature at the bottom of the holes drilled was not significantly hotter than that of the hottest spots on the Earth's surface.
+25. For 20 years all applicants for jobs as technicians at EquipCorp were required to demonstrate that they could operate and repair the machinery that was central to EquipCorp's manufacturing business. Now, however, that particular machinery is obsolete, and very different machinery fills the central role. Therefore, the old requirement is no longer a useful method for evaluating whether applicants for jobs as technicians at EquipCorp have the skills necessary for the job. Which of the following, if true, most strengthens the argument?
+(A) The machinery that is now obsolete was used by a large number of manufacturing companies before it became obsolete.
+(B) Among the people already holding jobs as tech-nicians at Equip Corp, those who are most skillful at operating the new machinery had been some of the least skillful at operating the old machinery
+(C) Most people applying for jobs as technicians today have much broader skills than did people applying for jobs as technicians 20 years ago.
+(D) The skills required to operate and repair the obsolete machinery are useful in operating and maintaining many other types of machinery at EquipCorp that are not obsolete.
+(E) Much of the machinery that EquipCorp now uses in manufacturing is very likely to become obsolete within the next 20 years.

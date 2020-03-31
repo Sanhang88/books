@@ -1,0 +1,50 @@
+副词 
+副词是TOEEL测试中非常活跃的词类。它与形容词一样，是词类变化题型必考的词性。一般说来，有关副词的题目并不很难。绝大部分考的是副词词性的判断。题型主要有下述几项：（1）副词与形容词混淆（详见本忆要点之[词类变化]）（2）否定副词Not 的用法、（3）易混淆的副词。
+副词常考题型及解题要点
+1 副词与形容词的功能区别：形容词修饰名词；副词修饰除名词以外的所有词性及句子成分（详见本书要点之：词类变化）
+[例1] The ordeal of the Cherokee Indians, who were forcible moved from their homeland in the 1830*s, is remembered as the *Tears*. (91.10)
+[答案] B 修饰动词moved应用副词forcibly。
+[例2] Although the United States experienced rapidly growth in the first half of the nincieenth century, it was still predominately concerned with agriculture and forestry. (93.10)
+[答案] A 修饰名词growth应用形容词rapid，而不用副词rapidly。 此题是TOEEL常考类型题。请注意以- ly后缀构成的副词通常是命题焦点。
+2. 否定词not与形容词no的区别
+解题要点 区分副词not和形容词no的命题是TOEEL常考的题型，主要分布在structure (1-15题)中。当not或no出现在选择答案中，应首先判断它所修饰的中心词的词性以决定选哪一个否定词。
+全真例分析
+(1) Since Alaska attained statehood in 1959------- single party has dominated politics there.
+(A) none
+(B) no
+(C) not
+(D) never (94.1)
+[答案] B 修饰中心名词party应用形容词no，而非副词not。
+(2) ------- social crusade aroused Elizabeth Williams enthusiasm more than the expansion of the United States.
+(A) No
+(B) Nothing
+(C) Not
+(D) None (91.10)
+[答案] 修饰主语名词crusade 应用形容词no. 而非副词not。
+(3) ------- all rainwater falling from a cloud reaches the ground, some of it is lost through evaporation.
+(A) Nowhere
+(B) Not
+(C) No
+(D) None (91.8)
+[答案] B 修饰形容词all应用否定副词not。Not all （不是所有的）是固定短语搭配，表示的是部分否定，not all = sosme。
+(4) The mechanism by which brain cells store memories is ------- clearly understood.
+(A) none
+(B) no
+(C) not
+(D) nor (90.5)
+[答案] C 否定系词is，应用副词not。
+(5) Not woman held a presidential cabinet position in the United States until 1933. When Frances Perkins became secretary of labor. (89.1)
+[答案] A Not 改为No.
+3. 辨别词形相近的副词和形容词
+hare (努力、副词）－ hardly （几乎不、副词）
+close （接近、形容词）－ closely （接近、副词）
+near （接近、形容词）－ nearly （几乎、副词）
+most （大多数的、形容词）－mostly（主要地、副词）
+late （迟、晚、形容词）－lately（最近、副词）
+全真例题分析
+(1) Chief Joseph Flesche. A vigorous Omaha leader, worked hardly to make his nation a proud and progressive one. (93.1)
+[答案] B hardly （几乎不）改为hard（努力）。
+(2) Glaciers that develop nearly the North and South Poles advance into the sea. Break into pieces, and become icebergs. (90.8)
+[答案] B 副词nearly意思是“几乎”。此句应改为near（接近）。
+(3) Those electrons most closely to the nucleus are held electromagnetic force. (92.1)
+[答案] B most closely 改为most close。

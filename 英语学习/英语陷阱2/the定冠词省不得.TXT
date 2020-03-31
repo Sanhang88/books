@@ -1,0 +1,32 @@
+the定冠词省不得
+
+   在下面这段和产业买卖有关的英文里，存在着 4 个错误。你看得出来吗？
+   “If you have the intention to sell your flat. Please don't hesitate to call us, we'll offer you hightest selling price.”
+   第一个错误是句型形式“have the intention to sell”的错误；正确的形式是：intend to sell 或 have the intention of selling.
+   另外两个错误和标点符号有关。一个是在副词分句后面不该用句点而用；另一个是应该用句点的地方而不用。
+   “If...flat”是条件副词分句，不可独立生存，必须依赖后头的主句“please...us”，才可以成为完整的复杂句（complex sentence）。这样一来，主句前面的句点，就要改成逗号（，）了。
+   另外一个错误是两个主句之间既没有句点也没有连接词，而只有逗号；这种错误叫 run-on sentence：
+   “..., please don't hesitate to call us, we...”
+   这个句子里的逗号（，）要改为句点（。）才对：
+   “...。Please don't hesitate to call us. We...”
+   不用句点也可以，但要用恰当的连接词，如：
+   “..., please don't hesitate to call us, as we'll offer you...”
+   谈了3个错误，现在来谈最后一个错误，就是定冠词（ definite article）的消失：
+   “We'll offer you highest selling price.”
+   习惯上，最高级形容词（the superlative degree of adjectives）前面要用定冠词 the。因此，这句话要改为：
+   “We'll offer you the highest selling price.”
+   必须使用定冠词的例子
+   接下来，顺便把其他必须用定冠词的场合列下，作为参考。
+   ㈠ 表示世上唯一的事物，如：
+   ① the sun; the earth; the sky; the North Pole
+   ㈡ 当一个名词被再次提起时，如：
+   ② A car knocked against a tree. We can still see the mark on the tree made by the car.
+   ㈢ 当名词后面有个修饰作用的短语或分句时，如：
+   ③ The girl in red is my sister.
+   ④ The thief who stole your wallet yesterday was arrested.
+   ㈣ 加在某些形容词前面，以表示某类人或事，如：
+   ⑤ The rich often get richer and the poor, poorer.
+   ⑥ The doctor lost no time in giving help to the injured.
+   ⑦ Don't expect the impossible.
+   ㈤ 加在某些山川、河流、岛屿、国家名称之前，如：
+   ⑧ the Alps; the Thames; the British Isles; the Philippines; the Atlantic Ocean.

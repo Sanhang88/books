@@ -1,0 +1,69 @@
+语态1
+
+   语态也是动词的一种形式，英语有两种语态：主动语态和被动语态。主动语态表示主语是动作的执行者，而被动语态表示主语是动作的承受者。一般是在不知道或没有必要知道动作的执行者是谁时,我们是被动语态
+   1)We use electricity to run machines.(主动语态)
+   2)Electricity is used to run machines.(被动语态)
+1．不能用于被动语态的动词和短语
+   (1)在英语中，不及物动词不能用于被动语态，但有些不及物动词(包括短语)容易引起误用。如：appear, belong, belong, die, escape, fall, happen, last, remain, succeed, occur, come true, take place, consist of。
+   (2)某些表示状态或特征的及物动词，如：become, contain, cost, fit, have, resemble, suit也没有被动语态。
+2．被动语态的时态形式
+   常用的被动语态有如下所列的几种时态形式。
+   如下：
+   现在一般时:am asked;is asked;are asked
+   现在进行时:am being asked;is being asked;are being asked
+   现在完成时:have been asked
+   过去一般时: was be asked;were be asked
+   过去进行时:was being asked;were being asked
+   过去完成时:had been asked
+   过去将来一般时:shall be asked;would be asked
+   过去将来完成时:should have been asked;would have been asked
+3．短语动词的被动语态
+   短语动词转换为被动语态时，通常被看作是一个动词，后面的介词或副词不能拆开或省略。例如：
+   1)So far no correct conclusion has arrived at.
+   2)All the rubbish should be got rid of.
+4．“get + -ed分词”的被动语态
+   “get + -ed分词”结构强调动作的结果，而非动作本身，常用来表示突发性的，出乎意料的偶然事件。例如：
+   The boy got hurt on his way home from work.
+   另外，“get + -ed分词”还可用于谈论为自己做的事，是主动的行为而不是被动的行为。例如：
+   get dressed(穿衣服
+   get divorced(离婚)
+   get engaged(订婚)
+   get confused(迷惑不解)
+   get lost(迷路)
+   get washed(洗脸)
+   get married(结婚)
+5． 能带两个宾语和复合宾语的动词改为被动语态
+(1) 能带两个宾语的动词改为被动语态时，一次只能由一个宾语作主语，另一个宾语被保留下来。例如：
+   1)We showed the visitors our new products.(主动语态)
+   2)The visitors were shown our new products.(被动语态)
+   3)Our new products were shown to the visitors.(被动语态)
+(2)能带复合宾语的动词改为被动语态时，原来的宾语补足语变为主语补足语。例如：
+   1)The teacher appointed him League secretary.(主动语态)
+   2)He was appointed League secretary.(被动语态)
+6．被动语态与系表结构的区别
+   (1)The novel was well written.(系表结构)
+   (2)The novel was written by Dickens.(被动语态)
+7．少数动词的主动语态有时有被动的意思
+   例1：The book is selling remarkably well.
+   例2：The song sounds very beautiful.
+   能这样用的动词还有read(读起来)，clean(擦起来)，wash(洗起来)，write(写起来)。
+   例3：My watch needs cleaning. (= My watch needs to be cleaned).
+   能像need这样用的动词还有：want, require, deserve, do, owe, bind等。
+8. 主动结构中使役动词,如let, make or 感官动词等后不加to地动词不定式变为被动结构时,动词前面要加to
+   The teacher made Tom do all the homework--?Tom was made to do all the homework by the teacher.
+9. 被动语态的翻译
+   一般用 “ 由,被,受…” 来翻译表达
+   有些固定句型地翻译:
+   it is said, it is reported, it is believed, it is thought, it is discovered, it is found that…
+
+动词语态2
+　　和时态一样，语态也是动词的一种形式，用来说明句中主语和谓语的关系。如果动作由主语执行，就可使用主动语态，如果主语不是由主语执行，主语是动作的承受者，则可使用被动语态。由此我们可以看出英语动词有两种语态：主动语态和被动语态。
+　　被动语态：表示主语是动作的承受者，什么事情被主语做。
+    被动语态的构成和形式：被动语态由"助动词be+及物动词的过去分词"构成，一定要记住是及物动词。助动词必须与主语的人称和数一致，要与其它时态配合使用。
+　　适合被动语态的情况：不知道动作由谁发出，或由于某种原因没有必要说明谁发出动作。如：This table is made of wood.
+　　需要突出或强调动作的承受者时，如：This park was built for children.
+　　注意：主动句中的主语如果是people，they，somebody等含糊的表示"人或人们"，没有确指执行者是谁，为被动句时，通常省略"by+执行者"。如：The door was opened secretly. But nobody came in.
+　　注意：在主动句里,不定式在make，see，hear等动词后面作宾语补足语时都不带to，但变成被动句时，后面的不定式都需带to。如：He was made to do that work.
+　　主动语态不能变被动语态的情况：
+　　学了被动语态，别以为主动句和被动句可以随意转换，千万要注意呀！有些主动语态不能转换成被动语态。当宾语是反身代词时, 如：You should take care of yourself.
+　　当谓语是表状态的而不是表具体动作的及物动词时，如：Does the skirt suit you?

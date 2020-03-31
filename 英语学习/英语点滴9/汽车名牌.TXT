@@ -1,0 +1,33 @@
+汽车名牌
+
+Benz, Mercedes-Benz 奔驰
+
+Cadillac 卡迪拉克
+
+Chrysler 克莱斯勒
+
+Chevroler 雪佛莱
+
+Citroen 雪铁龙
+
+Ford 福特
+
+Honda 本田
+
+Mazda 马自达
+
+Mustang 野马
+
+Porsche 保时捷
+
+Renault 雷诺
+
+Rolls-Royce 罗尔斯罗伊斯
+
+Santana 桑塔纳
+
+Toyota 丰田
+
+Volvo 沃尔沃, 富豪
+
+Volkswagen 大众

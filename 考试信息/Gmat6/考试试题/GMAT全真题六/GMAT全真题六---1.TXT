@@ -1,0 +1,341 @@
+GMAT畠寔籾鎗---1
+ANALYSIS OF AN ARGUMENT
+Time-30 minutes
+Directions: In this section you will be asked to write a critique of the argument presented below. You are NOT being asked to present your own views on the subject.
+Read the argument and the instructions that follow it, and then make any notes in your test booklet that will help you plan your response. Begin writing your response on the separate answer sheet. Make sure that you use the answer sheet that goes with this writing task.
+The following appeared in a memorandum to the planning department of an investment firm.
+"Costs have begun dropping for serveral types of equipment currently used to convert solar energy into electricity. Moreover, some exciting new technologies for converting solar energy are now being researched and developed. Hence we can expect that solar energy will soon become more cost efficient and attractive than coal or oil as a source of electrical power. We should therefore, encourage investment is Solario, a new manufacturer of solarpowered products. After all, Solario's chief executive was once on the financial planning team for Ready-to-Ware a software engineering firm that has shown remarkable growth since its recent incorporation."
+Discuss how well reasoned you find this argument. In your discussion be sure to analyze the line of reasoning and the use of evidence in the argument. For example, you may need to consider what questionable assumptions underlie the thinking and what alternative explanations or counterexamples might weaken the conclusion. You would make it more logically sound, and what, if anything, would help you better evaluate its conclusion.
+ANALYSIS OF AN ISSUE
+Time-30 minutes
+Directions: In this section you will need to analyze the issue presented below and explain your views on it. The question has no "correct" answer. Instead, you should consider various perspectives as you develop your own position the issue.
+Read the statement and the instructions that follow it, and then make any notes in your test booklet that will help you plan your response. Begin writing your response on the separate answer sheet. Make sure that you use the answer sheet that goes with this writing task.
+"The best strategy for managing a business or any enterprise is to find the most capable people and give them as much authority as possible."
+Discuss the extent to which you agree or disagree with the opinion stated above. Support your views with reasons and/or examples from your experience, observations, or reading.
+SECTION 1
+Time-25 minutes
+16 Questions
+Directions: In this section solve each problem, using any available space on the page for seratchwork. Then indicate the best of the answer choices given.
+Numbers: All numbers used are real numbers.
+Figures: Figures that accompany problems in this section are intended to provide information useful in solving the problems. They are drawn as accurately as possible EXCEPT when it is stated in a specific problem that its figure is not drawn to scale. All figures lie in a plane unless otherwise indicated.
+1. A study based on a random sample revealed that on average 2 out of 5 adults have high blood pressure. If these results hold true for the 580.000 adults in City A approximately how many adults in City A have high blood pressure?
+  (A) 116.000
+  (B) 145.000
+  (C) 232.000
+  (D) 250.000
+  (E) 290.000
+2. The sum is between
+  (A) and
+  (B) and 1
+  (C) 1 and 1
+  (D) 1 and 1
+  (E) 1 and 2
+3. A certain state legislature consists of 124 members. each of whom is either a Democrat or a Republican. If there are 18 more Republicans that Democrates. how many Republicans are in the legislature?
+  (A) 44
+  (B) 53
+  (C) 71
+  (D) 80
+  (E) 106
+4. A certain psychologist charges $30 more for the first hour of therapy than for each additional hour. If the total charge to a patient who recetves 6 hours of thereapy is $300 what is the total charge to a patient who receives only 3 hours of therapy?
+  (A) $120
+  (B) $135
+  (C) $150
+  (D) $165
+  (E) $192
+5. If x+y=1 and x-y=-1, what is the value of xy?
+  (A) -2
+  (B) -1
+  (C) 0
+  (D) 1
+  (E) 6
+6. NOT SCORED
+7. If (x2+6x+9)+6(x+3)+9=0. then x=
+  (A) -6
+  (B) -3
+  (C) 0
+  (D) 3
+  (E) 6
+8. In 1982 and 1983 Company B's operating expenses were $12.0 million and $14.0 million. respectively, and its revenues were $15.6 million and $18.8 million respectively. What was the percent increase in Company B's profit (revenues minus operating expenses) from 1982 to 1983?
+  (A) 3%
+  (B) 16%
+  (C) 25%
+  (D) 33%
+  (E) 60%
+9. If a and b are integers and b0, which of the following CANNOT equal 0?
+  (A) ab
+  (B) a-b
+  (C) a+b
+  (D) ab-b2
+  (E) a2+b2
+10. What are the coordinates of point B in the xy-plane above?
+  (A) (6. 12)
+  (B) (6. 28)
+  (C) (8. 20)
+  (D) (12. 20)
+  (E) (14. 28)
+11. Last year 31 percent of Ace Book Company's sales revenue came from the sale of novels. Of the remaining revenue, was from the sale of biographies. The company's revenue from the sale of novels was approximately how many times its revenue from the sale of biographies?
+  (A) 1.3
+  (B) 1.5
+  (C) 2.1
+  (D) 2.5
+  (E) 3.1
+12. There musical tones have frequencies x, y, and z, respectively. If x, y, and z are positive, , and 2x=z, what is y in terms of x?
+  (A) 2x
+  (B) ()x
+  (C) x
+  (D) x
+  (E) x
+LEAGUE RESULTS
+Team  Number of Games Won
+A
+B
+C
+D
+E
+X  4
+7
+9
+2
+2
+13. According to the incomplete table above, if each of the 6 teams in the league played each of the other teams exactly twice and there were no ties, how many games did team X win? (Only 2 teams play in a game.)
+  (A) 4
+  (B) 5
+  (C) 6
+  (D) 8
+  (E) 10
+14. When the integer k is divided by 12, the remainder is 3. Which of the following when divided by 12, will have a remainder of 6?
+.2k
+. 6k
+. 4k+6
+  (A)only
+  (B) only
+  (C) only
+  (D) and only
+  (E) ..and
+15. A rectangular tabletop consists of a piece of laminated wood bordered by a thin metal strip along its four edges. The surface area of the tabletop is x square feet. and the total length of the strip before it was attached was x feet, If the tabletop is 3 feet wide. what is its approximate length, in feet?
+  (A) 12
+  (B) 10
+  (C) 9
+  (D) 8
+  (E) 6
+16.. For all real numbers v. the operation v is defined by the equation v = v -. If (v)=8, then 　v=
+  (A) 15
+  (B) 18
+  (C) 21
+  (D) 24
+  (E) 27
+SECTION 2
+Time-25 minutes
+18 Questions
+　　Coral reefs are one of the most fragile, biologically complex, and diverse marine ecosystems on Earth. This ecosystem is one of the fascinating paradoxes of the biosphere:
+Line how do clear, and thus nutrient-poor, waters support
+(5) port such prolific and productive communities? Part of the answer lies within the tissues of the corals themselves. Symbiotic cells of algae known as zooxanthellae carry out photosynthesis using the metabolic wastes of the corals. thereby producing food for themselves, for their coral.
+(10) hosts, and even for other members of the reef community This symbiotic process allows organisms in the reef community to use sparse nutrient resources efficiently.
+　　Unfortunately for coral reefs, however, a variety of human activities are causing worldwide degradation of
+(15) shallow marine habitats by adding nutrients to the water Agriculture, slash-and-burn land clearing sewage disposal and manufacturing that creates waste by-products all increase nutrient loads in these waters. Typeal symptoms of reef decline are destabilized herbivore populations and
+(20) an increasing abundance of algae and filter-feeding ammals Declines in reef communties are consistent with observations that nutrient input is mcreasing in direct proportion to growing human populations thereby threatening reef communties sensitive to subtle changes in nurrent imput to their waters.
+1. The passage is prmanly concerned with
+  (A) describing the effects of human activities on algae in coral reefs
+  (B) explaining how human activities are posing a threat to coral reef communities.
+  (C) discussing the process by which coral reefs deteriorate in nutrient-poor waters
+  (D) explaining how coral reefs produce food for them-selves
+  (E) describing the abundance of algae and filter-feeding animals in coral reef areas
+2. The passage suggests which of the following about coral reef communities?
+  (A) Coral reef communities may actually be more likely to thrive in waters that are relatively low in nutrients.
+  (B) The nutrients on which coral reef communities thrive are only found in shallow waters.
+  (C) Human population growth has led to changing ocean temperatures, which threatens coral reef communities.
+  (D) The growth of coral reef communities tends to destabilize underwater herbivore populations
+  (E) Coral reef communities are more complex and diverse than most ecosystems located on dry land.
+3. The author refers to "filter-feeding animals" time 20 in order to?
+  (A) provide an example of a characteristic sign of reet deterioration
+  (B) explain how reef communities acquire sustenance for survival
+  (C) identify a factor that helps herbivore populations thrive
+  (D) indicate a cause of decreasing nutrient input in waters that reefs inhabit
+  (E) identify members of coral reef communities that rely on coal reefs for nutrients.
+4. According to the passage, which of the following is a factor that is threatening the survival of coral reef communities?
+  (A) The waters they inhabit contain few nutrient resources.
+  (B) A decline in nutrient input is disrupting their symbiotic relationship with zooxamthellae.
+  (C) The degraded waters of their marine habitats have reduced their ability to carry out photosynthesis.
+  (D) They are too biologically complex to survive in habitats with minimal nutrient input
+  (E) Waste by-products result in an increase in nutrient input to reef communities.
+5. It can be inferred from the passage that the author describes coral reef communities as paradoxical most likely for which of the following reasons?
+  (A) They are thriving even though human activities have depleted the nutrients in their environment
+  (B) They are able to survive in spite of an over-abundance of algae inhabiting their waters.
+  (C) They are able to survive in an environment with limited food resources.
+  (D) Their metabolic wastes contribute to the degradation of the waters that they inhabit.
+  (E) They are declining even when the water surrounding them remains clear.
+　　Two divergent definitions have dominated sociologists discussions of the nature of ethnicity. The first emphasizes the primordial and unchanging character of ethnicity. In this view people have an essential need for belonging that is satisfied by membership in groups based on shared ancestry and culture. A different conception of ethnicity de-emphasizes the cultural component and defines ethnic groups as interest groups. In this view, ethnicity serves as a way of mobilizing a certain population behind issues relating to its economic position. While both of these definitions are useful neither fully captures the dynamic and changing aspects of ethnicity in the United States, Rather, ethnicity is more satisfactorily conceived of as a process in which preexisting communal bonds and common cultural attributes are adapted for instrumental purposes according to changing real-life situations.
+　　One example of this process is the rise of participation by Native American people in the broader United States political system since the Civil Rights movement of the 1960's, Besides leading Native Americans to participate more actively in politics (the number of Native American legislative officeholders more than doubled) this movement also evoked increased interest in tribal history and traditional culture, Cultural and instrumental components of ethnicity are not mutually exclusive but rather reinforce one another.
+　　The Civil Rights movement also brought changes in the uses to which etnicity was put by Mexican American people. In the 1960's, Mexican Americans formed community-based political groups that emphasized ancestral heritage as a way of mobilizing constituents. Such emerging issues as immigration and voting rights gave Mexican American advocacy groups the means by which of promote ethnic solidarily. Like European ethnic groups in the nineteenth-century United States, late-twentieth-century. Mexican American leaders combined ethnic with contermporary civie symbols. In 1968 Henry Cisneros. then mayor of San Antonio. Texas, cited Mexican leader Benito Juarez as a model for Mexican Americans in their fight for contemporary civil rights. And every year. Mexican Americans celebrate Cinco de Mayo as fervently as many Irish American people embrace St. Patrick's Day (both are major holidays in the countries of origin). with both holidays having been reinvented in the contex of the United States and linked to ideals, symbols and heroes of the United Staes.
+6. Which of the following best states the main idea of the passage?
+  (A) In their definitions of the nature of ethnicity, sociologists have underestimated the power of the primordial human need to belong.
+  (B) Ethnicity is best defined as a dynamic process that combines cultural components with shared political and economic interests.
+  (C) In the United States in the twentieth century, ethnic groups have begun to organize in order to further their political and economic interests.
+  (D) Ethnicity in the United States has been significantly changed by the Civil Rights movement.
+  (E) The two definitions of ethnicity that have dominated sociologists' discussions are incompatible and should be replaced by an entirely new approach.
+7. Which of the following statements about the first two definitions of ethnicity discussed in the first paragraph is supported by the passage?
+  (A) One is supported primarily by sociologists, and the other is favored by members of ethnic groups
+  (B) One emphasizes the political aspects of ethnicity, and the other focuses on the economic aspects.
+  (C) One is the result of analysis of United States populations, and the other is the result of analysis of European populations.
+  (D) One focuses more on the ancestral components of ethnicity than does the other.
+  (E) One focuses more on immigrant groups than does the other.
+8. The author of the passage refers to Native American people in the second paragraph in order to provide an example of
+  (A) the ability of membership in groups based on shared ancestry and culture to satisfy an essenial human need
+  (B) how ethnic feelings have both motivated and been strengthened by political activity
+  (C) how the Civil Rights movement can help promove solidarity among United States ethnic groups
+  (D) how participation in the political system has helped to improve a group's economic situation
+  (E) the benefits gained from renewed study of ethnic history and culture
+9. The passage supports which of the following state-ments about the Mexican American community?
+  (A) In the 1960's the Mexican American community began to incorporate the customs of another ethnic group in the United States into the observation of its own ethnic holidays.
+  (B) In the 1960's Mexican American community groups promoted ethnic solidarity primarily in order to effect economic change.
+  (C) In the 1960's leaders of the Mexicna American community concentrated their efforts on promoting a renaissance of ethnic history and culture.
+  (D) In the 1960's members of the Mexican American community were becoming increasingly concerned about the issue of voting rights.
+  (E) In the 1960's the Mexican American community had greater success in mobilizing constituents than did other ethnic groups in the United States.
+10. Which of the following types of ethnic cultural expression is discussed in the passage?
+  (A) The retelling of traditional narratives.
+  (B) The wearing of traditional clothing
+  (C) The playing of traditional muste
+  (D) The celebration of traditional holidays
+  (E) The preparation of traditional cuisine
+11. Information in the passage supports which of the following statements about many European ethnic groups in the nineteenth-century United States?
+  (A) They emphasized economic interests as a way of mobilizing constituents behind certain issues.
+  (B) They conceived of their own ethnicity as being primordial in nature.
+  (C) They created cultural traditions that fused United States symbols with those of their countries of origin.
+  (D) They de-emphasized the cultural components of their communities in favor of political interests
+  (E) They organized formal community groups designed to promote a renaissance of ethnic history and culture.
+12. The passage suggests that in 1968 Henry Cisneros most likely believed that
+  (A) many Mexican Americans would respond postively to the example of Benito Juarez
+  (B) many Mexican Americnas were insufficiently educated in Mexican history
+  (C) the fight for civil rights in the United States had many strong parallels in both Mexican and hish history
+  (D) the quickest way of organizing community-based groups was to emulate the tacties of Benito Juarez
+  (E) Mexican Americans should emulate the strategtes of Native American political leaders.
+　　The fact that superior service can generate a competitive advantage for a company does not mean that every attempt at improving service will create such an advantage. Investments in service like those in production and distribution, must be balanced against other types of investments on the basis of direct, tangible benefits such as cost reduction and increased revenues. If a company is already effectively on a par with its competitors because it provides service that avoids a damaging reputation and keeps customers from leaving at an unacceptable rate, then investment in higher service levels may be wasted since service is a deciding factor for customers only in extreme situations.
+　　This truth was not apparent to managers of one regional bank. which failed to improve its competitive position despite its investment in reducing the time a customer had to wait for a teller. The bank managers did not recognize the level of customer inerua in the consumer banking industry that arises from the inconvenience of switching banks. Nor did they analyze their service improvement to determine whether it would attract new customers by producing a new standard of service that would excite customers or by proving difficult for competitors to copy. The only ment of the improvement was that it could easily be described to customers.
+13. The primary purpose of the passage to
+  (A) contrast possible outcomes of a type of busness investment
+  (B) suggest more careful evaluation of a type of business investment
+  (C) illustrate various ways in which a type of business investment could fail to enhance revenues
+  (D) trace the general problems of a company to a certain type of business investment
+  (E) criticize the way in which managers tend to analyze the costs and benefits of business investments.
+14. According to the passage, investments in service are comparable to investments in production and distribution in terms of the
+  (A) tangibility of the benefits that they tend to confer
+  (B) increased revenues that they ultimately produce
+  (C) basis on which they need to be weighted
+  (D) insufficient analysis that managers devote to them.
+  (E) degree of competitive advantage that they are likely to provide.
+15. The passage suggests which of the following about service provided by the regional bank prior to its investment in enhancing that service?
+  (A) It enabled the bank to retain customers at an acceptable rate.
+  (B) It threatened to weaken the bank's competitive position with respect to other regional banks.
+  (C) It had already been improved after having caused damage to the bank's reputation in the past.
+  (D) It was slightly superior to that of the bank's regional competitors.
+  (E) It needed to be improved to attain parity with the service provided by competing banks.
+16. The passage suggests that bank managers failed to consider whether or not the service improvement mentioned in line 19
+  (A) was too complicated to be easily described to prospective customers
+  (B) made a measurable change in the experiences of customers in the bank's offices
+  (C) could be sustained if the number of customers increased significantly
+  (D) was an innovation that competing banks could have imitated
+  (E) was adequate to bring the bank's general level of service to a level that was comparable with that of its competitors.
+17. The discussion of the regional bank (lines 13-24) serves which of the following functions within the passage as a whole?
+  (A) It describes an exceptional case in which investment in service actually failed to produce a competitive advantage.
+  (B) It illustrates the pitfalls of choosing to invest in service at a time when investment is needed more urgently in another area.
+  (C) It demonstrates the kind of analysis that managers apply when they choose one kinw of service investment over another.
+  (D) It supports the argument that investments in certain aspects of service are more advantageous than investments in other aspects of service.
+  (E) It provides an example of the point about investment in service made in service made in the fist paragraph.
+18. The author uses the word "only" in line 23 most likely in order to
+  (A) highlight the oddity of the service improvement
+  (B) emphasize the relatively low value of the investment in service improvement
+  (C) distinguish the primary attribute of the service improvement from secondary attributes.
+  (D) single out a certain merit of the service improvement from other merits.
+  (E) point out the limited duratin of the actual service improvement.
+SECTION 3
+Time -25 minutes
+20 Questions
+1. What is the capacity, in liters, of a certain aquarium?
+  (1) Three liters is  of the capacity of the aquarium.
+  (2) One-half liter is of the capacity of the aquarium.
+2. What is the value of n?
+3. In PQR, what is the measure of angle P?
+  (1) Angle Q is a right angle.
+  (2) The measure of angle R is
+4. What amount did Jean earn from the commission on her sales in the first half of 1988?
+  (1) In 1988 Jean's commission was 5 percent of the total amount of her sales.
+  (2) The amount of Jean's sales in the second half of 1988 averaged $10.000 per month more than in the first half.
+5. A certain car traveled from one town to another without stopping. What was the car's average speed for the trip?
+  (1) The car traveled the 90-mile trip in 2 hours.
+  (2) The car traveled the first 40 miles of the trip in 1 hour.
+6. What is the value of x?
+  (1) 2x+3y=12
+  (2) 5x+7y=29
+7. Does x=y
+  (1) |x|=|y|
+  (2) x2=y2
+8. Dan took a 20-question multiple-choice test in psychology. If Dan answered every question, did he answer at least 12 questions correctly?
+  (1) Dan answered fewer than 40 percent of the questions incorrectly.
+  (2) Dan answered fewer than 25percent of the questions incorrectly.
+9. The figure above shows the circular cross section of a concrete water pipe. If the inside radius of the pipe is r feet and the outside radius of the pipe is t feet, what is the value of r?
+  (1) The ratio of t-r to r is 0.15 and t-r is equal to 0.3 foot.
+  (2) The area of the concrete in the cross section is 1.29 square feet.
+10. If a<x<b and c<y<d, is x<y?
+  (1) a<c
+  (2) b<c
+11. Is an integer?
+  (1) x is an integer.
+  (2) x=0
+12. How many people did Apex Company employ in 1990?
+  (1) The company employed 538 more people in 1991 than in 1990.
+  (2) The company employed 20 percent more people in 1991 than in 1990.
+13. Of the four number represented on the number line above,is r closest to zero?
+  (1) q=-s
+  (2) -t<q
+14. Is the integer n divisible by 20?
+  (1) n is divisible by 5
+  (2) n is divisible by 6.
+15. If Mark saved an average (arithmetic mean) of $80 per week for 3 consecutive weeks. how much did he save the second week?
+  (1) The average amount that Mark saved per week for first 2 week was $60
+  (2) The amount that Mark saved the firstt week was the amount he saved the second week and  the amount he saved the third week.
+16. If p and q are positive integers, what is the value of q?
+  (1) qp-1=1
+  (2) p=1
+17. If x-1, which is greater ?
+  (1) x0
+  (2) x<3
+18. In a certain two-digit integer, the ratio of the units digit to the tens digit is 2 to 3. What is the integer?
+  (1) The tens digit is 3 more than the units digit.
+  (2) The product of the two digits is 54
+19. If cCarmen had 12 more tapes, she would have twice as many tapes as Rafael. Does Carmen have fewer tapes than Rafael?
+  (1) Rafael has more than 5 tapes.
+  (2) Carmen has fewer than 12 tapes.
+20. What is the value of ?
+  (1)
+  (2) t-x=5
+SECTION 4
+Time-25 minutes
+16 Questions
+1. In the first half of this year, from January to June, about three million videocassette recorders were sold. This number is only 35 percent of the total number of videocassette recorders sold last year. Therefore, total sales of videocassette recorders will almost certainly be lower for this year than they were for last year.
+Which of the following, if true, most seriously weakens the conclusion above?
+  (A) The total number of videocassette recorders sold last year was lower than the total number sold in the year before that.
+  (B) Most people who are interested in owning a videocassette recorder have already purchased one.
+  (C) Videocassette recorders are less ecpensive this year than they were last year.
+  (D) Of the videocassette recorders sold last year almost 60 percent were sold in January.
+  (E) Typically, over 70 percent of the sales of videocassette recorders made in a year occur in the months of November and December.
+2. Mud from a lake on an uninhabited wooded island in northern Lake Superior contains toxic chemicals, including toxaphene, a banned pesucide for cotton that previously was manufactured and used, not in nearby regions of Canada or the northern United States, but in the southern United States, No durmping has occurred on the island. The island lake is sufficiently elevated that water from Lake Superior does not reach it.
+The statements above, if true, most strongly support which of the following hypotheses?
+  (A) The waters of the island lake are more severely polluted than those of Lake Superior.
+  (B) The toxaphene was carried to the island in the atmosphere by winds.
+  (C) Banning chemicals such as toxaphene does not aid the natural environment.
+  (D) Toxaphene has adverse effects on human beings but not other organisms.
+  (E) Concentrations of toxaphene in the soil of cottongrowing regions are not sufficient to be measurable.
+3. Last year in the United States, women who ran for state and national offices were about as likely to win as men. However, only about fifteen percent of the candiates for these offices were women. Therefore, the reason there are so few women who win elections for these offices is not that women have difficulty winning elections but that so few women want to run.
+Which of the following, if true, most seriously undermines the conclusion given?
+  (A) Last year the proportion of women incumbents who won reelection was smaller than the proportion of men incumbents who won reelection.
+  (B) Few women who run for state and national offices run against other women.
+  (C) Most women who have no strong desire to be politicians never run for state and national offices.
+  (D) The proportion of people holding local offices who are women is smaller than the proportion of people holding state and national offices who are women.
+  (E) Many more women than men who want to run for state and national offices do not because they cannot get adequate funding for their campaigns.
+4. Samples from a ceramic vase found at a tomb in Sicily prove that the vase was manufactured in Greece. Since the occupant of the tomb died during the reign of a Sicilian ruler who lived 2.700 years ago.
+Which of the following is an assumption on which the argument depends?
+  (A) Sicilian potters who lived during the reign of the ruler did not produce work of the same level of quality as did Greek potters.
+  (B) Sicilian play that was used in the manufacture of pottery during the ruler's reign bore little resemblance to Greek clay used to manufacture pottery at that time.
+  (C) At the time that the occupant of the tomb was alive, there were ships capable of transporting large quantities of manufactured goods between Sicily and Greece.
+  (D) The vase that was found at the Sicilian tomb was not placed there many generations later by descendants of the occupant of the tomb.
+  (E) The occupant of the tomb was not a member of the royal family to which the Sicilian ruler belonged.  

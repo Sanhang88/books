@@ -1,0 +1,23 @@
+动词形态的误用
+
+   ㈠不定式动词（the infinitive），如：
+① An applicant was rejected, but the personnel manager who rang up with the bad news promised to help her looked for a job elsewhere.
+   凡在“HELP+宾语”后面出现的一定是不定式动词，可以带“to ”，也可以不带“to”，但是绝对不可以是其他形式的动词，因此“ looked”要改为“look”或“to look”。
+   另一个和MAKE有关的句型，也常有形态问题，如：
+② The sight of the horrible animal made our blood ran cold.
+③ The long distance between Singapore and China makes Singapore's businessmen considering going to nearer countries to invest.
+   ②里的“ran”和③里的“considering”都是动词形态之误，要分别改成“run”和“consider”才对。
+   要注意的是HELP后头的不定式动词可以有“to”或不带“to”，但MAKE后面的不定式动词绝对不可有“to”。
+   ㈡过去分词（the past participle），如
+④ Like other teaching methods, group discussion can assist students in solving recognising problems.
+   在英语里，过去分词和现在分词都可以转化为名词修饰语。前者表示被动及完成的活动；后者则表示主动及未完成的动作。④里的名词“problems”是已经认同的，因此现在分词“recognising”要改为过去分词“recognised”才合理。
+   同样的，⑤里的“describing”也要改为“described”。
+⑤ The instructional techniques describing in the book have some striking features.
+   ㈢原形动词，如：
+⑥ Day in day out, housewives will lost contact with the outside world.
+   在英语助动词“do, shall, have”等或情态动词“can, may, must”等后面出现的是原形动词，其他形式的动词都不对。因此，⑥ 里的“lost”要改为“lose”。⑦和⑧里的“spent ”和“ entrusted”也应为“spend”和“entrust”。
+⑦ Instead of joining violent demonstrators, students should spent their time studying.
+⑧ Can mothers confidently entrusted their children to any day-care centre?
+   ㈣动名词，如：
+⑨ Prior to analyse teaching methods, it is important for the teacher to know something about the student's learning strategies.
+   ⑨里的“prior to”等于介词“before”，后头带宾语。其中一种宾语是动名词或动名词短语（gerund/gerund phrase）。显然的，原形的“analyse”要变成“analysing”。⑩里的“engage”和⑩里的“to repair and restore”也非改成“engaging”和“repairing and restoring”不可： ⑩ They should concentrate on their studies instead of engage themselves in mobs. ⑩The authorities spent a lot of money to repair and restore damaged public buildings. 

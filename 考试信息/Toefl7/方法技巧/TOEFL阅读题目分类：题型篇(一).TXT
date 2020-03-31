@@ -1,0 +1,66 @@
+TOEFL阅读题目分类：题型篇(一)
+
+主题型：
+  题目为每篇阅读理解文章第一道，是所有其它题目的依据，解题技巧：
+  1.阅读每一段首句相加，概括型主题
+  2.第一段为主题背景性文章，but，however，转折词后为主题句
+  3.主题词的反复重现
+  4.段落句首连词的逻辑走向判断主题
+  5. Development，why，mechanism，常为主题标识
+  6.段落首句小词的重要性
+  普样1
+  Q1  D　The way of life。。。
+  Q23  A　mechanics　L1 What
+  Q31  C　development
+  普样2
+  Q11  B　Why  L5：factor    L10，18：probably
+  Q21  C　development
+  Q41  D　salinity在每一段中的复现
+  普样3
+  Q11  B　human vision　主题词为首句主词
+  Q22  C　making  L1：made；L6：makes；L9：material；L14：tools；
+  普样4
+  Q34  B　explain　L3 two reasons。。。account for　L5：the first
+  95/8　Q31  A　The origins of　L1：many theories；L10：those who believe；
+  L21：another theory，L25；related theory
+  95/10　Q14  D The effects
+  95/10　Q42  A  The historical development  L6：the ancestry
+  95/12　Q2  A  L1：another
+  95/12　Q32  C  第一段尾局首句复杂
+  96/1  Q10  B  development　
+  96/1  Q31  C  第一段首句，第二段首句  *　NA
+  96/1  Q42  C  mechanism                *　NA
+  96/1  Q1  D  outline
+  96/1  Q19  C  characteristics
+  96/1  Q41  B  ways　
+  96/5  Q13  C  the impact of…on…
+  96/5  Q33  A  主题词重现
+  96/8  Q22  C  the characteristics
+  96/8  Q33  B  development        (D the history)
+  96/8  Q42  B  how…changed          (why…developed)
+  96/12　Q1  B  difference　L3：distinction　首段尾句
+  97/1  Q29  B  L1：a number of adaptations，L2：one，L13：another
+  L16：an equally important adaptation，L24：further ability
+  97/1  Q40  B  Causes and effects of
+  97/5  Q31  A  the explanation of
+  97/8  Q1  A  the culture of
+  97/8  Q21  B  the effects of…on…
+  97/10　Q8  C  the reason of
+  97/12　Q11  C  the beginning of  Na
+  98/1  Q20  A  the analysis of　主题词同义词study的复现
+  98/5  Q41  D  ways
+  98/8  Q1  B  attempts to explain what　每断句首theory
+  98/8  Q11  D  the evolution of
+  98/8  Q42  C  the impact of…on…
+  98/8  Q11　NA C  L1：in addition to the military role；L11：yet other contributions，
+  98/10　Q30  C  the changing status of
+  98/10　Q40  C  the impact
+  99/1  Q34  A  ***
+  99/1  Q45  B  the development
+  99/5  Q10  D  changed
+  99/5  Q23  B  the formation and appearance of
+  99/5  Q34  D  the relationships between
+  99/8  Q23  C  the stage of development
+  99/10　Q1  D  第一段尾句主题词
+  99/10　Q11  D  development
+  更多内容，请看题型篇系列(二)代词题型；(三)章法和态度，上下文推断；(四)比喻和类比题型

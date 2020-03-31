@@ -1,0 +1,304 @@
+GMAT畠寔籾眉---1
+ANALYSIS OF AN ARGUMENT
+Time-30 minutes
+Directions: In this section, you will be asked to write a critique of the argument presented below. Note that you are not being asked to present your own views on the subject. Instead, you may need to consider what questionable assumptions underlie the thinking, what alternative explanations or counterexamples might weaken the conclusion, or what sort of evidence could help strengthen or refute the argument.
+　　Read the argument and the instructions that follow it, and then make any notes in your test booklet that will help you plan your response. Begin writing your response on the separate answer document. Make sure that you use the answer document that goes with this writing task.
+　　The following appeared in a magazine article on trends and lifestyles.
+　　"In gencral, people are not as conccmed as they were a decade ago about regulating their intake of red meat and fatty cheeses. Walk into the Hcart's Dclight, a store that started sclling organic fruits and vegctables and wholegrain flours in the 1960's, and you will also find a wide selcction of checses made with high butterfat content. Next door, the owners of the Good Earth Cafe, an old vegctarian restaurant, are still making a modest living, but the owners of the new House of Beef across the strect are millionaires."
+　　Discuss how well reasoned you find this argument. In your discussion, be sure to analyze the line of reasoning and the use of cvidence in the argument. You can also discuss what, if anything, would make the argument more sound and persuasive or would help you better evaluate its conelusion.
+ANALYSIS OF AN ISSUE
+Time-30 minutes
+Directions: In this section, you will need to analyze the issue presented below and explain your views on it. The question has no "correct" answer. Instead, you should consider various perspetives as you develop your own position on the issue.
+　　Read the statcment and the instructions that follow it, and then make any notes in your test booklet that will help you plan your response. Begin writing your response on the separate answer document. Make sure that you use the answer document that goes ith this writing task.
+　　"The rise of multinational corporations is leading to global homogeneity". People everywhere are beginning to want the same products and services, and regional differences are rapidly disappearing."
+　　"homogencity: samencss, similarity"
+　　Discuss the extent to which you agree or disagree with the opinion expressed above. Support your point of view with reasons and/or examples based on your own experiences, your observations, or your reading.
+SECTION 1
+Time-25 minutes
+16 Questions
+Directions: In this section solve each problem, using any available space on the page for scratchwork. Then indicate the best of the answer choices given.
+Numbers: All numbers used are real numbers.
+Figures: Figures that accompany problems in this section are intended to provide information useful in solving the problems. They are drawn as accruately as possible EXCEPT when it is stated in a specific problem that its figure is not drawn to seale. All figures lie in a plane unless otherwise indicated.
+1. If =1, which of the following must be true?
+　(A) a=0
+　(B) b=0
+　(C) a=1
+　(D) b=1
+　(E) a=b
+　y=kx+3
+2. In the equation above, k is a constant, If y=17 when x=2, what is the value of y when x=4?
+　(A) 34
+　(B) 31
+　(C) 14
+　(D) 11
+　(E) 7
+3. In 1989 the price of a new model S car was x dollars. If the price of the model S car increased each year by 10 percent of the previous year's price, what was the price of the car, in dollars, in 1991?
+　(A) 1.10x
+　(B) 1.20x
+　(C) 1.21x
+　(D) 1.25x
+　(E) 1.33x
+4. If n is a prime number greater than 3, what is the remainder when n2 is divided by 12?
+　(A) 0
+　(B) 1
+　(C) 2
+　(D) 3
+　(E) 5
+5. NOT SCORED
+6. If a subscription for 10 issues of a magazine costs $24.00 and represents a saving of 20 percent of the cover price, what is the cover price per issue?
+　(A) $1.98
+　(B) $2.40
+　(C) $2.80
+　(D) $2.86
+　(E) $3.00
+7. Each edge of a cubical block of wood measures 2 inches. What is the surface area of the block in square inches?
+　(A) 4
+　(B) 8
+　(C) 12
+　(D)16
+　(E) 24
+CREATE YOUR OWN SUNDAE
+12 Ice Cream Flavors
+10 Kinds of Candies
+8 Liquid Toppings
+5 Kinds of Nuts
+With or Without Whipped Cream
+8. If a customer makes exactly one selection from each of the five actegories shown in the table above, what is the greatest possible number of different ice cream sundaes that a customer can create?
+　(A) 9.600
+　(B) 4.800
+　(C) 2.400
+　(D) 800
+　(E) 400
+9. The average (arithmetic mean) of 4 positive integers is 50. If the average of 2 of these integers is 45, what is the greatest possible value that one of the other 2 integers can have?
+　(A) 55
+　(B) 65
+　(C) 100
+　(D) 109
+　(E) 115
+10. Machine A working alone can complete a job in hours. Machine B working alone can do the same job in hours. How long will it take both machines working together at their respective constant rates to complete the job?
+　(A) 1 hr 10 min
+　(B) 2 hr
+　(C) 4 hr 5 min
+　(D) 7 hr
+　(E) 8 hr 10 min
+11. What is the smallest positive integer n for which 324 is a factor of 6n?
+　(A) 2
+　(B) 3
+　(C) 4
+　(D) 5
+　(E) 6
+Note: Figure not drawn to seale.
+12. In the figure above, if AB|| CE, CE=DE, and y=45, then x=
+　(A) 45
+　(B) 60
+　(C) 67.5
+　(D) 112.5
+　(E) 135
+13. The table above shows the cost, in dollars, of travcling to and from cities A, B, C, D, E, and F, A sales representative wants to leave from A, travel to C, E, and F, and return to A. If the first city that the sales represertative travels to must be E, what is the minimum possible cost for the entire trip?
+　(A) $13
+　(B) $14
+　(C) $16
+　(D) $18
+　(E) $20
+14. A retailer sold an appliance for 30 percent above cost, which represented a gross profit of $21.00. For what price did the retalies sell the appliance?
+　(A) $27.30
+　(B) $51.00
+　(C) $63.00
+　(D) $70.00
+　(E) $91.00
+15. How many integers between 324.700 and 458.600 have tens digit 1 and units digit 3?
+　(A) 10.300
+　(B) 10.030
+　(C) 1.353
+　(D) 1.352
+　(E) 1.339
+16. A breakfast that consists of 1 counce of corn puffs and 8 cunces of fruit X provides 257 calories. When 8 conces of fruit Y is substituted for the 8 cunces of fruit X, the total number of calories is reduced to 185. If fruit X provides 1.8 times as many calories as fruit Y. how many calories does 8 counces of fruit Y alone provide?
+　(A) 11.25
+　(B) 72
+　(C) 90
+　(D) 95
+　(E)129.6
+SECTION 3
+Time-25 minutes
+22 Questions
+1. Clark and Florence Wallace, a husband-and-wife medical team, worked steadily and cfficiently through the night, but sipping their coffee the next morning, she noticed that he seemed disoriented.
+  (A) sipping their coffee the next morning, she noticed that he seemed disoriented.
+  (B) sipping their coffee the next morning, he seemed to be disoriented, she noticed
+  (C) as they sipped their ocffee the next morning, she noticed that he seemed disoriented
+  (D) as they were sipping their coffee the next morning, he seemed, she noticed, disoriented
+  (E) he seemed disoriented, she noticed, sipping their coffee the next morning
+2. Very popular from 1900 until the 1920's, the renewed interest in ceiling fans began when the energy crisis in 1974 forced homeowners to look for alternative methods of heating and cooling.
+  (A) Very popular from 1900 until the 1920's, the rencewed interest in ceiling fans began
+  (B) The rencwed interest in ceiling fans, which were very popular from 1900 until the 1920's began
+  (C) After they were very popular from 1900 until the 1920's, the renewed interest 　　in ceiling fans was beginning.
+  (D) Ceiling fans were very popular from 1900 until the 1920's, with renewed interest beginning in them.
+  (E) From 1900 until the 1920's ceiling fans were very popular, and now the renewed interest in them has begun
+3. There is speculation that increasing cold weather was what may have been responsible for the Anasazi move from Mesa Verde to sites in other canyons.
+  (A) that increasing cold weather was what may have been
+  (B) whether increasing cold weather was what was
+  (C) that increasingly cold weather was what had been
+  (D) whether increasingly cold weather may have been what had been
+  (E) that increasingly cold weather may have been
+4. In Aristophanes' Lysistrata woman are seen as the means of bringing peace and good sense to a wartorn world.
+  (A) as
+  (B) as if they are
+  (C) that they will be
+  (D) that they are
+  (E) for being
+5. Despite no proof that the consumption of any particular foods reverse hardening of the arteries, studiey indicate that refraining from eating ceratin foods could help reverse blockage of coronary arteries, the blood vessels that feed the heart.
+  (A) Despite no proof that the consumption of any particular foods reverse hardening of the arteries, studies indicate that refraining from eating certain foods could
+  (B) Despite no foods having been proved to reverse hardening of the arteries when consumed, studies indicate that refraining from eating certain foods can
+  (C) Although the consumption of no particular foods have been proved to reverse hardening of the arteries, studies indicate that to refrain from eating certain foods could
+  (D) Although not proved that the consumption of any foods reverse hardening of the arteries, studies indieate that refraining from eating certain foods can
+  (E) Although it has not been proved that the consumption of any particular food will reverse hardening of the arteries, studies indicate that refraining from eating certain foods can
+6. Artificial intelligence emerged during the late 1950's as an academic discipline based on the assumption that computers are able to be programmed to think like people.
+  (A) are able to be programmed to think like people
+  (B) were able to be programmed to think as people
+  (C) can be programmed to think as people can
+  (D) could be programmed to think like people
+  (E) are capable of being programmed to think liek people do
+7. Although the coordination of monetary policy can help facilitate the orderly financing of existing imbalances, it is unlikely that its effect on their size is significant in the absence of an appropriate fiscal adjustment.
+  (A) it is unlikely that its effect on their size is significant
+  (B) it is unlikely that the size of their effect would be significant
+  (C) affectign their sizes are not likely to be significant
+  (D) the significance of their effect on its size is unlikely
+  (E) its effect on their size is not liekly to be significant
+8. The proposed health care bill would increase government regulation of health insurance, establish standards that would guarantee wider access to people with past health problems and to workers changing jobs who otherwise could be uncovered for months.
+  (A) establish standards that would guarantee wider access to people with past health problems and to workers changing jobs who
+  (B) establish standards that would guarantee wider access to people with past health problems and to workers who are changing jobs and
+  (C) to establish standards that would guarantee wider access to people with past health problems and to workers who change jobs that
+  (D) for establishing standards that would guarantee wider access for people with past health problems and workers changing jobs who
+  (E) for the establishment of standards that would guarantee wider access for people with past health problems and workers who are chaning jobs that
+9. Many writers of modern English have acquired careless habits that damage the clarity of their prose, but these habits can be broken if htey are willing to take the necessary trouble
+  (A) but these habits can be broken
+  (B) but these habits are breakable
+  (C) but they can break these habits
+  (D) which can be broken
+  (E) except that can be broken
+10. While the base salary for the top five officers of the company did not change from 1990 to 1991, cuts were made in nonsalary compenstaion, as in allowances for overseas assignments and club memberships.
+  (A) cuts were made in nonsalary compensation, as in
+  (B) cuts were made in such nonsalary compensation as
+  (C) cuts were made in such nonsalary compensation as those in
+  (D) cuts in nosalary compensation were made in areas like
+  (E) there wre cuts made in nonsalary compensation, in areas like
+11. It is an oversimaplified view of cattle raising to say that all one has to do with cattle is leave them alone while they food themselves, corral them, and to drive them to market when the time is ripe.
+  (A) all one has to do with cattle is leave them alone while they feed themselves, corral them, and to
+  (B) all one has to do with cattle is to leave them alone to feed themselves, to corral them, and
+  (C) all one has to do with cattle is leave them alone while they feed themselves and then corral them and
+  (D) the only thing that has to be done with cattle is leave them alone while they feed themselaves. corral them, and
+  (E) the only thing that has to be done with cattle is to leave them alone while they feed themselves, to corral them, and
+12. Although dozens of New York's small museums are either devoted to local history or varjous ethnic groups, there are many one-of-a-kind museums from Manhattan to the Bronx that are open for exploration on summer weekends.
+  (A) Although dozens of New York's small museums are either devoted to local history or various ethnic groups, there are
+  (B) Although dozens of New York's small museums are deveoted to local history or various ethnic groups.
+  (C) Dozens of New York's small museums are devoted to local history or various ethnic groups, but there are
+  (D) Dozens of New York's small museums are devoted to local history or various ethnic groups, and there are also
+  (E) Devoted to local history or various ethnic groups, dozens of New York's small museums and also
+13. Oberlin College in Ohio was a renegade institution at its 1833 founding for deciding to accept both men and women as students.
+  (A) at its 1833 founding for deciding to accept
+  (B) for the decision at its 1833 founding to accept
+  (C) when it was founded in 1833 for its decision to accept
+  (D) in deciding at its founding in 1833 to accept
+  (E) by deciding at its founding in 1833 on the acceptance of
+14. Unlike a hurricane, which can be observed from within, a tornado is so small that such a study has not been practical.
+  (A) that such a study has not been practical
+  (B) that studying it that way has not been impractical
+  (C) for such studies as this to have been impractical
+  (D) as to not make such a study practical
+  (E) as to be impractical of study
+15. After the Colonial period's 50 percent mortality rate lief expectancy improved for children, but as late as the nineteenth century about one child in three died before reaching the age of six.
+  (A) After the Colonial period's 50 percent mortality rat, life expectancy improved for children, but
+  (B) Even though children's life expectancy, which improved over the Colonial period's 50 percent mortality rate.
+  (C) Although life expectancy for children improved after the Colonial period, during which the mortality rate was 50 percent.
+  (D) While there was an improvement in life expectancy for children after the 50 percent mortality rate of the Colonial period, still
+  (E) Despite children's life expectancy improvement from the Colonial period's 50 percent mortality rate.
+16. Just as a writer trying to understand shtetl life might read Shalom Aleichem or Isaac Bashevis Singer. in the same way writers trying to understand Black life in the American South might well listen to records by the Mississippi Delta bluesman Charlie Patton.
+  (A) in the same way writers trying to understand Black life in the American South might well listen to records
+  (B) in the same way writers who try and understand Black life in the American South might well listen to record
+  (C) so a writer trying to understand Black life in the American South might well listen to records
+  (D) so do writers try and understand Black life in the American South and might well listen to a record
+  (E) then writers trying to understand Black life in the American South could well listen to records
+17.The pattern of whisker spots on the face of a male lion. like human fingerprints, are a lifelong means of identification, since they are both unique and unchanging.
+  (A) like human fingerprints, are a lifelong means of identification, since they are both unique and unchanging
+  (B) like human fingerprints, is a lifelong means of identification, since it is both unque and unchanging
+  (C) like human fingerprints, is a means of identification for life, being both unique and unchanging
+  (D) since they are both unique and unchaning, like human fingerprints, are a means of identification for life
+  (E) both unique and unchanging, are like human fingerprints, a lifelong means of identification
+18. Eeven though the state has spent ten years and seven million dollars planning a reservoir along the Ubi River, the project will have to be abandoned as a result of the river becoming so heavily polluted.
+  (A) will have to be abandoned as a result of the river becoming so heavily polluted
+  (B) is to be abandoned on account of the heavy pollution which the river reccived
+  (C) had to be abandoned because the river had received such heavy pollution
+  (D) has to be abandoned because of the river and its heavy pollution
+  (E) must be abandoned because the river has become so heavily polluted.
+19. In spite of federal subsidizing of public transportation systems massively and major local efforts to persuade the public to use public transportation, mass transit has been steadily losing patronage to the private automobile for the past thirty years.
+  (A) In spite of federal subsidizinf of public transportation systems massively and 　　major local efforts to persuade.
+  (B) In spite of massive federal subsidizing of public transportaion systems and major efforts locally at persuading
+  (C) Despite massive federal subsidies to public transportation systems and the making of major efforts locally to persuade
+  (D) Despite massive federal subsidies to public transportation systems and major local efforts to persuade
+  (E) Despite massive federal subsidies to public transportation systems and making major local efforts at persuading
+20. Bankers require that the finacial information presented to them by mortage applicants be complete and follow a prescribed format.
+  (A) be complete and follow a prescribed format
+  (B) is complete and it follows a prescribed format
+  (C) be complete and a prescribed format is followed
+  (D) to be complete and a prescribed format be followed
+  (E) be complete, and it followed a prescribed format
+21. In the face of widespread concern about environmental waste, compact dise manufactures are attempting to find a replacement for the disposable plastic box in which they package their product
+  (A) the disposable plastic box in which they
+  (B) the disposable plastic box where they
+  (C) a disposable plastic box in which to
+  (D) disposable plastic boxes inside which they
+  (E) the disposable plastic boxes in which to
+22. In feudal Europe, urban areas developed from clusters of houses where peasants lived and commuted to farmlands in the countrysied, unlike hometeading policites in the American West that required residency on the land itself in order to obtain eventual ownership.
+  (A) In feudal Europe, urban areas developed from clusters of houses where peasants lived and commuted to farmlands in the countryside, unlike homesteading policies in the American West that
+  (B) In feudal Europe, urban areas developed from clusters of houses where peasants lived and from which they commuted to farmalands in the countryside, but in the American West homesteading policies
+  (C) Unlike feudal Europe where urban areas developed from clusters of houses where peasants lived and commuted to farmlands in the ocuntryside, the American West's homesteading policies
+  (D) Unlike feudal Europe whee urban areas developed from clusters of houses where peasants lived and commuted to farmlands in the countryside the homesteading policies of the American West
+  (E) Urban areas developed from clusters of houses where peasants lived from which they commuted to farmlands in the countryside in feudal Europe, unlike the American West where homesteading policies
+SECTION 4
+Time-25 minutes
+16 Questions
+1. Of the people who responded to a market survey, 120 preserred Brand X and the rest preferred Brand Y. If the respondents indicated a preference for BVrand X over Brand Y by a ratio of 3 to 1. how many people responded ot the survey?
+　(A) 80
+　(B) 160
+　(C) 243
+　(D) 360
+　(E) 480
+2. (x+3y)2=
+　(A) x2+3y2
+　(B) x2+9y2
+　(C) x2+3xy+3y2
+　(D) x2+3xy+9y2
+　(E) x2+6xy+9y2
+3. At Company K, 15 percent of the employces are secretaries and 60 percent are salespeople. If there are 45 other employces of Company K, how many employces does Company K have?
+　(A) 160
+　(B) 180
+　(C) 190
+　(D) 200
+　(E) 400
+5. If x and y are negative integers, which of the following must be true?
+　.x-y<0
+　.x2>y
+　(A) only
+　(B) only
+　(C) only
+　(D) and
+　(E) and
+6. A certain hotel has 1,400 single rooms and 420 double rooms. Each room is cleaned by one person. If one person can clean a single room every 15 minutes and a double room every 20 minutes, how many clearing persons are needed to clean all the rooms if each person works for exactly 7 hours?
+　(A) 65
+　(B) 70
+　(C) 80
+　(D) 90
+　(E) 265
+7. In the figure above, the two square regions have areas 16 and 25, respectively. What is the area of the shaded triangular region?
+　(A) 6
+　(B) 8
+　(C) 9
+　(D) 12
+　(E) 15
+8. If the consumer price index for a sample of goods and services purchased in Dallas rose from 100 at the end of 1967 to x at the end of 1985, what was the average (arithmetic mean) annual increase in the index over this period?
+9. At a certain instant in time, the number of cars, N, traveling on a portion of a certain highway can be estimated by the formula
+where L is number of lanes in the same direction, d is the length of the portion of the highway, in feet, and s is the average spced of the cars, in miles per hour. Based on the formula, what is the estimated number of cars traveling on a mile portion of the highway if the higheay has 2 lanes in the same direction and the average spced of the cars is 40 miles per hour? (5,280 feet=1 mile)
+　(A) 155
+　(B) 96
+　(C) 80
+　(D) 48
+　(E) 24

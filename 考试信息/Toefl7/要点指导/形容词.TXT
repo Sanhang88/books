@@ -1,0 +1,50 @@
+形容词
+形容词TOEEL考题中非常活跃的词类，出现频率很高，而且题型变化多样。有关形容词的题目几乎全部集中在Written Expression (15-40) 中，只有极小量有关形容词词序的命题出现在Structure (1-15题)中。形容词的命题焦点集中在（1）形容词与副词混淆（详见本书要点之[词类变化]）、（2）并列结构中的形容词词性统一问题，（详见本书要点之[平行结构]）（3）形容词比较级形式，（4）易混淆的形容词
+形容词常考题型及解题要点
+1. 形容词与副词混淆错用（详见本书要点之）
+2. 并列结构中形容词词性统一问题（详见本书要点之）
+3. 形容词比较级重复形式，即－est与more同时使用，－est与most同时使用。
+全真例题分析
+(1) The most safest way to watch a solar eclipse is for one to look at it in a murror while wearing dark glasses. (93.1)
+[答案] A 删除. Most。
+(2) The Moon. Being much more nearer to the Earth than the Sun is the principal cause of the tides. (91.1)
+[答案] B 删除more 。
+(3) 1930*s began in the United States and spread abroad. (92.5)
+[答案] 删除most .
+(4) Columns may be circular or polygonal in cross section and are generally at least four times more taller than they are wide. (90.5)
+[答案] D 删除D
+4. 形容词修饰名词作定语，应放置于此中心名词的前面，不可接在其后。
+（解题要点）单个的形容词（非形容词短语）修饰名词作定语时，必须放在此名词的前面。然而，TOEEL考题中常常出现把两词序颠倒的题目
+全真例分析
+(1) Although shrilly Tackson is fiction often dealt with frightening exjperienas ,she also wroth auto biographical. Descriptions humorous of her life in a small Vermont town . (94.5)
+[答案] C 正确词序为humorous desuiptions。
+(2) Most cities major in the United States have at least one daily newspaper. (92.8)
+[答案] A 正确词序为major cities.
+(3) The primary function of a sonometer is to calculate and demonstrate the relations mathematical of melodious tones. (91.1)
+[答案] B正确词序为straight line。
+5. 易混淆的形容词形与其名词词形
+解题要点 下述词形无论以名词形式还是以形容词形式出现，都是命题焦点：
+high (形）－ height (名） long (形）－ length （名）
+deep （形）－depth （名） strong （形）－strength （名）
+heathy （形）－health（名） humid （形）－humidity (名）
+moist （形）－moisture （名）
+全真例题分析
+(1) Colorfastness. Durability, and resistance to moisture make mosaic a practical form of architectural decoration in the warm and humidity areas of the Mediterranean basin. (94.1)
+[答案] C 改为humid
+(2) A flight recorder shows aircraft systems behave by giving information such as a plane*s high, direction, and rate of descent. (92.1)
+[答案] C high 改为height。
+(3) For centuries waterwheels were the only sources of power aside from human and animal strong. (90.10)
+[答案] D strong 改为strength。
+(4) The type precipitation is affected by electrical conditions, air temperature, and the percentage of humid in the air. (92.1)
+[答案] C humid 改为humidify。
+(5) The Canadian province of New found land has a rocky coast, a moisture climate, and probably the best cod-fishing areas in the world. (95.1)
+[答案] C moisture 改为moist
+6. Many 与much ,alike 与like（介）的区别
+解题要点 many 修饰可数复数名词，much 修饰不可数单数名词。Alike是形容词，而like是介词。当A、B、C、D四个选择答案出现many 或much, alike 或like，它通常就是此题的命题点，应首先考虑。这类题型在TOEEL试题中占很大的比例。
+全真例题分析
+(1) Alike a chicken the grouse has four toes. With the hind one raised above the ground. (93.1)
+[答案] A Alike是形容词，通常作表语，此句应用介词like。
+(2) Many of society*s wealth is controlled by large corporations and government gencies (93.1)
+[答案] A 修饰不可数名词wealth应用much。
+(3) Data received from two spacecraft indicate that there is many evidence that huge thunderstorms are now occurring around the equator of the planes Saturn. (90.10)
+[答案] B evidence为不可数名词，前面应用much来修饰。

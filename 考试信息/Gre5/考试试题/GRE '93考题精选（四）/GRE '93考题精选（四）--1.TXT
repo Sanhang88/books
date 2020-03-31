@@ -1,0 +1,808 @@
+GRE '93考题精选（四）--1
+
+College librarian: Until three years ago, nonstudents
+used the library without charge. Then, because of our
+decreased budget, they were asked to pay $100 per year.
+Nevertheless, about 150 nonstudents still use the library
+without paying. We will therefore gain financially if we
+hire a guard to identify nonstudents and ensure that they
+have paid the fee.
+　
+Which of the following would it be most important to
+know in order to evaluate the librarian's conclusion ?
+
+The number of students who use the library annually.
+The library's budget this year.
+Whether the library has installed an expensive
+　computerized cataloging system.
+How much the library's budget was decreased three
+　years ago.
+The annual cost to the library of hiring a guard.
+
+答案：(E)
+
+The first people to inhabit North America came from
+Asia. Scientists had hypothesized that these people
+traveled across a now-submerged landmass that connected
+the two continents until 14,000 years ago, depending for
+food only on the land animals they hunted as they traveled.
+Recent discoveries have led to the new hypothesis that the
+first people came by boat along the southern shore of the
+landmass, eating fish and sea mammals.
+　
+Which of the following, if true, most strongly supports the new hypothesis
+by casting doubt on the earlier hypothesis?
+
+The landmass connecting North America and Asia extended
+　very far to the north.
+In Europe, maritime cultures primarily dependent on the
+　sea for food developed no earlier than 10,000 years ago.
+People living in Asia at the time the two continents
+　were connected hunted land animals for food.
+The landmass was so bitterly cold that its vegetation
+　would have been too sparse to support land animals.
+Sophisticated and mature cultures that display great
+　similarities to each other existed as far back as 8,000
+　years ago in North America and Asia.
+
+答案：(D)
+
+A backpacker is choosing a route through a national park
+that has six campsites—Quakerbridge, Rockside, Stonybrook,
+Terraces, Underhill, and Vernon. The backpacker will spend
+exactly four consecutive nights in the park, with one night
+at Underhill and with one night each in three of the other
+campsites. Any route is acceptable as long as it conforms
+to the following conditions:
+　
+　If Quakerbridge is chosen, Rockside must also be chosen.
+　Rockside and Terraces cannot both be chosen.
+　Terraces cannot be chosen for the night that comes next
+　　after the night spent at Underhill.
+Which of the following is an acceptable sequence of
+campsites, from first to last?
+Quakerbridge, Rockside, Terraces, Underhill
+Quakerbridge, Rockside, Vernon, Stonybrook
+Quakerbridge, Rockside, Vernon, Underhill
+Quakerbridge, Stonybrook, Terraces, Underhill
+Stonybrook, Underhill, Terraces, Vernon
+
+答案：(C)
+
+If Quakerbridge is chosen, which of the following
+campsites CANNOT be among those chosen?
+Rockside
+Stonybrook
+Terraces
+Underhill
+Vernon
+
+答案：(C)
+
+If the third night is spent at Terraces, then the
+second night must be spent at either
+Quakerbridge or Vernon
+Rockside or Stonybrook
+Stonybrook or Vernon
+Underhill or Stonybrook
+Underhill or Vernon
+
+答案：(C)
+
+Of the following decisions, which will allow the
+backpacker to choose a route from the largest number
+of acceptable campsite sequences that include both
+Terraces and Underhill?
+The first night will be spent at Terraces.
+The first night will be spent at Underhill.
+The second night will be spent at Underhill.
+The third night will be spent at Underhill.
+The fourth night will be spent at Terraces.
+
+答案：(A)
+
+If the backpacker chooses Stonybrook, Terraces, and
+Vernon, with the stays at Stonybrook and Vernon as many
+nights apart as possible, which of the following must be true?
+The first night is spent at Underhill.
+The first night is spent at Vernon.
+The second night is spent at Terraces.
+The second night is spent at Underhill.
+The fourth night is spent at Vernon.
+
+答案：(C)
+
+The parental choice program allows parents to choose
+which public school in their school district their children
+will attend. Districts that have adopted the program have
+had a subsequent decline in the rate of high school dropouts.
+The program, therefore, can improve the quality of public education.
+　
+Which of the following, if true, most strongly supports the conclusion drawn
+above?
+
+School administrators and teachers who know that
+　students have the right to transfer else where will
+　become more responsive to students educational needs.
+The program is one of a number of proposals that
+　do hot require increases in funds for education.
+Some students dropped out of schools in districts
+　that had the program.
+The parental choice program would require parents
+　to be responsible for the transportation of their children
+　to and from any school other than the one closest to home.
+Most school districts have provisions that make it
+　relatively easy to transfer a teacher from one school
+　in the district to another.
+
+答案：(A)
+
+Although the ratio of physicians to total population
+is about the same in the United States and Canada, the
+United States has 33 percent more surgeons per capita.
+Clearly. this is the reason people in the United States
+undergo 40 percent more operations per capita than do
+Canadians.
+　
+The explanation given above rests on an assumption that
+
+patients in the United States do not have a greater
+　need for surgery than do patients in Canada.
+the population of the United States is not larger
+　than that of Canada.
+United States patients sometimes travel to Canada
+　for certain kinds of surgery
+general practitioners in the United States do not
+　as a rule examine a patient who is a candidate for surgery
+　before sending the patient to a surgeon
+there are no unnecessary surgical operations performed
+　in Canada.
+
+答案：(A)
+
+问题：上面的解释所基于的假设是什么？
+读题：尽管医生对总人口的比例在美国和加拿大是相同的，美国平均每人要多33%的外科医生。很明显，这是美国比加拿大平均每人要接受40%更多手术的原因。
+　　
+分析：很明显，第四行this is the reason说明前面是原因，后面是结论
+　　
+为什么美国人比加拿大人接受更多手术呢？
+给出的解释是: 美国平均每人要多33%的外科医生
+　　
+原文用医生多解释了手术多。
+此类Assumption形式一般为：
+　1、没有其他的原因来解释上面这个事实。答案一般具有否定词
+　2、直接假设，外科医生与手术之间的关系。
+a. 美国的病人不比加拿大的病人有更多的外科手术的需求 去掉not, 美国的病人比加拿大的病人有更多的外科手术的需求, 表示有其他的原因，所以A就是ASSUMPTION)
+　
+b.　没有美国的人口不比加拿大多（文中谈的是人均）
+
+A new ordinance passed by the Gorento Council a year
+ago banned the sale of all nonrecyclable plastic packaging
+for food being sold in Gorenton. A substantial percentage
+of Gorenton's plastic waste, however, is still composed of
+nonrecyclable plastic food packaging.
+　
+Which of the following, if true, best contributes to
+reconciling the apparent discrepancy above?
+
+Fewer food products are packaged in nonrecyclable
+　plastics today than were so packaged a year ago.
+The new ordinance affects only plastic food packaging
+　and not other products packaged in plastic, many of which
+　are sold in Gorenton.
+Grocery and other stores in nearby suburban areas
+　patronized by many Gorenton residents are unaffected by
+　the new ordinance.
+Many food products formerly packaged in nonrecyclable
+　plastics are now specially packaged in recyclable plastic
+　before being shipped so that they can be sold in Gorenton.
+The total amount of both Gorenton's trash and its
+　plastic waste grew considerably over the past year.
+
+答案：(C)
+
+
+One way for people to cut back on oil use is to switch
+to other types of fuel.Because wood is a renewable resource
+and can always be kept in constant supply, the use of wood
+instead of oil for home heating would be one way to assure
+the availability of energy resources in the future.
+　
+The argument above would be most seriously weakened if
+which of the following were true?
+
+In every country that uses wood for heating, wood is
+　used to provide only part, not all of the heat for a home.
+Every country that has ever used wood for heating has
+　depleted its forests before the forests were able to
+　regenerate themselves.
+Every country that has used wood for home heating has
+　done so only because it possessed a limited amount of other
+　natural resources.
+Many countries that use wood primarily for heating have
+　a high incidence of fires that are due to improperly
+　installed wood stoves.
+In some countries the wood that would be used for home
+　heating is owned by the government.
+
+答案：(B)
+
+问题：如果下面哪一个正确，上面的论述将被削弱？
+读题：一个削减石油使用的方法是转向其他类型的能源。因为木材是一种可以更新的能源并且总是保持不断的供应，使用木材取代石油作为家用加热是保证将来能量资源获得的一种方法。
+　
+分析：文中第二行because引导原因，因为木材是可以更新的能源并且可以保持不断的供应原因由because引导，反对一般为直接反对原因
+　 a. 在每一个使用木材作为加热的国家，木材提供部分而不是全部的家用加热。（与原因无关，木材提供部分不能够说明什么，你并没有说石油是唯一的家用加热来源
+　
+b. 每个曾经使用木材作为加热的国家在木材能够再生之前，已经耗尽了森林。（直接反对原因，无法持续不断供应）
+
+An architect designs a row of nine town houses, numbered
+consecutively 1 through 9. The row will stand apart from
+any other buildings. Each house will have exactly one of
+five different kinds of siding—granite, plaster, shingle,
+tile, or wood. In choosing sidings for the houses, the
+architect always observes the following restrictions
+　
+　Each kind of siding must be used on at least one house
+　　in the row.
+　If a house has wood siding, it must be immediately
+　　adjacent to at least one house with shingle siding.
+　Neither a house with wood siding nor a house with
+　　shingle siding can be immediately adjacent to a house
+　　with tile siding.
+　If a house has granite siding, it must be immediately
+　　adjacent to at least one house with either tile siding
+　　or plaster siding.
+　Neither house 4 nor house 9 can have shingle siding.
+Which of the following is an acceptable selection of
+sidings for the first five houses in the row?
+House 1 House 2 House 3 House 4 House5
+Granite Plaster Shingle Wood Tile
+Granite Shingle Wood Plaster Tile
+Shingle Granite Wood Plaster Tile
+Shingle Wood Plaster Granite Tile
+Tile Granite Plaster Shingle Wood
+
+答案：(D)
+读题：一个设计师设计一排9个房屋从1到9，每个屋子用5种不同类型屋顶之一
+　　　g、p、s、t、w
+写条件：
+1、≥1 （表示每种屋顶至少被使用一次）
+2、w→（ws）/（sws） （表示有W，则W和至少一个S相邻）
+3、～（w/s t） （表示W,S不和t相邻）
+　　4、g→(g t/p)/(tgp) （表示有g,则g和t,p至少一个相邻）
+　　5、s≠4,9 （表示4,9不能为S）
+　
+条件总结：
+由条件1知，每种屋顶至少被使用一次，
+所以对条件2，条件4来说，必然存在w,g，充分条件可转化为一种固定的必然条件，
+对W：一定有(ws)/（sws）
+对g：一定有(g t/p)/(tgp)
+
+If house 2 has tile siding. which of the following
+can have shingle siding?
+House 1
+House 3
+House 4
+House 5
+House 9
+
+答案：(D)
+读题：一个设计师设计一排9个房屋从1到9，每个屋子用5种不同类型屋顶之一 g、p、s、t、w
+写条件：
+1、≥1 （表示每种屋顶至少被使用一次）
+2、w→（ws）/（sws） （表示有W，则W和至少一个S相邻）
+3、～（w/s t） （表示W,S不和t相邻）
+　　4、g→(g t/p)/(tgp) （表示有g,则g和t,p至少一个相邻）
+　　5、s≠4,9 （表示4,9不能为S）
+　
+条件总结：
+由条件1知，每种屋顶至少被使用一次，所以对条件2，条件4来说，必然存在w,g，充分条件可转化为一种固定的必然条件，对W：一定有(ws)/（sws）
+对g：一定有(g t/p)/(tgp)
+
+If houses 1 and 3 have granite sidings, and houses
+5 and 7 have Plaster siding, then the siding on house 8
+must be
+granite
+plaster
+shingle
+tile
+wood
+
+答案：(C)
+读题：一个设计师设计一排9个房屋从1到9，每个屋子用5种不同类型屋顶之一　g、p、s、t、w
+写条件：
+1、≥1 （表示每种屋顶至少被使用一次）
+2、w→（ws）/（sws） （表示有W，则W和至少一个S相邻）
+3、～（w/s t） （表示W,S不和t相邻）
+　　4、g→(g t/p)/(tgp) （表示有g,则g和t,p至少一个相邻）
+　　5、s≠4,9 （表示4,9不能为S）
+　
+条件总结：
+由条件1知，每种屋顶至少被使用一次，
+所以对条件2，条件4来说，必然存在w,g，充分条件可转化为一种固定的必然条件，
+对W：一定有(ws)/（sws）
+对g：一定有(g t/p)/(tgp)
+
+如果1,3=g, 5,7=p，那么8是谁？
+　解题步骤：
+　1　3　5　7　8　9
+　g　g　p　p
+1、找涉及g,p的条件，只有条件4可用，但它确定的是位置2=t/p
+2、已经没有别的条件可以用上，到目前为止该如何下手呢？
+　以前我们已经说过，排列题中面临这种情况可以选考虑一下连续，1,3,5,７已经有元
+　素，使连续的地方仅留下了8,9，而条件2是一个连续条件(ws)，所以(ws)=89,
+3、而s≠4,9,则s=8
+
+If the only house with granite siding is house 2 and
+if house 6 has tile siding, which of the following houses
+can have wood siding?
+House 3
+House 5
+House 7
+House 9
+House 9
+
+答案：(E)
+读题：一个设计师设计一排9个房屋从1到9，每个屋子用5种不同类型屋顶之一
+　　　g、p、s、t、w
+写条件：
+1、≥1 （表示每种屋顶至少被使用一次）
+2、w→（ws）/（sws） （表示有W，则W和至少一个S相邻）
+3、～（w/s t） （表示W,S不和t相邻）
+　　4、g→(g t/p)/(tgp) （表示有g,则g和t,p至少一个相邻）
+　　5、s≠4,9 （表示4,9不能为S）
+　
+条件总结：
+由条件1知，每种屋顶至少被使用一次，
+所以对条件2，条件4来说，必然存在w,g，充分条件可转化为一种固定的必然条件，
+对W：一定有(ws)/（sws）
+对g：一定有(g t/p)/(tgp)
+
+如果g=2（注意这是仅有的g）并且t=6,下面哪一个可能是w？
+　　2　3　4　5 6　7　8　9
+　　g t
+1、首先我们看一下g、t的条件，
+由条件3：～(w/s t)得，w≠5,7
+2、问哪一个可能是w，而涉及w的条件还有(ws)/(sws)，因此放w的地方必须有至少两个
+　连续空间
+3、现在留下的连续空间只有34/89, 故(ws)=34/89,
+由于s≠4,9，故w可以为4or9，所以选E
+
+If the only house with wood siding is house 3, then
+any of the following houses can have tile siding EXCEFT
+house
+1
+5
+6
+8
+9
+
+答案：(A)
+读题：一个设计师设计一排9个房屋从1到9，每个屋子用5种不同类型屋顶之一
+　　　g、p、s、t、w
+写条件：
+1、≥1 （表示每种屋顶至少被使用一次）
+2、w→（ws）/（sws） （表示有W，则W和至少一个S相邻）
+3、～（w/s t） （表示W,S不和t相邻）
+　　4、g→(g t/p)/(tgp) （表示有g,则g和t,p至少一个相邻）
+　　5、s≠4,9 （表示4,9不能为S）
+　
+条件总结：
+由条件1知，每种屋顶至少被使用一次，
+所以对条件2，条件4来说，必然存在w,g，充分条件可转化为一种固定的必然条件，
+对W：一定有(ws)/（sws）
+对g：一定有(g t/p)/(tgp)
+
+如果仅有的有w屋顶的是3，那么下面哪一个可能有t，EXCEPT?
+　解题步骤:
+1、找涉及w的条件,由条件2 (ws)/(sws)得，s=2,4中至少一个
+在有s≠4,9得，　s=2
+2、在由 ～(w/s t)得，t≠1
+
+If houses 4 and 5 have wood siding and if houses 1
+and 8 have plaster siding, then the siding on house must
+be
+granite
+plaster
+shingle
+tile
+wood
+
+答案：(D)
+读题：一个设计师设计一排9个房屋从1到9，每个屋子用5种不同类型屋顶之一
+　　　g、p、s、t、w
+写条件：
+1、≥1 （表示每种屋顶至少被使用一次）
+2、w→（ws）/（sws） （表示有W，则W和至少一个S相邻）
+3、～（w/s t） （表示W,S不和t相邻）
+　　4、g→(g t/p)/(tgp) （表示有g,则g和t,p至少一个相邻）
+　　5、s≠4,9 （表示4,9不能为S）
+　
+条件总结：
+由条件1知，每种屋顶至少被使用一次，
+所以对条件2，条件4来说，必然存在w,g，充分条件可转化为一种固定的必然条件，
+对W：一定有(ws)/（sws）
+对g：一定有(g t/p)/(tgp)
+
+如果4,5=w，并且如果1,8=p，那么9是什么？
+　　1 2 3　4　5　6 7 8　9
+　　p s　w　w　s p
+1、由(ws)/(sws)得，3,6=s，还剩下2个元素t,g，它们中必然要
+在2,7,9中找到自己的位置
+2、由条件3：～(w/s t)得，t≠2,7，所以t=9
+
+
+A museum manager must assign security guards to guard a
+four-day exhibit, lasting from Wednesday through Saturday.
+Exactly two guards must be assigned to be on duty together
+on each of the four days. The manager has eight guards—
+Gail, Helena, Jose, Kiel,Lamar, Mary, Pam, and Ralph—to
+assign. Each guard must be assigned, and guard assignments
+are subject to the following condition:
+　Ralph cannot be assigned to the Saturday shift.
+　Gail cannot be assigned to the same day as Jose.
+　Gail cannot be assigned to the Thursday shift.
+　Jose must be assigned to either the Wednesday or the Saturday shift
+　Kiel must be assigned to the same day as Mary.
+　Pam must be assigned to the Thursday shift.
+If Gail is assigned to the Saturday shift, which of
+the following must be assigned to the Wednesday shift?
+Helena
+Jose
+Kiel
+Lamar
+Ralph
+
+答案：(B)
+
+If Kiel is assigned to the Saturday shift, which of
+the following must be true?
+Gail is assigned to the Friday shift.
+Helena is assigned to the Wednesday shift.
+Jose is assigned to the Saturday shift.
+Lamar is assigned to the Friday shift.
+Ralph is assigned to the Thursday shift.
+
+答案：(A)
+
+If Kiel is assigned to the Friday shift. which of
+the following is a pair of guards who can be assigned
+to the Wednesday shift?
+Gail and Helena
+Gail and Pam
+Helena and Lamar
+Jose and Mary
+Lamar and Ralph
+
+答案：(A)
+
+
+GRE '93考题精选（四）
+
+--------------------------------------------------------------------------------
+
+摘自：《试题库 》(2002-02-06)
+上一页  1 2 3  下一页
+If Mary is assigned to the Wednesday shift, which
+the following must be true?
+Gail is assigned to the Friday shift.
+Helena is assigned to the Saturday shift.
+Jose is assigned to the Wednesday shift.
+Ralph is assigned to the Thursday shift.
+Ralph is assigned to the Friday shift.
+
+答案：(A)
+
+If Gail and Helena are assigned to the Wednesday
+shift, which of the following is the pair of guards
+who must be assigned to the Saturday shift?
+Lamar and Ralph
+Kiel and Mary
+Jose and Ralph
+Jose and Mary
+Jose and Lamar
+
+答案：(E)
+
+For the United States meat industry, there is good
+news and bad news. The bad news is that over the last
+three years people in the United States have been eating
+less meat. The good news, is that during this same time
+period meat producers' profits have risen steadily.
+　
+Which of the following, if true during the last three
+years, contributes most to a resolution of the apparent
+discrepancy above?
+
+People have been eating less meat because they are
+　more health conscious than in the past.
+In the United States many new restaurants that
+　specialize in vegetarian meals have opened.
+Competition from the growing fish industry has
+　forced meat producers to sell meat at bargain prices
+　in an attempt to attract more consumers.
+Countries that are unable to produce enough meat for
+　their populations have become a new and lucrative market
+　for United States meat producers.
+Meat producers have invested large amounts of money
+　in advertising in order to win back consumers who have
+　decreased their meet consumption.
+
+答案：(D)
+
+Simon: We still do not know whether machines might
+　be able to think. Computers are able to perform very
+　sophisticated tasks but lack the flexibility charac-
+　teristic of human intelligence.
+　
+Roberta: We do not need more sophisticated computers
+　to know whether machines can think, we humans are machines
+　and we think.
+　
+Roberta's response to Simon is based on a reinter-
+pretation of the term
+
+"computer"
+"know"
+"machine"
+"sophisticated"
+"think"
+
+答案：(C)
+
+The dramatic rise in the number of homeless people
+in the 1980's cannot be attributed to the discharge of
+mentally ill persons from hospitals into community care,
+even though it is true that provisions for such community
+care are for the most part nonexistent.
+　
+Which of the following, if true, best supports the claim above?
+
+The policy of discharging mentally ill persons from
+　hospitals was based on the supposition that their illnesses
+　could be controlled by newly developed drugs.
+Without supervision in a hospital setting, those people
+　whose mental illness can be controlled by medication might
+　not actually take prescribed medication.
+Some community care programs for mentally ill persons
+　did exist in the 1980's. but those programs consisted
+　primarily of outpatient clinics.
+The policy of discharging significant numbers of
+　mentally ill persons from hospitals took effect in the
+　1960's.
+There have always been some people in large cities
+　who have led a homeless existence.
+
+答案：(D)
+
+
+
+
+
+The fact that a theory is ------- does not necessarily
+------- its scientific truth, which must be established
+by unbiased controlled studies.
+
+plausible.. ensure
+popular.. limit
+venerable.. override
+cohesive. undermine
+cumbersome.. alleviate
+
+答案：(A)
+
+unbiased: a.不偏袒一方的，无偏见的，公正的
+controlled: a（通过对照实验）得到检验的，得到核实的，被核对的
+plausible: a.1.（论点等）貌似有理（真实）的 2.（人）貌似可信的
+venerable: a.值得敬重的，令人崇敬的
+override: v.1.（以更大的权力）撤销，推翻，使无效 2.优先于，压倒
+cohesive: a.1.黏合在一起的 2.团结的，结合的 3.有内聚力的
+cumbersome: a.笨重的，累赘的
+alleviate: v.使（痛苦等）易于忍受，减轻，缓和
+某一理论貌似有理，这一事实并不一定能保证其科学真理，而科学真理则必须通过不偏不
+倚的、采用对照实验予以核实的研究来确立。
+
+It is difficult to distinguish between the things that
+charismatic figures do ------- and those that are carefully
+contrived for effect.
+
+formally
+publicly
+prolifically
+spontaneously
+willfully
+
+答案：(D)
+
+charismatic: a.1.能吸引人们为之效忠的，极有性格魅力的 2.有神授超凡能力的
+contrive: v.谋划，策划
+prolific: a.富于创造力的，丰富的，多产的
+spontaneous: a.自发的，自然的，无意识的，不由自主的
+villfully: adv.1.任性地，执拗地 2.故意地，存心地
+在极有性格魅力的人物自发而为的事情以及那些处心积虑为了表面效应而策划的事情之
+间，很难作出区分。
+
+The development of containers, possibly made from bark
+or the skins of animals, although this is a matter of
+-------, allowed the extensive sharing of forage foods
+in prehistoric human societies.
+
+record
+fact
+degree
+importance
+conjecture
+
+答案：(E)
+
+container: n.1.容器 2.容量 3.集装箱
+bark: n.树皮
+forage: n.草料，饲料
+prehistoric: a.有文字记载的历史以前的，史前的
+conjecture: n.推测，猜测，揣摩
+在史前时期的人类社会中，容器很有可能是从树皮或动物的皮革制造而成的，尽管此事仅
+是一种猜测，但容器的发展却使草料食物的大规模分享成为可能。
+
+Although the young violinist's ------- performance,
+with the orchestra demonstrated his technical competence.
+his uninspired style and lack of interpretive maturity
+labeled him as a novice musician rather than as a truly
+------- performer.
+
+spectacular.. conventional
+blundering.. artistic
+marginal.. inept
+steady.. .accomplished
+dazzling.. unskilled
+
+答案：(D)
+
+demonstrate: v.1.论证，证明 2.说明，教 3.显示，表露
+competence: n.能力，胜任，称职
+uninspired: a.未得灵感启发的，缺乏创见的，单调乏味的
+novice: n.新手，生手，初学者，新信徒，新皈依的教徒
+conventional: a.常规的，惯例的，符合传统的，因循守旧的
+blunder: v.笨拙地做，铸成大错
+marginal: a.1.边缘的，勉强的 2.微不足道的
+inept: a.1.不恰当的，不合适的 2.无能愚蠢的
+accomplished: a.熟练的，有造诣的，有才艺的
+dazzling: a.耀眼眩目的，非凡的
+尽管这位年轻小提琴手与乐队平稳的合奏展示出他技术上的胜任，但他那全无灵气的风格
+以及演绎成熟性的缺乏标志着他仅是个音乐新手，而非真正有造诣的演奏家。
+
+Even though political editorializing was not -------
+under the new regime, journalists still experienced -----,
+though perceptible, governmental pressure to limit dissent.
+
+restricted.. clear
+encouraged.. strong
+forbidden.. discreet
+commended.. overt
+permitted.. regular
+
+答案：(C)
+
+editorialize: v.发表社论，撰写社论
+regime: n.政治制度，政体，政权
+dissent: n.异议，不同意见
+discreet: a.1.谨慎的，慎重的 2.朴素的，不显眼的
+commend: v.1.表扬，称颂 2.推荐
+overt: a.公开的，明显的
+尽管在新政权统治下，政治社论的撰写发表未遭禁止，但新闻记者们仍然体验到了政府为
+限制不同政见而施加的不显著的——尽管仍是可以觉察到的——压力。
+
+
+The trick for Michael was to ----- his son an illusory
+orderliness; only alone at night, when the boy was asleep,
+could Michael ----- the chaos he kept hidden from his son.
+
+explore with.. demonstrate
+conjure for.. acknowledge
+conceal from.. dispel
+demystify for.. escape
+endure with.. abandon
+
+答案：(B)
+
+illusory: a.虚幻的，迷惑人的
+orderliness: n.1.整齐状态，条理性 2.遵守秩序
+chaos: n.混乱，紊乱
+conjure: v.1.念咒召唤（神灵等） 2.用魔术作成（或变出），魔术般地作出（或变出）
+acknowledge: v.1.承认 2.告知，确认 3.就…表示谢忱，报偿
+dispel: v.1.驱散 2.消除
+demystify: v.使…非神秘化，使…不再迷惑不解
+对于麦克尔来说，整个把戏就是给他儿子玩戏法似地营造某种虚幻的有条不紊的样子；只
+有在夜晚，当他儿子入睡后他孑然一身时，麦克尔才能承认他对其儿子所隐瞒的那种杂乱无章。
+
+The ------- costumes of Renaissance Italy, with their
+gold and silver embroidery and figured brocades, were the
+antithesis of Spanish -------, with its dark muted colors,
+plain short capes, and high collars edged with small ruffs.
+
+striking.. obliqueness
+extravagant.. profligacy
+austere.. informality
+unpretentious.. asceticism
+sumptuous.. sobriety
+
+答案：(E)
+
+embroidery: n.1.刺绣，绣花 2.润饰，渲染，夸张
+figured: a.1.有形状的 2.用图形表示的 3.有花想方设法图案的 4.有文采的，词藻
+富丽的
+brocade: n.锦缎，织锦
+antithesis: n.1.对照，对立 2.对立面，形成鲜明对照的事物 3.〔修辞〕对偶句
+oblique: n.1.倾斜的 2.转弯抹角的，不光明正大的
+extravagant: a.铺张的，侈奢的，挥霍浪费的
+profligacy: n.1.放荡，荒淫，行为不检 2.挥霍浪费
+austere: a.1.严峻的，严厉的，严酷的 2.禁欲的 3.朴素的，简朴的
+informality: n.非正式，不拘礼节
+unpretentious: a.不矫饰的，不夸耀的，朴实无华的
+asceticism: n.1.禁欲（或苦行）主义 2.禁欲（或苦行）生涯
+sumptuous: a.奢侈的，豪华的，昂贵的，华丽的
+sobriety: n.1.冷静，清醒 2.适度，有节制 3.严肃，持重
+文艺复兴时期，意大利那些奢华的服饰，以其金银绣品和提花锦缎，与西班牙服饰的朴实
+无华构成了鲜明的对比，西班牙的服饰颜色暗淡柔和，斗篷短而朴素，高领圈边沿仅缀以小的
+轮状皱领。
+
+
+DISPERSE: RECONVENE::
+
+believe: persuade
+explain : understand
+tell: know
+dismiss.: reinstate
+increase: recombine
+
+答案：(D)
+
+谴散:再召集
+相信:劝说
+解释:理解
+告诉:知道
+解职:复职
+增加:重组
+
+AUTOBIOGRAPHY: REMINISCE::
+
+satire :daily
+manual : confirm
+will: recant
+eulogy : praise
+testimony: admonish
+
+答案：(D)
+
+自传:追忆往事
+讽刺作品:闲荡(调戏)
+手册，说明书:证实
+遗嘱:改变，取消
+赞颂:赞扬
+证言:告诫(敦促)
+
+
+BACTERIUM : COLONY::
+
+army: invasion
+citizen: nation
+resident: apartment
+furniture: house
+wheel: automobile
+
+答案：(B)
+
+细菌:群，菌落(殖民地)
+军队:入侵
+公民:民族
+居住者:公寓
+家俱:房屋
+轮子:汽车
+LARDER: FOOD::
+
+depository : storage
+terminal: aircraft
+garage: mechanics
+armory: munitions
+factory: tools
+
+答案：(D)

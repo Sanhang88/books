@@ -1,0 +1,34 @@
+冠词
+有关冠词的考题在TOEFL测试中所占比例较小，但出现频率较高，而且是单一题型反复再现，即不定冠词a和an混淆错用。这类题目全部集中在Written Expression(16-40题)中。其次，定冠词the的用法也是考试范围。
+冠词常考题型及解题要点
+1.不定冠词a与an的区别
+解题要点 “a”后面接以辅音开始的字词“an”后面接以元音开始的字词。当A、B、C、D四个选择答案中出现有a或an，应首先察看它后面的单词，以判断此不定冠词是否正确。
+全真例题分析
+（1） The Montreal International Exposition,“Expo. 67”was applauded for displaying an degree of taste superior to that of similar expositions.
+(答案) B 改为a degree。
+If a atom loses any of its electrons, it becomes positively charged and can combine chemically with other atoms.
+(答案) A改为an atom
+(3) Since the beginning of this century the United States government has played an role in the supervision and use of the nation's natural resources.
+(答案) A改为a role
+(4) A electric current can consist of charges that are positive, negative, or both.
+(答案) A 改为An election
+2. 可数名词前面通常要有冠词或其它限定形容词, 非泛指的可数名词一般不能独立存在。
+全真例题分析
+（A） A march is highly rhythmic piece of music first used by military bands to accompany marching. (94.1)
+(答案) A 名词短语 piece of music 前面应加不定冠词：a highly rhythmic piece of music
+(2) The sonometer is instrument used to study the mathematical relations of harmonic tones. (93.8)
+(答案) A改为an instrument, instrument为可数名词，前面应有冠词。
+（3） Accounting is described as art of classifying, recording, and reporting significant financial events.
+(答案) A 名词art,表示“一门艺术”这个概念时，应加冠词。此句应改为an art。
+3.冠词的错误使用或遗漏
+全真例题分析
+（1） The Yukon River, which fllows into the Baring Sea, gives its name to a region of Alaska and a territory of the Canada.
+(答案) D删掉定冠词the. Canada是专有名词，无需加冠词。表示“国家”“城市”“人物”等概念的专有名词前不加冠词。
+（2） Langston Hughes, a prolific writer of the 1920's was concerned with the depicting the experience of urban Black people in the United States.
+(答案) C 删除冠词the。动名词前不应加冠词。特别是当这个动名词带有宾语，它的动词属性更强烈，因而不能加冠词。
+(3) Some geologists predict that, by end of the next century, movement along the San Andreas Fault will have caused part of California to separate from the continent (88.1)
+(答案) A 加入定冠词the,组成固定短语by the end。含冠词的词组不能随意删除或更换。
+（4） At a first, the scientific method may appear to be a narrow and restrictive way of gaining (89.10)
+(答案) A 删除不定冠词a。At first为固定短语结构，不能随意添入冠词。
+（5） Seven of planets rotate in the same direction as their orbital motions, while Venus and Uranus rotate in the opposite direction. (91.8)
+(答案) A 此句的planets特指太阳系中的九大行星，故应加入定冠词the,即Seven of the planets……。

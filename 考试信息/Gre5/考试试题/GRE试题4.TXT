@@ -1,0 +1,163 @@
+Continued
+Time--30 minutes
+30 Question
+Directions:Each of the Question 1--15 consists of two quantities ,one in Column A and one in Column B.You are to compare the two quantities and choose
+A if the quantity in Column A is greater 
+B if the quantity in Column B is greater 
+C if the two quantities are equal 
+D if the relationship cannot be determined from the information given.
+No.Column A Column B Ìõ ¼þ answer 
+1 no condition 
+(A)
+(B) 
+(C) 
+(D) 
+2 x -1 x=2y+3 y=-2 
+(A)
+(B) 
+(C) 
+(D) 
+3 The number of decimal places where d and differ 4 d=5.03894 and is the decimal expression for d rounded to the nearest thousandth.
+(A)
+(B) 
+(C) 
+(D) 
+4 2x+4y 20 x+2y>8 
+(A)
+(B) 
+(C) 
+(D) 
+5 The perimeter of pentagon MNOPQ 30  
+Square MNPQ has area 36.
+(A)
+(B) 
+(C) 
+(D) 
+6 r-p s-q p and q are different prime numbers.r is the least prime number greater than p,and s is the least prime number greater than q.
+(A)
+(B) 
+(C) 
+(D) 
+7 m 3 |-3|=-m 
+(A)
+(B) 
+(C) 
+(D) 
+8 The remainder when n is divided by 12 6 n is an even integer and a multiple of 3.
+(A)
+(B) 
+(C) 
+(D) 
+9 The perimeter of triangle PQR The circumference of the circle with center Q  Equilateral triangle PQR is formed by joining centers P,Q,and R of the circles.Each pair of circles has exactly one point in common.
+(A)
+(B) 
+(C) 
+(D) 
+10 The volumne of a cylindrical tank that has a radius of 2 meters and a height of 10 meters.The volumne of a cylindrical tank that has a radius of 1 meters and a height of 20 meters.no condition 
+(A)
+(B) 
+(C) 
+(D) 
+11 The time required to travel d miles at s miles per hour The time required to travel d/2 miles at 2s miles per hour ds not equal to zero 
+(A)
+(B) 
+(C) 
+(D) 
+12 The sum of the measures of the two angles of  that have equal measure  120¡ã is isosceles and =40¡ã 
+(A)
+(B) 
+(C) 
+(D) 
+13no condition 
+(A)
+(B) 
+(C) 
+(D) 
+14 OD BD O is the center of the circle and AOC is a right angle.
+(A)
+(B) 
+(C) 
+(D) 
+15 Julio's salary Maria's new salary Before Maria changed jobs,her salary was 24 percent more than Julio's salsry.After Mariachanged jobs,her new salary was 24 percent less than her old salary.
+(A)
+(B) 
+(C) 
+(D) 
+Question 16-20
+16.( 19 - 18 - 17 - 16 ) - (20 - 19 - 18 - 17 ) = 
+(A)-36    (B)-6    (C)-4    (D)1    (E)2 
+17.If 3x - 2 = 7 , then 4x = 
+(A)3    (B)5    (C)20/3    (D)9    (E)12 
+18.Of the following , which is closest to ? 
+(A)6    (B)5    (C)4/3    (D)3    (E)2 
+19.The dots on the graph above indicate age and weight for a sample of 25 students.What percent of these students are less than 19 years old and weight more than 110 pounds? 
+(A)36%    (B)40%    (C)44%    (D)48%    (E)52% 
+20.The greatest number of diagonals that can be drawn from one vertex of a regular 6-sided polygon is 
+(A)2    (B)3    (C)4    (D)5    (E)6 
+Question 21-25
+(refer to the following graphs )
+21.In how many of the years shown was the average number of pages per newspaper at least twice as much as average in 1940? 
+(A)Four 
+(B)Three 
+(C)Two 
+(D)One 
+(E)None 
+22.In 1950,if the printing cost per newspaper was $0.05,what would have been the total cost of printing the average daily circulation? 
+(A)$32,500 
+(B)$26,000 
+(C)$23,500 
+(D)$22,000 
+(E)$2,600 
+23.In 1980 the number of dollars of advertising revenue was how mang times as graet as the average daily circulation? 
+(A)500 
+(B)200 
+(C)100 
+(D)50 
+(E)20 
+24.The percent decrease in average daily circulation from 1960 to 1970 was approximately 
+(A)10% 
+(B)12% 
+(C)20% 
+(D)26% 
+(E)32% 
+25.Which of the following statements can be inferred from the data? 
+I.The greatest increase in total yearly advertising revenue over any 10-year period shown was $27 million.
+II.In each of the 10-year period shown in which yearly advertising revenue decreased,average daily circulation also decreased.
+III.From 1970 to 1980 the average number of pages per newspaper increased by 10.
+(A)I only 
+(B)II only 
+(C)III only 
+(D)I and II 
+(E)II and III 
+26.If 0 < st <1 , then which of the following can be true? 
+(A)s < -1 and t > 0 
+(B)s <-1 and t <-1 
+(C)s >-1 and t < -1 
+(D)s > 1 and t <-1 
+(E)s > 1 and t > 1 
+|---|---|----|
+W   X   Y    Z
+27.On segment WZ above, if WY=21, XZ=26,and YZ is twice WX, what is the value of XY? 
+(A)5 
+(B)10 
+(C)11 
+(D)16 
+(E)It cannot be determined from the information given.
+28.To reproduce an old photograph,a photographer charges x dollars to make a negative, 3x/5 dollars for each of the first 10 prints, and x/5 dollars for each print in excess of 10 prints.If $45 is the total charge to make a negative and 20 prints from an old photograph,what is the value of x? 
+(A)3 
+(B)3.5 
+(C)4 
+(D)4.5 
+(E)5 
+29.Which of the following is equall to 1/4 of 0.01 percent? 
+(A)0.000025 
+(B)0.00025 
+(C)0.0025 
+(D)0.025 
+(E)0.25 
+30.In the figure above,each of the four squares has sides of length x.If PQR is formed by joining the centers of three of the squares,what is the perimeter of PQR in terms of x? 
+(A)2x 
+(B)x/2+x 
+(C)2x+  
+(D)x+2 
+(E)2x+x

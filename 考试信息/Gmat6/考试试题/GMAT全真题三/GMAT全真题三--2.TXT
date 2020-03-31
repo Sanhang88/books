@@ -1,0 +1,369 @@
+GMAT畠寔籾眉---2
+10. In how many different way can 3 people be assigned to fill 3 different positions so that each person is assigned to exactly one position?
+　(A) Twelve
+　(B) Nine
+　(C) Six
+　(D) Three
+　(E) One
+11. A point on the edge of a fan blade that is rotating in a plane is 10 centimeters from the center of the fan. What is the distance traveled, in centimeters, by this point in 15 seconds when the fan runs at the rate of 300 revolutions per minute?
+　(A) 750
+　(B) 1,500
+　(C) 1,875
+　(D) 3,000
+　(E) 7,500
+12. A 2-year certificate of deposit is purchased for k dollars. If the certificate earns interest at an annual rate of 6 percent compounded quarterly, which of the following represents the valur, in dollars, of the certificate at the end of the 2 years?
+　(A) (1.06)2k
+　(B) (1.06)2k
+　(C) (1.015)2k
+　(D) (1.015)2k
+　(E) (1.03)2k
+13. If the sum of the first n positive integers is S. what is the sum of the first n positive even integers, in terms of S?
+14. If x and y are positive numbers and z=xy2, a 50 percent increase in x and a 20 percent decrease in y would result in which of the following changes in z?
+　(A) A decrease of 4%
+　(B) A decrease of 14%
+　(C) An increase of 4%
+　(D) An increase of 20%
+　(E) An increase of 30%
+15. If it is 6:27 in the evening on a certain day, what time in the morning was it exactly 2,880,717 minutes earlier? (Assume standard time in one location)
+　(A) 6:22
+　(B) 6:24
+　(C) 6:27
+　(D) 6:30
+　(E) 6:32
+16. If n is an integer, which of the following CANNOT be a factor of 3n+4?
+　(A) 4
+　(B) 5
+　(C) 6
+　(D) 7
+　(E) 8
+SECTION 5
+Time-25 minutes
+16 Questions
+1. Since a rhinoceros that has no horn is worthless to poachers, the Wildlife Protection Committce plans to protect selected rhinoceroses from being killed by poachers by cutting off the rhinos' horns.
+The Wildlife Protection Committee's plan assumes that
+  (A) poachers do not kill rhinos that are worthless to them
+  (B) hornless rhions pose less of a threat to humans, including poachers, than do rhinos that have horns
+  (C) rhinos are the only animals poachers kill for their horns
+  (D) hornless rhinos can successfully defend their young against nonhuman predators
+  (E) imposing more stringent penalties on poachers will not decrease the number of rhinos killed by poachers
+2. Crimes are mainly committed by the young, and for this reason merely increasing the nubmer of police officers or expenditures on police services has little effect on reducing the crime rate. In fact, the only factor associated with a crime-rate drop is a decrease in the number of people in the community aged fourteen to thirty.
+The findings above can best serves as part of an argument against
+  (A) the likelihood that any law enforcement program will be effective in reducing the crime rate within a short time
+  (B) increasing prison terms for young people found guilty of crimes
+  (C) introducing compulsory military conscription for people aged seventeen to nineteen
+  (D) raising the age at which students are permitted to leave school
+  (E) a community's plan to increase the number of recreationa. and educational activities in which young adults can participate
+3. A 20 percent decline in lobster catches in Maine waters since 1980 can be justifiably blamed on legislation passed in 1972 to protect harbor seals. Maine's population of harbor seals is now double the level existing before protection was initiated, and these seals are known to eat both fish and lobsters.
+Which of the following, if true, would most seriously weaken the argument above?
+  (A) Harbor seals usually eat more fish than lobsters, but the seals are natural predators of both.
+  (B) Although harbor seals are skillful predators of lobsters, they rarely finish eating their catch.
+  (C) Harbor seals attract tourists to Maine's coastal areas, thus revitalizing the local economy.
+  (D) Authors of the 1972 legislation protecting harbor seals were convinced that an increase in that animal's numbers would not have a measurably negative impact on the lobster eatch.
+  (E) The record lobster harvests of the late 1970's removed large numbers of mature lobsters from the reproductive stock.
+4. Politician: Fewer people are cntering the labor market now than previously. If the economy grows, the demand for motivated and educated people will far outstrip the supply. Some companies have already started to respond to this labor-market situation by finding better ways to keep their current employees. Their concern is a sure indicator that the economy is growing.
+Which of the following is the best criticism of the politician's reasoning?
+  (A) The fact that commpanies are making prudent preparations for a possible future development does not mean that this development is already taking place.
+  (B) The fact that some companies now try harder to keep their employces does not mean that they used to be indifferent to employee morale.
+  (C) The fact that demand will outstrip supply does not mean that there will be no supply at all.
+  (D) The fact that the number of new entrants into the labor market is decling does not mean that the number of new entrants is lower than it has ever been.
+  (E) The fact that current employees have become more valuable to some companies does not mean that those employees will do their jobs better than they used to.
+5. Under current federal law. employers are allowed to offer their employees free parking dpaces as a tax-free benefit, but they can offer employees only up to $180 yer year as a tax-free benefit for using mass transit. The government could significantly increase mass transit ridership by raising the limit of this benefit to meet commuters' transportation costs.
+The proposal above to increase mass transit ridership assumes that
+  (A) current mass transit systems are subject to unexpected route closings and delays
+  (B) using mass transit creates less air polltion per person than using a private automobile
+  (C) the parking spaces offered by employers as taxfree benefits can be worth as much as $2,500 per year
+  (D) many employees are deterred by financial considerations from using mass transit to commute to their places of employment
+  (E) because of traffic congestion on major commuter routes, it is often faster to travel to one's place of employment by means of mass transit than by private automobile
+6. Which of the following best completes the passage below?
+"Government" does exist as an independent entity defining policy. Instead there exists a group of democratically elected pragmatists sensitive to the electorate, who establish policies that will result in their own reclection. Therefore, if public policy is hostile to, day environmental concerns, it is not because of govern-mental perversity but because elected officials believe that_____.
+  (A) environmentalists would be extremely difficult to satisfy with any policy, however environmentally sound
+  (B) environmental concerns are being accommodated as well as public funds permit
+  (C) the public is overly anxious about environmeatal deterioration
+  (D) the majority of voters vote for certain politicians because of those politicians' idiosyncratic positions on policy issues
+  (E) the majority of voters do not strongly wish for a different policy
+7. Fresh potatoes generally cost about $2 for a 10-pound bag, whereas dehydrated instant potatoes cost, on average, about $3 per pound. It can be concluded that some consumers will pay 15 times as much for convenience, since sales of this convenience food continue to rise.
+Which of the following if true, indicates that there is a major flaw in the argument above?
+  (A) Fresh potatoes bought in convenient 2-pound bags are about $1 a bag, or 2 1/2 times more expensive than fresh potatoes bought in 10-pound bags.
+  (B) Since fresh potatoes are 80 percent water, one pound of dehydrated potatoes is the equivalent of 5 pounds of fresh potatoes.
+  (C) Peeled potatoes in cans are also more expensive than the less convenient fresh potatoes.
+  (D) Retail prices of dehydrated potatoes have declined by 20 percent since 1960 to the current level of about $3 a pound
+  (E) As a consequence of labor and processing costs all convenience foods cost more than the basic foods from which they are derived.
+8. Consumers in Califormia seeking personal loans have fewer banks to turn to than do consumers elsewhere in the United States. This shortage of competition among banks explains why interest rates on personal loans in California are higher than in any other region of the United States.
+Which of the following, if true, most substantially weakens the conclusion above?
+  (A) Because of the comparatively high wages they must pay to attract qualified workers, Califormain banks charge depositors more than banks clsewhere do for many of the services they offer
+  (B) Personal loans are riskier than other types of loans, such as home mortgage loans, that banks make.
+  (C) Since bank deposits in California are covered by the same type of insurance that guarantces bank deposits in other parts of the United States. they are no less secure than deposits elsewhere.
+  (D) The proportion of consumers who default on their personal loans is lower in California than in any other region of the United States.
+  (E) Interest rates paid by California banks to depositors are lower than those paid by banks in other parts of the United States because in California there is less competition to attract depositors.
+9. Technically a given category of insurance policy is underpriced if over time, claims against it plus expenses associated with it exceed total income from premiums. But premium income can be invested and will then yield returns of its own. Therefore, an underpriced policy does not represent a net loss in every case.
+The argument above is based on which of the following assumptions?
+  (A) No insurance policies are deliberately underpriccd in order to attract customers to the insurance company offering such policies
+  (B) A policy that represents a net loss to the insurance company is not an underpriced policy in every case.
+  (C) There are policies for which the level of claims per year can be preicted with 　　great accuracy before premiums are set.
+  (D) The income carned by investing premium income is the most important determinant of an insurance company's profits.
+  (E) The claims against at least some underpriced policies do not require paying out all of the premium income from those policies as soon as it is earned.
+10. Purcbred cows native to Mongolia produce, on average, 400 liters of milk per year, if Mongolian cattle are crossbred with European breeds, the crossbred cows can produce, on avergge, 2,700 liters per year. An international agency plans to increase the profitability of Mongolia's dairy sector by encouraging widespread crossbreeding of native Mongolian cattle with European brceds.
+Which of the following if true, casts the most serious doubt on the viability of the agency's plan?
+  (A) Not all European breeds of cattle can be successfully bred with native Mongolian cattle.
+  (B) Many young Mongolians now regard cattle raising as a low-status occupation because it is less lucrative than other endeavors open to them.
+  (C) Mongolia's terrain is suitable for grazing native herds but not for growing the fodder needed to keep crossbred animals healthy.
+  (D) Cowhide and leather products. not milk, make up the bulk of Mongolia's animal product exports to Europe.
+  (E) Many European breeds of cattle attain average mild production levels exceeding 2,700 liters.
+11. Any combinatin of overwork and stress inevitably leads to insomnia. Managers at HiCorp, Inc, all suffer from stress. A majority of the managers-despite their doctors' warnings-work well over 60 hours per week, whereas the other managers work no more than the normal 40 hours per week. HiCorp gives regular bonuses only to employees who work more than 40 hours per week.
+Which of the following conclusions is most strongly supported by the statements above?
+  (A) Managers at HiCorp work under conditions that are more stessful than the conditions under which managers at must other companies work.
+  (B) Most of the cmployee bonuses given by HiCorp are given to managers.
+  (C) At HiCorp insomnia is more widespread among managers than among any other group of cmployees.
+  (D) No manager at HiCorp who works only 40 hours per week suffers from overwork.
+  (E) Most of the managers at HiCorp who receive regular bonuses have insomnia.
+12. Holiday reccipts-the total sales recorded in the fourth quarter of the year-determine the cconomic success or failure of many retail businesses. Camcom a retailer selling just one camera model, is an excellent example, Camco's holiday receipts, on average, account for a third of its yearly total receipts and about half of its yearly profits.
+If the statements above are true, which of the following must also be true about Camco on the basis of them?
+  (A) Its fixed expenses per camera sold are higher during the fourth quarter than for any of the other three quartcrs.
+  (B) It makes more profit during the first and third quarters combined than during the fourth quartes.
+  (C) Its per-camera retail price is lower, on average, during the fourth quarter than during any one of the first three quarters.
+  (D) It makers less profit, on average, for a given dollar amount of sales during the first three quarters combined than during the fourth quarter.
+  (E) The per-camera price it pays to wholesalers is higher, on average, during the fourth quarter than during any of the other three quarters.
+13. Canadians now increasingly engage in "out-shopping." which is shopping across the natinal border, where prices are lower. Prices are lower outside of Canada in large part because the goods-services tax that pays for Canadian social services is not applied.
+Which one of the following is best supported on the basis of the information above?
+  (A) If the upward trend in out-shopping continues at a significant level and the amounts paid by the government for Canadian social services are maintained, the Canadian goods-and-services tax will be assessed at a 　　higher rate.
+  (B) If Canada imposes a substantial tariff on the goods bought across the border, a reciprocal tariff on cross-border shopping in the other direction will be imposed, thereby harming Canadian businesses.
+  (C) The amounts the Canadian government pays out to those who provide social services to Canadians are increasing.
+  (D) The same brands of goods are available to Canadian shoppers across the border as are available in Canada.
+  (E) Out-shopping purchases are subject to Canadian taxes when the purchaser crosses the border to bring them into Canada.
+14. Surveys indicate that 52 percent of all women aged eighteen to sixty-five are in the labor force (employed outside the home) in any given month on the basis of these surveys, a market researcher concluded that 48 percent of all women aged eighteen to sixty-five are full-time homemakers year-round.
+Which of the following, if true, would most scriously weaken the researcher's conclusion?
+  (A) More women are in the labor force today than during any other period since the Second World War.
+  (B) Many workers, both men and women, enter and exit the labor force, frequently.
+  (C) Although only a small sample of the total population is surveyed each month, these samples have been found to be a reliable indicator of total monthly employment.
+  (D) Surveys show that more women than ever before consider having a rewarding job an important priority.
+  (E) Women who are in the labor force have more discretionary income available to them than do women who are not.
+15. Left-handed persons suffer more frequently than do right-handed persons from certain immune disorders, such as allergies. Left-handers tend to have an advantage over the right-handed majority, however, on tasks controlled by the right hemisphere of the brain, and mathematical reasoning is strongly under the influence of the right hemisphere in most people.
+If the information above is true, it best supports which of the following hypotheses?
+  (A) Most people who suffer from allergies or other such immune disorders are left-handed rather than right-handed.
+  (B) Most left-handed mathematicians suffer from some kind of allergy.
+  (C) There are proportionally more left-handers among people whose ability to reason mathematically is above average than there are among people with poor mathematical reasoning ability.
+  (D) If a left-handed person suffers from an allergy, that person will probably be good at mathematies.
+  (E) There are proportionally more people who suffer from immune disorders such as allergies than there are people who are left-handed or people whose mathematical reasoning ability is unusually good.
+16. After observing the Earth's weather patterns and the 11-year sunspot cycle of the Sun for 36 years, scien-tists have found that high levels of sunspot activity preccde shifts in wind patterns that affect the Earth's weather. One can conclude that meteorologists will be able to improve their weather forcasts based on this information.
+Which of the following, if true, most seriously weakens the argument above?
+  (A) Weather forcasts are more detailed today than they were 36 years ago.
+  (B) Scientists can establish that sunspot activity directly affects the Earth's weather.
+  (C) Evidence other than sunspot activity has previously enabled meteorologists to forecast the weather conditions that are predictable on the basis of sunspot activity.
+  (D) Scientists have not determined why the sunspot activity on the Sun follows an 11-year cycle.
+  (E) It has been established that predictable wind patterns yield predictable weather paterns.
+SECTION 6
+Time-25 minutes
+20 Questions
+1. How many numbers do the sets S and T have in common?
+　(1) S is a set of 10 numbers.
+　(2) T is a set of 100 numbers.
+2. In the figure above, if line l1 is parallel to line l2, what is the value of x?
+　(1) y=50
+　(2) z=130
+3. NOT SCORED
+4. If Pat saved $600 of his carnings last month, how much did Pat carn last month?
+　(1) Pat spent of his carnings last month for living expenses and saved of the remainder.
+　(2) Of his carnings last month. Pat paid twice as much in taxes as he saved.
+5. The purchase price of Beth's new car, including the sales tax, is $8,000. If she finances the car, making a down payment of $2,000 and paying off the rest in cqual monthly installments, what will be the total cost of the car, including the sales tax and financing?
+　(1) The installments are to be $200 per month
+　(2) The installments will extend over a period of exactly 3 years.
+6. If ?
+　(1) x is 50 percent of y.
+　(2) 0.1x= 0.05y
+7. If n is an interger, is n even?
+　(1) n2-1 is an odd integer.
+　(2) 3n+4 is an even integer.
+8. If x, y, p and q are positive, is xy?
+　(1)
+　(2) xy=p
+9. If p1 and pp2 are the populations and rp1 and rp2 are the numbers of representatives of District 1 and District 2, respectively, the ratio of the population to the number of representatives is greater for which of the two districts?
+　(1) p1>p2
+　(2) r2>r1
+10. What digit does t represent in the decimal 0.t73?
+　(1) t<5
+　(2)0.t73<
+11. On the number line above, p, q,m r, s, and t are five consecutive even integers in increasing order. What is the average (arithmetic mean) of these five integers?
+　(1) q+s=24
+　(2) The average (arithmetic mean) of q and r is 11.
+12. What is the length in meters of a ccrtain rectangular garden?
+　(1) The length of the garden is 6 meters more than twice the width
+　(2) The length of the graden is 4 times the width
+13. If x<y, is x2<y?
+　(1) y>0
+　(2)x>0
+14. If Fran jumps straight up off the floor and lands on her feet T seconds later, her feet will reach a maximum height of 1.227T2 meters above the floor. On one such jump, was Fran off the floor for less than 1 second?
+　(1) On her jump Fran's feet reached a maximum height of 1 meter above the floor.
+　(2) On her jump Fran spent more than second ascending.
+15. If (x) denotes the greatest integer less than or equal to x, is |x|=0?
+　(1) 5x+1=3+2x
+　(2) 0<x<1
+16. During a 6-day local trade show, the least number of people registered in a single day was 80. Was the average (arithmetic mean) number of people registered per day for the 6 days greater than 90?
+　(1) For the 4 days with the greatest number of people registered, the average (arithmetic mean) number registered per day was 100.
+　(2) For the 3 days with the smallest number of people registered, the average (arithmetic mean) number registered per day was 85.
+17. If a and b are positive integers, what is the avlue of a+b?
+　(1)
+　(2) The greatest common divisor of a and b is 1.
+18. Are all of the numbers in a certain list of 15 numbers equal?
+　(1) The sum of all of the numbers in the list is 60.
+　(2) The sum of any 3 numbers in the list is 12.
+DAILY TRAIN SCHEDULE
+Train Scheduled
+Departure
+Station S  Scheduled
+Arrival
+Station T
+X 7:08 (EST)  8:10 (EST)
+Eastern Standard Time
+19. The table above shows the morning schedule for train X. If Juan took train X on Monday morning, did he arrive at station T on schedule?
+　(1) Juan arrived at station T on Monday morning 1 hour and 2 minutes after he left station S.
+　(2) Juan arrived at his office at 8:30 (EST) on Monday morning, which was 20 minutes after he arrived at station T.
+20. If n and k are positive integers, is ?
+　(1) k>3n
+　(2) n+k>3n
+SECTION 7
+Time-25 minutes
+18 Questions
+　　　Seeking a competitive advantage, some professional service firms (for example, firms providing advertising, accounting, or health care services) have considered
+Line offering unconditional guarantees of satisfaction. Such
+(5) guarantees specify what clients can expect and what the firm will do if it fails to fulfill these expectations. Particularly with first-time clients, an unconditional guarantee can be an effective marketing tool if the client is very cautious, the firm's fees are high, the
+(10) negative consequences of bad service are grave, or business is difficult to obtain through referrals and word-of-mouth.
+　　　However, an unconditional guarantee can sometimes hinder marketing efforts. With its implication that failure
+(15) is possible, the guarantee may, paradoxically, cause clients to doubt the service firm's ability to deliver the promised level of service. It may conflict with a firm's desire to appear sophisticated, or may even suggest that a firm is begging for business. In legal and health care a firm is begging for business. In legal and health care
+(20) services, it may mislead clients by suggesting that lawsuits or medical procedures will have guaranteed outcomes. Indeed, professional service firms with outstanding reputaions and performance to match have little to gain from offering unconditional guarantees. And any firm
+(25) that implements an unconditional guarantee without undertaking a commensurate commitment to quality of service is merely employing a potentially costly marketing gimmick.
+1. The primary function of the passage as a whole is to
+  (A) account for the popularity of a practice
+  (B) evaluate the utility of a practice
+  (C) demonstrate how to institute a pracice
+  (D) weigh the ethics of using a strategy
+  (E) explain the reasons for pursuing a strategy
+2. All of the following are mentioned in the passage as circumstances in which professional service firms can benefit from offering an unconditional guarantee EXCEPT:
+  (A) The firm is having difficulty retaining its clients of long standing.
+  (B) The firm is having difficulty getting business through client recommendations.
+  (C) The firm charges substantial fces for its services.
+  (D) The adverse effects of poor performance by the firm are significant for the client.
+  (E) The client is reluctant to incur risk.
+3. Which of the following is cited in the passage as a goal of some professional service firms in offering unconditional guarantees of satisfaction?
+  (A) A limit on the firm'sliability
+  (B) Successful competition against other firms
+  (C) Ability to justify fee increases
+  (D) Attainment of an outstanding reputation in a field
+  (E) Improvement in the quality of the firm's service
+4. The passage's description of the issue raised by unconditional guarantees for health care or legal services most clearly implies that which of the following is true?
+  (A) The legal and medical professions have standards of practice that would be violated by attempts to fulfill such unconditional guarantees.
+  (B) The result of a lawsuit or medical procedure cannot necessairly be dctermined in advance by the professionals hadling a client's case.
+  (C) The dignity of the legal and medical professions is undermined by any attempts at marketing of professional services, including unconditional guarantces.
+  (D) Clients whose lawsuits or medical procedures have unsatisfactory outcomes cannot be adequately compensated by financial sellements alone.
+  (E) Predicting the monctary cost of legal or health care services is more difficult than prodicting the monetary cost of other types of prfessional services.
+5. Which of the following hypothetical situations best exemplieies the potential problem noted in the second sentence of the second paragraph (lines 14-17)?
+  (A) Aphysician's unconditional guarantec of satisfaction encourages patients to sure for malpractice if they are unhappy with the treatment they receive.
+  (B) A lawyer's unconditional guarantec of satisfaction makes clients suspect that the lawyer needs to find new clients quickly to increase the firm's income.
+  (C) A business consultant's unconditional guarantce of satisfaction is undermined when the consultant fails to provide all of the services that are promised.
+  (D) An architect's unconditional guarantee of satisfaction makes clients wonder how often the architect's buildings fail to please clients.
+  (E) An accountant's unconditional guarantce of statisfaction leads clients to believe that tax returns prepared by the accountant are certain to be accurate.
+6. The passage most clearly implies which of the following about the professional service firms mentioned in line 22?
+  (A) They are unlikely to have offered unconditional guarantces of satisfaction in the past
+  (B) They are usually profitable enough to be able to compensate clients according to the terms of an unconditional guarantee.
+  (C) They usually practice in fields in which the outcomes are predictable
+  (D) Theeir fees are usually more affordable than those charged by other professional service firms.
+  (E) Their clients are usually already satisfied with the quality of service that is delivered.
+　　　Although genetic mutations in bacteria and viruses can lead to epidemies, some epidemics are caused by bacteria and viruses that have undergone no significant
+Linegenctic change. In analyzing the latter, scientists have
+(5) discovered the importance of social and ecological factors to epidemics. Poliomyelitis, for example, emerged as an cpidemic in the United States in the twentieth century; by then, modern sanitation was able to delay exposure 　to polio until adolescence or adulthood, at
+(10) which time polio infection produced paralysis. Previously, infection had occurred during infancy, when it typically provided lifelong immunity without paralysis. Thus, the hygiene that helped prevent typhold epidmics indirectly fostered a paralytic polio epidemic. Another
+(15) example is Lyme discase, which is caused by bacteria that are transmitted by deer ticks. It occurred only sporadically during the late nineteenth century but has recently become prevalent in parts of the United States. largely due to an increase in the deer population that
+(20) occurred simultancously with the growth of the suburbs and increased outdoor recreational activities in the deer's habitat. Similarly, an outbreak of dengue hemorrhagic fever became an cpidemic in Asia in the 1950's because 　of ecological changes that caused Aedes aegypti,
+(25) the mospquito that transmits the dengue virus, to prolifcrate, The stage is now set in the United States for a dengue epidemic because of the inadvertent introduction and wide dissemination of another mosquito, Aedes 　albopictus.
+7. The passage suggests that a lack of modern sanitation would make which of the following most likely to occur?
+  (A) An outbreak of Lyme disease
+  (B) An outbreak of dengue hemorrhagic fever
+  (C) An epidemic of typhoid
+  (D) An epidemic of paralytic polio among infants
+  (E) An epidemic of paralytic polio among adolescents and adults
+8. According to the passage, the outbreak of dengue hemorrhagie fever in the 1950's occurred for which of the following reasons?
+  (A) The mosquito Aedes aegypti was newly intoduced into Asia.
+  (B) The mosquito Aedes aegypti became more numerous
+  (C) The mosquito Aedes albopictus became infected with the dengue virus.
+  (D) Individuals who would normally acquire immunity to the dengue virus as infants were not infected until later in life.
+  (E) More people began to visit and inhabit areas in which mosquitos live and brced.
+9. It can be inferred from the passage that Lyme disease has become prevalent in parts of the United States because of which of the following?
+  (A) The inadvertent introduction of Lyme disease bacteria to the United States
+  (B) The inability of modern sanitatin methods to cradicate Lyme disease bacteria
+  (C) A genetic mutation in Lyme disease bacteria that makes them more virulent
+  (D) The spread of Lyme disease bacteria from infected humans to noninfected humans
+  (E) An increase in the number of humans who cncounter deer ticks
+10. Which of the following can most reasonably be concluded about the mosquito Aedes albopictus on the basis of information given in the passage?
+  (A) It is native to the United States.
+  (B) It can proliferate only in Asia.
+  (C) It transmits the dengue virus.
+  (D) It caused an epidemic of dengue hemorhagic fever in the 1950's.
+  (E) It replaced Aedes aegypti in Asia when ecological changes altered Aedered Aedes aegypti's habitat.
+11. Which of the following best describes the organization of the passage?
+  (A) A paradox is stated, discussed, and left unresolved.
+  (B) Two opposing explanationas are presented, argued, and reconciled.
+  (C) A theory is proposed and is then followed by descriptions of three expcriments that support the theory.
+  (D) A generalization is stated and is then followed by three instances that support the gencralization.
+  (E) An argument is described and is then followed by three counterexamples that refute the argument.
+12. Which of the following, if true, would most strengthen the author's assertion about the cause of the Lyme disease outbreak in the United States?
+  (A) The deer population was smaller in the late nineteenth century than in the mid-twentieth century.
+  (B)Interest in outdoor recreation began to grow in the late nineteenth century.
+  (C) In recent years the suburbs have stopped growing.
+  (D) Outdoor recreation cnthusiasts routinely take measures to protect themselves against Lyme disease.
+  (E) Scientists have not yet developed a vaccine that can prevent Lyme disease.
+　　　Two modes of argumentation have been used on behalf of women's emancipation in Western societies. Arguments in what could be called the "relational".
+Line feminist tradition maintain the doctrine of "equality in
+(5) difference," or equity as distinct from equality. They posit that biological distinctions between the sexes result in a necessary sexual division of labor in the family and throughout society and that women's procreative labor is 　currently undervalued by society, to
+(10) the disadvantage of women. By contrast, the individualist feminist tradition emphasizes individual human rights and celebrates women's quest for personal autonomy, while downplaying the importance of gender roles and 　minimizing discussion of childbearing and its attendant
+(15) responsibilities.
+　　　Before the late nineteenth century, these views coexisted within the feminist movement, often within the writings of the same individual. Between 1890 and 1920, however, relational feminism, which had been the
+(20) dominant strain in feminist thought, and which still predominates among European and non-Western feminists, lost ground in England and the United States. Because the concept of individual rights was already well established 　in the Anglo-Saxon legal and political tradition.
+(25) individualist feminism came to predominate in English-speaking countries. At the same time, the goals of the two approaches began to seem increasingly irreconcilable. Individualist feminists began to advocate a totally 　gender-blind system with equal rights for all. Relational
+(30) feminists, while agreeing that equal educational and economic opportunities outside the home should be available for all women, continued to emphasize women's special contributions to society as homemakes and 　mothers' they demanded special treatment for woman.
+(35) including protective legislation for women workers, state-sponsored maternity benefits, and paid compensation for housework.
+　　　Relational arguments have a major pitfall: because they underline women's physiological and psychological
+(40) distinctiveness, they are often appropriated by political adversaries and used to endorse male privilege. But the individualist approach, by attacking gender roles. denying the significance of physiological difference, and 　condemning existing familial institutions as hopelessly
+(45) patriarchal, has often simply treated as irrelevant the family roles important to many women. If the individu-alist framework, with its claim for women's autonomy, could be harmonized with the family-orented concerns of relational feminists, a more fruitful model for contemportary feminist polities could 　emerge.
+13. The a author of the passage alludes to the well-established nature of the concept of individual rights in the Anglo-Saxon legal and political tradition in order to
+  (A) illustrate the influence of individualist feminist thought on more general intellectual trends in English history
+  (B) argue that feminism was already a part of the larger Anglo-Saxon intellectual tradition, even though this has often gone unnoticed by critics of women's cemancipation
+  (C) explain the decline in individualist thinking among feminists in non-English-speaking countries
+  (D) help account for an increasing shift toward individualist feminism among feminists in English-speaking countries
+  (E) account for the philosophical differences between individualist and relational eminists in English-speaking countries
+14. The passage suggests that the author of the passage believes which of the following?
+  (A) The predominance of individualist feminism in English-speaking countries is a historical phenomenon, the causes of which have not yet been investigated.
+  (B) The individualist and relational feminist views are irreconcilable, given their theoretical differences concerning the foundations of society.
+  (C) A consensus concerning the direction of future feminist politics will probably soon emerge, given the awareness among feminists of the need for cooperation among women.
+  (D) Political adversaries of feminism often misuse arguments predicated on differences between the sexes to argue that the existing social system should be maintained.
+  (E) Relational feminism provides the best theoretical framework for contemporary feminist polities but individualist feminism could contribte much toward refining and strengthening modern feminist thought.
+15. It can be inferred from the passage that the individualist feminist tradition denies the validity of which of the following causal statements?
+  (A) A division of labor in a social group can result in increased efficiency with regard to the performance of group tasks.
+  (B) A division of labor in a social group causes and benefits among group members.
+  (C) A division of labor on the basis of gender in a social group is ecessitated by the existence of sex-linked biological differences beetween male and female members of the group.
+  (D) Culturally dtermined distinctions based on gender in a social group foster the existence of differing attitudes and opinions among group members.
+  (E) Educational programs aimed at reducing inequalities based on gender among members of a social group can result in a sense of greater well-being for all members of the group.
+16. According to the passage, relational feminists and individualist feminists agree that
+  (A) individual human rights take precedence over most other social claims
+  (B) the gender-based division of labor in society should be eliminated
+  (C) laws guaranteeing equal treatment for all citizens regardless of gender should be passed
+  (D) a greater degree of social awarcness conccrning the importance of motherhood would be beneficial to society
+  (E) the same cducational and cconomic opportunities should be available to both sexes
+17. According to the author, which of the following was true of feminist thought in Western societies before 1890?
+  (A) Individualist feminist arguments were not found in the thought or writing of non-English-speaking feminists.
+  (B) Individualist feminism was a strain in feminist thought ,but another strain, relational feminism, predominated.
+  (C) Relational and individualist approaches were cqually prevalent in feminist thought and writing.
+  (D) The predominant view among feminists held that the welfare of women was ultimately less important than the welfare of children
+  (E) The predominant view among feminists held that the sexes should receive equal treatment under the law.
+18. The author that which of hte following was true of most feminist thinkers in England and the United States after 1920?
+  (A) They were less concerned with politics than with intellectual issues.
+  (B) They began to reach a broader audience and their programs began to be adopted by mainstream political parties.
+  (C) They called repeatedly for international coopcration among women's groups to achieve their goals.
+  (D) They moderated their initial criticism of the economic systems that characterized their socicties.
+  (E) They did not attempt to unite the two different feminist approaches in their thought.
+
+GMAT 畠寔編籾眉基宛
+Section 1:EBCBD　　 EEADB 　　CCCEE 　　C
+Section 3:CBEAE　　 DEBCB　　 CDDAC 　　CBEDA 　　AB
+Section 4:BEBDE 　　BADDC 　　BDCAD　　 C
+Section 5:AAEAD 　　EBAEC　　 EDABC 　　C
+Section 6:EDDAC 　　DDACE　　 DCBAD　　 ACBBA
+Section 7:BABBD 　　ECBEC　　 DADDC 　　EBE

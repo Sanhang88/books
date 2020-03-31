@@ -1,0 +1,99 @@
+连  词
+   连词是一种虚词， 它不能独立担任句子成分而只起连接词与词，短语与短语以及句与句的作用。
+   连词主要可分为两类：并列连词和从属连词。并列连词用来连接平行的词、词组和分句。如：and, but, or, nor, so, therefore, yet, however, for, hence, as well as, both and, not only but also, either or, neither nor, (and)then等等。
+1 并列连词与并列结构
+并列连词引导两个并列的句子。
+1)and 与or
+判断改错：
+(错) They sat down and talk about something.
+(错) They started to dance and sang.
+(错) I saw two men sitting behind and whisper there.
+(对) They sat down and talked about something.
+(对) They started to dance and sing.
+(对)I saw two men sitting behind and whispering there.
+解析：
+　 第一句： and 连接两个并列的谓语，所以 talk 应改为 talked。
+　 第二句：and 连接两个并列的动词不定式，第二个不定式往往省略to，因此sang 应改为 sing。
+　 第三句：and 连接感观动词saw 后面的用作的宾补的两个并列分词结构，因此whisper应改为whispering。
+注意：and 还可以和祈使句或名词词组连用表示条件。（or也有此用法）
+Make up your mind, and you'll get the chance.
+= If you make up your mind, you'll get the chance.
+One more effort, and you'll succeed.
+= If you make one more effort, you'll succeed.
+2)both and　两者都
+She plays (both) the piano and the guitar.
+3)not only but (also), as well as）
+She plays not only the piano, but (also) the guitar.
+注意：not only?but also 关联两个分句时，一个分句因有否定词not 而必须倒装。
+Not only does he like reading stories, but also he can even write some.
+4)neithe nor 意思为"既不...也不..."谓语动词采用就近原则，与nor后的词保持一致。
+Neither you nor he is to blame.
+2 比较and和or
+  并列结构中，or通常用于否定句，and用于肯定句。
+2) 但有时and 也可用于否定句。请注意其不同特点：
+There is no air or water in the moon.
+There is no air and no water on the moon.
+　 在否定中并列结构用or连接，但含有两个否定词的句子实际被看作是肯定结构，因此要用and。
+典型例题
+　---I don't like chicken ___ fish.　
+　---I don't like chicken, ___ I like fish very much.
+　A. and； and　 B. and； but　C. or； but　D. or；and
+　答案C。否定句中表并列用or, but 表转折。
+判断改错：
+(错) We will die without air and water.
+(错) We can't live without air or water.
+(对) We will die without air or water.
+(对) We can't live without air and water.
+3 表示选择的并列结构
+1)or意思为"否则"。
+I must work hard, or I'll fail in the exam.
+2)either or意思为"或者...或者..."。注意谓语动词采用就近原则。
+Either you or I am right.　
+4 表示转折或对比
+1)but表示转折，while表示对比。
+ Some people love cats, while others hate them.
+典型例题　
+--- Would you like to come to dinner tonight?　　
+--- I'd like to, ___ I'm too busy.
+　A. and　 B. so　 C. as　 D. but　　
+　答案D。but与前面形成转折，符合语意。而表并列的and，结果的so，原因的as都不符合句意。
+2) not和but意思为"不是...而是..."
+not 和but 后面的用词要遵循一致原则。
+They were not the bones of an animal, but (the bones) of a human being.
+5 表原因关系
+1) for
+判断改错：
+(错) For he is ill, he is absent today.
+(对) He is absent today, for he is ill.
+　 for是并列连词，不能置于含两个并列分句的句子的句首，只能将其放在两个分句中间。
+2) so, therefore
+He hurt his leg, so he couldn't play in the game.
+注意：
+a. 两个并列连词不能连用，但therefore, then, yet.可以和并列连词连用。
+You can watch TV, and or you can go to bed.
+He hurt his leg, and so / and therefore he couldn't play in the game.
+b. although?yet?#65292;但although不与 but连用。
+(错)Although he was weak, but he tried his best to do the work..
+(对)Although he was weak, yet he tried his best to do the work.
+6 比较so和 such
+　 其规律由so与such的不同词性决定。such 是形容词，修饰名词或名词词组，so是副词，只能修饰形容词或副词。so 还可与表示数量的形容词many，few，much， little连用，形成固定搭配。
+so + adj.　　　　　　　　　
+such + a(n) + n.
+so + adj. + a(n) + n.　　　
+such + n. (pl.)
+so + adj. + n. (pl.)　　　
+such +n. (pl.)　
+so + adj. + n. [不可数]　　
+such +n. [不可数]
+so foolish　　　　　　　　
+such a fool　
+so nice a flower　　　　　
+such a nice flower
+so many/ few flowers　　　
+such nice flowers
+so much/little money.　　　
+such rapid progress　
+so many people　　　　　　
+such a lot of people
+　 so many 已成固定搭配，a lot of 虽相当于 many，但 a lot of 为名词性的，只能用such搭配。
+　 so...that与such...that之间的转换既为so与such之间的转换。

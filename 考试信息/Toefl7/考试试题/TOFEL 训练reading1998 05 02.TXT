@@ -1,0 +1,36 @@
+TOFEL 训练reading1998 05 02
+　　
+The elements other than hydrogen and helium exist in such small quantities that it is accurate to say that the universe is somewhat more than 25 percent helium by weight and somewhat less than 75 percent hydrogen.
+
+Astronomers have measured the abundance of helium throughout our galaxy and in other galaxies as well. Helium has been found in old stars, in relatively young ones, in interstellar gas, and in the distant objects known as quasars. Helium nuclei have also been found to be constituents of cosmic rays that fall on the earth (cosmic "rays"are not really a form of radiation; they consist of rapidly moving particles of numerous different kinds). It doesn't seem to make very much difference where the helium is found. Its relative abundance never seems to vary much. In some places, there may be slightly more of it: in others, slightly less, but the ratio of helium to hydrogen nuclei always remains about the same.
+Helium is created in stars. In fact, nuclear reactions that convert hydrogen to helium are responsible for most of the energy that stars produce. However, the amount of helium that could have been produced in this manner can be calculated, and it turns out to be no more than a few percent. The universe has not existed long enough for this figure to be significantly greater. Consequently, if the universe is somewhat more than 25 percent helium now, then it must have been about 25 percent helium at a time near the beginning.
+However, when the universe was less than one minute old, no helium could have existed. Calculations indicate that before this time temperatures were too high and particles of matter were moving around much too rapidly. It was only after the one- minute point that helium could exist. By this time, the universe had cooled sufficiently that neutrons and protons could stick together. But the nuclear reactions that led to the formation of helium went on for only a relatively short time. By the time the universe was a few minutes old, helium production had effectively ceased.
+重点单词：
+elements : n. 原理,基础
+helium : n. 氦
+quantity : n. 量,数量,总数
+accurate : a. 正确的,精确的
+abundance : n. 丰富,充足,大量
+galaxy : n. 银河,星系,一群显赫的人物
+relatively : ad. 相对地
+interstellar : a. 星际的
+quasar : n. 恒星状球体,半星球体,类星球体
+nuclei : n. nucleus 的复数形nucleus : n. 核心,核子,原子核,中坚
+constituent : n. 成分,选民,构成物;a. 构成的,组织的,有选举权的
+radiation : n. 放射线
+consist : vi. 组成,存在,一致
+particle : n. 粒子,点,极小量
+ratio : n. 比,比率
+convert : n. 皈依者,改变宗教者;vt. 使改变信仰,转换,兑换,倒置;vi. 皈依
+responsible : a. 有责任的,负责的,责任重大的,可靠的
+manner : n. 样子,礼貌,风格
+significant : a. 重要的,有效的,有含义的,暗示的,非偶然的
+consequently : ad. 结果
+indicate : vt. 指出,显示,象征,指示
+particle : n. 粒子,点,极小量
+sufficient : a. 充分的,足够的
+neutron : n. 中子
+proton : n. 质子
+stick : n. 棍,棒,刺,茎,枯枝,条状物;vt. 插于,刺入,钉住,使停止,伸出,粘贴;vi. 粘住,停留,坚持,陷住,伸出
+effectively : ad. 有效地,有力地,实际上
+cease : n. 停止;vi. vt. 停止,终了

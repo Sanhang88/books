@@ -1,0 +1,281 @@
+大学四级考试仿真试题
+
+Part I  Reading Comprehension
+Questions 01-05 are based on the following passage:
+    The concept of culture has been defined many times, and although no definition has achieved universal acceptance, most of the definitions include three central ideas: that culture is passed n from generation to generation, that a culture represents a ready-made prescription for living and for making day-to-day decisions, and, finally, that the components of a culture are accepted by those in the culture as good, and true, and not to be questioned. The eminent anthropologist George Murdock has listed seventy-three items that characterize every known culture, past and present. The list begins with Age-grading and Athletic sports, runs to Weaning and Weather Control, and includes on the way such items as Calendar, Firemaking, Property Rights, and Toolmaking. I would submit that even the most extreme advocate of a culture of poverty viewpoint would readily acknowledge that, with respect to almost all of these items, every American, beyond the first generation immigrant, regardless of race or class, is a member of a common culture. We all share pretty much the same sports. Maybe poor kids don't know how to play polo, and rich kids don't spend time with stickball, but we all know baseball, and football, and basketball. Despite some misguided efforts to raise minor dialects to the status of separate tongues, we all, in fact, share the same language. There may be differences in diction and usage, but it would be ridiculous to say that all Americans don't speak English. We have the calendar, the law, and large numbers of other cultural items in common. It may well be true that on a few of the seventy-three items there are minor variations between classes, but these kinds of things are really slight variations on a common theme. There are other items that show variability, not in relation to class, but in relation to religion and ethnic background-funeral customs and cooking, for example. But if there is one place in America where the melting pot is a reality, it is on the kitchen stove; in the course of one month, half the readers of this sentence have probably eaten pizza, hot pastrami, and chow mein. Specific differences that might be identified a signs of separate cultural identity are relatively insignificant within the general unity of American life; they are cultural commas and semicolons in the paragraphs and pages of American life.
+01. According to the author's definition of culture, ____ .
+     A. a culture should be accepted and maintained universally
+     B. a culture should be free from falsehood and evils
+     C. the items of a culture should be taken for granted by people
+     D. the items of a culture should be accepted by well-educated people
+02. Which of the following is NOT true according to the passage?
+     A. Baseball, football and basketball are popular sports in America.
+     B. Pizza, hot pastrami, and chow mein are popular diet in America.
+     C. There is no variation in using the American calendar.
+     D. There is no variation in using the American language.
+03. It can be inferred that all the following will most probably be included in the seventy-three items except ____.
+     A. heir and heritage
+     B. childrearing practices
+     C. dream patterns
+     D. table manners
+04. By saying that "they are cultural commas and semicolons..." the author means that commas and semicolons ____.
+     A. can be interpreted as subculture of American life
+     B. can be identified as various ways of American life
+     C. stand for work and rest in American life
+     D. are preferred in writing the stories concerning American life
+05. The author's main purpose in writing this passage is to ____.
+     A. prove that different people have different definitions of culture
+     B. inform that variations exist as far as a culture is concerned
+     C. indicate that culture is closely connected with social classes
+     D. show that the idea that the poor constitute a separate culture is an absurdity
+
+Questions 06-10 are based on the following passage:
+     It is 3A.M. Everything on the university campus seems ghostlike in the quiet, misty darkness - everything except the computer center. Here, twenty students rumpled and bleary-eyed, sit transfixed at their consoles, tapping away on the terminal keys. With eyes glued to the video screen, they tap on for hours. For the rest of the world, it might be the middle of the night, but here time does not exist. This is a world unto itself. These young computer "hackers" are pursuing a kind of compulsion, a drive so consuming it overshadows nearly every other part of their lives and forms the focal point of their existence. They are compulsive computer programmers. Some of these students have been at the console for thirty hours or more without a break for meals or sleep. Some have fallen asleep on sofas and lounge chairs in the computer center, trying to catch a few winks but loathe to get  too far away from their beloved machines.
+    Most of these students don't have to be at the computer center in the middle of the night. They aren't working on assignments. They are there because they want to be - they are irresistibly drawn there.
+    And they are not alone. There are hackers at computer centers all across the country. In their extreme form, they focus on nothing else. They flunk out of school and lose contact with friends; they might have difficulty finding jobs, choosing instead to wander from one computer center to another. They may even forgo personal hygiene.
+     "I remember one hacker. We literally had to carry him off his chair to feed him and put him to sleep. We really feared for his health," says a computer science professor at MIT.
+    Computer science teachers are now more aware of the implications of this hacker phenomenon and are on the lookout for potential hackers and cases of computer addiction that are already severe. They know that the case of the hackers is not just the story of one person's relationship with a machine. It is the story of a society's relationship to the so-called thinking machines, which are becoming almost ubiquitous.
+06. We can learn from the passage that those at the computer center in the middle of the night are ____.
+     A. students working on a program
+     B. students using computers to amuse themselves
+     C. hard-working computer science majors
+     D. students deeply fascinated by the computer
+07. Which of the following is NOT true of those young computer "hackers"?
+     A. Most of them are top students majoring in computer programming.
+     B. For them, computer programming is the sole purpose for their life.
+     C. They can stay with the computer at the center for nearly three days on end.
+     D. Their "love" for the computer is so deep that they want to be near their machines even when they sleep.
+08. It can be reasonably inferred from the passage that ____.
+     A. the "hacker" phenomenon exists only at university computer centers
+     B. university computer centers are open to almost everyone
+     C. university computer centers are expecting outstanding programmers out of the "hackers"
+     D. the "hacker" phenomenon is partly attributable to the deficiency of the computer centers
+09. The author's attitude towards the "hacker" phenomenon can be described as ____.
+     A. affirmative
+     B. contemptuous
+     C. anxious
+     D. disgusted
+10. Which of the following may be a most appropriate title for the passage?
+     A. The Charm of Computer Science
+     B. A New Type of Electronic Toys
+     C. Compulsive Computer Programmers
+     D. Computer Addicts
+
+Questions 11-15 are based on the following passage:
+    Every profession or trade, every art, and every science has its technical vocabulary. Different occupations, however, differ widely in the character of their special vocabularies. In trades and handicrafts, and other vocations, like farming and fishery, that have occupied great numbers of men from remote times, the technical vocabulary, is very old. It consists largely of native words, or of borrowed words that have worked themselves into the very fibre of our language. Hence, though highly technical in many particulars, these vocabularies are more familiar in sound, and more generally understood, than most other technicalities. The special dialects of law, medicine, divinity, and philosophy have also, in their older strata, become pretty familiar to cultivated persons and have contributed much to the popular vocabulary. Yet every vocation still possesses a large body of technical terms that remain essentially foreign, even to educated speech. And the proportion has been much increased in the last fifty years, particularly in the various departments of natural and political science and in the mechanic arts. Here new terms are coined with the greatest freedom, and abandoned with indifference when they have served their turn. Most of the new coinages are confined to special discussions, and seldom get into general literature or conversation. Yet no profession is nowadays, as all professions once were, a close guild. The lawyer, the physician, the man of science, the divine, associated freely with his fellow-creatures, and does not meet them in a merely professional way. Furthermore, what is called "popular science" makes everybody acquainted with modern views and recent discoveries. Any important experiment, though made in a remote or provincial laboratory, is at once reported in the newspapers, and everybody is soon talking about it - as in the case of the Roentgen rays and wireless telegraphy. Thus our common speech is always taking up new technical terms and making them commonplace.
+11. Special words used in technical discussion ____.
+     A. never last long
+     B. are considered artificial language speech
+     C. should be confined to scientific fields
+     D. may become part of common speech
+12. It is true that ____.
+     A. an educated person would be expected to know most technical terms
+     B. everyone is interested in scientific findings
+     C. the average man often uses in his own vocabulary what was once technical language not meant for him
+     D. various professions and occupations often interchange their dialects and jargons
+13. In recent years, there has been a marked increase in the number of technical terms in the terminology of
+     A. farming
+     B. sports
+     C. government
+     D. fishery
+14. The writer of the article was, no doubt ____.
+     A. a linguist
+     B. an essayist
+     C. a scientist
+     D. an attorney
+15. The author's main purpose in the passage is to ____.
+     A. describe a phenomenon
+     B. be entertaining
+     C. argue a belief
+     D. propose a solution
+
+Questions 16-20 are based on the following passage:
+    In the days immediately following hurricane Andrew's deadly visit to South Florida, Allstate Insurance hastily dispatched more than 2,000 extra claim adjusters to the devastated area to assist the 200 stationed there. Many of the reserves arrived in convoys of motor homes. Others flew in from as far away as Alaska and California. Since the storm had knocked out telephone lines, Allstate rushed to set up its own communications system. Allatate expects to pay out 1.2 billion to cover more than 121,000 damage claims as a result of Andrew.
+    All told, U.S. property and casualty insurers have been hit with more than 8 billion in Andrew-related claims, making the hurricane the most costly single calamity to strike the industry since the San Francisco earthquake and fire in 1906 (cost: 6 billion, after inflation). With claims continuing to pour in, Andrew threatens to take a painful toll on the already battered property-casualty insurance industry and its 100 million policy-holders. The final bill, analysts predict, is likely to top 10 billion. While most well-capitalized insurers are expected to weather the storm, less anchored firms are in danger of being blown away, leaving U.S. consumers stuck with the tab. Says Sean Mooney, senior researcher at the Insurance Information Institute: "It will take years before the industry digs itself out from the wreckage left by Andrew. Some [companies] will be buried by it."
+    Hurricane Andrew is the latest in a string of mishaps to plague the American insurance industry this year. In April an overflowing Chicago River flooded the city's downtown district, costing insurers 300 million in claims. A month later, Los Angeles was rocked by the worst civilian riot in the U.S. since the Civil War. The insurance toll: 1 billion. Then came a series of major hailstorms in Texas, Florida an Kansas. They cost insurers a combined 700 million. And two weeks after Andrew, another lethal hurricane, Iniki, smashed into Hawaii, causing 1.4 billion in damages. In all, property and casualty insurers have paid out a record 13 billion in claims so far this year, far surpassing the previous high of 7.6 billion in 1989, the year of Hurricane Hugo and California's Bay Area earthquake. Just as in that year, when those catastrophes were followed by substantial increases in insurance premiums, insurers are already lobbying for rate relief.
+16. According to the passage, "Allstate Insurance" most likely refers to ____.
+     A. one of the property and casualty insurers in the U.S.
+     B. the only insurance company responsible for the damage claims by Andrew
+     C. the insurance industry as a whole
+     D. the biggest insurance company in the U.S.
+17. As is stated in the second paragraph, the result of Hurricane Andrew is likely to ____.
+     A. lead to inflation throughout the U.S.
+     B. make the largest insurers suffer the most
+     C. put the industry in Sough Florida out of action
+     D. cause insurers with insufficient funds to go bankrupt
+18. Using context clues, we may infer that "stuck with the tab" most probably means ____.
+     A. "caught in the hurricane"
+     B. "exposed to natural disasters"
+     C. "trapped in financial difficulties"
+     D. "extremely vulnerable to further damages"
+19. The end of the passage implies that, to compensate for their huge loss, the insurers will ____.
+     A. resort to a very big increase in insurance premiums
+     B. ask for subsidies from the federal government
+     C. reduce their insurance coverage thereafter
+     D. require a higher interest rate from the bank
+20. The main purpose of the passage is to ____.
+     A. show the severe damages and heavy losses caused by Hurricane Andrew
+     B. suggest that U.S. insurers are virtually unable to cover the damage claims any more
+     C. tell about the difficult situation faced by the insurers throughout the U.S.
+     D. prove that disasters tend to cause ever worsening devastation as time goes on
+　
+Part II  Vocabulary and Structures
+　
+21. For Soviets, clothing is the ____ of greatest complaint, housing follows, and food is last.
+    A. source
+    B. problem
+    C. cause
+    D. reason
+22. As a student of Chinese literature, she enjoys giving ____ of poems by her favourite poets.
+     A. recreations
+     B. recitations
+     C. repetitions
+     D. rehearsals
+23. Professor Allington asks his students to read the newspapers to keep ____ of current events.
+     A. watch
+     B. observation
+     C. track
+     D. information
+24. More waste materials have to be ____ of, which cause pollution of the land, sea and air.
+      A. detached
+      B. deserted
+     C. dismissed
+     D. disposed
+25. Fred was ____ in the alley last night, and all his money was taken away.
+     A. held back
+     B. held up
+     C. held off
+     D. held on
+26. The doctor carefully examined the driver who suffered ____ all over his body in a car accident.
+     A. scars
+     B. scratches
+     C. bruises
+     D. wrenches
+27. Since a circle has no beginning or end, the wedding ring is a symbol of  ____.
+     A. constant
+     B. infinite
+     C. prolonged
+     D. eternal
+28. Dick, who had failed the Maths test, was sitting on a bench in the corner, ____ over his disappointment.
+     A. brooding
+     B. apologizing
+     C. meditating
+     D. complaining
+29. It is hard for us to realize what ____ lives men led in the Middle Ages.
+     A. grave
+     B. grim
+     C. greedy
+     D. gross
+30. Recent psychological studies have shown that many children develop fears of ____ dangers.
+     A. imagination
+     B. imaginary
+     C. imaginable
+     D. imaginative
+31. In the garden bees moved, humming thoughtfully, from ____ flowers to purple ones.
+     A. colourful
+     B. prosperous
+     C. scarlet
+     D. brilliant
+32. At last I ____ the article that I had been looking for in the University library.
+     A. ran down
+     B. run into
+     C. run out
+     D. run off
+33. The police officer assures us ____ will be taken to guard against the recurrence of such incidents.
+     A. prevention
+     B. prediction
+     C. preparation
+     D. precaution
+34. They ____ on a cure for tuberculous while they were doing research on something else.
+     A. founded
+     B. stumbled
+     C. fumbled
+     D. tripped
+35. In the darkness, Mrs. Warren ____ her way into the kitchen and switched on the light.
+     A. gripped
+     B. groped
+     C. guided
+     D. guarded
+36. The mother separated the quarrelling children, and gave each of them a sharp ____.
+     A. punch
+     B. puppy
+     C. pinch
+     D. pumpkin
+37. Last week the seamen's strike led to the ____ closure of the whole vast dock area.
+     A. virtual
+     B. factual
+     C. local
+     D. actual
+38. George Gallop has brought all his polling strategies together to ____ and analyze what he calls future force.
+     A. synthesize
+     B. standardize
+     C. identify
+     D. demonstrate
+39. I prefer badminton to squash tennis. It's not so tiring ____.
+     A. to tell the truth
+     B. to be frank with you
+     C. for instance
+     D. for one thing
+40. You will find it worthwhile to keep ____ good terms with the supervisor of your department.
+     A. at
+     B. in
+     C. on
+     D. to
+41. Soccer is the most truly international team sport, but there is still some question ____ whether it should be called a game or open warfare.
+     A. due to
+     B. as to
+     C. in addition to
+     D. owing to
+42. Scarcely ____ now without some sort of incident involving the old lady.
+     A. a day passes
+     B. passes a day
+     C. does a day pass
+     D. has a day passed
+43. If the dog hadn't barked loudly, we ____ caught red-handed.
+     A. won't have been
+     B. needn't have been
+     C. mustn't have been
+     D. shouldn't have been
+44. It's ____ I've bought plenty of money: it's more expensive than I expected.
+     A. just as well
+     B. rather
+     C. may as well
+     D. preferred
+45. ____, but I still like him.
+     A. Selfish though he is
+     B. Selfish as he is
+     C. Selfish he may be
+     D. Whether he is selfish or not
+46. ____, China's large and medium-sized state enterprises need to improve their management right now.
+     A. As it should be
+     B. As it must be
+     C. As it is
+     D. As it were
+47. He worked seven days a week, and six of ____ until one o'clock at night.
+     A. that
+     B. those
+     C. which
+     D. them
+48. The suspicion that the servant is dishonest has proved ____ true.
+     A. all too
+     B. too all
+     C. much too
+     D. too much
+49. The budget they made is unrealistic ____ it disregards increased costs.
+     A. for that
+     B. for which
+     C. in that
+     D. in which
+50. The newly developing science of artificial intelligence aims at programming the computer to think, reason and react ____ people do.
+     A. by the same way as
+     B. in much the same way that
+     C. with the same way as
+     D. as much as the same way that
+
+Part III  Error Correction
+
+    Some people, in all seriousness, say that humans will be living in space within the next hundred or so years. Planet Earth will be crowded, dirty and lack of resources. A sort of exodus [51] of mankind will begin.
+    Spaceships will be assembled so that they revolve around the earth. Some may orbit around Mars. These space stations will be serviced by space buses. We saw the first space bus launch in [52]  April 1981. This was "Columbia", it made several [53] orbits around the earth and then returned, landing on a huge dry lake bed in California. "Columbia" will be used again. Previous spaceships have been abandoned, only the nose being used to bring the crews back to earth.[54]
+    Upon established, each space station will [55] generate its own atmosphere and have its own agriculture. It will need to rotation to provide [56] an artificial gravity; people will be forced inwards [57] from the centre by centrifugal force.
+    The moon and Mars could become new sources of new materials. Driving through space will no [58]  longer need Earth fuel - the energy would come from the sun. This energy would be converted from [59] electricity to work magnetic rockets.
+    That all sounds quite fantastically but, with [60] the rapid development of modern technology, who knows about what the future holds?

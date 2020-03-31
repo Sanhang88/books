@@ -1,0 +1,431 @@
+动词
+
+1） 表示动作中状态的词叫做动词。
+2） 根据其在句中的功能，动词可分为四类，分别是：实义动词（Notional Verb）、系动词（Link Verb）、助动词（Auxiliary Verb）、情态动词（Modal Verb）。
+说明：有些情况下，有些动词是兼类词，例如：
+We are having a meeting.我们正在开会。（having是实义动词。）
+He has gone to New York.他已去纽约。
+（has是助动词。）
+3） 动词根据其后是否带有宾语，可分为两类，分别是：及物动词（Transitive Verb）、不及物动词（Intransitive Verb），缩写形式分别为vt. 和vi.。
+说明：同一动词有时可用作及物动词，有时可用作不及物动词。例如：
+She can dance and sing.
+她能唱歌又能跳舞。（sing在此用作不及物动词。）
+She can sing many English songs.
+她能唱好多首英文歌曲。（sing用作及物动词。）
+4） 根据是否受主语的人称和数的限制，可分两类，分别是：限定动词（Finite Verb）、非限定动词（Non-finite Verb）例如：
+She sings very well.
+她唱得很好。（sing受主语she的限制，故用第三人称单数形式sings。）
+She wants to learn English well.
+她想学好英语。（to learn不受主语she的限制，没有词形变化，是非限定动词。
+说明：英语中共有三种非限定动词，分别是：动词不定式（Infinitive）、动名词（Gerund）、分词（Participle）。
+5)　根据动词的组成形式，可分为三类，分别是：单字词（One-Word Verb）、短语动词（Phrasal Verb）、动词短语（Verbal Phrase）例如：
+The English language contains many phrasal verbs and verbal phrases.
+英语里有许多短语动词和动词短语。（contains是单字动词。）
+Students should learn to look up new words in dictionaries.
+学生们学会查字典。（look up是短语动词。）
+The young ought to take care of the old.
+年轻人应照料老人。（take care of是动词短语。）
+6）动词有五种形态，分别是：原形（Original Form）、第三人称单数形式（Singular From in Third Personal）、过去式（Past Form）、过去分词（Past Participle）、现在分词（Present Participle）。
+
+助动词
+1 什么是助动词
+1）协助主要动词构成谓语动词词组的词叫助动词（Auxiliary Verb）。被协助的动词称作主要动词（Main Verb）。
+  助动词自身没有词义，不可单独使用，例如：
+He doesn't like English.　他不喜欢英语。
+（doesn't是助动词，无词义；like是主要动词，有词义)
+2） 助动词协助主要动词完成以下功用，可以用来：
+a. 表示时态，例如：
+He is singing.　
+他在唱歌。
+He has got married.　
+他已结婚。
+b. 表示语态，例如：
+He was sent to England.　
+他被派往英国。
+c. 构成疑问句，例如：
+Do you like college life?　
+你喜欢大学生活吗？
+Did you study English before you came here?　
+你来这儿之前学过英语吗？
+d. 与否定副词not合用，构成否定句，例如：
+I don't like him.　
+我不喜欢他。
+e. 加强语气，例如：
+Do come to the party tomorrow evening.
+明天晚上一定来参加晚会。
+He did know that.　
+他的确知道那件事。
+3） 最常用的助动词有：
+be, have, do, shall, will, should, would
+2、助动词be的用法
+1） be +现在分词，构成进行时态，例如：
+They are having a meeting.　
+他们正在开会。
+English is becoming more and more important.
+英语现在越来越重要。
+2)　be + 过去分词，构成被动语态，例如：
+The window was broken by Tom..　
+窗户是汤姆打碎的。
+English is taught throughout the world.　
+世界各地都教英语。
+3） be + 动词不定式，可表示下列内容：
+a. 表示最近、未来的计划或安排，例如：
+He is to go to New York next week..　
+他下周要去纽约。
+We are to teach the freshpersons.　
+我们要教新生。
+说明：
+这种用法也可以说成是一种将来时态表达法。
+b. 表示命令，例如：
+You are to explain this.　
+对此你要做出解释。
+He is to come to the office this afternoon.　
+要他今天下午来办公室。
+c.征求意见，例如：
+How am I to answer him?　
+我该怎样答复他？
+Who is to go there?　
+谁该去那儿呢？
+d. 表示相约、商定，例如：
+We are to meet at the school gate at seven tomorrow morning.　
+我们明天早晨7点在校门口集合。
+3、助动词have的用法
+1）have +过去分词，构成完成时态，例如：
+He has left for London.　
+他已去了伦敦。
+By the end of last month, they had finished half of their work.　
+上月未为止，他们已经完成工作的一半。
+2）have + been +现在分词，构成完成进行时，例如：
+I have been studying English for ten years.
+我一直在学英语，已达十年之久。
+3）have+been +过去分词，构成完成式被动语态，例如：
+English has been taught in China for many years.
+中国教英语已经多年。
+4、助动词do 的用法
+1） 构成一般疑问句，例如：
+Do you want to pass the CET?　
+你想通过大学英语测试吗？
+Did you study German?　
+你们学过德语吗？
+2） do + not 构成否定句，例如：
+I do not want to be criticized.　
+我不想挨批评。
+He doesn't like to study.　
+他不想学习。
+In the past, many students did not know the importance of English.　
+过去，好多学生不知道英语的重要性。
+3)　构成否定祈使句，例如：
+Don't go there.　
+不要去那里。
+Don't be so absent-minded.　
+不要这么心不在焉。
+说明： 构成否定祈使句只用do，不用did和does。
+4） 放在动词原形前，加强该动词的语气，例如：
+Do come to my birthday party.　
+一定来参加我的生日宴会。
+I did go there.　
+我确实去那儿了。
+I do miss you.　
+我确实想你。
+5） 用于倒装句，例如：
+Never did I hear of such a thing.　
+我从未听说过这样的事情。
+Only when we begin our college life do we realize the importance of English.
+只有在开始大学生活时我们才认识到英语的重要性。
+说明： 引导此类倒装句的副词有never, seldom, rarely, little, only, so, well等。
+6）用作代动词，例如：
+---- Do you like Beijing?
+--你喜欢北京吗？
+---- Yes, I do.　
+--是的，喜欢。（do用作代动词，代替like Beijing.）
+He knows how to drive a car, doesn't he?
+他知道如何开车，对吧？
+5、助动词shall和will的用法
+shall和will作为助动词可以与动词原形一起构成一般将来时，例如：
+I shall study harder at English.　
+我将更加努力地学习英语。
+He will go to Shanghai.　　
+他要去上海。
+说明：
+　在过去的语法中，语法学家说shall用于第一人称，will 只用于第二、第三人称。现在，尤其是在口语中，will常用于第一人称，但shall只用于第一人称，如用于第二、第三人称，就失去助动词的意义，已变为情态动词，试比较:
+He shall come.　
+他必须来。（shall有命令的意味。）
+He will come.　
+他要来。（will只与动词原形构成一般将来时。）
+6、助动词should,would的用法
+1）should无词义，只是shall的过去形式，与动词原形构成过去将来时，只用于第一人称，例如：
+I telephoned him yesterday to ask what I should do next week.
+我昨天给他打电话，问他我下周干什么。
+比较：
+"What shall I do next week?"　I asked.
+ "我下周干什么？"我问道。（可以说，shall变成间接引语时，变成了should。）
+2） would也无词义，是will的过去形式，与动词原形构成过去将来时，用于第二、第三人称，例如：
+He said he would come.　
+他说他要来。
+比较：
+"I will go," he said.
+他说："我要去那儿。"
+变成间接引语，就成了：
+He said he would come.　
+原来的will变成would，go变成了come.。
+
+系动词
+　　系动词亦称联系动词（Link Verb），作为系动词，它本身有词义，但不能单独用作谓语，后边必须跟表语（亦称补语），构成系表结构说明主语的状况、性质、特征等情况。
+说明：
+有些系动词又是实义动词，该动词表达实义时，有词义，可单独作谓语，例如：
+He fell ill yesterday.　
+他昨天病了。（fell是系动词，后跟补足语，说明主语情况。）
+He fell off the ladder.　
+他从梯子上摔下来。fell是实义动词，单独作谓语。
+1）状态系动词
+用来表示主语状态，只有be一词，例如：
+He is a teacher.　他是一名教师。（is与补足语一起说明主语的身份。）
+2）持续系动词
+用来表示主语继续或保持一种状况或态度，主要有keep, rest, remain, stay, lie, stand,
+例如：
+He always kept silent at meeting.　
+他开会时总保持沉默。
+This matter rests a mystery.　
+此事仍是一个谜。
+3）表像系动词
+用来表示"看起来像"这一概念，主要有seem, appear, look,
+例如：
+He looks tired.　
+他看起来很累。
+He seems (to be) very sad.　
+他看起来很伤心。
+4）感官系动词
+感官系动词主要有feel, smell, sound, taste, 例如：
+This kind of cloth feels very soft.　
+这种布手感很软。
+This flower smells very sweet.　
+这朵花闻起来很香。
+5）变化系动词
+　 这些系动词表示主语变成什么样，变化系动词主要有become, grow, turn, fall, get, go, come, run.
+例如：
+He became mad after that.　
+自那之后，他疯了。
+She grew rich within a short time.　
+她没多长时间就富了。
+6）终止系动词
+表示主语已终止动作，主要有prove, trun out, 表达"证实"，"变成"之意，例如：
+The rumor proved false.　
+这谣言证实有假。
+The search proved difficult.　
+搜查证实很难。
+His plan turned out a success.　
+他的计划终于成功了。
+（turn out表终止性结果）
+
+非谓语动词
+　　在句子中充当除谓语以外的句子成分的动词形式叫做非谓语动词。非谓语动词分为三种形式:不定式，动名词，和分词(分词包括现在分词和过去分词)。
+1）不定式
+时态\语态　　　 　　　　　　　　　
+一般式　主动to do　　被动to be done       　　　　　
+完成式　主动to have done　被动to have been done
+2）动名词
+时态\语态　　　　　　　　　
+一般式　主动doing　被动　being done
+完成式　主动having done　被动　having been done
+3）分词
+时态\语态　
+一般式　主动doing　被动being done
+完成式　主动having done　被动having been done　 　　
+否定形式： not +不定式，not + 动名词，not + 现在分词
+
+动词不定式
+
+1 不定式作宾语
+1) 动词+ 不定式
+afford aim appear agree arrange ask be decide bother care choose come dare demand　desire determine  expect elect endeavor  hope   fail happen help hesitate　learn long mean manage offer ought plan prepare　pretend promise　refuse　seem tend wait wish  undertake
+举例：
+The driver failed to see the other car in time.
+司机没能及时看见另一辆车。
+I happen to know the answer to your question.
+我碰巧知道你那道问题的答案。
+2）动词+不定式 ；动词+宾语+不定式
+ask, beg, choose, expect , hate, help intend like, love, need prefer, prepare, promise, want, wish…
+2 不定式作补语
+1) 动词+宾语+不定式(to do)
+advise allow appoint believe cause challenge　command compel consider declare drive enable encourage find forbid force guess hire  imagine impel induce inform instruct invite judge know like order permit persuade remind report request require select　send state suppose tell think train trust understand　urge warn　
+例句：
+a.　Father will not allow us to play on the street.
+父亲不让我们在街上玩耍。
+b.　We believe him to be guilty.
+我们相信他是有罪的。
+Find 的特殊用法：
+Find 后可用分词做宾补，或先加形式宾语，再加形容词，最后加带to 的动词不定式。find后也可带一个从句。此类动词还有get，have。
+ I found him lying on the ground.
+ I found it important to learn.
+ I found that to learn English is important.
+典型例题:
+ The next morning she found the man ___ in bed，dead.
+ A. lying B. lie C. lay D. laying
+答案：A.find的宾语后面，用分词或分词短语，起宾语补足语作用。现在分词表达主动，也表达正在进行，过去分词表达被动。
+2) to + be 的不定式结构，作补语的动词。
+Acknowledge, believe,　consider, think,　declare(声称),　discover, fancy(设想),　feel find,　guess, judge, imagine, know, prove,  see(理解), show,  suppose,  take(以为), understand
+ We consider Tom to be one of the best students in our class.
+ 我们认为汤姆是班上最好的学生之一。
+典型例题
+ Charles Babbage is generally considered　___ the first computer.　
+A. to invent　B. inventing C. to have invented D. having invented
+答案：A. 由consider to do sth. 排除B、D。. 此句只说明发明这一个事实，不定式后用原形即可。而C为现在完成时，发明为点动词一般不用完成时，且此处也不强调对在的影响，因此不选C。
+3) to be +形容词
+Seem,  appear, be said, be supposed, be believed,　be thought,　be known, be reported,　hope, wish, desire, want, plan, expect, mean…
+　The book is believed to be uninteresting.
+　人们认为这本书没什么意思。
+4)　there be+不定式
+believe, expect, intend, like, love, mean, prefer, want, wish, undrstand
+　We didn't expect there to be so many people there.我们没料到会有那么多人在哪里。
+注意 ： 有些动词需用as 短语做补语，如regard, think believe, take, consider.
+　We regard Tom as our best teacher.　我们认为汤姆是我们最好的老师。
+　Mary took him as her father .　玛丽把他当作自己的父亲。
+3 不定式主语
+1） It's easy (for me) to do that.我做这事太容易了
+easy,　difficult, hard, important, possible, impossible,　comfortable, necessary, better;
+the first, the next, the last, the best,　too much, too little, not enough
+　It's so nice to hear your voice.
+　听到你的声音真高兴。
+　It's necessary for you to lock the car when you do not use it.
+　当你不用车的时候，锁车是有必要的。
+2) It's very kind of you to help us.　他帮助我们，他真好。
+Kind,　nice, stupid,　rude, clever,　foolish,　thoughtful,　thoughtless,　brave,　considerate(考虑周到的),　silly, selfish(自私的)
+例句:
+ It was silly of us to believe him.　我们真愚蠢，竟然相信了他。
+ It seemed selfish of him not to give them anything.　他不给他们任何东西，这显得太自私了。
+注意：1) 其他系动词如，look，appear等也可用于此句型
+ 2) 不定式作为句子成分时，动词用单数形式。
+ 3) 当不定式作主语的句子中又有一个不定式作表语时，不能用It is… to…的句型
+  (对)To see is to believe.　百闻不如一见。
+  (错)It is to believe to see.
+4 不定式作表语
+　不定式可放在be动词后面，形成表语。例如：
+ My work is to clean the room every day.
+ His dream is to be a doctor.
+5 不定式作定语
+ 不定式做定语通常要放在被修饰的词后。例如：
+ I have a lot of work to do.　
+ So he made some candles to give light.
+6 不定式作状语
+1）目的状语　
+To… only to (仅仅为了),　in order to,　so as to,　so(such)… as to… (如此……以便……)
+ He ran so fast as to catch the first bus.　他飞快地跑以便赶上第一班车。
+ I come here only to say good-bye to you.　我来仅仅是向你告别。
+2）作结果状语，表事先没有预料到的，要放在句子后面。
+ What have I said to make you angry.
+ He searched the room only to find nothing.
+3)　表原因
+ I'm glad to see you.
+典型例题
+　The chair looks rather hard, but in fact it is very comfortable to __　
+　A. sit B. sit on C. be seat D. be sat on
+答案：B.　如果不定式为不及物动词，其后应有必要的介词。当动词与介词连用时，常位于"形容词+动词不定式"结构的末尾。
+7 省to 的动词不定式
+1） 情态动词 ( 除ought 外，ought to)：
+2） 使役动词 let, have, make：
+3） 感官动词 see, watch, look at, notice , observe, hear, listen to, smell, feel, find 等后作宾补，省略to。　
+注意：在被动语态中则to 不能省掉。
+ I saw him dance.
+　=He was seen to dance.
+ The boss made them work the whole night.
+　=They were made to work the whole night.
+4） would rather，had better：
+5） Why… / why not…：
+6） help 可带to，也可不带to, help sb (to) do sth：
+7） but和except：but前是动词do时，后面出现的动词用不带to的动词不定式。
+8） 由and, or和than连接的两个不定式，第二个to 可以省去：
+9） 通常在discover, imagine, suppose, think, understand等词后，可以省去to be：
+ He is supposed (to be) nice.　他应该是个好人。
+举例：
+ He wants to move to France and marry the girl.
+He wants to do nothing but go out.
+比较： He wants to do nothing but go out.
+  He wants to believe anything but to take the medicine.
+典型例题
+1) ---- I usually go there by train.
+ ---- Why not ___ by boat for a change?　
+ A. to try going B.　trying to go C.　to try and go D.　try going
+ 答案：D. why not 后面接不带to 的不定式，因此选D。
+2） Paul doesn't have to be made ___. He always works hard.　
+ A. learn B. to learn C. learned D. learning
+ 答案：B. make后接不带to 的动词不定式，当其用于被动时，to 不可省略。
+
+动名词
+
+动名词作主语、宾语和表语
+1）作主语
+Fighting broke out between the South and the North.
+南方与北方开战了。
+2）作宾语　
+a. 动词后加动名词doing作宾语 V. + doing sth
+admit 承认　　　
+appreciate 感激,赞赏　
+avoid 避免　　　　
+complete 完成　
+consider 认为　　　　
+delay 耽误　　
+deny 否认　　　
+detest 讨厌　　　　　
+endure 忍受　　　　
+enjoy 喜欢　　　
+escape 逃脱　　　　　
+prevent阻止
+fancy 想象　　　
+finish 完成　　　　　
+imagine 想象　　
+mind 介意　　　
+miss 想念　　　　　　
+postpone 推迟　　　　　　　
+practise 训练　
+recall 回忆　　　　　
+resent 讨厌　　　　　
+resist 抵抗　　
+resume 继续　　　　　
+risk 冒险
+suggest 建议　　
+face 面对　　　　　　
+include 包括　　　　
+stand 忍受　　　
+understand 理解　　　
+forgive 宽恕　　　　　　　　
+keep 继续
+举例：
+(1)　Would you mind turning down your radio a little, please?
+(2)　The squirrel was lucky that it just missed being caught.　　　
+
+b. 词组后接doing
+admit to　　
+prefer…to　　　　　
+be used to　　　
+lead to　　　
+devote oneself to　
+object to　　　
+stick to　　
+busy　　　　
+look forward to(to为介词）
+no good,　
+no use,　
+It's worth…,　
+as well as,
+can't help,　
+It's no use /good　
+be tired of
+be fond of　
+be capable of　
+be afraid of　
+be proud of　
+think of / about　
+hold off　　　　
+put off　
+keep on　
+insist on　　
+count on / upon
+set about　
+be successful in　
+good at　　
+take up
+give up　　
+burst out　　
+prevent … from…　
+3）作表语
+Her job is washing，cleaning and taking care of the children.

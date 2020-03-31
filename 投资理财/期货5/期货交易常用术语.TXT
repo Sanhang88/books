@@ -1,0 +1,227 @@
+期货交易常用术语(英汉对照)
+Abandon 放弃：确认期权失效
+Actuals 现货（LME普遍使用physical）
+Arbitrage 市场间套利
+Assay 检验分析
+Ask 要价，喊价
+At-the-Money 相等价值：期权履约价与当前期权期货合约的现价完全相同
+Backpricing 有效时间定价：生产者常用LME结算价作为报价基准, 每天公布的结算价到次日中午有效。又称“公认定价”（Pricing on the Known）
+Backwardation 现货升水：现货价高于期货价（又称Back），是为逆向市场、倒价市场
+Base Metal 贱金属，基金属：除金、银、铂族以外的金属
+Bar Chart 条形图
+Basis 基差：同一种商品现货价与期货价之差
+Basis Price 基本价格，履约价格：期权交易中买卖双方商定，并按此进行交易的价格。又称敲定价格（Strike Price），通常为当前市场价
+Bear 卖空者，看跌者：与Bull正相反
+Bear Covering 结束空头部位
+Bear Market 空头市场，熊市：价格普遍下跌的市场
+Bear Position 空头部位：已卖出期货，期望以后能以较低价买进，利润为现在卖出与以后补进价之差额
+Best Orders 最佳买卖订单（Buing/Selling “at Best”）
+Bid 买方出价
+Bond 债券
+Bottom 底价：某时间段内的最低价
+Borrowing 借入（Borrowing metal from the market）：买进近期货的同时，卖出远期货
+Break 暴跌，暴升，突破：价格出现较大波动
+Broker 经纪行，经纪人
+Bull 买空者，看涨者：与Bear相反
+Bull Market 多头市场，牛市：价格普遍上涨的市场
+Bull Position 多头部位：已买进期货，期望以后能以较高价卖出，其利润为现在买进与以后卖出价之差额
+Business Day 交易日
+Buying Hedge （Long Hedge）买进套期保值
+Buy In 补进：平仓、对冲或关闭一个空头部位
+Buy on Close 收市买进：在收市时按收市价买进
+Buy on Opening 开市买进：在开市时按开市价买进
+Call Option 看涨期权，延买期权：允许购买者按一特定的基价购买一种指定期货合约的权力。预期市价看涨时买“看涨期权”，如购买者判断失误，可以放弃这一购买权力，风险损失只是购买期权的保险费
+Call Price 接算价
+Cancelling Order 撤消指令：撤消前一个指令的指令
+Carrying 借入借出：LEM 对借入借出的总称，也表示一种导致借入者将其持有的金属现货存入LEM 注册仓库的借入作业
+Carrying Charge 仓储费用：持有现货商品期间所支付的保管费、保险费、损耗、利息等
+Cash 现付，现货：LEM 意为按结算价现货交易成交后第二天的现金交付；其他交易所则常指现货交易
+Cash＆Carry 贷款借入：期货升水时，远期货溢价常对该期间的仓储、保险、资金成本造成影响。金属过剩时，期货升水趋势扩大，由于交易者买近期货卖远期货所需融资成本低，使银行借贷有吸引力
+Cash Commodity 现货商品
+Cash Today 次日交割：合约的交割日期为下一个交易日时
+CFTC 商品期货交易委员会：（美国的）期货交易由农业部商品交易所办公室负责管理
+Clear，Clearance 清算，结算：对期货合约进行的资金结算
+Clearing House 结算所
+Clearing Member 结算会员：结算所的会员公司，结算会员必须是交易所成员
+Clerk 场内经纪助理：经授权可代理场内经纪人之职
+Client Contract 委托合同：结算会员与非结算会员、非结算会员与其他交易者之间的合同
+Client Option 委托期权：期权买卖的任一方均非结算会员的交易
+Close 收市
+Closing Range 收市价幅
+COMEX （The New York Commodity Exchange） 纽约商品交易所
+Commission 佣金
+Commitment 承诺（或未结清权益）
+Commodities Exchange Center （CEC） 纽约商品交易中心：纽约商品交易所、纽约商业交易所 （NYMEX）、纽约棉花交易所、咖啡糖可可交易所的所在地
+Commission House（Futures Commission House 或 Wire House）经纪商行、代办行
+Contango 期货升水：金属近期供货充足时, 远期价高于现货价。是为正向市场，顺价市场
+Contract 合约
+Contract Month 合约月份：期货合约进行实物交割的月份
+Coner 囤积居奇
+Cost of Carry 置存成本：期货商品交割之前，所发生的利息、仓储和装卸搬运费用
+Counterparty 合约对方
+Cover 平仓，补进：在市场上通过补进（如原有部位在空头）或回抛（如原有部位是多头）结清空盘部位
+Cross（Close hedge）买空卖空：同一个结算会员的套购套售，交叉保值
+Current Yied 当期收益：债券利息与当时的债券市价之比
+Day Order（G.F.D.）当日有效订单：当日未执行则自动失效。如要在当日全部时间（含正式交易、场外交易、场前交易、午餐时间与傍晚），应注明“全部市场时间”（All Market）
+Day Trading 当日交易：当天交易中买进和卖出相同部位
+Daily Limit 每日价格波动幅度的限制
+Dealer 交易代表
+Declarartion Date 宣告期（履约期或有效期）：期权购买者必须宣告其权力是否履行的最后日期，否则，期权将失效。LEM 的宣告期是每月的第一个星期三
+Default Notice 违约通告
+Defaulter 违约者
+Deferred Futures 远期：离交割期相对最远的期货合约月份
+Delivery 交割：期货合约买、卖双方到期以仓单形式体现的商品实物所有权的转移
+Delivery Date or Prompt Date 交割日期
+Delivery Month 交割月份（与合约月份相同）
+Delivery Notice 交割通知：一方提交通知，表示同意在指定日期交割以结束其未平仓的空头期货部位
+Delivery Point 交割地点
+Deposit 初始保证金（见Initial Margin）
+Differentials 差价（与Basis同义）
+Discretionary Account 委托帐户
+Double Option 双向期权：期权拥有者同时拥有按基本价卖出或买进权利的期权
+Equity 资金净值：按当时市价清算后，期货交易帐户剩余的资金净值
+Evening Up 对冲：通过买或卖对冲掉现有的市场部位
+Event of Default 违约事件
+Exchange Contract 交易所合约：交易双方都是结算会员的合约
+Exchange Option 交易所期权：期权买卖方都是结算会员的期权交易
+Exercise 执行，履约：期权有效期内，期权购买者宣布将实行其权力按履约价买进或卖出期货合约
+Expiration Date 到期日：期权买方可能执行期权权利的日期或最后一日
+Exchanger 交易所
+Fill 执行价
+Fill-or-Kill Order 成交或取消指令：一般指出价三次后未成交则立即取消
+First Notice Day 第一通知日：同意以现货商品交割履行期货合约，发出通知的第一天
+Floor Broker 场内经纪人
+Floor Trader （又叫Local）场内交易人：通常只为自己的账户（或由其控制的）进行交易的人
+Force Majeure 不可抗力：LME 的合约中没有此条款，遇不可抗力时，LME缓冲
+Forward 远期货，期货
+FSA 英国金融管理法案：1986年通过，随时修正
+Fundamental Analysis 基本分析法：用商品供需理论与信息进行价格分析与预测
+Futures 期货
+Futures Contract 期货合约：经批准在交易所交易大厅内签定的，商品质量、交割地、交割期等均已标准化的交易契约
+Futures Commition Merchant 期货代理商
+G.O.B.（Good Ordinary Brard）优质级：LME 用，现改用“高级”（High Grade）代替
+Good Till Cancelled Order（G.T.C.）除非客户撤消，否则一直有效的订单
+Granter 转让者：期权的卖方
+Hedge，Hedging 套期保值：通过在期货市场取得一个与现货交易相反部位期货合约的方法，来回避因价格波动对现货买、卖造成的损失，起到经济保险的作用
+Hedger 套期保值者
+Horizontal Spread 水平套期图利：在买进看涨或看跌期权的同时，按相同的履约价但不同的到期日，卖出同一商品种类的期权
+Initial Margin 初始保证金：取得一个期货部位所交纳的初始费用。通常为合约价值的5~10％
+Inverted Market 倒转市场：近期月份的价格高于远期月份价格的期货市场
+In Warehouse 交割仓库：LME合约中的出售地点
+Intercommodity Spread 跨商品套期图利：买进（或卖出）某种商品的期货合约，同时又卖出（或买进）相同交割月份的与买进（或卖出）商品相关的另一种商品的期货合约，日后分别进行对冲，以期获利
+Interdelivery Spread 跨月套期图利：买进（或卖出）某种商品某月的期货合约，同时又卖出（或买进）同种商品但不同月份的期货合约，日后分别进行对冲，以期获利
+Intermarket Spread 跨市套期图利：在某一个交易所买进（或卖出）某种商品的期货合约，同时又在另一个交易所卖出（或买进）相同商品相同月份的期货合约，日后分别进行对冲，以期获利
+International Commodities Clearing House（I.C.C.H.）国际商品结算所：LME委托的结算所
+Inter-Market 跨交易所：LME上下午间的闭市之间，会员们用电话进行办公室间的交易
+In-the-Money 有利价值，内在价值：按当时市价如执行期权可以实现的增加价值。看跌期权，履约价高于当前公布价；看涨期权，履约价低于当前公布的结
+算价
+In-the-Money Option 实值期权：具有有利价值（内在价值）的期权
+Intrinsic Value 内含价值：基本同“有利价值”。实值期权所含内在价值的金额，是权利金的构成成分
+Inverted Market 逆向市场，倒挂市场：同一商品的现货或近期期货价格高于远期期货价格的市况
+Kerb Trading 场外交易：每场正式交易结束后，有15至25分钟，所有的金属同时在交易圈进行交易
+Last Trading Day 最后交易日：期货合约交割月份的最后一个交易日。最后交易日后尚未清算的期货合约，须通过相关现货商品或现金结算方式平仓
+Late Night Trading （Lates）晚场交易：自下午场场外交易结束到相关美国市场闭市，LME 非正式交易时间
+Lending 借出：通过卖出近期货同时补进远期货来扩展多头部位
+Limit 停板限额
+Limit Up 涨停板
+Limit Down 跌停板
+Limit Order 限价指令
+Liquid 流动性：期货买、卖与对冲交易的活跃程度与成交量的大小。交易量大而又不引起价格剧烈波动，即是流动性大
+Liquid Market 流动性市场：买卖均能较易实现的市场
+Liquidate 平仓，对冲：通过买进（或卖出）相同交割月份的同样商品期货合约来了结先前已卖出（或买进）的期货合约，或到期收、交现货商品
+LME 伦敦金属交易所
+Long 多头，买空：“做多头”即为通过买进期货合约开始一个交易；或是买进多于卖出
+Long Position 多头头寸，多头部位：未结算的买进期货部位
+Lot 批：“一批”在LME常叫“一张仓单”、“一张合约”
+Major Currency 做价货币
+Margin 保证金
+Margin Call 追加保证金要求，追加保证金通知
+Mark to the Market 空盘评估：以当前市场价（当日结算价）为基础对尚未结算的空盘部位评估，计算其账面盈亏，以确定是否要追加保证金
+Market Order 市价订单：按市场当时最优价或市价立即购买或出售一定数量期货合约的指令
+Market if Touched（M.I.T.）触价成市价订单：价格达到高于（低于）当前市价的一定水平即卖出（买进）的指令
+Matching Period 对应结算时间段
+Matching System 对应结算系统
+Maximum Price Fluctuation 最大价格波幅：在一场交易中合约价格可以上下波动的最大值
+Merchant 贸易商
+Minimum Price Fluctuation 最小价格波幅
+Nominal Price 名义价格：对一个期货月份日期的估计价，当该日期有行无市时指定该价为收盘价。当现货交易处于类似情况时，也用该价作为当前价指标
+Notice Day 通知日：易所规定的、对本月到期要准备交割期货合约的持有者发出交割书面通知的日期
+Offer 卖方出价
+Official Prices 正式价格：由LME报价委员会（Quotations Commitee）提出，每交易日13:10公布现货、三月和十五月期货的正式价
+Omnibus Account 综合账户：在国外，一期货经纪公司与另外的经纪公司共同使用的账户，交易以原经纪人的名义混合使用
+One Cancels Other（O.C.O.）非此即彼订单：由两个订单结合的交易指令，其中含一附加指令，当一个订单执行后即取消另一个订单
+Open Contracts 未平仓合约：已买卖期货合约但未进行对冲处理或实物交割
+Open Interest（op.int）空盘量，未平仓量，未结清权益：期货市场上交易的某种商品尚未结清（对冲或交割）的全部期货合约数量
+Open Order 开口定单（同Good Till Canaelled Order）
+Open Outcry 公开喊价
+Open Position 空盘部位：尚未结清的期货合约市场部位
+Opening, The 开市
+Opening Price 开市价，开盘价
+Opening Range 开市价幅：开市后第一个交易完成时的买卖价波动范围
+Option 期权，期货合约选择权：赋予购买者在协议规定的有效期内按协定价（基本价或敲定价、履约价）购买或卖出一定量商品的选择权力
+Options Committee 期权委员会
+Out-of-the-Money 无利价值：当一期权当前没有内含价值，例如当看涨期权的履约价高于当前公布的结算价或当看跌期权的履约价低于当前结算价时，称无利价
+Out-of-the-money Option 虚值期权：不具有内涵价值的期权，相对应的是实值期权
+P&S（Purchase and Sale Statement）交易清单：经纪行为客户对冲掉原建立的市场部位后，提交客户的分类账目净盈亏额变化清单
+Physical 现货
+Position 交易部位，头寸：对市场的承诺，即未进行对冲处理的买或卖期货合约数量。对于买进者，称处于多头部位（Long）；对于卖出者，称处于空头部位（Short）
+Position Limit 头寸限制：交易所限定的交易者可以持有某种期货合约的最大数量
+Pre-Market 场前交易：LME正式交易前经纪行之间的交易，场前交易可以是非常活跃和具有影响力的
+Premium （1）权利金：期权买主向卖主即时支付不再退回的费用，此为期权购买者可能的最大损失；（2）溢价，升水：期货价高过现货价的差额；（3）加价：对高于期货合约交割标准的商品应支付的额外费用
+Price（及物动词）定价：通常按正式结算价确定有关金属的价格
+Pricing-In 按预定收盘价买进
+Pricing-Out 按预定收盘价卖出
+Primary Market 初级市场：主要的现货商品初级市场
+Principal 委托人，本人货主：能够并必须履行合约上所有条件的个人或机构
+Principals' Market 货主间交易：期货市场上，交易成员以货主身份在交易圈内和他们的客户一起完成交易
+Profit Taking 获利回吐
+Prompt 即付：在两天内即交割
+Prompt Date 交割日期
+Put Option 看跌期权，延卖期权
+Quatations Committee 报价委员会
+Rally 回升
+Range 波幅
+Reaction 反弹：价格在较长时间下跌后的回升
+Recovery 复苏
+Registered Representative 登记代表：应本人要求，期货经纪行雇用的经纪人
+Ring 节：LME对每一种金属的五分钟交易时间
+Ring Committee 场内交易委员会
+Ring Dealing Broker 交易会员：期货交易所全权会员组织成员
+Rings（Pits）交易场，交易池
+Round-Turn 交易回合：通过对冲或实物交割结束在市场上的多头或空头部位的完全交易过程
+Scalp 小投机：为微小利润而交易，通常在同一天内频繁买卖对冲
+Security Deposit 保证金
+Session 场：LME每天分上下场，每场分两轮，每轮中每种金属交易五分钟。每场后有15至25分钟的场外交易
+Settlement Business Day 结算营业日：指在纽约可用美元进行国际结算处理的商业银行营业的交易日
+Settlement Price 结算价格：由收市价幅决定的价格，用于计算期货市场账户的收益和亏损、追加保证金和交割的发票价格
+Short 空头：一个未结算的卖出期货部位。“做空头”即通过卖出期货合约开始一个交易。与之相对应的词是Long
+Short Hedge 卖出套期保值
+Short Selling 卖空：通过卖出期货合约确立一个市场部位
+Short Squeeze 轧空头，逼空：由于市场供应不足迫使价格上升的情形
+Speculate 投机：甘愿承担价格波动风险以谋取风险利润的炒买炒卖行为
+Speculator 投机者
+Spot 现货
+Spot Month 现货月：对当前期货报价的最早可以交割的月份
+Spread 价差：两个相关市场之间或相关商品之间的价格差异
+Spreading 套期图利：同时买进与卖出相关期货合约以获取价差利润的各种套利方式
+Squeeze 价格挤压：迫使某特定交割日期的价格高于其它日期的压力
+Stockist 存有货物准备出售的商人
+Stop-Loss Order 止损指令：一种当市场价格达到某一特定水平时买进或卖出的指令
+Straddle 套期图利
+Strike Price （Exercise Price）敲定格（履约价）：期权合约中双方协定的相关期货商品的价格
+Switching（1）换库：LME，一个仓库的金属换成另一个仓库的；（2）转月：由一个期货合约转为另一个期货合约
+Taker 购买者
+Technical Analysis 技术分析法：利用期货商品价格、交易量、未平仓量等的历史数据，采用各种指标和分析方法来分析和预测未来价格趋势的价格分析方法
+Tender 偿付：期货合约的实物商品交割
+Tick 最小价位：期货交易中允许的最小价格变动量
+Time Value 时间价值：反映期权有效时间的权利金数量
+Trade House 贸易行：进行现货交易的公司
+Trend 趋势
+Turnover 交易量
+Underlying Futures Contract 期权期货合约
+Unofficial Price 非正式价格：LME下午场交易结束时报出的各种金属的收盘价
+Value 价值：在当前所有买方和卖方都满意的价格上的足够成交量
+Variation Margin 价格变动保证金：根据每天的评估决定并发出用以因价格变动而补偿损失的追加要求
+Volatility 易变性（年度潜在易变性）：反映期权期货合约价格变动程度的指标。由相等价值、保险费、到失效期的剩余时间、期权期货合约价格和当前利率等参数组成的公式计算
+Volume 交易量
+Warrants 仓单：储存在交易所所指定的（注册）仓库签发的可用于期货合约商品交割的商品所有权证明书，系不记名票证

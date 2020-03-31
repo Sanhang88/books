@@ -1,0 +1,558 @@
+GRE '93考题精选（七）--2
+GRE '93考题精选（七）--3
+问题：下面哪一个，if true，最易于使上面的论述遭受批评？
+读题：梦是由产生于记忆的一些不连贯的映像组成的，而记忆中又附加了许多肤浅的
+　　　（或模糊的故事）。但是，梦并没有心理学意义；因为梦的产生仅仅是化学作用的结果，当大脑对一天的经历进行分类、比较和储存时，唤起大脑对视觉形象回忆的化学作用。
+　
+分析：第四行because前面是结论，后面引导原因
+　　　结论：梦没有心理学意义
+　　　原因：是某个化学过程的结果。
+很显然，原因because引导，对反对来说：
+1、主要针对原因，
+2、原因和结论之间，虽然是化学作用，还是有心理学意义
+　
+A. 如果梦具有心理学意义，则会更加连贯。
+B. 若不叫醒作梦者，就无法交流所作的梦。
+C. 将经历分类和附加故事于记忆之中都是具有心理学意义的事件。（直接反对论据，化学作用中本身就具有心理学意义）
+　
+D. 如果大脑不进行化学作用，则大脑就无法起作用。
+E. 如果作梦对保持充足睡眠是必要的，那么作梦一定具有生物基础。
+
+In some cultures the essence of magic is its traditional
+integrity; it can be efficient only if it has been -------
+without loss from primeval times to the present practitioner.
+conventionalized
+realized
+transmitted
+manipulated
+aggrandized
+答案：(C)
+magic: n.魔术，法术，巫术
+integrity: n.1.正真，廉正，诚实，诚恳 2.完整，完全 3.完善，健全
+primeval: a.原始的，早期的，远古的
+efficient: a.1.效率高的，有能力的，能胜任的 2.直接产生效果的，有效的，生效的
+conventionalize: a.使符合习俗，使惯例化，按传统手法表现
+aggrandize: v.扩大…权势，提高…地位，增进，扩充
+　
+在某些文化中，巫术的本质在于其传统的完整性：只有当它被完好无损地从远古时期传递到当今术士的手中，它方能显得卓有成效。
+Although skeptics say financial problems will probably
+--------- our establishing a base on the Moon. Supporters
+of the project remain ------, saying that human curiosity
+should overcome such pragmatic constraints.
+beset.. disillusioned
+hasten.. hopeful
+postpone.. pessimistic
+prevent.. enthusiastic
+allow.. unconvinced
+答案：(D)
+sceptic: n.怀疑（论）者，〔哲〕不可知论者
+pragmatic: a.1.讲究实际的，实干的，重实效的 2.实用主义的 3.国事的，国务的
+constraint:n.1.约束，限制 2.强迫，强制 3.克制，抑制，拘束
+beset: v.1.困扰，使苦恼 2.包围，围攻
+disillusion: v.使幻灭
+postpone: v.1.延迟，延缓，使延期 2.把…放在后面
+pessimistic: a.悲观（主义）的
+　
+尽管怀疑论者声称，经济问题将有可能阻碍我们在月球上建立一个基础，但这一计划的支持者却热情不减，宣称人类的求知欲理应克服这些实际障碍。
+
+Before the Second World War, academics still questioned
+whether the body of literature produced in the United
+States truly ------- a ------- literature, or whether
+such literature was only a provincial branch of English
+literature.
+symbolized.. local
+constituted.. national
+defined.. historical
+outlined.. good
+captured.. meaningful
+答案：(B)
+academic: n.1.大学生，大学教师 2.学者，学会会员
+provincial: a.1.狭隘的，地方性的 2.外省的，外地的
+symbolize: v.象征，标志
+　
+第二次世界大战之前，学者们依然感到疑惑，即在美国创作的全部文学作品是否真正能构成一种民族文学，抑或这种文学只能算作英国文学的一个地方性分支。
+
+Many more eighteenth-century novels were written by
+women than by men, but this dominance has, until very
+recently, been regarded merely as ------- fact, a bit
+of arcane knowledge noted only by bibliographers.
+a controversial
+a statistical
+an analytical
+an explicit
+an unimpeachable
+答案：(B)
+dominance: n.优势，支配（或统治）地位，最高权力
+arcane: a.神秘的，晦涩难解的，秘密的
+bibliographer: n.1.书目编制者 2.目录学家，书志学家
+explicit: a.1.详述，明确的，明析的 2.直言的，坦率的 3.显然可见的，容易观察到
+的
+unimpeachable: a.无瑕疵的，无缺点的，完全可靠的
+　
+在十八世纪，女性创作的小说数量相当程度上超过男性创作小说，但女性文学创作的这种主导地位直到最近仅仅被视作一个统计学事实，一点小小的秘密知识，只为文献目录学家所注意。
+
+All ------- biological traits fall into one of two categories:
+those giving their possessors greater ------- the environment
+and those rendering them more independent of it.
+widespread.. detachment from
+beneficial.. control over
+successful.. freedom from
+neutral.. compatibility with
+harmful.. advantage in
+答案：(B)
+trait: n.特征，特点，特性
+category: n.1.种类，类别 2.〔哲〕范畴
+render: v.1.使得，使成为 2.给予，提供 3.提出，呈报
+detachment: n.1.分开，分离，脱离 2.超然，公正，不偏不倚
+beneficial: a.有益的，有利的，有帮助的
+　
+所有有益的生物特征在两个类别之间都必居其一：一类生物特征使其拥有者得以在更大程度上控制环境，另一类则使它们更独立于环境。
+One of archaeology's central dilemmas is how to
+reconstruct the ------- of complex ancient societies
+from meager and often ------- physical evidence.
+riddles.. obsolete
+details.. irrefutable
+intricacies.. equivocal
+patterns.. flawless
+configurations.. explicit
+答案：(C)
+archaeology: n.考古家
+dilemma: n.（进退两难的）窘境，困境
+reconstruct: v.1.重建，改组，重新构成 2.修复 3.重新描述，使（按原貌）再现
+meager: a.粗劣的，贪乏不足的，（作品）枯竭的，缺乏想象力的
+obsolete: a.废弃的，淘汰的，过时的
+irrefutable: a.无可辩驳的，不可否认的
+intricacy: n.1.错综复杂，复杂精细 2.难以了解，难以理解
+equivocal: a.模棱两可的，含糊的，有多种含义的
+flawless: a.1.无裂隙的，无裂痕的 2.无缺点的，无瑕的，完美的
+configuration: n.布局，构造，外形
+　
+考古学所面临的一个主要困境是，如何才能凭藉着贫乏而又经常是模棱两可的物质证据去重新再现错综复杂的古代社会的诸般复杂性。
+Just as the authors' book on eels is often a key
+text for courses in marine vertebrate zoology, their
+ideas on animal development and phylogeny -------
+teaching in this area.
+prevent
+defy
+replicate
+inform
+use
+答案：(D)
+eel: n.鳗鱼
+marine: a.海洋的，海生的
+vertebrate: n.脊椎动物
+zoology: n.1.动物学 2.动物区系 3.动物特性 4.动物学论文
+phylogeny: n.种系发生，系统发育
+defy: v.1.（公然）违抗，蔑视，藐视 2.经受得住 3.使成为不可能 4.挑，激
+replicate: v.复制，摹写
+inform: v.渗透，贯穿于…其中，使充满，充斥
+〔例：the principles which inform modern teaching:贯穿于现代教育学的原则〕
+　
+正如这些作者论述鳗鱼的著作常常构成了海洋脊椎动物学课程的主要教科书一样，他们有关动物发育和种系发生的见解也贯穿于这一领域的教学。
+ILLUMINATE: DARKNESS::
+educate: ignorance
+enlighten: scholarship
+liberate: freedom
+patronize: dignity
+protest: oppression
+答案：(A)
+照亮(说明；装饰):黑暗
+　
+教育:无知
+启蒙:学问(奖学金)
+解放:自由
+赞助，惠顾:尊严，高贵
+抗议:压迫
+
+INSTRUMENTALIST: ORCHESTRA::
+dancer: choreographer
+actor: troupe
+conductor: baton
+singer: composition
+director: play
+答案：(B)
+音器演奏家:管弦乐队
+　
+舞蹈家:舞蹈编排者
+演员:剧团
+乐队指挥:指挥捧
+歌唱家:作曲
+导演:戏剧
+BOWL: RECEPTACLE::
+painting: masterpiece
+brick: mortar
+tumbler: crystal
+cart: load
+bicycle: vehicle
+答案：(E)
+碗:容器
+　
+绘画:杰作
+砖:灰浆
+平底玻璃酒杯:水晶
+马车:装载
+自行车:车辆
+CAVERN: SPELUNKER::
+wood: carpenter
+horse: jockey
+machine: mechanic
+star: astronomer
+ocean: diver
+答案：(E)
+洞穴:洞穴学家，洞穴探险家
+　
+木头:木匠
+马:骑师
+机器:机械师
+恒星:天文学家
+海洋:潜水者
+LIKEN: SIMILARITY::
+classify: hierarchy
+hesitate: reluctance
+discriminate: difference
+argue: debate
+vacillate: decision
+答案：(C)
+比作(使象):相似性
+　
+分类:等级
+犹豫:不情愿
+辨别(歧视):区别，差异
+争辩:辩论
+踌躇不决(摆动):决定
+INSTIGATOR: INCITE::
+accomplice: threaten
+adjudicator: quarrel
+employee: strike
+bully: browbeat
+lawyer: enact
+答案：(D)
+煽动者:激起
+　
+同犯，帮凶:威胁
+裁决者:争吵
+雇员:罢工
+暴徒:欺侮弱者的人:威吓，威逼
+律师:颁布法律(扮演)
+GLACIAL: COLD::
+opaque : lucid
+viscid: liquid
+massive: lengthy
+profound: deep
+misshapen: flexible
+答案：(D)
+冰冷的:寒冷的
+　
+模糊的:清晰的
+粘的:液态的
+巨大的:冗长的
+深刻的，深奥的:深的
+畸形的，丑陋的:灵活的
+NEPOTISM : RELATIVE::
+cronyism: friend
+elitism: leader
+narcissism: self
+recidivism: criminal
+jingoism: patriot
+答案：(A)
+裙带关系:亲戚
+　
+任人唯亲:朋友
+杰出人物统治论:领导
+自恋:自己
+累犯:罪犯
+沙文主义:爱国者
+LAW: CRIMINALITY::
+ritual: orthodoxy
+leadership: submission
+consensus: factionalism
+lesson : falsehood
+rehabilitation : vacillation
+答案：(D)
+法律，法则:犯罪
+　
+仪式:正统观念
+领导阶层:恭顺服从
+意见一致:小团体主义
+教训:错误
+恢复:踌躇不决(摇摆)
+
+　　　National character is not formally
+　　considered by social scientists in
+　　discussing economic and social
+　　development today. They believe that
+(5) people differ and that these
+　　differences should be taken into account
+　　somehow, but they have as yet
+　　discovered no way to include such
+　　variables in their formal models of
+(10) economic and social development. The
+　　difficulty lies in the nature of the
+　　data that supposedly define different
+　　national characters. Anthropologists
+　　and others are on much firmer ground
+(15) when they attempt to describe the
+　　cultural norms for a small homogeneous
+　　tribe or village than when they
+　　undertake the formidable task of
+　　discovering the norms that exist in a
+(20) complex modern nation state composed
+　　of many disparate groups. The situation
+　　is further complicated by the nature of
+　　judgments about character; since such
+　　judgments are overly dependent on
+(25) impressions and since, furthermore,
+　　impressions are usually stated in
+　　qualitative terms,it is impossible to
+　　make a reliable comparison between the
+　　national characters of two countries.
+The author's main point in the
+passage is that national character
+is too elusive to merit attention
+by anthropologists and other social
+scientists.
+is of greater interest to social
+scientists today than it has been in
+the past.
+is still too difficult to describe
+with the precision required by many
+social scientists.
+has become increasingly irrelevant
+because of the complexity of modern lift.
+can be described more accurately
+by anthropologists than by other social
+scientists.
+答案：(C)
+今天，当社会科学家在讨论经济和发展时，国民性格（national character）并不被正式考虑在内。他们相信，人与人之间各不相同，这些差异应在某种程序上予以考虑，但他们迄今为止还不曾揭示出任何方式，将此类可变性因素（varibles）囊括到有关经济和社会发展的正规模式之中。之所以难以做到这一点，关键在于那些被认为有可能界定不同国民性格的数据的性质。当人类学家和其他人试图去描述一个小规模的同一性质（homogeneous）部落或村落的文化标准时，他们处在一种要坚实得多的基础上。相对而言，当他们着手从事这样一个艰巨的任务，即去揭示存在于一个复杂的、由许多彼此间毫无联系的群体所构成的现代单一民族的独立国家（nation-state）时，他们就具备一个同样坚实的基础。这一种情形更是由于性格判断的性质而进一步趋于扑朔迷离复杂化，因为这些判断过分依赖于印象；更进一步而言，因为印象是以定性的（qualitative）措辞表述出来的；因此，要两个国家的两种国民性格之间作出可靠的比较，这近乎不可能。
+Given the information in the passage,
+which of the following is NOT true of
+modern nation-states?
+They are complex.
+They are heterogeneous.
+They are of interest to social
+scientists.
+They lack cultural norms.
+They differ from one another in
+terms of national character.
+答案：(D)
+今天，当社会科学家在讨论经济和发展时，国民性格（national character）并不被正式考虑在内。他们相信，人与人之间各不相同，这些差异应在某种程序上予以考虑，但他们迄今为止还不曾揭示出任何方式，将此类可变性因素（varibles）囊括到有关经济和社会发展的正规模式之中。之所以难以做到这一点，关键在于那些被认为有可能界定不同国民性格的数据的性质。当人类学家和其他人试图去描述一个小规模的同一性质（homogeneous）部落或村落的文化标准时，他们处在一种要坚实得多的基础上。相对而言，当他们着手从事这样一个艰巨的任务，即去揭示存在于一个复杂的、由许多彼此间毫无联系的群体所构成的现代单一民族的独立国家（nation-state）时，他们就具备一个同样坚实的基础。这一种情形更是由于性格判断的性质而进一步趋于扑朔迷离复杂化，因为这些判断过分依赖于印象；更进一步而言，因为印象是以定性的（qualitative）措辞表述出来的；因此，要两个国家的两种国民性格之间作出可靠的比较，这近乎不可能。
+　It can be inferred from the passage
+that the social scientists mentioned in
+lines 1-10 would agree with which of the
+following statements
+　I. It is extremely difficult to create models
+　　that account for both economic and
+　　social development
+　II. Models of economic and social
+　　development would be improved by the
+　　inclusion of adequate descriptions of
+　　national character.
+　III it is important to supplement formal models
+　　of economic and social development
+　　with qualitative impressions of national
+　　character.
+I only
+II only
+III only
+I and III only
+II and III only
+答案：(B)
+今天，当社会科学家在讨论经济和发展时，国民性格（national character） 并不被正式考虑在内。他们相信，人与人之间各不相同，这些差异应在某种程序上予以考虑，但他们迄今为止还不曾揭示出任何方式，将此类可变性因素（varibles）囊括到有关经济和社会发展的正规模式之中。之所以难以做到这一点，关键在于那些被认为有可能界定不同国民性格的数据的性质。当人类学家和其他人试图去描述一个小规模的同一性质（homogeneous）部落或村落的文化标准时，他们处在一种要坚实得多的基础上。相对而言，当他们着手从事这样一个艰巨的任务，即去揭示存在于一个复杂的、由许多彼此间毫无联系的群体所构成的现代单一民族的独立国家（nation-state）时，他们就具备一个同样坚实的基础。这一种情形更是由于性格判断的性质而进一步趋于扑朔迷离复杂化，因为这些判断过分依赖于印象；更进一步而言，因为印象是以定性的（qualitative）措辞表述出来的；因此，要两个国家的两种国民性格之间作出可靠的比较，这近乎不可能。
+Which of the following best describes
+the organization of the passage?
+A problem is presented and reasons
+for its existence are supplied.
+A controversial view is presented
+and evidence for its validity is supplied.
+A hypothesis is presented and possible
+means of verifying it are suggested.
+A recent development is described and
+then analyzed.
+A dispute is summarized and one side
+defended.
+答案：(A)
+今天，当社会科学家在讨论经济和发展时，国民性格（national character）并不被正式考虑在内。他们相信，人与人之间各不相同，这些差异应在某种程序上予以考虑，但他们迄今为止还不曾揭示出任何方式，将此类可变性因素（varibles）囊括到有关经济和社会发展的正规模式之中。之所以难以做到这一点，关键在于那些被认为有可能界定不同国民性格的数据的性质。当人类学家和其他人试图去描述一个小规模的同一性质（homogeneous）部落或村落的文化标准时，他们处在一种要坚实得多的基础上。相对而言，当他们着手从事这样一个艰巨的任务，即去揭示存在于一个复杂的、由许多彼此间毫无联系的群体所构成的现代单一民族的独立国家（nation-state）时，他们就具备一个同样坚实的基础。这一种情形更是由于性格判断的性质而进一步趋于扑朔迷离复杂化，因为这些判断过分依赖于印象；更进一步而言，因为印象是以定性的（qualitative）措辞表述出来的；因此，要两个国家的两种国民性格之间作出可靠的比较，这近乎不可能。
+
+　　　One of the simplest and best known
+　　kinds of crystal is the ionic salt,
+　　of which a typical example is sodium
+　　chloride, or ordinary table salt. The
+(5) fundamental components of an ionic
+　　salt are ions: atoms or molecules
+　　that have become electrically charged
+　　by gaining or losing one or more
+　　electrons. In forming sodium chloride,
+(10) for example, sodium atoms give up an
+　　electron (thereby becoming, positively
+　　charged) and chlorine atoms gain an
+　　electron (thereby becoming negatively
+　　charged). The ions are attracted to
+(15) one another by their opposite
+　　charges, and they stack together
+　　compactly, like tightly packed spheres.
+　　　Recently, scientists at Michigan
+　　State University created a new kind
+(20) of crystal called an electride. In
+　　electrides,the anions (negative ions)
+　　are completely replaced by electrons,
+　　which are trapped in naturally formed
+　　cavities within a framework of regularly
+(25) stacked cations (positive ions).
+　　Electrides are the first examples
+　　of ionic salts in which all these
+　　anionic sites are occupied solely
+　　by electrons.
+(30) 　Unlike other types of anions,anionic
+　　electrons do not behave as if they
+　　were simple charged spheres. In
+　　particular, because of their low
+　　mass and their tendency to interact
+(35) with one another over great distances,
+　　they cannot be "pinned down" to any
+　　one location. Instead, they wander
+　　close to and among the atoms lining
+　　the cavity and interact with electrons
+(40) in nearby cavities, perhaps changing
+　　places with them.
+　　　The properties of an electride depend
+　　largely on the distance between the
+　　cavities that hold trapped electrons.
+(45) When the trapped electrons are far
+　　apart, they do not interact strongly,
+　　and so behave somewhat like an array
+　　of isolated negative charges. When
+　　they are closer together, they begin
+(50) to display properties associated with
+　　large ensembles of identical particles.
+　　When they are still closer,the ensemble
+　　properties dominate and the electrons
+　　"delocalize":they are no longer tightly
+(55) bound within individual cavities but
+　　are more or less free to pass through
+　　the spaces within the frame-work of
+　　positive ions.
+　　　By synthesizing electrides from a
+(60) variety of materials, one can vary
+　　the geometry of the anionic cavities
+　　and their relation to the surrounding
+　　cations. The resulting properties may
+　　make it possible for electrides to
+(65) become a basis for economically useful
+　　new materials and devices.For instance,
+　　because the electrons in some electrides
+　　are very weakly bound, these crystals
+　　could be effective as photosensitive
+(70) detectors, in which an impinging photon
+　　liberates an electron, resulting in a
+　　small electric current. The same weak
+　　binding could also make electrides
+　　useful in solar-energy converters
+(75) and as cathodes in batteries. One
+　　obstacle is the tendency of electrides
+　　to decompose through reaction with air
+　　and water. Researchers are seeking ways
+　　to increase their stability.
+The passage is primarily concerned
+with discussing
+a way to isolate electrons
+the characteristics of a new kind
+of crystal
+the structure of an ionic salt
+commercial uses for electrides
+the properties of ions
+答案：(B)
+　　在各种最简单和最为人熟知的晶体中，离子盐即是其中之一，其典型的实例就是氯化钠，或普通佐餐食盐。离子盐的基本成分是离子：那些由于获得或失去了一个或多个电子而变成带有电荷的原子或分子。例如，在形成氯化钠的过程中，同原子放弃一个电子（从而变成带正电），而氯则获得一个电子（从而变成带负电）。离子由于其相反的电荷而相互吸引，它们更加结实地堆砌在一起，如同紧密挤压在一起的球体一般。
+　
+　　最近，密执安州立大学的科学家创造出一种晶体，称为电子晶体。在电子晶体中，阴离子（带负电荷的离子）完全被电子所替代。在正常堆砌在一起的阳离子（带正电荷的离子）的架构内，这些电子被困在自然形成的空隙中。电子晶体是离子盐的最早实例，所有阴离子的空间全部为电子所占据。
+　
+　　与其它类型的阴离子不同，阴离子的电子不会以某些方式来运用，仿佛它们是一些简单的带电球体那样。具体地说，由于其质量低，并由于它们倾向于在相隔甚远的情形下亦能彼此间产生交互作用，因此，它们不会被“钉死”在任何一个固定位置。恰恰相反，它们会到处游离，或者紧靠着那些排列在空隙边缘的原子，或者在这些原子之间，并且还与邻近空隙中的电子产生交互作用，或许与它们交换位置。电子晶体的诸属性很大程度上取决于那些将受困电子容纳在一起的一个空隙与另一个空隙之间的距离。当受困电子相隔甚远时，它们不会发生强烈的交互作用，因而在某种程度上表现为一排孤立的负电荷。当它们贴得较近时，它们便呈现出与成群相同粒子有关的属性来。当它们更趋接近时，群体属性便占据统治地位，每个电子顿始“离域：它们在单个的空隙中不再被紧密地结合在一起，而可或多或少自由地穿越正离子架构中的空间。
+　
+　　科学家们通过从各种材料中合成电子晶体，可改变阴离子空隙的几何结构，并改变它们与周围阳离子的关系。随之而产生的诸属性不可使电子晶体成为那些具有经济效用的材料和装置的一个基础。例如，由于某些电子晶体内的电子结合得非常微弱，这些晶体就能作为感光探测物发挥作用，在此类探测物中，一个碰撞的光子释放出一电子，随之而造成一般小电流。同样的这种微弱结合亦可使电子晶体在太阳能转换器中派上用场，并在电池中用作阴极。电子晶体的一个不足之处是它易于与空气和水发生反应而分解。科研人员正设法寻找各种方法以提高其稳定性。
+In the first paragraph, the author
+is primarily concerned with
+introducing a variant on the
+standard atomic theory
+describing how chlorine atoms can
+become negatively charged
+describing some early research at
+Michigan State University
+presenting the identifying pro-
+perties of an electride
+providing background for the
+technical discussion to follow
+答案：(E)
+　　在各种最简单和最为人熟知的晶体中，离子盐即是其中之一，其典型的实例就是氯化钠，或普通佐餐食盐。离子盐的基本成分是离子：那些由于获得或失去了一个或多个电子而变成带有电荷的原子或分子。例如，在形成氯化钠的过程中，同原子放弃一个电子（从而变成带正电），而氯则获得一个电子（从而变成带负电）。离子由于其相反的电荷而相互吸引，它们更加结实地堆砌在一起，如同紧密挤压在一起的球体一般。
+　
+　　最近，密执安州立大学的科学家创造出一种晶体，称为电子晶体。在电子晶体中，阴离子（带负电荷的离子）完全被电子所替代。在正常堆砌在一起的阳离子（带正电荷的离子）的架构内，这些电子被困在自然形成的空隙中。电子晶体是离子盐的最早实例，所有阴离子的空间全部为电子所占据。
+　
+　　与其它类型的阴离子不同，阴离子的电子不会以某些方式来运用，仿佛它们是一些简单的带电球体那样。具体地说，由于其质量低，并由于它们倾向于在相隔甚远的情形下亦能彼此间产生交互作用，因此，它们不会被“钉死”在任何一个固定位置。恰恰相反，它们会到处游离，或者紧靠着那些排列在空隙边缘的原子，或者在这些原子之间，并且还与邻近空隙中的电子产生交互作用，或许与它们交换位置。电子晶体的诸属性很大程度上取决于那些将受困电子容纳在一起的一个空隙与另一个空隙之间的距离。当受困电子相隔甚远时，它们不会发生强烈的交互作用，因而在某种程度上表现为一排孤立的负电荷。当它们贴得较近时，它们便呈现出与成群相同粒子有关的属性来。当它们更趋接近时，群体属性便占据统治地位，每个电子顿始“离域：它们在单个的空隙中不再被紧密地结合在一起，而可或多或少自由地穿越正离子架构中的空间。
+　
+　　科学家们通过从各种材料中合成电子晶体，可改变阴离子空隙的几何结构，并改变它们与周围阳离子的关系。随之而产生的诸属性不可使电子晶体成为那些具有经济效用的材料和装置的一个基础。例如，由于某些电子晶体内的电子结合得非常微弱，这些晶体就能作为感光探测物发挥作用，在此类探测物中，一个碰撞的光子释放出一电子，随之而造成一般小电流。同样的这种微弱结合亦可使电子晶体在太阳能转换器中派上用场，并在电池中用作阴极。电子晶体的一个不足之处是它易于与空气和水发生反应而分解。科研人员正设法寻找各种方法以提高其稳定性。
+?　It can be inferred from the passage
+that the differences between the
+behavior of anionic electrons and
+normal anions result from which of
+the following features of electrons.
+as compared to normal anions?
+　I The much lower mass of electrons
+　II The much greater tendency of
+　　electrons to interact with one another
+　　over large distances
+　III The much greater likelihood of
+　　electrons to remain trapped in naturally
+　　formed anionic cavities.
+I only
+II only
+I and II only
+I and III only
+II and III only
+答案：(C)
+　　在各种最简单和最为人熟知的晶体中，离子盐即是其中之一，其典型的实例就是氯化钠，或普通佐餐食盐。离子盐的基本成分是离子：那些由于获得或失去了一个或多个电子而变成带有电荷的原子或分子。例如，在形成氯化钠的过程中，同原子放弃一个电子（从而变成带正电），而氯则获得一个电子（从而变成带负电）。离子由于其相反的电荷而相互吸引，它们更加结实地堆砌在一起，如同紧密挤压在一起的球体一般。
+　
+　　最近，密执安州立大学的科学家创造出一种晶体，称为电子晶体。在电子晶体中，阴离子（带负电荷的离子）完全被电子所替代。在正常堆砌在一起的阳离子（带正电荷的离子）的架构内，这些电子被困在自然形成的空隙中。电子晶体是离子盐的最早实例，所有阴离子的空间全部为电子所占据。
+　
+　　与其它类型的阴离子不同，阴离子的电子不会以某些方式来运用，仿佛它们是一些简单的带电球体那样。具体地说，由于其质量低，并由于它们倾向于在相隔甚远的情形下亦能彼此间产生交互作用，因此，它们不会被“钉死”在任何一个固定位置。恰恰相反，它们会到处游离，或者紧靠着那些排列在空隙边缘的原子，或者在这些原子之间，并且还与邻近空隙中的电子产生交互作用，或许与它们交换位置。电子晶体的诸属性很大程度上取决于那些将受困电子容纳在一起的一个空隙与另一个空隙之间的距离。当受困电子相隔甚远时，它们不会发生强烈的交互作用，因而在某种程度上表现为一排孤立的负电荷。当它们贴得较近时，它们便呈现出与成群相同粒子有关的属性来。当它们更趋接近时，群体属性便占据统治地位，每个电子顿始“离域：它们在单个的空隙中不再被紧密地结合在一起，而可或多或少自由地穿越正离子架构中的空间。
+　
+　　科学家们通过从各种材料中合成电子晶体，可改变阴离子空隙的几何结构，并改变它们与周围阳离子的关系。随之而产生的诸属性不可使电子晶体成为那些具有经济效用的材料和装置的一个基础。例如，由于某些电子晶体内的电子结合得非常微弱，这些晶体就能作为感光探测物发挥作用，在此类探测物中，一个碰撞的光子释放出一电子，随之而造成一般小电流。同样的这种微弱结合亦可使电子晶体在太阳能转换器中派上用场，并在电池中用作阴极。电子晶体的一个不足之处是它易于与空气和水发生反应而分解。科研人员正设法寻找各种方法以提高其稳定性。
+According to the passage, the
+defining characteristic of an electried
+is which of the following?
+Its positive ions are of par-
+ticularly low mass.
+Its ions possess identical elec-
+trical charges.
+It contains a framework of regularly
+stacked ions.
+Its ions demonstrate strong mutual
+attraction.
+Its negative ions consist solely
+of electrons.
+答案：(E)
+　　在各种最简单和最为人熟知的晶体中，离子盐即是其中之一，其典型的实例就是氯化钠，或普通佐餐食盐。离子盐的基本成分是离子：那些由于获得或失去了一个或多个电子而变成带有电荷的原子或分子。例如，在形成氯化钠的过程中，同原子放弃一个电子（从而变成带正电），而氯则获得一个电子（从而变成带负电）。离子由于其相反的电荷而相互吸引，它们更加结实地堆砌在一起，如同紧密挤压在一起的球体一般。
+　
+　　最近，密执安州立大学的科学家创造出一种晶体，称为电子晶体。在电子晶体中，阴离子（带负电荷的离子）完全被电子所替代。在正常堆砌在一起的阳离子（带正电荷的离子）的架构内，这些电子被困在自然形成的空隙中。电子晶体是离子盐的最早实例，所有阴离子的空间全部为电子所占据。
+　
+　　与其它类型的阴离子不同，阴离子的电子不会以某些方式来运用，仿佛它们是一些简单的带电球体那样。具体地说，由于其质量低，并由于它们倾向于在相隔甚远的情形下亦能彼此间产生交互作用，因此，它们不会被“钉死”在任何一个固定位置。恰恰相反，它们会到处游离，或者紧靠着那些排列在空隙边缘的原子，或者在这些原子之间，并且还与邻近空隙中的电子产生交互作用，或许与它们交换位置。电子晶体的诸属性很大程度上取决于那些将受困电子容纳在一起的一个空隙与另一个空隙之间的距离。当受困电子相隔甚远时，它们不会发生强烈的交互作用，因而在某种程度上表现为一排孤立的负电荷。当它们贴得较近时，它们便呈现出与成群相同粒子有关的属性来。当它们更趋接近时，群体属性便占据统治地位，每个电子顿始“离域：它们在单个的空隙中不再被紧密地结合在一起，而可或多或少自由地穿越正离子架构中的空间。
+　
+　　科学家们通过从各种材料中合成电子晶体，可改变阴离子空隙的几何结构，并改变它们与周围阳离子的关系。随之而产生的诸属性不可使电子晶体成为那些具有经济效用的材料和装置的一个基础。例如，由于某些电子晶体内的电子结合得非常微弱，这些晶体就能作为感光探测物发挥作用，在此类探测物中，一个碰撞的光子释放出一电子，随之而造成一般小电流。同样的这种微弱结合亦可使电子晶体在太阳能转换器中派上用场，并在电池中用作阴极。电子晶体的一个不足之处是它易于与空气和水发生反应而分解。科研人员正设法寻找各种方法以提高其稳定性。
+It can be inferred from the passage
+that anions behaving as "simple charged
+spheres" (line 32) could be expected to
+readily lose electrons and become
+positively charged
+move freely in and out of their
+cavities
+respond to photons by liberating
+electrons
+stack with other anions to create
+a regular framework
+remain fixed relative to their
+cations
+答案：(E)
+　　在各种最简单和最为人熟知的晶体中，离子盐即是其中之一，其典型的实例就是氯化钠，或普通佐餐食盐。离子盐的基本成分是离子：那些由于获得或失去了一个或多个电子而变成带有电荷的原子或分子。例如，在形成氯化钠的过程中，同原子放弃一个电子（从而变成带正电），而氯则获得一个电子（从而变成带负电）。离子由于其相反的电荷而相互吸引，它们更加结实地堆砌在一起，如同紧密挤压在一起的球体一般。
+　
+　　最近，密执安州立大学的科学家创造出一种晶体，称为电子晶体。在电子晶体中，阴离子（带负电荷的离子）完全被电子所替代。在正常堆砌在一起的阳离子（带正电荷的离子）的架构内，这些电子被困在自然形成的空隙中。电子晶体是离子盐的最早实例，所有阴离子的空间全部为电子所占据。
+　
+　　与其它类型的阴离子不同，阴离子的电子不会以某些方式来运用，仿佛它们是一些简单的带电球体那样。具体地说，由于其质量低，并由于它们倾向于在相隔甚远的情形下亦能彼此间产生交互作用，因此，它们不会被“钉死”在任何一个固定位置。恰恰相反，它们会到处游离，或者紧靠着那些排列在空隙边缘的原子，或者在这些原子之间，并且还与邻近空隙中的电子产生交互作用，或许与它们交换位置。电子晶体的诸属性很大程度上取决于那些将受困电子容纳在一起的一个空隙与另一个空隙之间的距离。当受困电子相隔甚远时，它们不会发生强烈的交互作用，因而在某种程度上表现为一排孤立的负电荷。当它们贴得较近时，它们便呈现出与成群相同粒子有关的属性来。当它们更趋接近时，群体属性便占据统治地位，每个电子顿始“离域：它们在单个的空隙中不再被紧密地结合在一起，而可或多或少自由地穿越正离子架构中的空间。
+　
+　　科学家们通过从各种材料中合成电子晶体，可改变阴离子空隙的几何结构，并改变它们与周围阳离子的关系。随之而产生的诸属性不可使电子晶体成为那些具有经济效用的材料和装置的一个基础。例如，由于某些电子晶体内的电子结合得非常微弱，这些晶体就能作为感光探测物发挥作用，在此类探测物中，一个碰撞的光子释放出一电子，随之而造成一般小电流。同样的这种微弱结合亦可使电子晶体在太阳能转换器中派上用场，并在电池中用作阴极。电子晶体的一个不足之处是它易于与空气和水发生反应而分解。科研人员正设法寻找各种方法以提高其稳定性。

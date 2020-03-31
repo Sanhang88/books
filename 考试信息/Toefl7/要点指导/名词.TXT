@@ -1,0 +1,43 @@
+名词
+有关名词的题目在历届TOEEL考试中占相当大的比例，但题形却非常单一易解。名词的命题焦点主要集中在名词的单复数问题上。试题通常分布在written Expression (16-40题〕中。名词的考题过于简单。反而易被忽略，所以还应当加倍留意。
+名词常考题型及解题要点
+1. 可数名词的复数概念必须加－s，不可数名词任何时候都不可接-s
+全真例题分析
+(1) Every year Colorado is visited by millions of tourists who come for a variety of teason. (92.8)
+[答案] D reason为可数名词，a varity of 表示多数概念，故（D）应改为reasons。
+(2)Rebecca Latimer, a political commentator and the author of several book ,was the first woman to become a United States senator. (92.10)
+[答案] C book为可数名词，several表示多数概念，故（C）应用复数形式books。
+(3) The most useful way of looking at a map is not as a piece of papers but as a record of geographically organized information. (91.1)
+[答案] C paper表示“纸张”时是不可数名词，不能接－s。
+(4) Andrew Wyeth is famous for his realistic and thoughtful paintings of person and plans in rural Pennsylvania and Maine (93.5)
+[答案] C person为可数名词，根据句意，这里应是多数概念的people。
+2. 名词的数应与其前面的修饰成分一致
+解题要点 下述单词和短语决定名词的单复数：a / an every much many some several this those other one of…等等
+全真例题分析
+(1) A time zone is a slightly irregular north-south belts that extends from pole to pole (92.10)
+[答案] C 中心名词belts前有不定冠词a，故应改为单数belt。A / an与其中心名词之间隔有冗长的定语成分，此名词常是考题焦点。
+(2) Although mockingbirds superbly mimicthe songs and calls of many bird they can nonetheless be quickly identified as mockingbirds by certain aural clues. (94.1)
+[答案] B bird为不可数名词，它前面的修饰语many即决定了它应用复数形式。
+(3) The fritillaries, one of the largest group of bufferflies, are found not only in this country but in many other pants of the world as well (94.5)
+[答案] A 短语one of…后面必须接名词的复数形式，即groups。
+(4) Manganese does exist naturally in a pure state because it reacts so easily with other element. (91.1)
+[答案] D 形容词other后面接复数的可数名词，故element 应加－s.
+(5) In 1987 the sales of ice cream in the United States amounted to fifteen quarts per year for every persons in the country. (92.1)
+[答案] D 形容词every后面应接单数名词，即person。
+3. 名词的数应与谓语动词一致
+全真例题分析
+(1) Approximately fifty percent of the package utilized in the United States are for foods and beverages. (92.5)
+[答案] A 主语是package的百分比率，谓语动词are则决定了package的复数形式。
+(2) Human being have thirty-three or thirty-four vertebrate, bat a snake may have as many as three hundred. (93.8)
+[答案] A 谓语动词have表明主语应是复数形式，即human beings。
+(3) Beneath the deep oceans that cover two-thirds of the Earth tantalizing secret of the planet are concealed. (91.10)
+[答案] C 谓语动词are 决定了主语secret应接复数形式-s。
+4. 一个名词修饰限定另一个名词时，第一个名词只能用单数形式
+解题要点 当你看到两个名词连用时，一定留意第一个名词的单数的形式。
+全真例题分析
+(1) Employments agencies bring together persons qualified for specific jobs and employers who have those jobs available (90.10)
+[答案] A 名词emplogments修饰说明后面的名词agencies，其作用相当于一个形容词，故应用单数形式。
+(2) Acrylic paint enables artists to experiment with many colors effects. (90.5)
+[答案] D名词colors修饰说明effects，应用其单数形式。
+(3) Susan Sontag*s aversion to the traditional critical practice of extracting morals meanings from art is reflected in her novels. (92.1)
+[答案] B morals应用单数形式修饰后面的名词meanings。

@@ -1,0 +1,28 @@
+由标点符号引起的错句
+
+   在英语的错误中，有两种和标点符号有关。一种是应用逗号却用了句点；另一种应用句点却用了逗号。前种情况使句子不完整；后种情况，则无休止符。
+   这里就详细谈谈这两个问题。
+   大家知道，一个完整的句子有主语（The Subject）和谓语（The Predicate）。除了省略句（Elliptical Sentences）之外，一般的句子，都由“主语＋谓语”组成一个简单句（The Simple Sentence ）。一个短语或分句没有了主句，便是不完整的句子（Fragmentary Sentences），便是错误句。
+   在下列句子中，①a, ②a, ③a全错；①b, ②b, ③b才对：
+① a. I have two purposes of dieting. To save money on food and to trim my waistline.
+　 b. I have two purposes of dieting: to save money on food and to trim my waistline.
+② a. That desk has a secret drawer. Into which James stuffed all the old bills.
+　 b. That desk has a secret drawer into which James stuffed all the old bills.
+③ a. The old men jumped through the window. Because it was the only way of escaping the fire.
+　 b. The old man jumped through the window because it was the only way of escaping the fire.
+   和不完整的句子呈强烈对照的是只有逗号的句子（Run-on Sentences）。这样的句子，一个接一个，没有句点，也没有连词，这是不对的；因此，④a和⑤a错；④b和⑤b对：
+④ a. All at once, we knew the answer, Jenny was lying.
+　 b. All at once, we knew the answer. Jenny was lying.
+⑤ a. Helen is an excellent singer, one of the best in this country, don't you think so?
+　 b. Helen is an excellent singer, one of the best in this country. Don't you think so?
+   下面这段文字里有些句子不完整，有些又一句接一句，欲罢不能。你能不能把这些错误找出来，并加以改正。
+① Tony was a good singer, he went in for singing at a very young age.
+② lt goes without saying that he was keen on singing, many people did not like singing at all.
+③ But as far as Tony was concerned. Singing became part of his life.
+④ Whenever he was tired or ill, he would; as a rule, consider it good to sing a song (for entertainment).
+⑤ The moment Tony played his musical instrument and sang. All living things came to listen to him. In other words, his singing was welcomed by all creatures.
+⑥ Like anyone else; Mary loved his singing and decided to marry him.
+⑦ Tony too, loved her dearly. At first sight.
+⑧ But one day, Mary was killed, in the field.
+⑨ For many days Tony was sad at her death. ⑩ Soon he died of grief.
+答案：① ...a good singer. He went in for ...　②. ..singing. Many people...　③ ...concerned, singing... ④ ...he would, as a rule, consider...　⑤ ...and sang, all living things...　⑥ Like anyone else, Mary...　⑦ ...loved her dearly at first sight.　⑧ ...killed in the field...　⑨ For many days, ...　⑩ Soon, he died of grief.

@@ -1,0 +1,300 @@
+GMAT全真题六---2
+5. In several ctities, the government is going ahead with ambitious construction projects despite the high office-vacancy rates in those cities. The vacant offices, though available for leasing, unfortunately do not meet the requirements for the facilities needed, such as court houses and laboratories. The government, therefore, is not guilty of any fiscal wastefulness.
+Which of the following is an assumption on which the argument above depends?
+  (A) Adaptaion of vacant office space to meet the government's requirements, if possible, would not make leasing such office space a more cost-effective alternative to new construction.
+  (B) The government prefers leasing facilities to owning them in cases where the two alter-natives are equally cost-effective.
+  (C) If facilities available for leasing come very close to meeting the government's requirements for facilities the government's requirements for facilities the government needs, the government can relax its own requirements slightly and consider those facilities in compliance.
+  (D) The government's construction projects would not, on being completed, add to the stock of facilities available for leasing in the cities concerned.
+  (E) Before embarking on any major construction project, the government is required by law to establish beyond any reasonable doubt that there are no alternatives that are more cost-effective.
+6. Potato cyst nematodes are a pest of potato crops. The nematodes can lie dormant for several years in their cysts, which are protective capsules, and do not emerge except in the presence of chemicals emitted by potato roots. A company that has identified the relevant chemicals is planning to market them to potato farmers to spread on their fields when no potatoes are planted; any nematodes that emerge will soon starve to death.
+Which of the following, if true, best supports the claim that the company's plan will be successful?
+  (A) Nematodes that have emerged from their cysts can be killed by ordinary pesticides.
+  (B) The only part of a potato plant that a nematode eats is the roots.
+  (C) Some bacteria commonly present in the roots of potatoes digest the chemicals that cause the nematodes to emerge from their cysts.
+  (D) Trials have shown that spreading even inute quantities of the chemicals on potato fields caused nine-tenths of the nematodes present to emerge from their cysts.
+  (E) The chemicals that cause the nematodes to emerge from their cysts are not emitted all the time the potato plant is growing.
+7. It is better for the environment if as much of all packaging as possible is made from materials that are biodegradable in landfills. Therefore, it is always a change for the worse to replace packaging made from paper or cardboard with packaging made from plastics that are not biodegradable in landfills.
+Which of the following, if true, constitues the strongest objection to the argument above?
+  (A) The paper and cardboard used in packaging are usually not biodegradable in landfills.
+  (B) Some plastic used in packaging is biodegradable in landfills.
+  (C) In many landfills, a significant proportion of space is taken up by materials other than discarded packaging materials.
+  (D) It is impossible to avoid entirely the use of packaging materials that are not biodegradable in landfills.
+  (E) Sometimes, in packaging an item, plastics that are not biodegradable in landfills are combined with cardboard.
+8. Any serious policy discussion about acceptable levels of risk in connection with explosions is not well served if the participants fail to use the word "explosion" and use the phrase "energetic disassembly" instead. In fact, the word "explosion" elicits destrable reactions, such as a heightened level of attention whereas the substitute phrase does not. Therefore, of the two terms. "explosion" is the one that should be used throughout discussions of the sort
+Which of the following is an assumption on which the argument above depends?
+  (A) In the kind of discussion at issue, the advantages of desirable reactions to the term "explosion" outweigh the drawbacks, if any arising from undesirable reactions to that term.
+  (B) The phrase "energetic disassembly" has not so far been used as a substitute for the word "explosion" in the kind of discussion at issue
+  (C) In any serious policy discussion. what is said by the participants is more important than how it is put into words.
+  (D) The only reason that people would have for using "energetic disassembly" in place of "explosion" is to render impossible any serious policy discussion concernign explosions.
+  (E) The phrase "energetic disassembly" is not necessarily out of place in describing a controlled rather than an accidental explosion.
+9. Mannis Corporation's archival records are stored in an obsolete format that is accessible only by its current computer system; thus they are inaccessible when that system is not funcitioning properly. In order to avoid the possibility of losing access to their archival records in the case of computer malfunction, Mannis plans to replace its current computer system with a new system that stores records in a format that is accessible to several different systems.
+The answer to which of the following questions would be most helpful in evaluating the effectiveness of the plan as a means of retaining access to the archival records?
+  (A) Will the new computer system require fewer operators than the current system requires?
+  (B) Has Mannis Corporation always stored its archival records in a computerized format?
+  (C) Will the new computer system that Mannis plans ensure greater security for the records stored than does Mannts' current system?
+  (D) Will Mannts' current collection of archival records be readily transferable to the new computer system?
+  (E) Will the new computer system be able to perform many more tasks than the current system is able to perform?
+10. Last year the worldwide paper industry used over twice as much fresh pulp (pulp made directly from raw plant fibers) as recycled pulp (pulp made from wastepaper). A paper-industry analyst has projected that by 2010 the industry will use at least as much recycled pulp annually as it does fresh pulp, while using a greater quantity of fresh pulp than it did last year.
+If the information above is correct and the analyst's projections prove to be accurate, which of the following projections must also be accurate?
+  (A) In 2010 the paper industry will use at least twice as much recycled pulp as it did last year.
+  (B) In 2010 the paper industry will use at least twice as much total pulp as it did last year.
+  (C) In 2010 the paper industry will produce more paper from a given amount of pulp than it did last year.
+  (D) As compared with last year in 2010 the paper industry will make more paper that contains only recycled pulp.
+  (E) As compared with last year, in 2010 the paper industry will make less paper that contains only fresh pulp.
+11. In malaria-infested areas, many children tend to suffer several bouts of malaria before becoming immune to the disease. Clearly, what must be happening is that those children's immune systems are only weakly stimulated by any single exposure to the malaria parasite and need to be challenged several times to produce an effective immune response.
+Which of the following, if true, most seriously undermines the explanatory hypothesis?
+  (A) Immediately after a child has suffered a bout of malaria, the child's caregivers tend to go to great lengths in taking precautions to prevent another infection but this level of attention is not sustained.
+  (B) Malaria is spread from person to person by mosquitoes, and mosquitoes have become increasingly resistant to the pesticides used to control them.
+  (C) A certain gene, if inherited by children from only one of their parents, can render those children largely immune to infection with malaria.
+  (D) Antimalaria vaccines, of which several are in development, are all designed to work by stimulating the body's immune system.
+  (E) There are several distinct strains of malaria, and the body's immune response to any one of them does not protect it against the others.
+12. An advertisement designed to convince readers of the great durability of automobiles manufactured by the Deluxe Motor Car Company cites as evidence the fact that over half of all automobiles built by the company since 1970 are still on the road today, compared to no more than a third for any other manufacturer.
+Which of the following, if true, most strongly supports the advertisement's argument?
+  (A) After taking inflation into account, a new Deluxe automobile costs only slightly more than a new model did in 1970
+  (B) The number of automobiles built by Deluxe each year has not increased sharply since 1970
+  (C) Owners of Deluxe automobiles typically keep their cars well mantained.
+  (D) Since 1970 Deluxe has made fewer changes in the automobiles it manufactures than other car companies have made in their automobiles.
+  (E) Deluxe automobiles have been selling at rela-tively stable prices in recent years.
+13. Many state legislatures are considering proposals to the effect that certain policies should be determined not by the legislature itself but by public relerenda in which every voter can take part. Crities of the proposals argue that the outcomes of public referenda would be biased since wealthy special-interest groups are able to influence voters' views by means of television advertisements.
+Which of the following if true, most strengthens the crities' argument?
+  (A) Many state legislators regard public refereda as a way of avoiding voting on issues on which their constituents are divided.
+  (B) During elections for members of the legislature, the number of people who vote is unaffected by whether the candidates run television advertisements or not.
+  (C) Proponents of policies that are opposed by wealthy special-interest groups are often unalbe to afford advertising time on local television stations.
+  (D) Different special-interest groups often take opposing positions on questions of which policies the state should adopt.
+  (E) Television stations are reluctant to become associated with any one political opinion. for fear of losing viewers who do not share that opinion.
+14. Advertisement.
+Of the many over-the-counter medications marketed for the relief of sinus headache, SineEase costs the least per dose, And SineEase is as effective per dose as the most effective of those other medications. So for relief from sinus headaches, SineEase is the best buy.
+Which of the following if true most seriously weakens the argument above?
+  (A) Most of the over-the-counter medications marketed for the relief of sinus headache are equally effective per dose in providing such relief
+  (B) Many of the over-the-counter medications marketed for the relief of sinus headache contain the same active ingredient as SineEase.
+  (C) People who suffer from frequent sinus headaches are strongly advised to consult a doctor before taking any over-the-counter medication.
+  (D) An over-the-counter medication that is marketed for the reliet of symptoms of head cold is identical in composition to SineEase but costs less per dose.
+  (E) The per dose price for any given over-the-counter medication marketed for the relief of sinus headache is higher for smaller packages than it is for larger packages.
+15. In the United States, vacationers account for more than half of all visitors to what are technically called "pure aquariums" but for fewer than one quarter of all visitors to zoos; which usually include a "zoo aquarium" of relatively modest scope.
+Which of the following if true, most helps to account for the difference described above between visitors to zoos and visitors to pure aquariums?
+  (A) In cities that have both a zoo and a pure aquarium, local residents are twice as likely to visit the aquarium as they are to visit the zoo.
+  (B) Virually all large metropolitan areas have zoos. whereas only a few large metropolitan areas have pure aquarums.
+  (C) Over the last ten years, newly constructed pure aquariums have outnumbered newly established zoos by a factor of two to one.
+  (D) People who visit a zoo in a given year are two times more likely to visit a pure aquarium that year than are people who do not visit a zoo.
+  (E) The zoo aquariums of zoos that are in the same city as a pure aquarium tend to be smaller than the aquariums of zoos that have no pure aquarium nearby
+16. Which of the following, if true, is the most logical completion of the argument below?
+The tax system of the Republic of Grootland encourages borrowing by granting its taxpayers tax relief for interest paid on loans. The system also discourages saving by taxing any interest earned on saving. Nevertheless, it is clear that Grootland's tax system does not consistently favor borrowing over saving, for if it did, there would be no……
+  (A) tax relief in Grootland for those processing fees taxpayer's income, if any, that are set aside to increase that taxpayer's total savings
+  (B) tax relief in Grootland for the processing fees that taxpayers pay to lending institutions when obtaining certain kinds of loands.
+  (C) tax relief in Grootland for interest that taxpayers are charged on the unpaid balance credit card accounts
+  (D) taxes due in Grootland on the cash value of gifts received by taxpayers from banks trying to encourage people to open savings accounts
+  (E) taxes due in Grootland on the amount that a taxpayer has invested in interest-bearing savings accounts
+SECTION 5
+Time-25 minutes
+16 Questions
+1. Which of the following fractions is equal to 0.16?
+2. There is a total of 120 marbles in a box, each of which is red, green blue or white If one marble is drawn from the box at random the probability that it will be white is  and the probability that it will be green is . What is the probability that the marble will be either red or blue?
+3. If x is a positive number less than 10 which of the following is least?
+  (A) x-20
+  (B) x
+  (C) 0
+  (D) -x
+  (E) 20-x
+4. A computer programmer needs to print 148 documents. The documents have an average (arithmetic mean) length of 10 pages and the printer takes 15 seconds to print each page. Approximately how many hours will it take to print all the documents if they are printed without interruptions?
+  (A) hr
+  (B) 2hr
+  (C) 2hr
+  (D) 6hr
+  (E) 24hr
+5. The figure above represents a frame; the shaded regions represent the openings in the frame. If all line segments in the figure are either horizontal or vertical and the openings are the same size. what are the dimensions of each opening?
+  (A) 4.5 cm by 5 cm
+  (B) 4.5 cm by 6.5 cm
+  (C) 5 cm by 5.5 cm
+  (D) 5 cm by 9 cm
+  (E) 5 cm by 11 cm
+6. Jaime earned enough money by selling seashell at 25 cents each to buy several used paperback books at 55 cents each. If he spent all of the money he earned selling seashells to buy the books, what is the least number of seashells he could have sold?
+  (A) 5
+  (B) 11
+  (C) 17
+  (D) 25
+  (E) 30
+7. A wildlife preserve is being planned for 3.000 rhinoceroses. The preserve is to contain a total of 10.000 acres of watering area. plus 100 acres of grazing area for each rhinoceros. If the number of rhinoceroses is expected to increase by 10 percent. how many thousand acres should the preserve have in order to provide for the increased population?
+  (A) 340
+  (B) 330
+  (C) 320
+  (D) 310
+  (E) 300
+8. For the positive numbers n. n+1. n+2. n+4. and n+8. the mean is how much greater than the median?
+  (A) 0
+  (B) 1
+  (C) n+1
+  (D) n+2
+  (E) n+3
+9. The figure above shows the dimensions of an isosceles triangle in terms of x. What is the area of the triangle?
+  (A) 24
+  (B) 30
+  (C) 48
+  (D) 60
+  (E) 96
+10. In a certain animal population, for each of the first 3 months of life. the probability that an animal will die during that month is . For a group of 200 newborn members of the population, approxi-mately how many would be expected to survive the first 3 months of life?
+  (A) 140
+  (B) 146
+  (C) 152
+  (D) 162
+  (E) 170
+11. In the figure above, how many of the points on line segment PQ have coordinates that are both integers?
+  (A) 5
+  (B) 8
+  (C) 10
+  (D) 11
+  (E) 20
+12. What is the least number of digits (including repetitions) needed to express 10100 in decimal notation?
+  (A) 4
+  (B) 100
+  (C)101
+  (D) 1.000
+  (E) 1.001
+13. The concentration of a certain chemical in a full water tank depends on the depth of the water. At a depth that is x feet below the top of the tank, the concentration is parts per million, where 0<x<4. To the nearest 0.1 foot, at what depth is the concentration equal to 6 parts per million?
+  (A) 2.4 ft
+  (B) 2.5 ft
+  (C) 2.8 ft
+  (D) 3.0 ft
+  (E) 3.2 ft
+SECTION 6
+Time-25 minutes
+22 Questions
+1. Most energy analysts now agree that the costs of building and maintaining nuclear reactors are too high for nuclear power to likely prove cheaper than coal or oil in the long run.
+  (A) too high for nuclear power to likely
+  (B) high enough for nuclear power to be unlikely to
+  (C) high enough that it is unlikely nuclear power will
+  (D) so high that nuclear power is unlikely to
+  (E) so high as to be unlikely that nuclear power will
+2. New Jersey's is one of the five highest number of reported cases of Lyme disease in the United States.
+  (A) New Jersey's is one of the five highest number of reported
+  (B) New Jersey's is one of the five highest numbers in reporting
+  (C) New Jersey has a report of one of the five highest numbers of
+  (D) New Jersey has one of the five highest numbers of reported
+  (E) New Jersey reports one of the five highest number of
+3. According to a ruling by the state supreme court, the owner of polluted land is liable for the cleanup of the property even if the owner did not have the responsibility that pollution occurred before the title changed hands.
+  (A) the owner did not have the responsibility that pollution
+  (B) the owner is not responsible for pollution that
+  (C) it was not the owner's reponsibility that pollution would have
+  (D) the responsibility of the owner is not that pollution
+  (E) the responsibility was not the owner's that pollution would have
+4. Scientists have suggested that once every 10 million years or so a truly colossal object from space cuts through the atmosphere and slams into Earth. sending up a global pall of dust that blots out the Sun. alters the climate, and changes the course of evolution by killing off many plant and animal species.
+  (A) sending up a global pall of dust that blots
+  (B) thus sending up a global pall of dust to blot
+  (C) thereby sending up a global pall of dust to blot
+  (D) and that sends up a global pall of dust, blotting
+  (E) which sends up a global pall of dust, blots
+5. By the mid-seventeenth century. Amsterdam had built a new town hall so large that only St. Peter's in Rome, the Escorial in Spain, and the Palazza Ducale in Venice could rival it for scale or magnificence.
+  (A) could rival it for
+  (B) were the rivals of it in their
+  (C) were its rival as to
+  (D) could be its rivals in their
+  (E) were rivaling its
+6. The Audubon Society and other conservation groups, concerned over what they have perceived to be the serious thereatening of the environment as posed by the policies of the government are preparing for a major political effort.
+  (A) have perceived to be the serious threatening of the environment as
+  (B) perceived as the serious threat to the environment as
+  (C) perceive being the serious threat to the environment
+  (D) are percetving as the serious threaterning of the environment
+  (E) perceive as the serious threat to the environment
+7. At a time when it was unusual to do it. Dorothy Sterling wrote about such major figures of Black history as Harriet Tubman and W. E. B. Du Bois.
+  (A) it was unusual to do it
+  (B) it was unusual to do so
+  (C) doing that was unusual
+  (D) that was an unusual thing to be doing
+  (E) it was not usual to do
+8. Houseflies that hatch in summer live only about three weeks, but those that emerge in the cooler days of fall often live longer than six months.
+  (A) weeks, but those that emerge in the cooler days of fall often live
+  (B) weeks, but those that emerge in the cooler days of fall often live as long or
+  (C) weeks, which is different from those that emerge in the cooler days of fall and often live
+  (D) weeks; then those that emerge in the cooler days of fall often live as long as or
+  (E) weeks; this is different from those that emerge in the cooler days of fall, who often live
+9. The auto industry has experienced one of its most significant trends in the last 50 years. which is the migration of motorists from passenger cars to minivans, sport utility vehicles, and pickups.
+  (A) The auto industry has experience one of its most significant trends in the last 50 years, which is
+  (B) Of the trends the auto industry experienced in the last 50 years has been one of the most significant.
+  (C) In the last 50 years, one of the most significant trends that the auto industry has been experiencing has been
+  (D) One of the most significant trends that the auto industry has experienced in the last 50 years is
+  (E) In the last 50 years; the auto industry experienced one of the most significant trends that it has had that of
+10. The animosity between those who regulate and those who are regulated never more pronounced than in recent debates over environmentalism and pollution control
+  (A) The animosity between those who regulate and those who are regulated, never
+  (B) The animosity between those who regulate and those who are regulated, nvever being
+  (C) The animosity between those who regulate and those who are regulated has never been
+  (D) Between those who regulate and those who are regulated such animostiy was never
+  (E) Between thos who regulate and between those regulated such animosity has never been
+11. Some psychiatric studies indicated that among distinguished artists the rates of manic depression and major depression are ten to thirteen times as prevalent as in the population at lareg.
+  (A) the rates of manic depression and major depression are ten to thirteen times as prevalent as in
+  (B) the rates of manic depression and major depression are ten to thirteen times more prevalent than in
+  (C) the rates of manic depression and major depression are ten to thirteen times more prevalent when comparted to
+  (D) manic depression and major depression are ten to thirteen times as prevalent when compared to
+  (E) manic depression and major depression are ten to thirteen times more prevalent than in
+12. Unitl quite recently, American pressidents lived in a world in which the public and private relams of their lives were largely separate, and the press cooperated in maintaining the distinction and Americans judged national leaders without receiving, or expecting intimate information abou them.
+  (A) and the press cooperated in maintaining the distinction and
+  (B) where the press cooperated in maintaining the distinction, and where
+  (C) for the press cooperated to maintain the distinction and
+  (D) the press cooperated to maintain the distinetion for
+  (E) in which the press cooperated in maintaining the distinction and in which
+13. On the Great Plains, nineteenth-century settlers used mud and grass to build their homes, doing it without timber and nails.
+  (A) settlers used mud and grass to build their homes, doing it without
+  (B) settlers, using mud and grass to build their homes, did it without
+  (C) settlers used mud and grass to build their homes, making them while not having
+  (D) settlers used mud and grass to build their homes, making do without
+  (E) settlers' homes were built of mud and grass making do without
+14. Intended primarily to stimulate family summer travel the new airfare, which allows both an adult and a child to fly for the price of one ticket and also shortens the advance-purchase requirement for family travel to a minimum of seven days rather than fourteen.
+  (A) and also shortens the advance-purchase requirement for family travel to a mintmum of seven days rather than
+  (B) and also lessens the advance-purchase requirement for family travel to a seven-day minimum from
+  (C) also shortens the advance-purchase requirement for family travel to a minimum of seven days rather than that of
+  (D) also lessens the advance-purchase requirement for family travel to a seven-day minimum from
+  (E) also shortens the advance-purchase requirement for family travel to a minimum of seven days rather than
+15. People have discovered the principles of solar energy whenever fuel becomes scarce and expensive but will forget them every time a new source of cheap energy is developed.
+  (A) have discovered the principles of solar energy whenever fuel becomes scarce and expensive but will forget
+  (B) have discovered the principies of solar energy whenever fuel has become scarce and expensive but they forget
+  (C) discovered the principles of solar energy every time fuel becomes scarce and expensive forgetting
+  (D) discover the principles of solar energy every time fuel became scarce and expensive but they forget
+  (E) discover the principles of solar energy whenever fuel becomes scarce and expensive but forget
+16. New techniques in thermal-scanning photography a process that records radiation from surface areas, makes it possible to study the effects of calefaction, or warming of a river in greater detail than ever before
+  (A) makes it possible to study the effects of calefaction, or warming, of a river in greater detail than ever before
+  (B) make it possible to study, in greater detail the effects of calefaction, or warming of a river than ever before
+  (C) have made it possible to study in greater detail than ever before the effects of calefaction or warming of a river
+  (D) make possible the study of the effects of calefaction or warming of a river in greater detail than it ever was before
+  (E) has made it more possible than ever before to study in greater detail the effects of calefaction or warming of a river
+17. Bob Wilber became Sidney Bechet's student and protege when he was nineteen and for a few years in the 1940's came as close to being a carbon copy of the jazz virtuoso in performance as anyone has ever come.
+  (A) as anyone has ever come
+  (B) as anyone ever had been
+  (C) as anyone ever had done
+  (D) that anyone ever did
+  (E) that anyone ever came
+18. Despite its attractiveness, investing abroad can still pose big risks, ranging from the potential for political instability in some countries to the shortage of regulations to protect investors and a serious lack of information about investments in others.
+  (A) to the shortage of regulations to protect investors and a serious lack of information about investments in others
+  (B) to the shortage of regulations to protece investors and in others a serious lack of information about investments
+  (C) and the shortage of regulations to protect investors and a serious lack of information about investments in others
+  (D) and the shortage of regulations to protect investors to a serious lack of information about investments in others
+  (E) to the shortage of regulations to protect investors in others and a serious lack of information about investments.
+19. That the new managing editor rose from the publication's "soft" news sections to a leadership position is more of a landmark in the industry than her being a woman.
+  (A) her being a woman
+  (B) being a woman is
+  (C) her womanhood
+  (D) that she was a woman
+  (E) that she is a woman
+20. In the initial planning stages, the condominium corporation took into account only the concerns of its prospective clients, not those of surroanding homeowners.
+  (A) the condominium corporation took into account only the concerns of its prospective clients
+  (B) the condominium corporation has only taken into account the concerns of their prospective clients
+  (C) the condominium corporation only took their prospective clients' concerns into account
+  (D) the concerns of its prospective clients only were taken into account by the condominium corporation
+  (E) prospective clients had their concerns only taken into account by the condominium corporation
+21. Of all the wild animals in their area none was more usuful to the Delaware tribes than the Virginia whitetailed deer; it was a source of meat and its hide was used for clothing its antlers and bones for tools, and its sinews and gut for bindings and glue
+  (A) deer: it was a source of meat, and its hide was used for clothing, its antlers and bones for tools, and its sinews and gut
+  (B) deer: it was a source of meat and its hide used for clothing with its antlers and bones for fools, and its sinews and gut used
+  (C) deer which was a source of meat with its hide used for clothing antlers and bones for tools, as well as its sinews and gut used
+  (D) deer, which as well as being a source of meat, its hide was used for clothing its antlers and bones for tools, and its sinews and gut were
+  (E) deer, with as well as being a source of meat, its hide used for clothing its antlers and bones for tools, and its sinews and gut
+22. Unlike most warbler species the male and female blue-winged warbler are very difficult to tell apart.
+  (A) Unlike most warbler species, the male and female blue-winged warbler are very difficult to tell apart.
+  (B) Unlike most warbler species, the gender of the blue-winged warbler is very difficult to distinguish.
+  (C) Unlike most warbler species, the male and female blue-winged warblers are very difficult to distinguish.
+  (D) It is very difficult unlike in most warbler species, to tell the male and female blue winged warbier apart.
+  (E) Blue-winged warblers are unlike most species of warbler in that it is very difficult to tell the male and female apart.
+
+GMAT 全真试题六答案
+Section 1: 　CBCDC 　ADEB 　ABCEE 　B
+Section 2: 　BAAEC　 BDBDD  CABCA　 DEB
+Section 3: 　DDCEA 　CEAAB  BCAEB   EEDBA
+Section 4: 　EBEDA 　DAADA  EBCDB   A
+Section 5: 　BEADA 　BCB 　 CBDC 　 E
+Section 6: 　DDBAA　 EBADC  EEDEE   CAAEA 　AE

@@ -1,0 +1,698 @@
+GRE '93考题精选（三）--1
+
+During a press conference, Council Member Johns stated
+that the advisory council appointed by Mayor Smith has been
+one of the least effective in recent history. When asked
+to support that claim, Johns pointed out that most citizens
+could not name any member of the advisory council.
+　
+The rationale given by Council Member Johns depends on
+the assumption that
+
+a member of the advisory council who is doing a bad job
+　is just as likely to be familiar to the public as a member
+　of the advisory council who is doing a good job
+the public is not generally interested in the activities
+　of the advisory council
+only council members are qualified to judge the quality
+　of the advisory council's work
+the public's familiarity with the composition of the
+　advisory council is an indication of the
+　effectiveness of the advisory council's work
+the members of the advisory council were selected because
+　each of them was already well known to the citizenry
+
+答案：(D)
+
+When college students were asked about their experiences
+in childhood, those who remembered their parents frequently
+being in pain were also those who experienced common pains,
+like headaches, most frequently as adults. This evidence
+argues that a person's childhood observations of adults in
+pain can make that person more susceptible to pain as an
+adult.
+　
+Which of the following, if true, most seriously weakens
+the argument above?
+
+Students who most frequently remembered that they were
+　in pain as children were no more likely than the average
+　student to experience common pains very frequently.
+Parents who were frequently in pain when their children
+　were growing up often experience just as much pain after
+　their children have grown up.
+College students are in general less susceptible to
+　common pains, like headaches, than are older adults.
+Adult memories of the circumstances of childhood pain
+　are often vivid, but adults can rarely recall the subjective
+　experience of being in pain as a child.
+A person's adult recollections of childhood are likely
+　to emphasize those memories that reflect the person's adult
+　experiences.
+
+答案：(E)
+
+问题：下面哪一个，if true，最反对上面的论述？
+读题：当大学生被询问他们孩提时代的经历时，那些记得他们的父母经常处于常见痛苦之中的学生也是更经常地经历常见痛苦的人，比如头疼。这些证据论述了一个人在孩提时代对痛苦之中成年人的观察使得他们自己作为成年人之后更易于遭受痛苦。
+　
+分析：原文论据是：孩提时代记得父母经常处于痛苦之中的学生自己也更经常地遭受痛苦
+　　　结论：对痛苦之中成年人的观察使他们易于遭受痛苦
+上文的结论是从一个事实调查中得出，结论可以看作是对这个事实的一个解释：
+为什么那帮学生更容易遭受痛苦呢？是因为孩提时代对痛苦之中成年人的观察使他们易于遭受痛苦。
+问题是反对，答案形式通常为：有其他的原因来解释为什么上面这个事实。
+　
+a.最经常的记得在孩提时代处于痛苦之中的学生不比一般的学生更经常地经历一般的痛苦（孩提时代，不是孩子处于痛苦之中，而是他们的父母处于痛苦之中）
+b.当他们的孩子成长时更经常地处于痛苦之中的双亲经常在他们的孩子长大后经历同样的痛楚。（孩子长大以后，讨论的是孩子怎么样，而不是双亲）
+c.大学生通常比年纪较大的成年人不易于遭受一般的痛楚，象头疼。
+d.成年后对孩提时代痛楚环境的记忆非常生动(和a犯了一样的错误)
+e.一个人成年时对孩提时代的回忆, 可能选择那些记忆, 反应这个人成年经历的记忆。
+　（现在我头疼了，可能有许多种原因，但是我想起了小时侯父母经常头疼,是我头疼才想起父母头疼，而不是对父母头疼的回忆导致了我头疼这道题目是典型的因果关系倒置)
+
+Economist: Any, country that is economically efficient
+will generate wealth. Such a country will remain politically
+stable only if that wealth is distributed equitably. The
+equitable distribution of wealth puts an end to risk taking,
+the indispensable precondition of economic efficiency.
+　
+Which of the following conclusions can be properly drawn
+an the basis of the statements above
+
+No country can indefinitely remain both economically
+　efficient and politically stable.
+No country can indefinitely remain both politically
+　unstable and wealthy.
+Economic efficiency is the indispensable precondition
+　for the generation of wealth in a country.
+Any country in which wealth is distributed equitably
+　will indefinitely remain politically stable.
+Growing economic efficiency encourages risk taking,
+　which in turn leads to further growth in economic
+　efficiency.
+
+答案：(A)
+
+问题：下面哪一个结论能够从上面的论述中推导出来？
+读题：Economist: 任何一个经济有效的国家将产生财富。这样的一个国家只有财富被平均分配的情况下，才能够保持政治稳定。财富的平均分配终止了冒险，冒险是经济有效不可缺少的先决条件。
+　
+分析：原文中，第四行的哦only if，倒数第二行的precondition都是必要条件, 只有财富被平均分配的情况下，才能够保持政治稳定,可以表示为： 1、政治稳定 → 财富被平均分配财富的平均分配终止了冒险,可以表示为:
+2、财富被平均分配 → 没有冒险
+冒险是经济有效不可缺少的先决条件,可以表示为:
+3、经济有效→冒险,
+逆否命题为: 没有冒险　→　经济无效
+　
+把1,2,3联合起来得到: 政治稳定　→　经济无效
+　
+a. 没有一个国家能够无限期地既保持经济有效又保持政治稳定e
+
+My family often found others laughable, but I learned
+quite early to be —— while people were present,
+laughing only later at what was funny and mocking what
+to us seemed——
+
+polite.. bizarre
+impatient.. unfortunate
+facetious.. enviable
+wistful.. extraordinary
+superficial.. deplorable
+
+答案：(A)
+
+mock: v.1.嘲笑，讥笑，嘲弄 2.使失望，欺骗 3.挫败，向…挑战
+bizarre: a.怪诞的，奇形怪状的，异乎寻常的
+facetious: a.好开玩笑的，诙谐的，滑稽的
+enviable: a.引起妒忌的，值得羡慕的
+wistful: a.渴望，留恋的
+superficial: a.1.面（积）的 2.表面的，外部的 3.草率的，粗略的，肤浅的
+deplorable: a.可叹的，悲惨的
+　
+我们一家人常常觉得别人可笑，但我很早以前就懂得当着人们的面应客气有礼，仅在后来才嘲笑那些滑稽的事情，讥讽那些在我们看来怪诞不经的事物。
+
+The technical know-how, if not the political -------
+appears already at hand to feed the world's exploding
+population and so to ----- at last the ancient scourges
+of malnutrition and famine.
+
+will.. weaken
+expertise.. articulate
+doubt.. banish
+power.. denounce
+commitment.. eradicate
+
+答案：(E)
+
+know-how: n.技术，知识，技能
+at hand: 1.近在手边，供使用 2.即将来到 3.被考虑中
+scourge: n.1.鞭子 2.天谴,灾祸 3.严厉的斥责
+malnutrition: n.营养不良
+　
+famine: n.饥荒，饥饿，奇缺
+expertise: n.专门知识(或技能)
+articulate: v.清晰地吐字(或发音)，明确有力地表达
+banish: v.1.谴责，痛斥 2.告发，控告
+commitment: n.1.托付，委任 2.承诺，保证 3.信奉，赞助，支持
+eradicate: v.1.根除，杜绝，消灭 2.连根拔起，使断根
+　
+科技知识，即使不是政治承诺的话，似乎早已垂手可得，用来养活全世纪急剧膨胀的人口，从而最终得以根除营养不良和饥荒这类由久已来的天灾人祸。
+
+In small farming communities, accident victims rarely
+sue or demand compensation: transforming a personal injury
+into a ------- someone else is viewed as an attempt to
+------- responsibility for one's own actions.
+
+conspiracy against.. assume
+claim against.. elude
+boon for. .minimize
+distinction for.. shift
+trauma for.. proclaim
+
+答案：(B)
+
+sue: v.控告，对…提出诉讼
+conspiracy: n.阴谋，密谋策划
+elude: v.1.（机敏地）逃避，躲避，避开 2.不为…所记得，把…难倒
+boon: n.恩惠，裨益
+minimize: v.1.使减少（或缩小）到最低限度 2.极度轻视，小看
+trauma: n.（心理或精神上的）创伤
+proclaim: v.1.宣告，公布 2.表明，显示
+　
+在小规模的农业社会中，事故受害者很少进行诉讼或提出赔偿：将个人的伤残变做针对他人的索赔要求，这种做法被视作是在企图逃脱对自身行为的责任。
+
+Dominant interests often benefit most from ------- of
+governmental interference in business, since they are
+able to take care of themselves if left alone.
+
+intensification
+authorization
+centralization
+improvisation
+elimination
+
+答案：(E)
+
+interests: n.（复数）利益集团
+authorization: n.1.授权，委托 2.批准，核定
+centralization: n.集中，中央集权化
+improvisation: n.即兴表演，临时凑成
+　
+那些主要的利益集团往往能最大程度上地受惠于商业活动中政府干预的消除，因为如果它们被允许独行其事的话，它们定能照料好自己的事务。
+
+The "impostor syndrome" often afflicts those who fear
+that true self-disclosure will lower them in others'
+esteem; rightly handled, however, ------- may actually
+------ one's standing.
+
+willfulness.. consolidate
+imposture.. undermine
+affectation.. jeopardize
+candor. .enhance
+mimicry.. efface
+
+答案：(D)
+
+impostor: n.冒名顶替者，江湖骗子
+syndrome: n.1.综合征，征群，综合症状 2.一组表现（或特征），同时存在的一组事物
+afflict: v.使苦恼，折磨
+esteem: n.1.尊重，敬重 2.把…看作，认为 3.评价
+standing: n.级别，地位，身份，名声
+willfulness: n.任性，固执
+consolidate: v.1.统一，合并 2.巩固，加强 3.使结实
+　
+imposture: n.1.冒名，欺骗 2.招摇撞骗
+affectation: n.做作，假装
+jeopardize: v.危及，损害
+candor: n.1.直言，坦率，诚恳 2.公平，公正 3.洁白，光辉
+mimicry: n.模仿，模拟
+efface: v.擦（抹）去，消除
+　
+“冒名顶替综合征”经常使某些人痛苦不堪，这些人唯恐真正的自我暴露会降低他们在他人心目中的位置；但是，如果处理得当，开诚布公实际上会提高一个人的声望。
+
+The pungent verbal give-and-take among the characters
+makes the novel ------ reading, and this very -------
+suggests to me that some of the opinions voiced may be
+the author's.
+
+disturbing.. flatness
+tedious.. inventiveness
+lively.. spiritedness
+necessary.. steadiness
+rewarding.. frivolousness
+
+答案：(C)
+
+pungent: a.1.有刺激性的，辣的 2.辛辣的，尖刻的，尖锐的 3.敏锐的，机智的 4.
+强烈的
+verbal: a.1.言辞的，文字的 2.口头的，非书面的 3.逐字的
+give-and-take: n.1.公平交易，互让互谅 2.交谈
+spirited: a.精神饱满的，生气勃勃，活泼的
+rewarding: a.给予报偿的，有益的，值得的
+frivolousness: n.1.轻薄，轻浮 2.琐屑，无意义
+　
+人物之间机智敏锐的言语交谈使得这部小说读上去生动轻快，正是这种活泼性向我表明，所表述的某些观点很有可能是作者本人的。
+
+The fortresslike facade of the Museum of Cartoon Art
+seems calculated to remind visitors that the comic strip is an art
+form that has often been—— by critics.
+
+charmed
+assailed
+unnoticed
+exhilarated
+overwhelmed
+
+答案：(B)
+
+fortress: n.1.要塞，保垒 2.避难所，安全的地方
+facade: n.建筑物的正面，临街正面，表面，外观
+comic strip: n.（报刊上的）连环漫画
+charm: v.使高兴，使陶醉，吸引，迷住，对…施行魔法
+assail: v.攻击，袭击，指责
+exhilarate: v.使欢欣鼓舞，使兴奋，激励
+overwhelm: v.1.征服，制伏，压倒，破坏，毁坏 2.使受不了，使不知所措
+　　 3.淹没，覆盖
+　
+漫画艺术博物馆堡垒状的外观似乎是刻意打算用来提醒参观者，连环漫画这种艺术形式常受到批评家们的评击责难。
+
+SPLICE: ROPE::
+
+press :shirt
+caulk: frame
+weld: metal
+plaster: wall
+curl: hair
+
+答案：(C)
+
+捻接(拼接):绳子
+　
+熨平(压):衬衫
+堵缝:框架
+焊接:金属
+涂胶泥于:墙
+弄卷:头发
+
+FANATIC: DEVOTED::
+
+prude: proper
+skeptic: religious
+cad: devious
+gourmet : ravenous
+coquette: graceful
+
+答案：(A)
+
+狂热者，狂信者:热中…的(忠实的)
+　
+过份拘礼谨的人:合适的
+怀疑者:宗教的
+粗鄙无礼的人:不正当的(偏离的；迂回的)
+美食家:贪食的，贪婪的
+卖弄风情的女子:高雅的
+
+CONFLUENCE: STREAMS::
+
+ridge: hills
+railroad: tracks
+junction: roads
+curb: sidewalks
+park: edges
+
+答案：(C)
+
+汇流处(汇聚):河流
+　
+山脊:山
+铁路:轨道
+交叉点:道路
+街道的镶边石(马勒；限制):人行道
+公园:边缘
+
+SWAGGER: BRAVADO::
+
+chevron : sergeant
+sword : bravery
+salute : disrespect
+caress : affection
+sneeze: explosion
+
+答案：(D)
+
+大摇大摆的走(装模作样；傲慢):虚张声势
+　
+(下级军官的)山形徽章:中士
+短剑:勇敢
+敬礼:不尊敬
+爱抚:爱
+打喷嚏:爆炸
+
+INDECOROUS: PROPRIETY::
+
+boorish : sensitivity
+rancorous : hostility
+stuffy: dignity
+presumptuous: boldness
+charismatic: loyalty
+
+答案：(A)
+
+无礼的:礼节，适宜
+　
+粗鄙的，粗鲁的:敏感性
+充满仇恨的:敌意
+古板的(闷热的):尊严，高贵
+专横自负的:大胆
+有个人魅力的:忠诚
+
+CAPRICIOUS: WHIM::
+
+conventional : innovation
+objective : fact
+satirical : benevolence
+gloomy : optimism
+opinionated : rudeness
+
+答案：(B)
+
+怪想的(反复无常的):怪想(反复无常)
+　
+传统守旧的:革新
+客观的:事实
+讽刺的:仁慈，善意
+阴郁的:乐观
+固执已见的:粗鲁
+
+SNOW: PRECIPITATION::
+
+lava: volcano
+hurricane: cyclone
+desert: drought
+seed : germination
+temperature : season
+
+答案：(B)
+
+雪:降(雨、雪)，天降物
+　
+熔岩:火山
+飓风:旋风
+沙漠:干旱
+种子:发芽
+温度:季节
+
+RECALCITRANT: AUTHORITY::
+
+implacable: conciliation
+remorseful: recompense
+indomitable: challenge
+insubordinate: camaraderie
+enthusiastic: opportunity
+
+答案：(A)
+　
+难以抚慰的:抚慰，调和
+悔恨的:酬报，赔偿
+不可屈服的:挑战
+不服从的(地位不低的):友谊，友爱
+充满热情的:机会
+
+INKLING: INDICATON::
+
+apprentice: expert
+theory: hypothesis
+hunger: thirst
+orientation: direction
+lapse : error
+
+答案：(E)
+
+暗示细微的迹象:暗示
+　
+学徒:专家
+理论:假说
+饥饿:渴
+定方向:方向
+失误:错误
+
+
+　　　The outpouring of contemporary
+　　American Indian literature in the last two
+　　decades, often called the Native
+　　American Renaissance, represents for
+(5) many the first opportunity to
+　　experience Native American poetry. The
+　　appreciation of traditional oral
+　　American Indian literature has been
+　　limited, hampered by poor translations
+(10) and by the difficulty, even in the rare
+　　culturally sensitive and aesthetically
+　　satisfying translation, of completely
+　　conveying the original's verse
+　　structure, tone, and syntax.
+(15) 　By writing in English and experimenting
+　　with European literary forms,
+　　contemporary American Indian writers
+　　have broadened, their potential
+　　audience, while clearly retaining many
+(20) essential characteristics of their
+　　ancestral oral traditions. For
+　　example, Pulitzer-prize-winning author
+　　N. Scott Momaday's poetry often treats
+　　art and mortality in a manner that
+(25) recalls British romantic poetry, while
+　　his poetic response to the power of
+　　natural forces recalls Cherokee oral
+　　literature. In the same way, his
+　　novels, an art form European in origin,
+(30) display an eloquence that echoes the
+　　oratorical grandeur of the great
+　　nineteenth- century American Indian
+　　chiefs.
+
+According to the passage, Momaday's
+poetry shares which of the following
+with British romantic poetry?
+Verse structure
+Oratorical techniques
+Manner of treating certain themes
+Use of certain syntactical constructions
+Patterns of rhythm and rhyme
+
+答案：(C)
+　　在过去的二十年中，当代美国印第安文学的大量涌现（常被称作“土著美洲文艺复兴”，Native American Renaissance）对于许多人来说，代表着体验土著美洲诗歌的首次机会。对美国印第安人传统口头文学的欣赏，一直被质量低劣的翻译所限制和妨碍，并且即使是那种不可多得的既体现着文化敏感性，又在美学上令人满意的译作，也难以完全传递出原作的诗体结构、语调和句法。
+　
+　　通过用英语来写作，并尝试实验欧洲文学形式，当代美国印第安作家们得以拓宽了其潜在的读者对象，而与此同时，又明显保留了其祖先口头传统的许多本质特征。例如，荣膺普利策奖（Pulitzer Prize）的作者N.Scott Momaday的诗作经常以一种令人联想起英国浪漫派诗歌的方式来处理艺术与死亡此类主题；而与此同时，他那充满诗意的对自然界力量之威力的反应，则令人联想起彻罗基（Cherokee）口头文学。同样地，他的小说（一种源于欧洲的艺术形式）展示出一种力度，可谓是与十九世纪美国伟大的印第安酋长的恢宏的演说风格有异曲同工之妙。
+
+Which of the following is most likely
+one of the reasons that the author mentions
+the work of N. Scott Momaday?
+To illustrate how the author believes
+that members of the Native American
+Renaissance have broadened their
+potential audience
+To emphasize the similarities between
+Momaday's writings and their European
+literary models
+To demonstrate the contemporary appeal
+of traditional Native American oral
+literature
+To suggest that contemporary American Indian
+writers have sacrificed traditional
+values for popular literary success
+To imply the continuing popularity of
+translations of oral American Indian
+literature
+
+答案：(A)
+　　在过去的二十年中，当代美国印第安文学的大量涌现（常被称作“土著美洲文艺复兴”，Native American Renaissance）对于许多人来说，代表着体验土著美洲诗歌的首次机会。对美国印第安人传统口头文学的欣赏，一直被质量低劣的翻译所限制和妨碍，并且即使是那种不可多得的既体现着文化敏感性，又在美学上令人满意的译作，也难以完全传递出原作的诗体结构、语调和句法。
+　
+　　通过用英语来写作，并尝试实验欧洲文学形式，当代美国印第安作家们得以拓宽了其潜在的读者对象，而与此同时，又明显保留了其祖先口头传统的许多本质特征。例如，荣膺普利策奖（Pulitzer Prize）的作者N.Scott Momaday的诗作经常以一种令人联想起英国浪漫派诗歌的方式来处理艺术与死亡此类主题；而与此同时，他那充满诗意的对自然界力量之威力的反应，则令人联想起彻罗基（Cherokee）口头文学。同样地，他的小说（一种源于欧洲的艺术形式）展示出一种力度，可谓是与十九世纪美国伟大的印第安酋长的恢宏的演说风格有异曲同工之妙。
+
+Which of the following can be inferred
+from the passage about written translations
+of oral Native American poetry?
+They were less widely read than are
+the works of contemporary Native American
+poets writing in English.
+They were often made by writers who
+were intimately familiar with both English
+and Native American languages.
+They often gave their readers aesthetic
+satisfaction, despite their inaccuracies.
+They usually lacked complex verse
+structure.
+They were overly dependent on European
+literary models.
+
+答案：(A)
+　　在过去的二十年中，当代美国印第安文学的大量涌现（常被称作“土著美洲文艺复兴”，Native American Renaissance）对于许多人来说，代表着体验土著美洲诗歌的首次机会。对美国印第安人传统口头文学的欣赏，一直被质量低劣的翻译所限制和妨碍，并且即使是那种不During a press conference, Council Member Johns stated
+that the advisory council appointed by Mayor Smith has been
+one of the least effective in recent history. When asked
+to support that claim, Johns pointed out that most citizens
+could not name any member of the advisory council.
+　
+The rationale given by Council Member Johns depends on
+the assumption that
+
+a member of the advisory council who is doing a bad job
+　is just as likely to be familiar to the public as a member
+　of the advisory council who is doing a good job
+the public is not generally interested in the activities
+　of the advisory council
+only council members are qualified to judge the quality
+　of the advisory council's work
+the public's familiarity with the composition of the
+　advisory council is an indication of the
+　effectiveness of the advisory council's work
+the members of the advisory council were selected because
+　each of them was already well known to the citizenry
+
+答案：(D)
+
+When college students were asked about their experiences
+in childhood, those who remembered their parents frequently
+being in pain were also those who experienced common pains,
+like headaches, most frequently as adults. This evidence
+argues that a person's childhood observations of adults in
+pain can make that person more susceptible to pain as an
+adult.
+　
+Which of the following, if true, most seriously weakens
+the argument above?
+
+Students who most frequently remembered that they were
+　in pain as children were no more likely than the average
+　student to experience common pains very frequently.
+Parents who were frequently in pain when their children
+　were growing up often experience just as much pain after
+　their children have grown up.
+College students are in general less susceptible to
+　common pains, like headaches, than are older adults.
+Adult memories of the circumstances of childhood pain
+　are often vivid, but adults can rarely recall the subjective
+　experience of being in pain as a child.
+A person's adult recollections of childhood are likely
+　to emphasize those memories that reflect the person's adult
+　experiences.
+
+答案：(E)
+
+问题：下面哪一个，if true，最反对上面的论述？
+读题：当大学生被询问他们孩提时代的经历时，那些记得他们的父母经常处于常见痛苦之中的学生也是更经常地经历常见痛苦的人，比如头疼。这些证据论述了一个人在孩提时代对痛苦之中成年人的观察使得他们自己作为成年人之后更易于遭受痛苦。
+　
+分析：原文论据是：孩提时代记得父母经常处于痛苦之中的学生自己也更经常地遭受痛苦结论：对痛苦之中成年人的观察使他们易于遭受痛苦上文的结论是从一个事实调查中得出，结论可以看作是对这个事实的一个解释：为什么那帮学生更容易遭受痛苦呢？是因为孩提时代对痛苦之中成年人的观察使他们易于遭受痛苦。
+问题是反对，答案形式通常为：有其他的原因来解释为什么上面这个事实。
+　
+a.最经常的记得在孩提时代处于痛苦之中的学生不比一般的学生更经常地经历一般的痛苦（孩提时代，不是孩子处于痛苦之中，而是他们的父母处于痛苦之中）
+　
+b.当他们的孩子成长时更经常地处于痛苦之中的双亲经常在他们的孩子长大后经历同样的痛楚。（孩子长大以后，讨论的是孩子怎么样，而不是双亲）
+　
+c.大学生通常比年纪较大的成年人不易于遭受一般的痛楚，象头疼。
+d.成年后对孩提时代痛楚环境的记忆非常生动　(和a犯了一样的错误)
+　
+e.一个人成年时对孩提时代的回忆, 可能选择那些记忆, 反应这个人成年经历的记忆。 （现在我头疼了，可能有许多种原因，但是我想起了小时侯父母经常头疼,是我头疼才想起父母头疼，而不是对父母头疼的回忆导致了我头疼这道题目是典型的因果关系倒置)
+
+Economist: Any, country that is economically efficient
+will generate wealth. Such a country will remain politically
+stable only if that wealth is distributed equitably. The
+equitable distribution of wealth puts an end to risk taking,
+the indispensable precondition of economic efficiency.
+　
+Which of the following conclusions can be properly drawn
+an the basis of the statements above
+
+No country can indefinitely remain both economically
+　efficient and politically stable.
+No country can indefinitely remain both politically
+　unstable and wealthy.
+Economic efficiency is the indispensable precondition
+　for the generation of wealth in a country.
+Any country in which wealth is distributed equitably
+　will indefinitely remain politically stable.
+Growing economic efficiency encourages risk taking,
+　which in turn leads to further growth in economic
+　efficiency.
+
+答案：(A)
+
+问题：下面哪一个结论能够从上面的论述中推导出来？
+读题：Economist: 任何一个经济有效的国家将产生财富。这样的一个国家只有财富被平均分配的情况下，才能够保持政治稳定。财富的平均分配终止了冒险，冒险是经济有效不可缺少的先决条件。
+　
+分析：原文中，第四行的哦only if，倒数第二行的precondition都是必要条件, 只有财富被平均分配的情况下，才能够保持政治稳定,可以表示为： 1、政治稳定 → 财富被平均分配财富的平均分配终止了冒险,可以表示为:
+2、财富被平均分配 → 没有冒险
+冒险是经济有效不可缺少的先决条件,可以表示为:
+3、经济有效→冒险,
+逆否命题为: 没有冒险　→　经济无效
+　
+把1,2,3联合起来得到: 政治稳定　→　经济无效
+　
+a. 没有一个国家能够无限期地既保持经济有效又保持政治稳定e
+
+My family often found others laughable, but I learned
+quite early to be —— while people were present,
+laughing only later at what was funny and mocking what
+to us seemed——
+
+polite.. bizarre
+impatient.. unfortunate
+facetious.. enviable
+wistful.. extraordinary
+superficial.. deplorable
+
+答案：(A)
+
+mock: v.1.嘲笑，讥笑，嘲弄 2.使失望，欺骗 3.挫败，向…挑战
+bizarre: a.怪诞的，奇形怪状的，异乎寻常的
+facetious: a.好开玩笑的，诙谐的，滑稽的
+enviable: a.引起妒忌的，值得羡慕的
+wistful: a.渴望，留恋的
+superficial: a.1.面（积）的 2.表面的，外部的 3.草率的，粗略的，肤浅的
+deplorable: a.可叹的，悲惨的
+　
+我们一家人常常觉得别人可笑，但我很早以前就懂得当着人们的面应客气有礼，仅在后来才嘲笑那些滑稽的事情，讥讽那些在我们看来怪诞不经的事物。
+
+The technical know-how, if not the political -------
+appears already at hand to feed the world's exploding
+population and so to ----- at last the ancient scourges
+of malnutrition and famine.
+
+will.. weaken
+expertise.. articulate
+doubt.. banish
+power.. denounce
+commitment.. eradicate
+
+答案：(E)
+
+know-how: n.技术，知识，技能
+at hand: 1.近在手边，供使用 2.即将来到 3.被考虑中
+scourge: n.1.鞭子 2.天谴,灾祸 3.严厉的斥责
+malnutrition: n.营养不良
+　
+famine: n.饥荒，饥饿，奇缺
+expertise: n.专门知识(或技能)
+articulate: v.清晰地吐字(或发音)，明确有力地表达
+banish: v.1.谴责，痛斥 2.告发，控告
+commitment: n.1.托付，委任 2.承诺，保证 3.信奉，赞助，支持
+eradicate: v.1.根除，杜绝，消灭 2.连根拔起，使断根
+　
+科技知识，即使不是政治承诺的话，似乎早已垂手可得，用来养活全世纪急剧膨胀的人口，从而最终得以根除营养不良和饥荒这类由久已来的天灾人祸。
+
+In small farming communities, accident victims rarely
+sue or demand compensation: transforming a personal injury
+into a ------- someone else is viewed as an attempt to
+------- responsibility for one's own actions.
+
+conspiracy against.. assume
+claim against.. elude
+boon for. .minimize
+distinction for.. shift
+trauma for.. proclaim
+
+答案：(B)
+
+sue: v.控告，对…提出诉讼
+conspiracy: n.阴谋，密谋策划
+elude: v.1.（机敏地）逃避，躲避，避开 2.不为…所记得，把…难倒
+boon: n.恩惠，裨益
+minimize: v.1.使减少（或缩小）到最低限度 2.极度轻视，小看
+trauma: n.（心理或精神上的）创伤
+proclaim: v.1.宣告，公布 2.表明，显示

@@ -1,0 +1,173 @@
+代词1
+   代词分为人称代词、物主代词、反身代词、指示代词、疑问代词、关系代词、连接代词和不定代词等。其中重点是：
+1. 物主代词：本类代词又分为形容词性物主代词和名词性物主代词。这两类代词用法的最大区别是：形容词性物主代词具有形容词性质和作用，用于修饰名词；名词性物主代词具有名词性质和作用，本身就可以做主语、表语或宾语。换句话说，形容词性物主代词后面必须加名词，而名词性物主代词后面不得加名词。
+例：I don't like my own bicycle, I like his.（我不喜欢我自己的自行车，我喜欢他的。）
+These are not his belongings, they are mine.（这些不是他的财物，是我的。）
+2. 关系代词：who，whose，whom，which，that，as，等。
+1) which的用法
+例：1993年6月四级第59题
+Helen was much kinder to her younger child than she was to the others，_______, of course, made the others jealous.
+A) with    B) that
+C) what    D) which
+   which可以引导非限定性定语从句，代表前面整个句子的内容，并且在从句中做主语。因此，答案是D。再比如：He didn't mean harm, which I realized. 他没有恶意，这点我意识到了。which在这里代表前面整个句子内容，在从句中做宾语。其它三个选项的关系代词都不能指代整个主句，所以都不是答案。
+例：1998年6月四级第70题
+The course normally attracts 20 students per year, _________ up to half will be from overseas.
+A) in which
+B) for whom
+C) with which
+D) of whom
+   本题属于非限定性定语从句。句意指人，可先排除A，C两项。把该句非结成两个独立的句子：The course normally attract 20 students per year; up to half of them will be from overseas. 可以看出，half后应接of them, 所以答案D。
+2) that的用法
+可取代指人的who, whom和指物的which，分别在句中做主语和宾语。但在以下情况中只能用that，不用which, who等。
+a) 在all, much, only, anything, everything, nothing, something之后
+例：1990年1月四级第46题
+All ______ is a continuous supply of the basic necessities of life.
+A) what is needed
+B) for our needs
+C) the thing needed
+D) that is needed
+   全句意思：“（全部）所需要的只是持续不断地供应基本的生活必需品”。All在句中作主语，常常后接that引出定于从句，表示“（全部）……只是……”。所以答案是D。
+b) 先行部分有序数词
+The first English novel that I read was A Tale of Two Cities by Charles Dickens.（我读的第一本英文小说是狄更斯的《双城记》。）
+c) 先行部分有形容词最高级
+例：He is the most deligent student that I have ever known.（他是我认识的学生中最勤奋的。）
+d) 先行部分为time, moment, day, way等
+例：1999年1月四级第57题
+"You are very selfish. It's high time you _____ that you are not the most important person in the world." Edgar said to his boss angrily.
+a. realized
+b. have realized
+c. realize
+d. should realize
+这句话的意思是：“你真自私，你早该清醒了，你并不是世界上最重要的人物”埃德加愤怒地对老板说。答案是A。
+e) 以it引起的强调句
+例：1989年1月四级第42题
+_______ that the trade between the two countries reached its highest point.
+A) During the 1960's       　
+B) It was in the 1960's
+C) That it was in the 1960's
+D) It was the 1960's
+   本题是一个强调句，四个选项中只有B) It was in the 1960's能与之构成完整的强调句型，用以强调事情发生的时间in the 1960's，it 在句中作形式主语。所以答案是B)。
+f) 避免重复时
+   例：Who is the man that is sitting by her side?（坐在她身边的那个人是谁？）
+例：1989年1月四级第79题（完形填空）
+However, what he needs is to be fitted into a highly organized university system quite different from _____ at home.
+A) those   B) which
+C) what    D) that
+   从本题的句子结构来看，应填入一个替代名词system的代词。所以答案是D) that。虽然those也可代替名词，但替代的是复数名词。本句被替代的是system是单数名词，因此要用that。
+注意：在以下情况中不能用that：
+g) 在非限制性定语从句中
+例：She has two brothers, who are both doctors. （她有两个兄弟，他们都是医生。）
+h) 在介词后（但如果介词移到其它位置上，还是可以用that）
+例：I am going to visit the old man from whom I once learned English.（我要去拜访一位曾经教过我英语的老人。）
+3) as的用法
+as用做关系代词时，类似who, which，常和such, same连用，并在固定句型中出现。
+例：He was an Englishman, as I knew from his accent.（他是个英国人，这是我从他的口音中得知的。）
+My hometown is no longer the same as it was.（我的家乡和过去不一样了。）
+例：1997年1月四级第37题
+As ____ announced in today's papers, the Shanghai Export Commodities Fair is also open on Sundays.
+A) being   B) is
+C) to be   D) been
+   全句的意思是：“据今天的报纸宣布，上海出口商品博览会星期日也照常开放”。As可以引出一个从句，承接前面主句的内容或引出后续主句的内容。在本句中，as其主语作用。因此，答案是B) is。is和announced一起构成从句的谓语。而being announced，been announced，或to be announced不能在句中起谓语作用。
+例：1997年6月四级第51题
+Studies show that the things that contribute most to a sense of happiness cannot be bought, ______ a good family life, friendship and work satisfaction
+A) as for
+B) in view of
+C) in case of
+D) such as
+   空格前的意思是：“研究表明，最能增强人们幸福感的东西不是用金钱能买到的”。空格后的意思：“愉快的家庭生活、友谊和工作的满足感”。从上下文看，下文的内容是上文中最主要东西的列举。所以，答案是D) such as，意为“例如、诸如、象……那样”。其它选项的意思是A) as for"至于、就……而言"；B) in view of “鉴于，考虑到”；C) in case of“万一”。
+3.不定代词：在这里，我们只谈论几个重要的不定代词用法。
+1) any，all, every, each都可以译成“每个人，人人，大家”，both的意思是“两者都”，但它们的具体异同点为：
+A) all强调整体，every强调每个人，each强调每个人各自。
+例：1990年1月四级第46题
+All ______ is a continuous supply of the basic necessities of life.
+A) what is needed
+B) for our needs
+C) the thing needed
+D) that is needed
+All在句中作主语，表示“全部……”，后接that引出定语从句。答案是D。
+B) all和every都适用于三者及三者以上的情况，前面都可以加否定词（如：not, nearly, by no means等）。而each可指包括两者在内的情况（即，要指两者中每个人的话，只能用each）。all和each都可以加of加名词，但every后面不能接of。
+例：1993年6月四级第68题
+The residents, _________ had been damaged by the flood, were given help by the Red Cross.
+A) all their homes 　
+B) all whose homes　
+C) all of whose homes 　
+D) all of their homes
+   全句意思是：“那些房屋全部被洪水毁坏的居民得到了红十字会的救济”。两格逗号之间显然是一个定语从句，修饰the residents。选项B和C中都有关系代词whose，可以起连接作用。但是，我们可以说all of whose homes，而不能说all whose homes。所以本题的答案是C) all。选项A和D中都没有连接定语从句的关系代词，因此不对。
+C) any表示“任一的、任何的”
+例：1997年6月四级第31题
+The medicine is on sale everywhere. You can get it at _____ chemist's.
+A) each     B) some
+C) certain  D) any
+   全句意思是：“这种药到处有售，你可以在任何一家药房买到这种药”。所以答案是D) ，其他三个选项的意思分别是：each 强调单个的，指“每个的”；some “某些，某个”； certain “确定的”。
+2.other, another，any other，the other的用法：
+A) other表示“另外”，而another表示“另外一个”，等于an other。两者都可以做主语、定语和宾语。another只表示单数泛指的意思，而other有复数形式；特指时在其前加定冠词；前面可加任何限定词以及数量词。
+B) other用于两者（或双方）的情况下，another用于三者情况下。
+例：He has more concern for others than for himself.（他关心他人比关心自己更重）
+例：1989年1月四级第44题
+No agreement was reached in the discussion as neither side would give way to _______.
+A) the other
+B) any other
+C) another
+D) other
+   全句的意思是：“由于双方都不肯向另一方让步，会谈没有达成协议”。空格中要填入的词表达的是两方中间的另一方，因此答案是A) the other。其他三个选项中：another 作为代词，只能指代同一类人或同一种事物中的任何一个。any other 表示一个之外的其它任何一个，而不是两个之中的另一个。other作为代词，其单数形式必须语the，any，some，no等连用。
+例：1991年6月四级第41题
+We had a party last month, and it was a lot of fun, so let's have _____ one this month.
+A) another  B) more
+C) the otherD) other
+   表示“再聚会一次”可用have another party，所以选项A) another是答案。句中用one代替了party，一面重复。少数考生选了more。more也可表示“再……”的意思，但要用在数词后面。
+3. none，neither的用法
+例：1989年1月四级第49题
+I have two boys but _______ of them likes sweets.
+A) both    B) neither    C) either    D) none
+   本题是由两个分句组成的并列复合句。连接词but在句中起连接两分句的作用，表示意思的转折。结合选项看，后一分句应含否定的意思。全句的意思是：“我有两个男孩，可是他们都不喜欢糖果”。因此四个选项中，只有B) neither 和D) none有可能是答案。而none用在谈到三个或三个以上的人或物时，在谈到两个人或物时通常用neither。所以答案是B) neither。
+4. anything, nothing, something
+例：1999年1月四级第66题
+Frankly speaking, I'd rather you _____ anything about it for the time being.
+A) didn't do
+B) haven't done
+C) don't do
+D) have done
+   全句的意思是："坦率地说，关于这事我宁愿你目前什么都不要做"。句中的anything表示"任何事"的意思。答案是A。
+1) nothing but（通常指物）与none but（通常指人）：只不过，只有
+例：Don't worry about that too much. It is nothing but a quiz.（不要太焦虑，这只不过是一次小测验。）
+例：1997年6月四级第46题
+When he arrived, he found ________ the aged and the sick at home.
+A) none but
+B) none other than
+C) nothing but
+D) no other than
+   本句的意思是：“他到家时，发现家里……老人和病人。”从全句意思来看，应填入表示“只有”之类意思的词，A) none but和C) nothing but都可以表示“除了…以外，没有”或“只有”，有可能是答案。其中，A) none but多指人，C) nothing but通常接表示物的名词，所以排除C) nothing but。而B) none other than，和D) no other than这两个选项都表示“不是别的，正是……”，和本题的句意不符。
+2) anything but：并不，根本不
+例：He was anything but a fool.（他根本不是个傻瓜。）
+5. much和many作代词的用法
+例：1997年1月四级第51题
+As I was just getting familiar with this job, I had _______ to ask my boss.
+A) many    B) most
+C) more    D) much
+   全句意思：“当时我才开始熟悉这项工作，所以我有许多问题要请教我的上司”。表达“许多东西”或“许多事情”要用much，所以答案是D) 。many，作代词时，常指“许多人”或指代上下文中的可数名词。选项 B) most是最高级，用在本题显然不合适。另外，本题提供的上下文没有比较的意思，所以选项C不是答案。
+6. few，a few和little，a little都可修饰名词，也可直接用作名词。
+1) 当名词用时，few和a few为可数名词，而little和a little为不可数名词。
+2) few后接可数名词，little后接不可数名词。
+3) few 和little都是否定意思，与no意义相近，表示“几乎没有，没有，极少（少得近乎没有）”的意思。
+4) a few 和a little都是肯定意思，表示“有一些”。
+例：1995年6月四级第88题
+Even those who had _______ or no training in science might not have made their inventions if a groundwork had not been laid by scientists years before.
+A) little  B) much
+C) some    D) any
+   本题要求选用的是与no意义相近的不定代词，所以答案是A) little。
+
+代词2
+　　代词中第一个“小个性”就是物主代词。像my和mine这两个小冤家总是让人分不清谁是谁。但你只要记住它们最重要的区别—my的后面一定要接名词，不可以单独出现，只能做定语，如：my father；而 mine则是名词性，只能单独出现，在句中做主语和表语。如：Mine is green. It's mine. 记住这两个句子，凡是名词性物主代词（yours, hers, his, its, ours, theirs）就都可以放在mine的位置上了。这样，通过它们出现的位置不同，我们就可以把它们区别开了。
+　　代词的第二个“罗嗦”就是它有一个小跟班－self(selves)—反身代词，也就是表示“自己、亲自”的意思。关于反身代词，需要注意的是她不能单独做主语，但可以放在人称代词后面，做同位语。
+　　如：Marry herself said so. 玛丽她自己这么说的。（不能说Herself said so.）
+　　下面单独讲一讲须“特特”注意的地方。
+　　Of+名词性物主代词：
+　  of +物主代词构成双重所有格。公式为：a（an, this, that ）+名词+of +名词性物主代词。牢记公式，举一反三。因为物主代词不可与 a, an, this, that, these, those, some, any, no, each,every,such, another等词一起前置，修饰一个名词，而必须用双重所有格。如： a friend of mine（我的一个朋友），each brother of his（他的每一个兄弟）.
+　  some, any的用法：我们都知道some用于肯定句中，而any则用于否定句和疑问句中。 所以somebody，someone也用于肯定句中，而anybody、anyone则用于否定和疑问句中。
+　　注意：在Would youlike some coffee?（要来点咖啡吗？）这样的肯定疑问句中，说话人认为对方的答案会是肯定的，或期望得到肯定回答时，用some而不用any。
+　　every 和each的用法：every 强调全体的概念，指三个以上的人或物(含三个)，不可单独使用；
+    each强调个体概念。指两个以上的人或物 (含两个)，可单独使用.。 Every student in our school works hard. （我们学校的学生都很用功。） Each student may have one book.. （每个学生都可有一本书。） 　　
+　　both, either, neither的用法：
+　　both意为“两者全都”，与复数连用。either意为“两者中间的任何一个”，neither 表示“两者之间一个也不是”，与单数连用。如：Both of the them come from London。他们两人都是伦敦人。 You may take either with you。 两个中间你随便带哪个都行。 Neither is correct。 两个都不对。
+　　Few，a few和little，a little的用法：　　
+　　Few，a few用来代替和修饰可数名词，little，a little用来代替和修饰不可数名词;a few和a little 着重肯定意思，相当于汉语“有几个”，“有一点儿”；few和little 着重否定意思，相当于汉语“没有几个”，“没有多少”.

@@ -1,0 +1,273 @@
+TOEFL─г─т╠тги2-2гй
+READING COMPREHENSION
+Question 1-10
+   The agricultural revolution in the nineteenth century involved two things: the invention of labor-saving machinery and the development of scientific agriculture. Labor-saving machinery naturally appeared first where labor was scarce. "In Europe,'' said Thomas Jefferson, "the object is to make the most of their land, labor being abundant: here it is to make the most of our labor, land being abundant.'' It was in the United States, therefore, that the great advances in nineteenth-century agricultural machinery first came.
+   At the opening of the century, with the exception of a crude plow, farmers could have carried practically all of the existing agricultural implements on their backs; by 1860, most of the machinery in use today had been designed in an early form. The most important of the early inventions was the iron plow. As early as 1790 Charles Newbold of New Jersey had been working on the idea of a cast-iron plow and spent his entire fortune in introducing his invention. The farmers, however, were not interested in it, claiming that the iron poisoned the soil and made the weeds grow. Nevertheless, many people devoted their attention to the plow, until in 1869 James Oliver of South Bend, Indiana, turned out the first chilled-steel plow.
+1.What is the main topic of the passage?
+(A) The need for agricultural advances to help feed a growing population
+(B) The development of safer machines demanded by the labor movement
+(C) Machinery that contributed to the agricultural revolution
+(D) New Jersey as a leader in the agricultural revolution
+2.The word "naturally" in line 3 is closest in meaning to
+(A) unsurprisingly
+(B) gradually
+(C) apparently
+(D) safely
+3. The expression "make the most of" in line 4 is closest in meaning to
+(A) get the best yield from
+(B) raise the price of
+(C) exaggerate the worth of
+(D) earn a living on
+4. Which of the following can be inferred from what Thomas Jefferson said (line 3-5)?
+(A) Europe was changing more quickly than the United States.
+(B) Europe had greater need of farm machinery than the United States did.
+(C) The United States was finally running out of good farmland.
+(D) There was a shortage of workers on United States farms.
+5.The word "here" in line 4 refers to
+(A) Europe
+(B) United States
+(C) New Jersey
+(D) Indiana
+6. What point is the author making by stating that farmers could carry nearly all their tools on their backs.
+(A) Farmers had few tools before the agricultural revolution.
+(B) People in the United States were traditionally self-reliant.
+(C) Life on the farm was extremely difficult.
+(D) New tools were designed to be portable.
+7. When was the iron plow invented?
+(A)In 1790.
+(B) In the early 1800's.
+(C) In 1869.
+(D) In the early 1900's.
+8. According to the passage, which of the following statements about Charles Newbold is true?
+(A) He was James Oliver's assistant.
+(B) He was born in Europe.
+(C) He was opposed to scientific agriculture.
+(D) He spent his own money to promote his invention.
+9. The word "it" in line 12 refers to
+(A) scientific agriculture
+(B) James Oliver's invention
+(C) the cast-iron plow
+(D) Charles Newbold's fortune
+10. Why did farmers reject Newbold's plow?
+(A) Their horses were frightened by it.
+(B) They preferred lighter tools.
+(C) It was too expensive.
+(D) They thought it would ruin the land.
+Questions 1l-20
+гагагагагаAccording to some scientists, migratory birds should be able to withstand the winter. A bird's feathery coat is good insulation against the cold. Because a bird is warmblooded, its body temperature always remains constant, even if the temperature of its surroundings changes.
+гагагагагаThe factors that trigger migratory behavior in birds are difficult to explain. This behavior seems to be instinctive, not learned. For example, many northern species leave their summer homes while the weather is still warm and the food supply plentiful. Young arctic terns born at the arctic breeding grounds will lake off with the flock for distant lands they have never seen.
+гагагагагаBird migrations are probably regulated by the glandular system. Scientists suspect that the changing length of the day is the factor that triggers migratory behavior. In an experiment, migratory birds were kept in artificially lighted rooms. It was found that if periods of darkness were lengthened proportionately, the glands of the birds became active. These glands secrete hormones, which are chemicals that control numerous body functions. Shorter periods of daylight seem to change the hormone balance of birds, so that they retain more fat. This stored fat is the fuel that provides the energy for a long flight. The same experiment revealed that the birds became more excited as the artificial night was lengthened. It is probably no coincidence that most flocks begin their migratory flights during the night.
+11. What does the passage mainly discuss?
+(A) Common migratory paths for birds
+(B) Why birds migrate
+(C) Species of birds that do not migrate
+(D) Migration in cold climates
+12. The word "withstand" in line 1 is closest in meaning to
+(A) prefer
+(B) tolerate
+(C) regulate
+(D) understand
+13. According to the passage, which of the following protects birds against cold weather?
+(A) Glands
+(B) Hormones
+(C) Feathers
+(D) Artificial light
+14. The word "constant" in line 3 is closest in meaning to
+(A) invariable
+(B) persistent
+(C) predictable
+(D) responsive
+15. The word "its" in line 3 refers to
+(A) temperature
+(B) cold
+(C) coat
+(D) bird
+16. In lines 7-9, the author mentions young arctic terns as an example of birds that
+(A) do not migrate
+(B) breed during migration
+(C) migrate instinctively
+(D) adapt to the cold
+l7. The word "they" in line 16 refers to
+(A) glands
+(B) birds
+(C) body functions
+(D) hormones
+18. According to the passage, birds exposed to longer periods of darkness experience all of the following changes EXCEPT
+(A) activated glands
+(B) excited behavior
+(C) retention of more fat
+(D) increased appetite
+19. In the experiment mentioned in the passage, the scientists adjusted the birds'
+(A) food supply
+(B) body temperatures
+(C) exposure to light
+(D) brain chemistry
+20. Where in the passage does the author mention the substance that enables birds to fly long distances?
+(A) Lines 2-4
+(B) Lines 5-7
+(C) Lines 10-11
+(D) Lines 16-17
+Question 21-30
+гагагага There were two widely divergent influences on the early development of statistical methods. Statistics had a mother who was dedicated to keeping orderly records of governmental units (state and statistics come from the same Latin root, status) and a gentlemanly gambling father who relied on mathematics to increase his skill at playing the odds in games of chance. The influence of the mother on the offspring, statistics, is represented by counting, measuring, describing, tabulating, ordering. and the taking of censuses --- all of which led to modern descriptive statistics. From the influence of the father came modern inferential statistics, which is based squarely on theories of robability.
+гагагага Descriptive statistics involves tabulating, depicting, and describing collections of data. These data may be quantitative, such as measures of height, intelligence, or grade level - variables that are characterized by an underlying continuum - or the data may represent qualitative variables, such as sex, college major, or personality type. Large masses of data must generally undergo a process of summarization or reduction before they are comprehensible. Descriptive statistics is a tool for describing or summarizing or reducing to comprehensible form the properties of an otherwise unwieldy mass or data.
+гагагага Inferential statistics is a formalized body of methods for solving another class of problems that present great difficulties for the unaided human mind. This general class of problems characteristically involves attempts to make predictions using a sample of observations. For example, a school superintendent wishes to determine the proportion of children in a large school system who come to school without breakfast, have been vaccinated for flu, or whatever. Having a little knowledge of statistics, the superintendent would know that it is unnecessary and inefficient to question each child; the proportion for the entire district could be estimated fairly accurately from a sample of as few as l00 children. Thus, the purpose of inferential statistics is to predict or estimate characteristics of a population from a knowledge of the haracteristics of only a sample of the population.
+21. With what is the passage mainly concerned ?
+(A) The drawbacks of descriptive and inferential statistics
+(B) Applications of inferential statistics
+(C) The development and use of statistics
+(D) How to use descriptive statistics
+22. The word "divergent" in line 1 is closest in meaning to
+(A) different
+(B) distributed
+(C) recorded
+(D) prominent
+23. According to the first paragraph, counting and census-taking arc associated with
+(A) inferential statistics
+(B) descriptive statistics
+(C) unknown variables
+(D) qualitative changes
+24. Why does the author mention the "mother" and "father" in the first paragraph?
+(A) To point out that parents can teach their children statistics
+(B) To introduce inferential statistic
+(C) To explain that there are different kinds of variables
+(D) To present the background of statistics in a humorous and understandable way
+25. The word "squarely" in line 8 could best be replaced by
+(A) solidly
+(B) geometrically
+(C) rectangularly
+(D) haphazrardly
+26. Which of the following is NOT given an example of a qualitative variable?
+(A) Gender
+(B) Height
+(C) College major
+(D) Type of personality
+27. The word "they" in line 13 refers to
+(A) variables
+(B) masses
+(C) descriptive statistics
+(D) properties
+28. Which of the following statements about descriptive statistics is best supported by the passage?
+(A) It reduces large amounts of data to a more comprehensible form.
+(B) It is based on probability.
+(C) It can be used by people with little knowledge of mathematics.
+(D) It measures only qualitative differences.
+29. The word "unwieldy" in line 15 is closest in meaning to
+(A) unmanageable
+(B) unpredictable
+(C) understandable
+(D) unreliable
+30. According to the passage, what is the purpose of examining a sample of a population?
+(A) To compare different groups
+(B) To predict characteristics of the entire population
+(C) To detect differences not observable in the whole population
+(D) To compile more accurate data
+Questions 31-40
+гага Glacier National park in Montana shares boundaries with Canada, an American Indian reservation, and a national forest. Along the North Fork of the Flathead River, the park also borders about 17,000 acres of private lands that are currently used for ranching, timber, and agriculture. This land is an important part of the habitat and migratory routes for several endangered species that frequent the park. These private lands are essentially the only ones available for development in the region.
+гага With encouragement from the park, local landowners initiated a land-use planning effort to guide the future of the North Fork. The park is a partner in an interlocal agreement that calls for resource-managing agencies to work together and with the more than 400 private owners in the area. A draft plan has been prepared, with the objective of maintaining traditional economic uses but limiting new development that would damage park resources. Voluntary action by landowners, in cooperation with the park and the county, is helping to restrict small-lot subdivisions, maintain wildlife corridors, and minimize any harmful impact on the environment.
+гага The willingness of local landowners to participate in this protection effort may have been stimulated by concerns that Congress would impose a legislative solution. Nevertheless, many local residents want to retain the existing character of the area. Meetings between park officials and landowners have led to a dramatically improved understanding of all concerns.
+31. The passage mainly discusses
+(A) the endangered species in Glacier National Park
+(B) the protection of lands surrounding Glacier National Park
+(C) conservation laws imposed by the state of Montana
+(D) conservation laws imposed by Congress
+32. Why are the private lands surrounding Glacier National Park so important?
+(A) They function as a hunting preserve.
+(B) They are restricted to government use.
+(C) They are heavily populated.
+(D) They contain natural habitats of threatened species.
+33. The word "ones" in line 6 refers to
+(A) private lands
+(B) endangered species
+(C) migratory routes
+(D) ranching, timber, agriculture
+34. The word "initiated" in line 7 is closest in meaning to
+(A) started
+(B) requested
+(C) purchased
+(D) considered
+35. The relationship between park officials and neighboring landowners may best be described as
+(A) indifferent
+(B) intimate
+(C) cooperative
+(D) disappointing
+36. It can be inferred from the passage that a major interest of the officials of Glacier National Park is to
+(A) limit land development around the park
+(B) establish a new Park in Montana
+(C) influence national legislation
+(D) settle border disputes with Canada
+37. In lines 15-16, the author implies that landowners might be responding to environmental concerns for which of the following reasons?
+(A) They wish to stimulate economic growth.
+(B) They wish to improve their public image.
+(C) They have a tradition of cooperating with the government.
+(D) They fear federal legislation.
+38. The word "stimulated" in line 16 is closest in meaning to
+(A) motivated
+(B) anticipated
+(C) substituted
+(D) undermined
+39. The word "retain" in line 17 is closest in meaning to
+(A) preserve
+(B) possess
+(C) enjoy
+(D) improve
+40. Where in the passage does the author mention the purpose of the plan developed by local landowners and park officials?
+(A) Lines 1-2
+(B) Lines 4-6
+(C) Lines 10-14
+(D) Lines 15-17
+Question 41-50
+гага If the salinity of ocean waters is analyzed, it is found to vary only slightly from place to place. Nevertheless, some of these small changes are important. There are three basic processes that cause a change in oceanic salinity. One of these is the subtraction of water from the ocean by means of evaporation --- conversion of liquid water to water vapor. In this manner, the salinity is increased, since the salts stay behind. If this is carried to the extreme, of course, white crystals of salt would be left behind.
+гага The opposite of evaporation is precipitation, such as rain, by which water is added to the ocean. Here the ocean is being diluted so that the salinity is decreased. This may occur in areas of high rainfall or in coastal regions where rivers flow into the ocean. Thus salinity may be increased by the subtraction of water by evaporation, or decreased by the addition of fresh water by precipitation or runoff.
+гага Normally, in tropical regions where the sun is very strong, the ocean salinity is somewhat higher than it is in other parts of the world where there is not as much evaporation. Similarly, in coastal regions where rivers dilute the sea, salinity is somewhat lower than in other oceanic areas.
+гага A third process by which salinity may be altered is associated with the formation and melting of sea ice. When seawater is frozen, the dissolved materials are left behind. In this manner, seawater directly beneath freshly formed sea ice has a higher salinity than it did before the ice appeared. Of course, when this ice melts, it will tend to decrease the salinity of the surrounding water.
+гага In the Weddell Sea, off Antarctica, the densest water in the oceans is formed as a result of this freezing process, which increases the salinity of cold water. This heavy water sinks and is found in the deeper portions of the oceans of the world.
+4l. What does the passage mainly discuss?
+(A) The elements of salt
+(B) The bodies of water of the world
+(C) The many forms of ocean life
+(D) The salinity of ocean water
+42. The word "this" in line 5 refers to
+(A) ocean
+(B) evaporation
+(C) salinity
+(D) crystals
+43. According to the passage, the ocean generally has more salt in
+(A) coastal areas
+(B) tropical areas
+(C) rainy areas
+(D) turbulent areas
+44. All of the following are processes that decrease salinity EXCEPT
+(A) evaporation
+(B) precipitation
+(C) runoff
+(D) melting
+45. Which of the following statements about the salinity of a body water can best be inferred from the passage?
+(A) The temperature of the water is the most important factor.
+(B) The speed with which water moves is directly related to the amount of salt.
+(C) Ocean salinity has little effect on sea life.
+(D) Various factors combine to cause variations in the salt content of water.
+46. The word "altered" in line 16 is closest in meaning to
+(A) determined
+(B) changed
+(C) accumulated
+(D) needed
+47. The world "it" in line 18 refers to
+(A) sea ice
+(B) salinity
+(C) seawater
+(D) manner
+48. Why does the author mention the Weddell Sea?
+(A) To show that this body of water has salinity variations
+(B) To compare Antarctic waters with Arctic waters
+(C) To give an example of increased salinity due to freezing
+(D) To point out the location of deep waters
+49. Which of the following is NOT a result of the formation of ocean ice?
+(A) The salt remains in the water.
+(B) The surrounding water sinks.
+(C) Water salinity decreases.
+(D) The water becomes denser.
+50. What can be inferred about the water near the bottom of oceans?
+(A) It is relatively warm.
+(B) Its salinity is relatively high.
+(C) It does not move.
+(D) It evaporates quickly.

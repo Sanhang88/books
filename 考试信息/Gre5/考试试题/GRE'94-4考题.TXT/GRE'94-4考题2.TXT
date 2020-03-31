@@ -1,0 +1,705 @@
+GRE'94-4考题2
+大混乱，大骚动n.
+A.宁静 
+B.庇护 
+C.缺乏(贫穷) 
+D.顶点 
+E.沉思(凝视) 
+REPRESS: 
+review 
+foster 
+extol 
+salvage 
+exhaust 
+答案：(B) 
+镇压，抑制v.
+A.复习 
+B.鼓励，促进 
+C.赞扬 
+D.拯救 
+E.耗尽 
+UTTER: 
+skewed 
+valid 
+concrete 
+partial 
+direct 
+答案：(D) 
+彻底的，完全的adj.(说v.) 
+A.歪斜的(曲解的) 
+B.正确有效的 
+C.具体的 
+D.部分的 
+E.直接的 
+SHOAL: 
+refined 
+straight 
+deep 
+secure 
+simple 
+答案：(C) 
+浅的adj.(大量，大群n.) 
+A.精炼的(文雅的) 
+B.直的 
+C.深的 
+D.安全的(固定；得到v.) 
+E.简单的 
+BAWDY: 
+decorous 
+ridiculous 
+soulful 
+reliable 
+poignant 
+答案：(A) 
+淫猥的adj.
+A.端庄的，有礼的 
+B.荒谬的，可关的 
+C.充满生气的(精神上的) 
+D.可靠的 
+E.尖酸刻薄的(生动的) 
+BADINAGE: 
+literal translation 
+clear reference 
+serious conversation 
+detailed description 
+lengthy exchange 
+答案：(C) 
+打趣，嘲弄n.
+A.字面上的翻译 
+B.清晰的参考 
+C.严肃的对话 
+D.具体的描述 
+E.冗长的交换 
+MARTINET: 
+unskilled laborer 
+indulgent individual 
+malicious opponent 
+reliable agent 
+ardent supporter 
+答案：(B) 
+纪律严肃的人n.
+A.无技术的劳工 
+B.沉溺放纵的个人 
+C.存心不良的对手 
+D.可靠的代理人 
+E.热心的支持者 
+EMBOLDEN: 
+lop 
+cow 
+warp 
+demote 
+defraud 
+答案：(B) 
+鼓励，给…壮胆v.
+A.低垂 
+B.恐吓 
+C.翘曲 
+D.降级 
+E.骗取，诈取 
+ESTRANGEMENT: 
+rapprochement 
+familiarization 
+equanimity 
+nonchalance 
+recompense 
+答案：(A) 
+疏远，离间n.
+A.和解，和睦 
+B.使熟悉 
+C.沉着，镇定 
+D.无动于衰 
+E.报酬，赔偿 
+Eight meetings- H.J.K.L.N.O.P and R-are to take place over five onsecutive days-Monday, Tuesday, Wednesday, Thursday, and Friday.At least one meeting and at most two meetings are scheduled for each day, with each meeting scheduled for exactly one 3-hour period.Whenever two meetings are scheduled for the same day as each other, one is scheduled for the morning and one is scheduled for the afternoon.The following conditions apply: 
+　J must be scheduled for a day for which there isx no other meeting scheduled.
+　J must occur sometime before R.
+　N must occur sometime after R.
+　N cannot be scheduled for the same day as O.
+　R must be scheduled for Wednesday.
+Which of the following could be the list of the meetings scheduled for the five-day period.
+Monday Tuesday Wednesday 　Thursday Friday 　 
+J K, J 　H, R N O, P 　 
+J, K L 　R H, N O, P 
+K, L O 　H, R J N, P 
+K J 　H, R N, O L, P 
+N, K J 　H, R O L, P 
+答案：(A) 
+If both R and P are scheduled for Wednesday and O is scheduled for Friday which of the following must be true? 
+J is scheduled for Monday.
+N is scheduled for Thursday.
+Both N and K are scheduled for Thursday.
+H is scheduled for the same day as O.
+K is scheduled for the same day as L.
+答案：(B) 
+If J is scheduled for Monday and N is scheduled for Wednesday, there is a total of how many different days any one of which could be the day for which O is scheduled? 
+One 
+Two 
+Three 
+Four 
+Five 
+答案：(C) 
+If both H and P are scheduled for Thursday and O is scheduled for Friday, then N must be scheduled for 
+Monday morning 
+Monday afternoon 
+Tuesday afternoon 
+Wednesday morning 
+Wednesday afternoon 
+答案：(E) 
+If H is scheduled for Tuesday and O is scheduled for Wednesday afternoon, each of the following must be true 
+EXCEPT: 
+Only one meeting is scheduled for Monday.
+Two meetings are scheduled for Wednesday.
+N is scheduled for Thursday or else for Friday.
+N is scheduled for a morning.
+R is scheduled for a morning.
+答案：(D) 
+Half a dozen Q40 airliners have crashed in the past two years.The manufacturer has countered claims that the Q40's design is faulty by pointing out that, in each of the accidents, investigations indicated pilot error as the cause.
+The manufacturer's argument, as reported in the passage, relies on which of the following assumptions? 
+No aspect of the Q40's design contributed to the pilots' errors that resulted In crashes.
+It is possible to distinguish aircraft failures due to design flaws from those due to defects in the manufacture of a particular aircraft.
+Those claiming that the Q40's design is faulty have not identified any particular feature of the design as flawed.
+Pilot error has not been the cause of all recent commercial aviation accidents.
+Half a dozen crashes over two years is not an extraordinarily high accident rate for an airliner of the Q40's type.
+答案：(A) 
+读题：在过去2年里，已有6架Q40飞机坠机。针对Q40在设计上存在问题的指责，制造商指出：调查证明，每一次事故都是飞行员的失误引起的。 
+分析：制造商从飞行员的失误是原因，得出结论：Q40的设计不是原因 
+　　　从结论的形式我们得出这是一种间接原因的考法。 
+A是B导致的，所以A就不是C导致的。 
+反对我们一般说B和C是相关的 
+假设我们只要说B和C没有任何关系 
+问题：以上论证依据下面哪个假设： 
+A.Q40设计的任何分面都没有导致引起坠机的飞行员的错误。 
+　（去掉not, Q40的设计导致飞行员的错误，恰恰是间接原因的标准答案模式） 
+B.设计失误导致的飞机失事与具体飞机制造所引起的飞机失事是可以区分的。 
+　（B说得是设计和制造之间，不对。 
+　　如果B改为：设计失误导致的飞机失事与由飞行员的的失误所引起的飞机失事是可以区分的，那么说明调查是可行的，可以为假设）　 
+Which of the following, if true, provides the strongest support for the manufacturer's position? 
+Each of the investigations was carried out by the same group, which is sponsored by a consortium of aircraft manufacturers.
+One of the crashes occurred in very poor visibility when the pilot was attempting to land.
+Each of the investigations identified several factors other than pilot error as subsidiary causes.
+In four of the crashes, the pilot's error involved disregarding instructions or information supplied by air-traffic control 
+Like most modern airliners, the Q40 was designed with the goal that it should be highly tolerant of pilot error.
+答案：(D) 
+读题：在过去2年里，已有6架Q40飞机坠机。针对Q40在设计上存在问题的指责，制造商指出：调查证明，每一次事故都是飞行员的失误引起的。 
+分析：制造商从飞行员的失误是原因，得出结论：Q40的设计不是原因 
+　　　从结论的形式我们得出这是一种间接原因的考法。 
+A是B导致的，所以A就不是C导致的。 
+反对我们一般说B和C是相关的 
+假设我们只要说B和C没有任何关系 
+以下何项最支持制造商的论证。 
+支持达到效果：的确不是由于Q40设计的问题，而是飞行员的失误引起 
+（关键词，找飞行员的错误） 
+A.每一次调查都是飞机制造商协会赞助的同一个小组进行的。 
+D.在其中四次飞机失事中，飞行员的错误包括无视空中控制台提供的指令或信息。 
+　　（说明就是飞行员的失误） 
+E.像大多数现代航班一样，Q40是根据高度容纳飞行员错误的目标设计的。 
+In laparoscopic gallbladder surgery, the surgeon operates through small incisions, watching the progress of the surgery on a video monitor.Since laparoscopic surgery causes less pain and permits a faster recovery than traditional surgery, patients strongly prefer it.Hence surgical training no longer needs to include traditional methods of gallbladder surgery.　 
+Which of the following, if true, most seriously, undermines the argument above? 
+Widespread use of laparoscopic surgery has reduced the rate of infection from gallbladder surgery.
+Many surgical techniques have been replaced by ones that use advanced technology.
+Teaching hospitals were slower to adopt laparoscopic techniques than were many other hospitals.
+It is not part of the mission of surgical training,to preserve outmoded techniques for historical interest.
+Students who have not performed traditional gallbladder surgery have greater difficulty learning laparoscopic techniques.
+答案：(E) 
+　Seven chimpanzees-G, H, K, L, N, P, and Q-are to be assigned to four observer-Richards, Smith, Torres, and Yang-with each chimpanzee assigned to exactly one observer and each observer assigned at most two chim-panzees.P and Q are juveniles: the other five chim-panzees are adults.G, H, and P are male: the other four chimpanzees are female.The following conditions govern the assignment of the chimpanzees to the observers: 
+　Only male chimpanzees can be assigned to Richards.At most one chimpanzee can be assigned to Smith.Whenever a juvenile is assigned to an observer, an adult chimpanzee of the same sex as the juvenile must also be assigned to that observer.Which of the following represents an acceptable assignment of the chimpanzees to the observers? 　　　　Richards　　Smith Torres Yang　　　 　　 　 
+G,P H K,L,Q N 
+G,P H L,Q K, N 　　 　 
+G,P L K,N H, Q 
+H,L K N,Q G, P 
+H,P G,K N,Q L 
+答案：(B) 
+读题:7只黑猩猩,G、H、K、L、N、P、Q,分配给4个观察者,R、S、T、Y,每只猩猩都要分配给一个人,每个人最多2只猩猩。 
+写条件: 
+1、R:male (表示只有雄性猩猩才能给R) 
+2、S≤1 (表示S最多只分配一只猩猩) 
+3、one juv→one adult(same sex) (表示如果一只未成年的猩猩分配给观察者, 
+那么同性的一只成年猩猩必须分配给那个观察者) 
+条件总结： 
+　　1、4个观察者我们可以看为四组，７个元素分为四组，那么首先注意数字分配关系题目中有每组最多２只猩猩，则分配关系为（2、2、2、1）而条件2告诉我们，S≤1，所以R,T,Y各有2个元素 
+　　2、上面的条件３不涉及具体元素，我们看是否能和被它限制的元素结合起来。如果一只未成年的猩猩分配给观察者,那么同性的一只成年猩猩必须分配给那个观察者，显然限制是对未成年猩猩而言，题目中有两个元素属于未成年猩猩, P,Q,因此
+得到： 
+　　P＋（G/H中选择一个） 
+　　Q＋（K/L/N三者中选择一个） 
+题目中一共只有３只雄性猩猩，而条件1告诉我们R中就必须要有两只雄性猩猩，因此R中的元素必然为　　P＋（G/H中选择一个） 
+分析到此，整个题组以完全在你的掌握之中，而我们所用的方法还是我们经常讲的 
+Which of the following must be true? 
+H is assigned to Smith.
+K is assigned to Yang 
+L is assigned to Torres.
+P is assigned to Richards.
+Q is assigned to Torres.
+答案：(D) 
+读题:7只黑猩猩,G、H、K、L、N、P、Q,分配给4个观察者,R、S、T、Y,每只猩猩都要分配给一个人,每个人最多2只猩猩。 
+写条件: 
+1、R:male (表示只有雄性猩猩才能给R) 
+2、S≤1 (表示S最多只分配一只猩猩) 
+3、one juv→one adult(same sex) (表示如果一只未成年的猩猩分配给观察者, 
+那么同性的一只成年猩猩必须分配给那个观察者) 
+条件总结： 
+　　1、4个观察者我们可以看为四组，７个元素分为四组，那么首先注意数字分配关系题目中有每组最多２只猩猩，则分配关系为（2、2、2、1）而条件2告诉我们，S≤1，所以R,T,Y各有2个元素 
+　　2、上面的条件３不涉及具体元素，我们看是否能和被它限制的元素结合起来。如果一只未成年的猩猩分配给观察者,那么同性的一只成年猩猩必须分配给那个观察者，显然限制是对未成年猩猩而言，题目中有两个元素属于未成年猩猩, P,Q,因此
+得到： 
+　　P＋（G/H中选择一个） 
+　　Q＋（K/L/N三者中选择一个） 
+题目中一共只有３只雄性猩猩，而条件1告诉我们R中就必须要有两只雄性猩猩， 
+因此R中的元素必然为　　P＋（G/H中选择一个） 
+分析到此，整个题组以完全在你的掌握之中，而我们所用的方法还是我们经常讲的 
+Each of the following is a chimpanzee that can be assigned to Smith EXCEPT.
+G 
+K 
+L 
+N 
+Q 
+答案：(E) 
+读题:7只黑猩猩,G、H、K、L、N、P、Q,分配给4个观察者,R、S、T、Y,每只猩猩都要分配给一个人,每个人最多2只猩猩。 
+写条件: 
+1、R:male (表示只有雄性猩猩才能给R) 
+2、S≤1 (表示S最多只分配一只猩猩) 
+3、one juv→one adult(same sex) (表示如果一只未成年的猩猩分配给观察者, 
+那么同性的一只成年猩猩必须分配给那个观察者) 
+条件总结： 
+　　1、4个观察者我们可以看为四组，７个元素分为四组，那么首先注意数字分配关系题目中有每组最多２只猩猩，则分配关系为（2、2、2、1）而条件2告诉我们，S≤1，所以R,T,Y各有2个元素 
+　　2、上面的条件３不涉及具体元素，我们看是否能和被它限制的元素结合起来。如果一只未成年的猩猩分配给观察者,那么同性的一只成年猩猩必须分配给那个观察者，显然限制是对未成年猩猩而言，题目中有两个元素属于未成年猩猩, P,Q,因此 
+　　得到： 
+　　P＋（G/H中选择一个） 
+　　Q＋（K/L/N三者中选择一个） 
+题目中一共只有３只雄性猩猩，而条件1告诉我们R中就必须要有两只雄性猩猩，因此R中的元素必然为P＋（G/H中选择一个） 
+分析到此，整个题组以完全在你的掌握之中，而我们所用的方法还是我们经常讲的 
+If G is assigned to Torres, which of the following must be true? 
+H is assigned to Smith.
+K is assigned to Torres.
+L is assigned to Smith.
+N is assigned to Yang 
+Q is assigned to Yang 
+答案：(E) 
+读题:7只黑猩猩,G、H、K、L、N、P、Q,分配给4个观察者,R、S、T、Y,每只猩猩都要分配给一个人,每个人最多2只猩猩。 
+写条件: 
+1、R:male (表示只有雄性猩猩才能给R) 
+2、S≤1 (表示S最多只分配一只猩猩) 
+3、one juv→one adult(same sex) (表示如果一只未成年的猩猩分配给观察者, 
+那么同性的一只成年猩猩必须分配给那个观察者) 
+条件总结： 
+　　1、4个观察者我们可以看为四组，７个元素分为四组，那么首先注意数字分配关系题目中有每组最多２只猩猩，则分配关系为（2、2、2、1）而条件2告诉我们，S≤1，所以R,T,Y各有2个元素 
+　　2、上面的条件３不涉及具体元素，我们看是否能和被它限制的元素结合起来。如果一只未成年的猩猩分配给观察者,那么同性的一只成年猩猩必须分配给那个观察者，显然限制是对未成年猩猩而言，题目中有两个元素属于未成年猩猩, P,Q,因此 
+得到： 
+　　P＋（G/H中选择一个） 
+　　Q＋（K/L/N三者中选择一个） 
+题目中一共只有３只雄性猩猩，而条件1告诉我们R中就必须要有两只雄性猩猩， 
+因此R中的元素必然为　　P＋（G/H中选择一个） 
+分析到此，整个题组以完全在你的掌握之中，而我们所用的方法还是我们经常讲的 
+If K is assigned to Smith, which of the following 
+can be true? 
+G and H are assigned to Yang.
+G and Q are assigned to Torres.
+L and N are assigned to Torres.
+L and N are assigned to Yang.
+N and Q are assigned to Torres.
+答案：(E) 
+读题:7只黑猩猩,G、H、K、L、N、P、Q,分配给4个观察者,R、S、T、Y,每只猩猩都要分配给一个人,每个人最多2只猩猩。 
+写条件: 
+1、R:male (表示只有雄性猩猩才能给R) 
+2、S≤1 (表示S最多只分配一只猩猩) 
+3、one juv→one adult(same sex) (表示如果一只未成年的猩猩分配给观察者,那么同性的一只成年猩猩必须分配给那个观察者) 
+条件总结： 
+　　1、4个观察者我们可以看为四组，７个元素分为四组，那么首先注意数字分配关系题目中有每组最多２只猩猩，则分配关系为（2、2、2、1）而条件2告诉我们，S≤1，所以R,T,Y各有2个元素 
+　　2、上面的条件３不涉及具体元素，我们看是否能和被它限制的元素结合起来。如果一只未成年的猩猩分配给观察者,那么同性的一只成年猩猩必须分配给那个观察者，显然限制是对未成年猩猩而言，题目中有两个元素属于未成年猩猩, P,Q,因此 
+得到： 
+　　P＋（G/H中选择一个） 
+　　Q＋（K/L/N三者中选择一个） 
+题目中一共只有３只雄性猩猩，而条件1告诉我们R中就必须要有两只雄性猩猩， 
+因此R中的元素必然为P＋（G/H中选择一个） 
+分析到此，整个题组以完全在你的掌握之中，而我们所用的方法还是我们经常讲的 
+Which of the following must be true? 
+At least one of the chimpanzees assigned to Torres is a female.
+At least one of the chimpanzees assigned to Torres is a juvenile., 
+At least one of the chimpanzees assigned to Yang is a juvenile.
+At least one of the chimpanzees assigned to Yang is a male.
+The chimpanzee assigned to Smith is a juvenile.
+答案：(A) 
+读题:7只黑猩猩,G、H、K、L、N、P、Q,分配给4个观察者,R、S、T、Y,每只猩猩都要分配给一个人,每个人最多2只猩猩。 
+写条件: 
+1、R:male (表示只有雄性猩猩才能给R) 
+2、S≤1 (表示S最多只分配一只猩猩) 
+3、one juv→one adult(same sex) (表示如果一只未成年的猩猩分配给观察者, 
+那么同性的一只成年猩猩必须分配给那个观察者) 
+条件总结： 
+　　1、4个观察者我们可以看为四组，７个元素分为四组，那么首先注意数字分配关系题目中有每组最多２只猩猩，则分配关系为（2、2、2、1）而条件2告诉我们，S≤1，所以R,T,Y各有2个元素 
+　　2、上面的条件３不涉及具体元素，我们看是否能和被它限制的元素结合起来。如果一只未成年的猩猩分配给观察者,那么同性的一只成年猩猩必须分配给那个观察者，显然限制是对未成年猩猩而言，题目中有两个元素属于未成年猩猩, P,Q,因此 
+　　得到： 
+　　P＋（G/H中选择一个） 
+　　Q＋（K/L/N三者中选择一个） 
+题目中一共只有３只雄性猩猩，而条件1告诉我们R中就必须要有两只雄性猩猩， 
+因此R中的元素必然为　　P＋（G/H中选择一个） 
+分析到此，整个题组以完全在你的掌握之中，而我们所用的方法还是我们经常讲的 
+　Six scholars-Fine, Gonzales, Hall, Jones, Littlehawk,and May-will be scheduled to present one paper each at a scholarly conference.The six papers will be presented on a single morning in three different rooms-the Northwest, Oregon, and Pacific rooms.In each of the rooms, there will be exactly one paper given at 9:00 am.and exactly one paper given at 11:00 a.m., according to the following restrictions: 
+　Jones's paper must be presented after Hall's in the same room as Hall's.
+　Fine's paper cannot be scheduled for the same time as Littlehawk's.
+　Gonzales' paper must be scheduled for the Oregon Room,which is the largest.
+　No paper is presented more than once.
+Which of the following is an acceptable schedule for the 9:00 a.m.apers in the three rooms? 
+Northwest Oregon 　　　　　　　Pacific 
+Fine Littlehawk May 
+Gonzales Fine May 
+Hall Gonzales Littlehawk 　 
+Jones Gonzales Fine 
+Littlehawk Gonzales Fine 
+答案：(C) 
+Which of the following can be true if Littlehawk's paper is scheduled for the Oregon Room? 
+Fine's paper is scheduled for 11:00 a.m.in the Oregon Room.
+Gonzales' paper is scheduled for the same time as Littlehawk's.
+Hall's paper is scheduled for 9:00 a.m.in the Oregon Room.
+Jones's paper is scheduled for 11:00 a.m.in the Pacific Room.
+Jones's paper is scheduled for the same time as Hall's.
+答案：(D) 
+Which of the following must be true? 
+Gonzales' paper is not scheduled for 11:00 a.m.
+Hall's paper is not scheduled for the Oregon Room.
+Jones's paper is not scheduled for the Pacific Room.
+Littlehawk's paper is not scheduled for the Northwest Room.
+May's paper is not scheduled for 9:00 a.m.
+答案：(B) 
+Which of the following can be the pair of scholars whose papers are scheduled for 11:00 a.m.in the Northwest and Pacific rooms,respectively? 
+Fine and Jones 
+Fine and Littlehawk 
+Fine and May 
+Hall and Littlehawk 
+Hall and May 
+答案：(A) 
+Which of the following is a pair of scholars who can be scheduled, not necessarily in the order given, to present their papers in the same room as each other? 
+Fine and Gonzales 
+Gonzales and Hall 
+Gonzales and Jones 
+Hall and Littlehawk 
+Hall and May 
+答案：(A) 
+If both Fine and Gonzales are scheduled to present 
+their papers at 9:00 a.m., then it must be true that 
+Fine's paper is scheduled for the Northwest Room 
+Hall's paper is scheduled for the Pacific Room 
+Jones's paper is scheduled for the Oregon Room 
+Littlehawk's paper is scheduled for 9:00 a.m.
+May's paper is scheduled for 11:00 a.m.
+答案：(E) 
+If Hall's paper is scheduled for the Pacific Room, 
+which of the following can be true? 
+Fine's paper is scheduled for 9:00 a.m.in the Pacific Room.
+Jones's paper is scheduled for 9:00 a.m.in the Northwest Room.
+Jones's paper is scheduled for 11:00 a.m.in the Northwest Room.
+Littlehawk's paper is scheduled for 9:00 a.m.in the Oregon Room.
+May's paper is scheduled for 11:00 a.m.in the Pacific Room.
+答案：(D) 
+If May's paper is scheduled for the Oregon Room, 
+it must be true that the papers of 
+Fine and Hall, not necessarily in that order, are 
+scheduled for the same room as each other 
+Fine and Littlehawk.not necessarily in that order, 
+are scheduled for the same room as each other 
+Gonzales and Littlehawk, not necessarily in that 
+order, are scheduled for the same room as each other 
+Hall and May are scheduled for the same time as each other 
+Jones and May ire scheduled for the same time as each other 
+答案：(B) 
+The Planning Committee has decided in favor of 
+redeveloping the city's western district and has 
+issued a report that argues for the feasibility of 
+such redevelopment.Lesley Johnston serves as a member 
+of the Planning Committee and has done so from the 
+committee's inception.Therefore it cannot be true 
+that Johnston opposes redeveloping the western district.
+The answer to which of the following questions would 
+most help in evaluating the argument above? 
+Did the feasibility report include information compiled by independent consultants rather than by members of the committee? 
+Do the committee's decisions require the unanimous support of its members? 
+Has Johnston served on other municipal committees that are not concerned with issues of planning and development? 
+Does the committee issue reports at regular intervals or only when a question on development is decided? 
+Have other members of the committee served on the committee as lone as Johnston has? 
+答案：(B) 
+问题：下面哪一个问题的答案最有助于评价上文的论证? 
+读题：规划委员会赞成重新开发该市的西部地区，并发布一份报告论证西部开发的可行性 
+　　　Lesley Johnson是规划委员会的一员，并且从委员会早期就已加盟。 
+　　　所以说Johnson反对重新开发西部地区一定不是正确的。 
+分析：原文中三句话： 
+　　　1、规划委员会赞成重新开发 
+　　　2、Lesley Johnson是规划委员会的一员 
+　　　3、所以L.J赞成重新开发 
+结论成立必须基于一个假设：规划委员会的人都赞成 
+A.可行性报告中的信息包括由独立的顾问编撰的而不是由委员会成员提供吗？ 
+B.委员会的决定需要所有成员一致通过吗？ 
+　　（回答是，结论就正确 
+　　　回答否，结论就错误，所以B是evaluation的答案） 
+C.Johnson同时在其它与开发和规划无关的委员会吗？ 
+Grazing livestock on public land in the western 
+United States is not causing widespread environmental 
+damage in the region, since if it were, the condition 
+of that land would not be improving.However, only 14 
+percent of public land in the area today is considered 
+to have inadequate vegetation cover and.therefore.to 
+be in poor condition, while in the 1930's, 36 percent 
+had inadequate vegetation cover.
+Which of the following, if true, most seriously weakens the argument above? 
+In the western United States, private land is typically more lush than public land, and cattle that graze on private land can be fattened more quickly.
+Since the 1930's, recreational users of public land in the western United States have caused more environmental damage than have the cattle grazing there.
+During the 1930's, an unusually destructive drought prevailed throughout the region where most public lands in tile western United States are located.
+Ranchers who use public land in the western United States pay only a fraction of what is paid by those who lease comparable private land for grazing.
+The amount of land purchased by the United States government since the 1930's is relatively insignificant.
+答案：(C) 
+问题：下面哪一个，if true,最削弱上面的论述？ 
+读题：在美国西部的公共土地上放牧并没有造成该地区广泛的环境破坏。因为如果真的有害的话，土地的条件就无法得到改善，而实际上，目前美国西部地区植被不足的土地仅占公共土地的14%而20世纪30年代植被不足的土地占公共土地的36% 
+分析：很显然，原文第一句话是结论：在公共土地上放牧是无害的 第三行since引导原因：如果有害，土地的条件就得不到改善。但是现在土地条件改善了，only 14%的土地不被植被覆盖，而1930's有36%的土地不被植被覆盖。从36%降低到14%得到改善 
+since引导原因，Weaken往往直接反对原因：土地得到改善　　 
+A.美国西部的私人土地比公共土地更加草木鲜美，在私人土地上放牧的牛长得更肥更快 
+B.自从20世纪30年代以来，美国西部公共土地的娱乐开发者们比放牧牛羊造成的环境破坏更大。 
+C.20世纪30年代，一次不寻常的破坏性干旱侵袭了美国西部大多数公共土地所在的地区 
+　（有其它原因来解释20世纪30年代，为什么植被不足占据了36%，由此反对了论据，土地得到了改善） 
+The disease leishmaniasis is normally transmitted to humans only when a sand fly bites an infected rodent and then bites a person.Yet when a new town was planned for an area where both leishmaniasis and sand flies are common, health officials warned that efforts to, reduce the rodent population could do more harm than good.
+Which of the following.if true, best justifies the health officials' warning? 
+There is little chance that infected rodents could transmit eishmaniasis to humans directly.
+Some rodents appear to have symptoms of leishmaniasis even when they are not actually infected.
+Sand flies that do not carry leishmaniasis pose little health risk to humans.
+Leishmaniasis infection is more often serious in rodents than it is in humans.
+Sand flies bite humans only when sufficient numbers of rodents are not available.
+答案：(E) 
+Having sufficient income of her own constituted for 
+Alice_____ independence that made possible a degree 
+of_____ in her emotional life as well.
+a material..security 
+a profound..conformity 
+a financial..economy 
+a psychological..extravagance 
+an unexpected..uncertainty 
+答案：(A) 
+sufficient: a.足够的，充足的 
+extravagance: n.1.奢侈，铺张，浪费 2.过度，无节制 
+拥有一份充裕的属于自己的薪水，这对艾莉丝来说构成了一种物质方面的独立，同时，这也给她的感情生活带来了某种程度上的安全感。 
+Copyright and patent laws attempt to encourage inno- 
+vation by ensuring that inventors are paid for creative, 
+so it would be_______ if expanded protection under these 
+laws discouraged entrepreneurial innovation by increasing 
+fears of lawsuits.
+desirable 
+coincidental 
+ironic 
+natural 
+sensible 
+答案：(C) 
+copyright: n.版权 
+patent: n.专利 
+entrepreneurial: a.企业家的 
+lawsuit: n.(非刑事案件的)诉讼 
+coincidental: a.巧合的，碰巧的，凑巧的 
+sensible: a.1.明智的，合情理的，切合实际的 2.知道的，认识的（of） 3.明显的 4.可觉察的 
+版权与专利法旨在通过确保发明者能以其创作性工作而获得酬报，从而达到鼓励发明创造这一目的，因此，如果这些法律所提供的广泛保护会由于增加人们对诉讼的惧怕从而挫伤企业家的创新精神，这将不无讽刺意味。 
+题三、Unfortunately, since courses in nutrition are often 
+_______ medical school curriculums.a family physician 
+is__________ to be an enlightening source of general 
+information about diet.
+questioned by..encouraged 
+encountered among..unable 
+unappreciated by..expected 
+neglected in..unlikely 
+squeezed into..intended 
+答案：(D) 
+nutrition: n.营养 
+curriculum: n.全部课程 
+enlightening: a.有启迪作用的，使人领悟的 
+diet: n.1.日常饮食，平时营养 2.特种饮食，规定饮食 
+squeeze: v.挤压 
+不幸的是由于营养学教程在医学院课程中常被忽视，因此，家庭医生不太可能提供具有启发意义的关于饮食的一般信息。 
+The success of science is due in great part to its 
+emphasis on ________: the reliance on evidence rather 
+than _______ and the willingness to draw conclusions 
+even when they conflict with traditional beliefs.
+causality..experimentation 
+empiricism..facts 
+objectivity..preconceptions 
+creativity..observation 
+conservatism..assumptions 
+答案：(C) 
+causality: n.1.起因 2.因果关系 
+empiricism: n.经验主义 
+preconception: n.先入之见，成见 
+conservatism: n.1.保守主义，守旧性 2.保守党 
+科学的成功在很大程度上源于它对客观性的强调：亦即依赖证据而非成见，即使与传统信念相悖，也在所不惜，甘愿得出结论。 
+James had idolized the professor so much for so long 
+that even after lunching with her several times he 
+remained quite ______ in her presence, and as a result, 
+he could not really be himself.
+pleased 
+disregarded 
+heartened 
+relaxed 
+inhibited 
+答案：(E) 
+idolize: v.把…当偶像崇拜，极度敬慕 
+be oneself: 1.（人）处于正常状态（指精神、身体等方面） 2.显得自然（或真诚） 
+hearten: v.使振作，鼓励，激励 
+inhibited: a.受抑制的，受束缚的 
+詹姆斯如此长期以来在如此程度上对教授顶礼膜拜，以致于即使在与她几次共进午餐之 
+后，他当着她的面依然倍感拘束，因引，他难以做到真正的泰然自若。 
+However _____ they might be, Roman poets were bound to have some favorite earlier author whom they would _____ 
+subservient..imitate 
+independent ..inspire 
+original..emulate 
+creative..admire 
+talented..neglect 
+答案：(C) 
+be bound to: v.注定要，必然会 
+subservient: a.屈从的，恭顺的，府首贴耳的 
+emulate: v.1.努力赶超，与…竞争 2.仿效，模仿 
+不管罗马诗人们新颖独创到何种地步，他们必定会有一些他们所钟爱的早期作家予以仿效。 
+Human nature and long distances have made exceeding 
+the speed limit a ____ tradition in the state, so 
+the legislators surprised no one when, acceding to public 
+practice, they _____ increased penalties for speeding.
+disquieting..endorsed 
+long-standing..considered 
+controversial..suggested 
+cherished..rejected 
+hallowed..investigated 
+答案：(D) 
+legislator: n.立法者，立法机关成员，议会议员 
+accede to: v.答应，同意 
+penalty: n.处罚，惩罚 
+disquieting: a.使人不安的，使人忧虑的 
+endorse: v.1.签署（姓名），批注（公文等） 2.赞同，支持，认可 
+long-standing: a.（已持续）长时间的，为时甚久的 
+cherish: v.1.珍视，珍爱，爱，爱护，抚育 2.抱有，怀有（希望，感情等） 
+hallowed: a.被尊为神圣的，爱人崇敬的 
+人类本性及路途遥远已经使超速行驶在该州成为一种众所倚重的传统，因此，当立法者们应允这一公众惯例，就超速驾车加重处罚予以否决时，他们一点都没让人觉得惊讶。 
+INSECT: PESTICIDE:: 
+antiseptic: germicide 
+preservative: fungicide 
+plant: herbicide 
+blood: coagulant 
+skin: astringent 
+答案：(C) 
+昆虫:杀虫剂 
+防腐剂，杀菌剂:杀菌剂 
+防腐剂:杀真菌剂 
+植物:除草剂 
+血液:凝结剂 
+皮肤:收缩剂 
+FASCINATION: INTEREST:: 
+laughter: humor 
+adoration: fondness 
+loyalty: admiration 
+innocence: ignorance 
+violence: disaffection 
+答案：(B) 
+迷恋，强烈爱好:兴趣 
+笑声:幽默 
+崇拜，爱慕:喜欢 
+忠诚:崇拜 
+天真(无辜):无知 
+暴力:不满，厌恶 
+MOSAIC: CERAMIC:: 
+sculpture: gallery 
+song: note 
+painting: brush 
+patchwork: cloth 
+scam: stitch 
+答案：(D) 
+马赛克:陶器 
+雕塑:画廊 
+歌曲:音符 
+绘画:画笔 
+补缀品:布料 
+缝儿:针脚:缝线 
+FOOT: PERAMBULATE:: 
+nose: pry 
+archive: accumulate 
+text: cite 
+door: shut 
+eye: observe 
+答案：(E) 
+脚:闲荡，徘徊(巡行) 
+鼻子:刺探(撬) 
+档案:积累 
+课文(讲稿):引证 
+门:关上 
+眼睛:观察 
+AGRARIAN: FARMING:: 
+urban: society 
+mercantile: trade 
+nautical: sailor 
+pastoral: pasture 
+global : region 
+答案：(B) 
+耕地的，农业的:务农 
+城市的:社会 
+贸易的，商业的:贸易 
+航海的，水手的:水手 
+田园的，乡村的:牧场 
+全球的:地区 
+GULLIBLE: CHICANERY:: 
+servile: domination 
+provincial: cosmopolitanism 
+adventurous: timidity 
+hypochondriacal: infection 
+placid: deliberation 
+答案：(A) 
+易受骗上当的:诈骗(狡辩) 
+奴性的:控制，支配 
+地方性的，褊狭的:世界主义 
+冒险的:胆怯 
+忧郁症的，癔想症的:感染 
+平静的:深思熟虑(故意) 
+LIST: DISCOGRAPHY:: 
+payment: receipt 
+blood: corpuscle 
+tool: hoe 
+music: note 
+amphibian: mammal 
+答案：(C) 
+目录:唱片分类目录 
+偿付:收据 
+血液:血球 
+工具:锄头 
+音乐:音符 
+两栖动物:哺乳动物 
+ALLOY: PURITY:: 
+standardize: conformity 
+compute: accuracy 
+variegate: diversity 
+thin: density 
+experiment: superiority 
+答案：(D) 
+搀和(合金n.):纯度 
+使标准化:一致 
+计算:精确性 
+使多样化(使斑驳):多样化 
+使薄，使稀:密度 
+实验:优越性 
+GRAMMAR: LANGUAGE:: 
+pitch: music 
+protocol: conduct 
+stanza: poetry 
+revision : speech 
+oratory: ceremony 
+答案：(B) 
+语法:语言 
+音高:音乐 
+外交礼仪(协议):行为 
+诗节:诗歌 
+校订，修正:发言 
+演讲(术):仪式，典礼 
+　　　It is their sensitive response to human circumstance that accounts for the persistence of certain universal ideas.Rabbi Meir, a second-century 
+(5) scholar, admonished his disciples to look not at the pitcher but at its contents because, he stated, "Many a new pitcher has been found to be full of old wine." This was his way 
+(10) of emphasizing the importance of the distinction between form and idea.and of stressing that the integrity of an idea is more important than the form of its expression.
+(15) Creative ideas not only produce their own instruments of survival as time and circumstances demand,but permit the substitution of new forms for old under the pressure of 
+(20) chanced circumstances.For example democracy, as an idea,originated in ancient, Greece and was carried from there to Western Europe and the Americas.But it did not retain the 
+(25) ancient Greek form: it passed through several reforming processes and exists today in many countries.Democratic governments differ in form because democracy is in principle dynamic 
+(30) and has therefore responded to local needs.
+The author is primarily concerned with 
+illustrating the importance of a 
+historical figure 
+discussing an important characte- 
+ristic of human ideas 
+describing the history of the 
+growth of democracy 
+contrasting ancient and modern 
+views of the importance of creative 
+ideas 
+evaluating the contribution of 
+ancient Greece to modern a government 
+答案：(B) 

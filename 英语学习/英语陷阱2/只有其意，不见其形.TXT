@@ -1,0 +1,28 @@
+只有其意，不见其形
+
+   一篇好的文章不但内容丰富有条理，句子结构紧凑清楚，遣词用字更是恰到好处，引人入胜。即使不能达到这样理想的境界，至少也要思路清晰、文字正确。
+   下面四段出处不同的文字乖离了英语句法标准，必须更正。
+   先看第一段文字：
+   “Fifteen years teaching experienced qualified full time tutor - Available for all levels Chinese subjects.”
+   这段文字虽然措词凌乱，但是并不难理解讲的是什么；真的是“ 只有其意，不见其形”或是“有意无形”。稍微分析一下，不难断定问题所在。
+   ㈠ 构词法不对：fifteen years→fifteen years of /15-year ；all levels→all levels of. ㈡ 名词形式不对：experienced→ experience. ㈢ 标点符号被忽略：full time→full-time.
+   修改后的句子合乎语法，但全句并不自然，要改写如下：
+   A qualified full-time tutor with 15 years of teaching experience is available for all levels of Chinese.
+   再看第二段文字：
+   “All materials are good quality with latest design and guaranteed.”
+   这段话的错误如下：
+   ㈠ 形容词词组不对：good quality→of good quality. ㈡ 定冠词被忽略：with latest design→with the latest design. ㈢被动语态中的接系动词不在场：guaranteed→are guaranteed.
+   修正后的句子既正确又易解，但可以使它从“对”变“好”，如下：
+   All materials are of good quality, with the latest design and under permanent guarantee.
+   这里三个形容词词组，一个接一个，紧紧扣住，符合对句法（ parallelism）中每个成分平衡的原理。
+   最后，看看这段话：
+   “To sell or to market such a high value asset professionally, you should entrust the job to a true professional in order to optimise your property's full potential to secure the highest price and the shortest period of time.”
+   上面三个加线之处，都有语病。
+   ㈠ high value→highly valued/ highly valuable. ㈡ your property's full potential→the full potential of your property. ㈢ and→at。
+   此外，㈡前面有“optimise”（尽量提高）这字，“potential ”里面的“full”便多余了，应该除去。同样的道理，下面这句里的 “widely”和“in more than 100 countries”，也互相抵触，要除去其中一个：
+   “...prepare students for the Royal School of Music Examination which is widely recognised in more than 100 countries.”
+   改正之后，可以是“which is widely recognised”或“which is recognised in more than 100 countries”.
+   此外，这句的形容词分句“which...”是非限定的（ non-restrictive adjective clause），其前面要加逗号，把分句和先行词分开，才符合用法：
+   ...prepare students for the Royal School of Music Examination, which is widely recognised
+   or
+   ...prepare students for the Royal School of Music Examination, which is recognised in more than 100 countries.

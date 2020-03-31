@@ -1,0 +1,64 @@
+英文财经报道的特点
+
+   财经报道的主要功能是传递信息( transaction of information)。及时了解、准确掌握英文财经报道的信息内容，除需具备一定的专业知识外，还应该对这类报道的语言运用规律和特征有所认识。总体而言，英文财经报道从个别字词的选用到全篇内容的陈述都体现了新闻报道贯有的及时、客观、新颖的特点，另外，由于专业上的需求，财经报道在形式和内容两方面又表现出自己独有的特征。下面我们分别从篇章结构、句法形式和遣词造句几个方面介绍英文财经报道的特点及语言运用技巧。
+   遣词造句
+   英文财经报道属于一种专业性的新闻报道，因此，其语言运用的最大特征就是专业名词和专业术语多，而且许多常用词被赋予特殊的含义，例如：long(多头)、 short(空头)、 rally(价格回稳）、call(看涨）、 put(看跌)等等。如果不了解这些词在专业上的含义，就可能无法真正彻底读懂有关的报道和消息。
+   另一方面英文财经报道为了体现新颖、通俗，也经常用一些外来语、俗俚语、口语表达形式以及比较生动、灵活的小词，例如：
+   "President Clinton said he is 'confident' Congress will approve …even as the plan continue to draw heavy fire from Republicans and Democrats on Capitol Hill."（这里的" to draw heavy fire"是俗语，意为“招致猛烈抨击”。）
+   "At the same time, Ortiz threw cold water on the idea advanced by several U.S. lawmakers…"（"throw cold water"意为“泼冷水”，也是通俗的表达方式。） "The weak dollar … has hammered the earnings of the big exporters at the heart of Japan's economy."（ "hammer"原本指“用锤子钉…”，是一个很形象的小词，这里转意为“严重影响”。）
+   "Clinton has vowed to veto the bill on grounds that it is unfair to America's have-nots." （"have-nots"是poor "贫困"的一种婉转表达方式，常用于口语。）
+   "The impasse has forced a partial government shutdown and the furlough of hundreds of thousands of federal workers."（"impasse"（僵局）和 "furlough"（休假）都为法语词汇。）　
+   财经报道用词的另一个突出特点是形容经济数据及市场变动的词通俗、形象，例如，读者经常可以看到这样的市场收市情况描述：…“end high高价收盘 /low低价收盘/down收市价格下跌/steady收市价格持稳/firm收市价位稳定/soft收市价位偏弱/quite交易不活跃/mixed价格走势不明朗”。此外，形容价格走势的动词十分丰富，下面是一些报道中常见的表示“上升”和“下降”的动词：
+
+表示“上升”的动词
+rise 上升
+jump 跳升
+skyrocket 爆涨
+surge 急涨
+soar 剧增
+climb 攀升
+spurt 突升
+advance 上涨
+inch up 缓升
+notch up 升高
+fly 飞升
+rebound 反弹
+gain 增长
+
+表示“下降”的动词
+fall 下降
+drop 下落
+dump 狂泻
+plunge 猛跌
+retreat 回落
+dive 下跌
+tumble 急落
+decline 下降
+slip 下滑
+shed 跌落
+dip下降
+roll back 回落
+lose 降低
+   综上所述，英文财经报道一方面体现了新闻报道的时效性、客观性，另一方面又具有很强的专业性，其语言运用有一定的特点和规律，熟悉了解这些语言特征有助于读者更及时、更有效地获取有关的财经信息。
+   为了突出新闻报道的及时性和全面性，记者需要在尽快短的时间内发出尽量多的消息。因此，由于没有太多的时间进行语言上的推敲，所以英文财经报道中的句子偏长，结构比较松散，插入成分也通常比较多。例如：“…World Bank Managing Director Richard Frank said in a statement that the $52 billion international rescue package assembled by the Clinton administration--which includes $17 billion from the International Monetary Fund--would meet Mexico’s short-term financial crisis, which blew up after the government devalued the peso in December.”（…世界银行行长理查德·弗兰克在一项声明中说，由美国克林顿政府组织筹集的520亿美元的国际援助贷款，其中包括国际货币基金组织提供的170亿美元贷款，将用于解决墨西哥目前面临的短期金融危机；这次危机是由于墨西哥政府在12月将墨西哥比索贬值后而引发的。），这一句子中有同位语、插入语及定语从句，这些成分都是为了补充说明相关的情况和消息。
+   其次，由于发稿时间紧迫，临时插入的从句省略了连接词，显得与主句的关系不够紧凑。有口语化的特点。例如：“The time for release of the statistics, normally in the afternoon, was moved up to 8:50 a.m.., ministry officials said, to allow Japanese markets to react first to the numbers, as is the practice in most industrialized countries.”(Bloomberg Sep. 18.1995日本官员说，原本在下午公布的经济数据将提前到上午8:50公布，是为了让日本国内市场首先对这些数据作出反应，这也是许多工业化国家采取的惯例。），这句话中的定语从句“normally in the afternoon”=“which is normally in the afternoon”,同位语“as is the practice in most industrialized countries”=as that it is the practice in most industrialized countries”,连接词的省略使得句子更倾向于口语的表达方式。　
+   另外，财经报道经常涉及各类经济数据、市场价格及其它有关的统计数字，这些数据之间的比较或参照是财经报道的重要组成部分。因此，比较结构在英文财经报道的句型中占有很大的比例。例如：
+   以less/higher/lower/narrower/smaller等连接的不对等比较：
+   That was smaller than the $5.6 billion surplus economists had predicted.（比经济人士预测的56亿美元逆差少。）
+   March Cotton closed 0.46 cent lower at 85.30 cent.（三月份棉花期货收市下降0.46美分，报85.30美分。）　
+   以highest/record high/lowest等连接的最高级比较：
+   The Bundesbank cut its discount rate 3.5%, the lowest level in seven years.（德意志联邦银行将利率下调到七年来最低的3.5%。）
+   The number of workers in the United States applying for state unemployment benefits rose to the record high level in more than a month.（美国申请失业救济金的工人人数一个多月来上升到历史最高点。）
+   以against/opposite/compare/contrast等连接的数据对比：
+   Export surplus was 72.54 billion francs, compared with 47.71 billion francs in the same period a year earlier.（与去年同期477.1亿法朗相比，出口顺差为725.4亿法朗。）
+   The December T-bond futures ended today at 117-13/32 in Tokyo market against its previous closing of 117-11/32.（东京市场十二月份国债期货合约今天收盘报117-13/32，而昨天收盘报117-11/32。）
+   与普通新闻报道的结构一样，英文财经报道也通常由三部分组成，即标题(Headline)、导语(Lead)和正文(Body)。
+   标题以一种类似电报体(telegraphic)的语言形式，十分简洁地告诉读者所发生的主要事件及有关消息。首先，在句子中起语法限定作用的连接词、冠词、介词、代词等在标题中通常被省略。如：“E.U. Summit: Leaders Downplay, But Can’t Banish, EMU Strife ” ( 欧联盟高峰会：首脑们有意回避却无法消除欧洲货币联盟争执)，这一标题的完整表达形式应该是： “At the E.U. Summit the Leaders Downplay But They Cannot Banish the EMU Strife” ，其中划线部分的单词是一些起限定作用的虚词。
+   正文则进一步阐述、说明事件发生的来胧去脉，并提供一些必要的背景材料或知识。为达到客观真实的效果，英文财经报道的正文中往往采用大量的引述。因此，一篇报道中源引政府官员、市场人士、分析评论专家的话层出不穷。引述可以是一段完整的话，或者一句话中的一部分，甚至是原话中一、两个词。例如下面这则报道中划线的部分均为直接引述：
+   Clinton-Budget Debate Will Now Begin “in earnest”
+   Washington, Nov. 19 (Reuter) -- President Bill Clinton said on Sunday that a deal between Congress and the White House to get federal workers back on the job was a "good thing" and will let the debate over how to balance the federal budget begin in earnest.
+   "Tomorrow the government will go back to work and now the debate will begin in earnest on how to balance the budget in a way that is consistent with the interests and the values of the American people," Clinton told reporters at the White House shortly after the deal was announced on Capitol Hill.
+   Clinton reminded reporters he had expressed "strong doubts" that the seven-year timetable for balancing the budget could be realized. But he said he and congressional Republicans, who are demanding that timetable, had agreed to work "to see if we can reach common ground."
+   "Tonight represents the first sign of their willingness to move forward without forcing unacceptable cuts in health care, education and the environment on the American people," he said.
+   Asked about winners and losers in the power struggle that partially shut down the federal government for six days, Clinton said the real winners were the American people and the 800,000 federal workers who were to return to their jobs on Monday.
+   除了以上这种直接引述外，英文财经报道的正文中还有更多的间接引述。这类引述通常以一些常用的表达法引导，如：“say”(说), “express”(表示), “tell”(告诉), “according to…”(根据…)等等。所有这些引述都旨在体现报道的客观性和真实性。

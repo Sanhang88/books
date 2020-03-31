@@ -1,0 +1,30 @@
+代名词的错误
+
+   “Everything on our menu is prepared fresh daily and they are delivered to you from our kitchen outlet along Jurong.”
+   从信箱里的一张小食店广告信息中发现上述句子中一个常见的语法错误。你是否也观察出来呢？
+   这错误在第二等立分句的主语上：they。
+   大家知道，they 是句中的代名词（pronoun）。在这里，它是代替第一等立分句中的主语 everything。Everything 是个单数代名词；they 是复数的，两个怎么可以相通呢？
+   在语法上，代名词在取代名词或当名词的词时，必须在人称（ person）、数目（number）、性别（gender）和格（case）这几方面相称才行。例如：
+① The man plucked out a grey hair from his head.
+② They need funds, but they are running out of them now.
+③ Jason said that he did not like the woman.
+④ A person must restrict himself to doing what is right and useful.
+   如果脑子里没有这些语法概念，便会犯上误用代名词的错误。本文上面所指的 they 便是最好的例子。
+   除了 everything 之外，anything, nothing, everyone, someone, no one, somebody, nobody, anybody, anyone 和 each 等代名词也都是单数的。如果要用其他代名词取代它们，也必须是单数的才可以，而且后面的谓语动词也要搭配。就此而论，文中的 they 是不对的，必须改为单数代名词 it；同时后头的谓语动词也要变成单数的 is。这样一来，两个等立分句就很相称了。
+   同样的道理，刚刚举出的那些代名词应该这样用：
+⑤ Nothing is difficult if it is properly done.
+⑥ Nobody here has objected to the new proposal.
+⑦ Each was annoyed by her strange idea.
+⑧ Somebody wants to see you.
+⑨ No one really knows the answer.
+   除了单数代名词，英文中也有复数代名词“many, both, several, few”等；其用法和复数名词一样，跟着的也是复数动词，如：
+⑩ Many were absent yesterday.
+11. Few are welcome here.
+   此外，有些代名词，如“some, all, none, any”等，既可当单数，也可当复数，一切视上下文而定。例如：
+12 a. Please look at the old office equipment. Some is to be replaced.
+   b. Some of them have agreed to come.
+13 a. All is well that ends well.
+   b. There are twenty in the bus. All have arrived on time.
+14 a. None of the news was good.
+   b. None of her friends phone her now.
+   在英文词类中，代名词是简单容易的一种，但是也好像容易犯错；希望大家不要掉以轻心，以免犯下同样的错误。

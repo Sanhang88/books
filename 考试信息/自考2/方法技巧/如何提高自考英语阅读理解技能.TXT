@@ -1,0 +1,35 @@
+如何提高自考英语阅读理解技能
+阅读理解技能，大致可分为三种类型：
+一、确定中心思想（大意）型
+    此类题主要测试考生总结和归纳文章大意的能力。这种题型 往往用下列句型进行测试：The main idea of this passage is ______;The passage is mainly about ______; Which of the following titles best sum up the idea of the passage/paragraph?等等。这种题目的答案往往在主题句中。演绎型主题句多位于段落开头，归纳型主题句一般在段落结尾。少数主题句也可在段落中间。若从主题句中找不到答案，则要经过反复阅读，归纳总结出来。
+二、辩认重要事实型
+    这类题目大都可在短文中直观地找到答案。其测试方式主要有：用“How many…”“Which of the following…”“How long…”等为开头的试题，要求找出相关的时间、地点、人物、数字等；用“Which of the following statements is(not) true/mentioned/the cause?”提出问题的试题，要求判断试题中的备选答案是否符合短文中的有关事实。
+三、判断、推理、概括型
+    这类试题可分为三种情况：一是试题所提供的信息在短文中可直观找到，顺此往下读，可以找到与备选答案中的某一答案意思相近的叙述。二是试题所提供的信息是短文中的某些词语或句子改写的，不能直观地找到。备选答案也往往是从不同角度改写的，带有干扰性，这样，首先要在文中找到试题信息，顺此略读一下。再回过头来理解备选答案，把备选答案与文中有关信息分别比较，通过排除不合理的或与文中有关文字不相符的备选答案，来获取正确答案。三是试题没有提供可供联系的信息，只要求回答问题或解释原因。这种试题应在对备选答案加以理解后，通过排除不合理答案使目标变小，再经判断、推理、对比等方法，找到正确答案。我们不妨以一篇阅读理解文章为例，看一看以上三种类型技能的实际应用。
+    Wood carving began as a necessity in America and developed into an art. Because of the lack of other materials, early settlers were forced to make tools and utensils out of wood. At first, these articles were whittled with a knife, but when pioneer craftsmen set up their primitive shops most of them were fashioned on a lathe -- a machine which holds an object and rotates it while it is being shaped by a tool.
+    However, even after Massachusetts -- born Thomas Blancard designed a lathe which could turn irregular shapes -- an innovation that made possible mass production of gunstocks, shoe lasts, oblong and square wooden wares -- craftsmen who could use knife and chisel skillfully were still in demand. Some found ready employment in shops of cabinetmakers, while others, carved decoy. Still others specialized in creating shop signs, ship figureheads, or in decorating interior woodwork. A few even accepted commissions to make busts of prominent citizens.
+(1) This passage most likely came from a longer work about early American
+A. arts and crafts.
+B. political leaders.
+C. logging industries.
+D. fashion design.
+分析：此题属确定中心思想型。整个语篇讲述的是美洲木刻工艺的发展。第一句话作为主题句总领全文，因此只有备选答案A符合文义。
+（2）According to the passage, the first settlers used wood for their utensils and tools because it was______
+A. durable.
+B. inexpensive.
+C. available.
+D. attractive.
+分析：此题为判断、推理、概括型。在第一段可直观地找到信息“Because of the lack of other materials, early settlers were forced to make tools and utensils out of wood.”由此可推断出与备选取答案C相符的含义。
+（3）The passage suggests that the early shops for making tools were.
+A. not very sophisticated.
+B. known for doing very quick work.
+C. dependent on imported materials.
+D. frequented only by fashionable people.
+分析：此题仍为判断、推理、概括型。问题中的关键词是“the early shops”,，由此可以在第一段第三句中找到有关信息“…when pioneer craftsmen set up their primitive shops…”。顺此往下读，至该段结尾，可知其文义与备选答案A相符。注意，本文中“primitive”与“early”同义。
+（4）Which of the following objects was an important woodworking tool used by early American craftsmen?
+A. A bust
+B. A decoy
+C. A figurehead
+D. A chisel
+分析：此题为辨认重要事实型。在第二段第四句中，可以找到与备选答案D相符的信息。
+总之，学生在阅读训练中，不能为做题而做题，而是要在做题过程中总结解题规律和技巧，这样才能迅速提高阅读技能。同时还应注意，阅读技能的发展是与各种背景知识、基础知识相辅相成的，只有不断扩大知识面，增加词汇量，掌握阅读技巧，才能实现阅读能力的真正飞跃。
